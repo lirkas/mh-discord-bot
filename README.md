@@ -1,4 +1,4 @@
-# MH DISCORD BOT
+# MH Discord Bot
 
 Requires:
 - python 3
