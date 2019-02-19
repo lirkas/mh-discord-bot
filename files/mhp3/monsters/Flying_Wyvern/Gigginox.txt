@@ -1,0 +1,97 @@
+☆ Gigginox 1-2 Star Guild P3
+1. Body Carves (x3)
+-  Poison Sac 35%
+-  Gigginox Hide 30%
+-  Pale Extract 30%
+-  Uncanny Hide 5%
+2. Break Head
+-  Pale Extract 55%
+-  Gigginox Hide 35%
+-  Uncanny Hide 10%
+3. Break Body
+-  Pale Extract 55%
+-  Gigginox Hide 35%
+-  Uncanny Hide 10%
+4. Break Tail
+-  Poison Sac 45%
+-  Gigginox Hide 35%
+-  Uncanny Hide 20%
+5. Shiny Drop
+-  Wyvern Tears 75%
+-  Pale Extract 25%
+6. Capture Rewards
+-  Pale Extract 35%
+-  Monster Bone M 35%
+-  Poison Sac 20%
+-  Uncanny Hide 10%
+☆ Gigginox Village/Low Rank Guild
+1. Body Carves (x3)
+-  Gigginox Hide 38%
+-  Pale Extract 21%
+-  Gigginox Claw 20%
+-  Venom Gland 12%
+-  Uncanny Hide 9%
+2. Break Head
+-  Gigginox Hide 41%
+-  Pale Extract 32%
+-  Fearsome Maw 15%
+-  Uncanny Hide 12%
+3. Break Body
+-  Gigginox Hide 40%
+-  Venom Gland 25%
+-  Pale Extract 23%
+-  Uncanny Hide 12%
+4. Break Tail
+-  Gigginox Hide 40%
+-  Uncanny Hide 36%
+-  Venom Gland 24%
+5. Shiny Drop
+-  Wyvern Tears 75%
+-  Pale Extract 20%
+-  Fearsome Maw 5%
+6. Capture Rewards
+-  Venom Gland 27%
+-  Gigginox Claw 24%
+-  Uncanny Hide 17%
+-  Pale Extract 16%
+-  Poison Sac x2 8%
+-  Fearsome Maw 8%
+☆ Gigginox High Rank P3
+1. Body Carves (x3)
+-  Gigginox Hide+ 38%
+-  Gigginox Claw+ 20%
+-  Pale Extract 15%
+-  Grim Venom Gland 10%
+-  Fearsome Maw 10%
+-  Uncanny Hide+ 7%
+2. Break Head
+-  Gigginox Hide+ 38%
+-  Pale Extract x2 20%
+-  Fearsome Maw 20%
+-  Uncanny Hide+ 12%
+-  Gigginox Hide x2 10%
+3. Break Body
+-  Gigginox Hide+ 38%
+-  Grim Venom Gland 22%
+-  Venom Gland x2 14%
+-  Pale Extract x2 14%
+-  Uncanny Hide+ 12%
+4. Break Tail
+-  Gigginox Hide+ 38%
+-  Grim Venom Gland 28%
+-  Uncanny Hide+ 22%
+-  Uncanny Hide x2 8%
+-  Wyvern Stone 4%
+5. Shiny Drop
+-  Wyvern Tears 38%
+-  Large Wyvern Tears 37%
+-  Pale Extract 17%
+-  Fearsome Maw 8%
+6. Capture Rewards
+-  Grim Venom Gland 27%
+-  Gigginox Claw+ 24%
+-  Uncanny Hide+ 17%
+-  Pale Extract x2 11%
+-  Gigginox Claw x2 10%
+-  Venom Gland x2 8%
+-  Wyvern Stone 3%

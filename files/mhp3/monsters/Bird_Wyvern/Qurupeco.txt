@@ -1,0 +1,76 @@
+☆ Qurupeco 1-2 Star Guild P3
+1. Body Carves (x3)
+-  Qurupeco Scale 38%
+-  Qurupeco Feather 27%
+-  Monster Bone M 25%
+-  Monster Bone S 10%
+2. Break Beak
+-  Qurupeco Scale x2 60%
+-  Screamer 40%
+3. Break Flints
+-  Flintstone 35%
+-  Monster Bone S 35%
+-  Qurupeco Feather 30%
+4. Shiny Drop
+-  Wyvern Tears 75%
+-  Qurupeco Scale 25%
+5. Capture Rewards
+-  Screamer 35%
+-  Monster Bone M 28%
+-  Qurupeco Feather 25%
+-  Flintstone 12%
+☆ Qurupeco Village/Low Rank P3
+1. Body Carves (x3)
+-  Qurupeco Scale 45%
+-  Qurupeco Feather 32%
+-  Monster Bone M 12%
+-  Vivid Feather 9%
+-  Strange Beak 2%
+2. Break Beak
+-  Strange Beak 75%
+-  Screamer x2 25%
+3. Break Flints
+-  Flintstone 50%
+-  Qurupeco Feather 40%
+-  Vivid Feather 10%
+4. Shiny Drop
+-  Wyvern Tears 75%
+-  Qurupeco Scale 18%
+-  Vivid Feather 7%
+5. Capture Rewards
+-  Qurupeco Feather 28%
+-  Screamer x2 25%
+-  Flintstone 20%		
+-  Vivid Feather 12%
+-  Monster Bone M x2 10%
+-  Strange Beak 5%
+☆ Qurupeco High Rank P3
+1. Body Carves (x3)
+-  Qurupeco Scale+ 40%
+-  Qurupeco Wing 32%
+-  Vivid Feather 16%
+-  Monster Bone+ 10%
+-  Wonderful Beak 2%
+2. Break Beak
+-  Wonderful Beak 55%
+-  Screamer x2 25%
+-  Strange Beak 20%
+3. Break Flints
+-  Qurupeco Wing 43%
+-  Flintstone 30%
+-  Vivid Feather 19%
+-  Flintstone x2 5%
+-  Wyvern Stone 3%
+4. Shiny Drop
+-  Wyvern Tears 38%
+-  Large Wyvern Tears 37%
+-  Qurupeco Scale+ 15%
+-  Vivid Feather 10%
+5. Capture Rewards
+-  Qurupeco Wing 24%
+-  Flintstone 20%
+-  Screamer x2 20%
+-  Vivid Feather 15%
+-  Qurupeco Scale+ x2 10%
+-  Wonderful Beak 9%
+-  Wyvern Stone 2%

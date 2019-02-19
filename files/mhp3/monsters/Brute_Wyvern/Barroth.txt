@@ -1,0 +1,81 @@
+☆ Barroth 1-2 Star Guild P3
+1. Body Carves (x3)
+-  Barroth Shell 40%
+-  Barroth Ridge 25%
+-  Monster Bone L 20%
+-  Fertile Mud 15%
+2. Tail Carves (x1)
+-  Barroth Shell 60%
+-  Barroth Ridge 40%
+3. Head Carves (x1)
+-  Barroth Ridge 60%
+-  Barroth Shell 40%
+4. Break Claws
+-  Barroth Shell 100%
+5. Shiny Drop
+-  Wyvern Tears 70%
+-  Fertile Mud 25%
+-  Barroth Ridge 5%
+6. Capture Rewards
+-  Monster Bone L 46%
+-  Barroth Ridge 28%
+-  Fertile Mud 20%
+-  Barroth Shell 6%
+☆ Barroth Village/Low Rank Guild P3
+1. Body Carves (x3)
+-  Barroth Shell 46%
+-  Barroth Ridge 29%
+-  Barroth Scalp 15%
+-  Barroth Claw 10%
+2. Tail Carves (x1)
+-  Barroth Tail 70%
+-  Barroth Ridge 30%
+3. Head Carves (x1)
+-  Barroth Scalp 80%
+-  Barroth Ridge 20%
+4. Break Claws
+-  Barroth Claw 65%
+-  Barroth Shell 35%
+5. Shiny Drop
+-  Wyvern Tears 75%
+-  Fertile Mud 20%
+-  Barroth Ridge 5%
+6. Capture Rewards
+-  Barroth Scalp 33%
+-  Barroth Ridge 27%
+-  Barroth Tail 25%
+-  Fertile Mud x2 10%
+-  Barroth Shell 5%
+☆ Barroth High Rank Guild P3
+1. Body Carves (x3)
+-  Barroth Carapace 44%
+-  Barroth Ridge+ 28%
+-  Barroth Claw+ 18%
+-  Barroth Scalp 10%
+2. Tail Carves (x1)
+-  Barroth Tail 55%
+-  Barroth Ridge+ 32%
+-  Barroth Ridge 10%
+-  Wyvern Stone 3%
+3. Head Carves (x1)
+-  Barroth Scalp 58%
+-  Barroth Ridge+ 34%
+-  Barroth Ridge 5%
+-  Wyvern Stone 3%
+4. Break Claws
+-  Barroth Claw+ 62%
+-  Barroth Carapace 23%
+-  Barroth Claw x2 15%
+5. Shiny Drop
+-  Wyvern Tears 38%
+-  Large Wyvern Tears 37%
+-  Fertile Mud 15%
+-  Barroth Ridge+ 10%
+6. Capture Rewards
+-  Barroth Scalp 28%
+-  Barroth Ridge+ 25%
+-  Barroth Tail 24%
+-  Fertile Mud x4 10%
+-  Barroth Ridge 5%
+-  Barroth Carapace 5%
+-  Wyvern Stone 3%

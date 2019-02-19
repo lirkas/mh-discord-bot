@@ -1,0 +1,21 @@
+☆ Felyne 1-2 Star Guild P3
+1. Shiny Drops [Hit with Felvine Bomb/Defeat]
+-  Round Acorn 65%
+-  First-aid Med 30%
+-  Fire Herb 5%
+
+☆ Felyne Low Rank P3
+1. Shiny Drops [Hit with Felvine Bomb/Defeat]
+-  Round Acorn 50%
+-  First-aid Med 32%
+-  Ez Flash Bomb 8%
+-  Pawprint Stamp 5%
+-  Fire Herb 5%
+
+☆ Felyne High Rank P3
+1. Shiny Drops [Hit with Felvine Bomb/Defeat]
+-  Round Acorn 50%
+-  First-aid Med 32%
+-  Ez Flash Bomb 8%
+-  Pawprint Stamp 8%
+-  Fire Herb 2%

@@ -1,0 +1,69 @@
+☆ Nargacuga Village/Low Rank P3
+1. Body Carves (x3)
+-  Nargaguca Scale 45%
+-  Nargacuga Pelt 25%
+-  Nargacuga Fang 15%
+-  Nargacuga Razor 10%
+-  Nargacuga Tail 5%
+2. Tail Carves (x1)
+-  Nargacuga Tail 82%
+-  Nargacuga Tail Spike 10%
+-  Nargacuga Marrow 8%
+3. Break Head
+-  Nargacuga Fang x2 70%
+-  Nargacuga Scale x2 30%
+4. Break Wings
+-  Nargacuga Razor x2 60%
+-  Nargacuga Razor 25%
+-  Nargacuga Pelt x2 15%
+5. Break Tail
+-  Nargacuga Tail Spike x2 75%
+-  Nargacuga Pelt 17%
+-  Nargacuga Marrow 8%
+6. Shiny Drop
+-  Wyvern Tears 75%
+-  Nargacuga Scale 25%
+7. Capture Rewards
+-  Nargacuga Pelt 40%
+-  Nargacuga Fang 23%
+-  Nargacuga Scale 18%
+-  Nargacuga Tail 15%
+-  Nargacuga Marrow 5%
+☆ Nargacuga High Rank Guild
+1. Body Carves (x3)
+-  Nargacuga Scale+ 40%
+-  Nargacuga Pelt+ 28%
+-  Nargacuga Fang+ 12%
+-  Nargacuga Scale 10%
+-  Nargacuga Razor+ 8%
+-  Nargacuga Medulla 2%
+2. Tail Carves (x1)
+-  Nargacuga Tail 72%
+-  Nargacuga Tail Spike 10%
+-  Nargacuga Marrow 10%
+3. Break Head
+-  Nargacuga Fang+ x2 65%
+-  Nargacuga Scale+ x2 20%
+-  Nargacuga Medulla 8%
+-  Nargacuga Fang x4 7%
+4. Break Wings
+-  Nargacuga Razor+ x2 60%
+-  Nargacuga Razor+ 20%
+-  Nargacuga Pelt+ 12%
+-  Nargacuga Razor x3 8%
+5. Break Tail
+-  Nargacuga Tail Spike x2 65%
+-  Nargacuga Pelt+ x2 17%
+-  Nargacuga Marrow 10%
+-  Nargacuga Medulla 8%
+6. Shiny Drop
+-  Wyvern Tears 38%
+-  Large Wyvern Tears 37%
+-  Nargacuga Scale+ 25%
+7. Capture Rewards
+-  Nargacuga Pelt+ 35%
+-  Nargacuga Fang+ 21%
+-  Nargacuga Scale+ 18%
+-  Nargacuga Tail 12%
+-  Nargacuga Pelt x2 10%
+-  Nargacuga Medulla 4%

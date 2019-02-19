@@ -1,0 +1,63 @@
+☆ Jhen Mohran Village/Low Rank P3
+1. Body Carves (x8 - Head and Body)
+-  Mohran Shell 52%
+-  Mohran Scale 30%
+-  Sturdy Fang 15%
+-  Earth Dragongem 3%
+2. Mouth Carves (x2 - During Final Showdown)
+-  Mohran Scale 49%
+-  Monster Guts 35%
+-  Big Fin 15%
+-  Earth Dragongem 1%
+3. Mining Spots (x2 - 4 Spots)
+-  Pelagicite Ore 75%
+-  Mohran Scale 15%
+-  Mohran Shell 10%
+4. Break Tusks
+-  Sturdy Fang 83%
+-  Sturdy Fang x2 15%
+-  Earth Dragongem 2%
+5. Break Braces
+-  Mohran Brace 65%
+-  Mohran Brace x2 15%
+-  Mohran Shell 15%
+-  ElderDragonBlood x2 5%
+6. Break Cracks
+-  Mohran Shell 49%
+-  Mohran Scale 25%
+-  Pelagicite Ore 16%
+-  ElderDragonBlood 10%
+☆ Jhen Mohran High Rank P3
+1. Body Carves (x8 - Head and Body)
+-  Mohran Carapace 46%
+-  Mohran Scale+ 28%
+-  Sturdy Fang+ 12%
+-  Mohran Scale 10%
+-  Earth Dragongem 4%
+2. Mouth Carves (x2 - During Final Showdown)
+-  Mohran Scale+ 39%
+-  Quality Fin 27%
+-  Monster Guts 23%
+-  Mohran Scale 10%
+-  Earth Dragongem 1%
+3. Mining Spots (x2 - 4 Spots)
+-  Bathycite Ore 40%
+-  Pelagicite Ore 26%
+-  Mohran Scale 20%
+-  Mohran Shell 14%
+4. Break Tusks
+-  Sturdy Fang+ 70%
+-  Sturdy Fang x2 14%
+-  Sturdy Fang+ x2 12%
+-  Earth Dragongem 4%
+5. Break Braces
+-  Mohran Brace+ 65%
+-  Mohran Scale+ 15%
+-  Mohran Brace x2 10%
+-  ElderDragonBlood x2 10%
+6. Break Cracks
+-  Mohran Carapace 43%
+-  Mohran Scale+ 20%
+-  ElderDragonBlood 15%
+-  Bathycite Ore 14%
+-  Mohran Shell 8%

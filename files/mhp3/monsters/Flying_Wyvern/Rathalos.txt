@@ -1,0 +1,67 @@
+☆ Rathalos Village/Low Rank Guild
+1. Body Carves (x3)
+-  Rathalos Scale 40%
+-  Rathalos Shell 28%
+-  Rathalos Webbing 19%
+-  Flame Sac 8%
+-  Rath Marrow 5%
+2. Tail Carves (x1)
+-  Rathalos Tail 60%
+-  Rathalos Scale 20%
+-  Rath Marrow 17%
+-  Rathalos Plate 3%
+3. Break Head
+-  Rathalos Scale 66%
+-  Rathalos Shell 30%
+-  Rathalos Plate 4%
+4. Break Wings
+-  Rath Talon 70%
+-  Wyvern Claw x4 15%
+-  Rathalos Webbing 15%
+5. Shiny Drop
+-  Wyvern Tears 74%
+-  Rathalos Scale 24%
+-  Rathalos Plate 2%
+6. Capture Rewards
+-  Rathalos Shell 42%
+-  Rathalos Webbing 29%
+-  Rathalos Tail 9%
+-  Rathalos Plate 2%
+☆ Rathalos High Rank Guild
+1. Body Carves (x3)
+-  Rathalos Scale+ 38%
+-  Rathalos Carapace 29%
+-  Inferno Sac 15%
+-  Rathalos Webbing 13%
+-  Rath Medulla 5%
+2. Tail Carves (x1)
+-  Rathalos Tail 48%
+-  Rathalos Scale+ 22%
+-  Rath Medulla 10%
+-  Rathalos Plate 10%
+-  Rathalos Scale 7%
+-  Rathalos Ruby 3%
+3. Break Head
+-  Rathalos Scale+ 57%
+-  Rathalos Carapace 25%
+-  Rathalos Shell x2 8%
+-  Rathalos Plate 6%
+-  Rathalos Ruby 4%
+4. Break Wings
+-  Rath Talon x2 60%
+-  Wyvern Claw x5 15%
+-  Rathalos Scale+ 15%
+-  Rathalos Webbing x2 10%
+5. Shiny Drop
+-  Wyvern Tears 38%
+-  Large Wyvern Tears 37%
+-  Rathalos Scale+ 23%
+-  Rathalos Ruby 2%
+6. Capture Rewards
+-  Rathalos Carapace 38%
+-  Rathalos Webbing x2 18%
+-  Rath Marrow 16%
+-  Rathalos Tail 12%
+-  Rath Medulla 8%
+-  Rathalos Plate 5%
+-  Rathalos Ruby 3%

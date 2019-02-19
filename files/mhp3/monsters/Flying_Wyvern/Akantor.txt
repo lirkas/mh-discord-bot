@@ -1,0 +1,32 @@
+☆ Akantor High Rank Guild P3
+1. Body Carves x4
+-  Akantor Scale 38%
+-  Akantor Shell 35%
+-  Akantor Claw 10%
+-  Firecell Stone 10%
+-  Alantor Fang 5%
+-  Akantor Jewel 2%
+2. Tail Carves x2
+-  Akantor Tail 80%
+-  Akantor Scale 20%
+3. Break Fangs
+-  Akantor Fang 78%
+-  Akantor Scale 18%
+-  Akantor Jewel 4%
+4. Break Claws
+-  Akantor Claw 80%
+-  Akantor Claw x2 10%
+-  Akantor Shell 10%
+5. Break Stomach
+-  Akantor Scale 56%
+-  Akantor Shell 28%
+-  Firecell Stone x2 10%
+-  Akantor Jewel 6%
+6. Break Back Spikes
+-  Akantor Spike 80%
+-  Akantor Shell 20%
+7. Shiny Drop
+-  Large Wyvern Tears 75%
+-  Akantor Shell 12%
+-  Firecell Stone 8%
+-  Akantor Spike 5%

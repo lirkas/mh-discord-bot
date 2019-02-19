@@ -1,0 +1,27 @@
+☆ Brute Tigrex High Rank Guild P3
+1. Body Carves (x3)
+-  Brute Tigrex Scale 38%
+-  Brute Tigrex Claw 30%
+-  Brute Tigrex Shell 27%
+-  Tigrex Jaw 5%
+2. Tail Carves (x1)
+-  Tigrex Tail 60%
+-  Brute Tigrex Scale 40%
+3. Break Head
+-  Brute Tigrex Fang 52%
+-  Tigrex Scalp 20%
+-  Brute Tigrex Shell 20%
+-  Tigrex Jaw 8%
+4. Break Claws
+-  Brute Tigrex Claw 100%
+5. Shiny Drop
+-  Wyvern Tears 38%
+-  Large Wyvern Tears 37%
+-  Brute Tigrex Scale 20%
+-  Brute Tigrex Claw 5%
+6. Capture Rewards
+-  Brute Tigrex Shell 38%
+-  Brute Tigrex Fang 27%
+-  Brute Tigrex Scale 20%
+-  Tigrex Tail 10%
+-  Tigrex Jaw 5%

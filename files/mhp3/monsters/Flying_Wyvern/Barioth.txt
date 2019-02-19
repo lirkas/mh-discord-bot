@@ -1,0 +1,64 @@
+☆ Barioth Village/Low Rank P3
+1. Body Carves (x3)
+-  Barioth Shell 43%
+-  Frost Sac 28%
+-  Barioth Pelt 19%
+-  Amber Tusks 10%
+2. Tail Carves (x1)
+-  Barioth Tail 60%
+-  Barioth Shell 24%
+-  Barioth Spike 16%
+3. Break Tusks
+-  Amber Tusks 55%
+-  Barioth Shell 25%
+-  Frost Sac 20%
+4. Break Wings
+-  Barioth Claw 78%
+-  Barioth Spike 12%
+-  Barioth Pelt 10%
+5. Shiny Drop
+-  Wyvern Tears 75%
+-  Barioth Spike 15%
+-  Frost Sac 10%
+6. Capture Rewards
+-  Barioth Pelt 27%
+-  Barioth Spike 20%
+-  Frost Sac 20%
+-  Amber Tusks 18%
+-  Barioth Claw 15% 
+☆ Barioth High Rank P3
+1. Body Carves (x3)
+-  Barioth Carapace 35%
+-  Freezer Sac 25%
+-  Barioth Pelt+ 18%
+-  Amber Tusks+ 12%
+-  Barioth Pelt 10%
+2. Tail Carves (x1)
+-  Barioth Tail 44%
+-  Barioth Carapace 30%
+-  Barioth Spike 12%
+-  Barioth Shell 10%
+-  Wyvern Stone 4%
+3. Break Tusks
+-  Amber Tusks+ 50%
+-  Barioth Carapace 25%
+-  Freezer Sac 15%
+-  Amber Tusks x2 10%
+4. Break Wings
+-  Barioth Claw+ 74%
+-  Barioth Pelt+ 10%
+-  Barioth Claw 8%
+-  Barioth Spike 8% 
+5. Shiny Drop
+-  Wyvern Tears 38%
+-  Large Wyvern Tears 37%
+-  Freezer Sac 20%
+-  Barioth Spike 5%
+6. Capture Rewards
+-  Barioth Pelt+ 26%
+-  Freezer Sac 20%
+-  Amber Tusks+ 16%
+-  Barioth Claw+ 14%
+-  Barioth Spike x2 12%
+-  Frost Sac 8%
+-  Wyvern Stone 4%

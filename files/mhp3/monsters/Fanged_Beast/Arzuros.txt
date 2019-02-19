@@ -1,0 +1,69 @@
+☆ Arzuros 1-2 Star Guild P3
+1. Body Carves x3
+-  Arzuros Pelt 55%
+-  Bone 20%
+-  Sparpened Fang 13%
+-  Arzuros Shell 12%
+2. Break Forelegs
+-  Arzuros Pelt 70%
+-  Bone x2 30%
+3. Shiny Drop
+-  Beast Tears 75%
+-  Bone 15%
+-  Arzuros Pelt 10%
+4. Shiny Drop (Honey)
+-  Honey 100%
+5. Shiny Drop (Fish)
+-  Sushifish 90%
+-  Goldenfish 10%
+6. Capture Reward
+-  Arzuros Pelt 30%
+-  Arzuros Shell 30%
+-  Sharpened Fang 20%
+-  Bone x2 20%
+ ☆ Arzuros Village/Low Rank Guild P3
+1. Body Carves x3
+-  Arzuros Pelt 65%
+-  Arzuros Shell 25%
+-  Jumbo Bone 10%
+2. Break Forelegs
+-  Arzuros Brace 70%
+-  Arzuros Pelt 30%
+3. Shiny Drop
+-  Beast Tears 75%
+-  Arzuros Pelt 25%
+4. Shiny Drop (Honey)
+-  Honey 100%
+5. Shiny Drop (Fish)
+-  Sushifish 85%
+-  Goldenfish 15%
+6. Capture Reward
+-  Arzuros Shell 45%
+-  Jumbo Bone x2 25%
+-  Arzuros Brace 20%
+-  Arzuros Pelt 10%
+☆ Arzuros High Rank Guild P3
+1. Body Carves x3
+-  Arzuros Pelt+ 60%
+-  Arzuros Carapace 20%
+-  Arzuros Pelt 10%
+-  Stout Bone 10%
+2. Break Forelegs
+-  Arzuros Brace+ 65%
+-  Arzuros Pelt+ 25%
+-  Arzuros Brace 10%
+3. Shiny Drop
+-  Beast Tears 38%
+-  Large Beast Tears 37%
+-  Arzuros Pelt+ 25%
+4. Shiny Drop (Honey)
+-  Honey 100%
+5. Shiny Drop (Fish)
+-  Sushifish 80%
+-  Goldenfish 20%
+6. Capture Reward
+-  Arzuros Carapace 40%
+-  Arzuros Brace+ 20%
+-  Stout Bone x2 20%
+-  Arzuros Pelt+ 10%
+-  Arzuros Shell x2 10%

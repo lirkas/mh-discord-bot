@@ -1,0 +1,92 @@
+☆ Agnaktor Low Rank P3
+1. Body Carves (x3)
+-  Agnaktor Shell 37%
+-  Agnaktor Hide 25%
+-  Scalding Pleura 20%
+-  Agnaktor Claw 8%
+-  Agnaktor Scale 5%
+-  Firestone 5%
+2. Tail Carves (x1)
+-  Agnaktor Tail 65%
+-  Agnaktor Fin 27%
+-  Firestone 8%
+3. Break Beak
+-  Agnaktor Beak 64%
+-  Agnaktor Shell 31%
+-  Lava Nugget 5%
+4. Break Chest
+-  Scalding Pleura 55%
+-  Agnaktor Hide 27%
+-  Agnaktor Scale 10%
+-  Firestone 8%
+5. Break Dorsal Fin
+-  Agnaktor Fin 50%
+-  Agnaktor Hide 32%
+-  Agnaktor Scale 18%
+6. Break Claws
+-  Agnaktor Scale 37%
+-  Agnaktor Claw 34%
+-  Agnaktor Claw x2 20%
+-  Firestone 9%
+7. Shiny Drop
+-  Wyvern Tears 72%
+-  Agnaktor Scale 20%
+-  Firestone 8%
+8. Capture Rewards
+-  Agnaktor Hide 32%
+-  Agnaktor Fin 20%
+-  Agnaktor Scale x2 18%
+-  Agnaktor Claw 12%
+-  Firestone 10%
+-  Scalding Pleura x2 8%
+☆ Agnaktor High Rank P3
+1. Body Carves (x3)
+-  Agnaktor Carapace 37%
+-  Agnaktor Hide+ 20%
+-  Scalding Pleura+ 20%
+-  Agnaktor Shell 8%
+-  Agnaktor Claw+ 8%
+-  Agnaktor Scale 4%
+-  Firecell Stone 3%
+2. Tail Carves (x1)
+-  Agnaktor Tail 60%
+-  Agnaktor Fin+ 25%
+-  Firecell Stone 8%
+-  Firestone 7%
+3. Break Beak
+-  Agnaktor Beak 56%
+-  Agnaktor Carapace 30%
+-  Lava Nugget x2 8%
+-  Wyvern Stone 6%
+4. Break Chest
+-  Scalding Pleura+ 50%
+-  Agnaktor Hide 22%
+-  Scalding Pleura x2 10%
+-  Firecell Stone 10%
+-  Agnaktor Hide x2 8%
+5. Break Dorsal Fin
+-  Agnaktor Fin+ 48%
+-  Agnaktor Hide 30%
+-  Agnaktor Scale 10%
+-  Agnaktor Fin x2 8%
+-  Wyvern Stone 4%
+6. Break Claws
+-  Agnaktor Claw+ 34%
+-  Agnaktor Scale 19%
+-  Agnaktor Claw+ x2 18%
+-  Agnaktor Claw x3 12%
+-  Firecell Stone 12%
+-  Firestone x2 5%
+7. Shiny Drop
+-  Wyvern Tears 37%
+-  Large Wyvern Tears 35%
+-  Agnaktor Scale 20%
+-  Firecell Stone 8%
+8. Capture Rewards
+-  Agnaktor Hide+ 30%
+-  Agnaktor Fin+ 23%
+-  Agnaktor Scale x2 16%
+-  Agnaktor Claw+ 12%
+-  Scalding Pleura+ x2 8%
+-  Firecell Stone 8%
+-  Wyvern Stone 3%

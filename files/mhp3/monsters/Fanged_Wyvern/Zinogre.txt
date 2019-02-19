@@ -1,0 +1,77 @@
+☆ Zinogre Village/Low Rank P3
+1. Body Carves x3
+-  Zinogre Shell 40%
+-  Zinogre Electrofur 20%
+-  Zinogre Shocker 20%
+-  Zinogre Claw 15%
+-  Zinogre Plate 5%
+2. Tail Carves x1
+-  Zinogre Tail 70%
+-  Zinogre Shell 20%
+-  Zinogre Electrofur 8%
+-  Zinogre Plate 2%
+3. Break Claws
+-  Zinogre Claw 70%
+-  Zinogre Claw x2 20%
+-  Zinogre Shocker 10%
+4. Break Horn
+-  Zinogre Horn 80%
+-  Zinogre Shell 17%
+-  Zinogre Plate 3%
+5. Shiny Drop (Max 3)
+-  Wyvern Tears 75%
+-  Fulgurbug 15%
+-  Zinogre Shell 8%
+-  Zinogre Plate 2%
+6. Gathering From Back (Max 2)
+-  Fulgurbug 90%
+-  Zinogre Electrofur 10%
+7. Capture Reward
+-  Zinogre Electrofur 30%
+-  Zinogre Shocker 30%
+-  Zinogre Claw 20%
+-  Zinogre Shell x2 10%
+-  Fulgurbug x2 8%
+-  Zinogre Plate 2%  
+☆ Zinogre High Rank Guild P3
+1. Body Carves x3
+-  Zinogre Carapace 38%
+-  Zinogre Pelt+ 18%
+-  Zinogre Claw+ 15%
+-  Zinogre Shocker+ 12%
+-  Zinogre Electrofur+ 8%
+-  Zinogre Shocker 6%
+-  Zinogre Jasper 3%
+2. Tail Carves x1
+-  Zinogre Tail 62%
+-  Zinogre Carapace 18%
+-  Zinogre Plate 10%
+-  Zinogre Shell 8%
+-  Zinogre Jasper 2%
+3. Break Claws
+-  Zinogre Claw+ 67%
+-  Zinogre Claw+ x2 15%
+-  Zinogre Shocker+ 8%
+4. Break Horn
+-  Zinogre Horn+ 70%
+-  Zinogre Horn x2 10%
+-  Zinogre Carapace 9%
+-  Zinogre Plate 8%
+-  Zinogre Jasper 3%
+5. Shiny Drop (Max 3)
+-  Wyvern Tears 38%
+-  Large Wyvern Tears 37%
+-  Fulgurbug 15%
+-  Zinogre Carapace 8%
+-  Zinogre Jasper 2%
+6. Gathering From Back (Max 2)
+-  Fulgurbug 90%
+-  Zinogre Electrofur+ 10%
+7. Capture Reward
+-  Zinogre Electrofur+ 28%
+-  Zinogre Shocker 28%
+-  Zinogre Claw+ 20%
+-  Zinogre Carapace x2 10%
+-  Fulgurbug x4 8%
+-  Zinogre Plate 4%
+-  Zinogre Jasper 2%

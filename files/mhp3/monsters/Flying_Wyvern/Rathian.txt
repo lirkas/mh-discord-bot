@@ -1,0 +1,71 @@
+☆ Rathian Village/Low Rank Guild P3
+1. Body Carves (x3)    
+-  Rathian Scale 40%
+-  Rathian Shell 30%
+-  Rathian Webbing 15%
+-  Flame Sac 10%
+-  Rathian Spike 5%
+2. Tail Carves (x1)
+-  Rathian Scale 62%
+-  Rathian Spike 20%
+-  Rath Marrow 15%
+-  Rathian Plate 3%
+3. Capture Rewards
+-  Rathian Scale 33%
+-  Rathian Shell 30%
+-  Rath Marrow 20%
+-  Rathian Spike 15%
+-  Rathian Plate 2%
+4. Break Head
+-  Rathian Shell 71%
+-  Rathian Scale 25%
+-  Rathian Plate 4%
+5. Break Wings
+-  Rath Talon 70%
+-  Wyvern Claw x4 15%
+-  Rathian Webbing 15%
+6. Shiny Drop
+-  Wyvern Tears 74%
+-  Rathian Scale 15%
+-  Rathian Spike 10%
+-  Rathian Plate 1%
+☆ Rathian High Rank Guild P3
+1. Body Carves (x3)
+-  Rathian Scale+ 38%
+-  Rathian Carapace 25%
+-  Rathian Webbing 12%
+-  Inferno Sac 12%
+-  Rathian Spike 8%
+-  Rathian Spike+ 5%
+2. Tail Carves (x1)
+-  Rathian Scale+ 55%
+-  Rathian Spike+ 15%
+-  Rathian Medulla 10%
+-  Rathian Plate 10%
+-  Rathian Scale 7%
+-  Rathian Ruby 3%
+3. Capture Rewards
+-  Rathian Carapace 30%
+-  Rathian Scale+ x2 22%
+-  Inferno Sac 15%
+-  Rath Marrow 13%
+-  Rath Medulla 8%
+-  Flame Sac x2 5%
+-  Rathian Plate 4%
+-  Rathian Ruby 3%
+4. Break Head
+-  Rathian Carapace 68%
+-  Rathian Scale+ 20%
+-  Rathian Shell x2 8%
+-  Rathian Ruby 4%
+5. Break Wings 
+-  Rath Talon x2 60%
+-  Wyvern Claw x5 15%
+-  Rathian Scale+ 15%
+-  Rathian Webbing 10%  
+6. Shiny Drop
+-  Wyvern Tears 38%
+-  Large Wyvern Tears 37%
+-  Rathian Scale+ 15%
+-  Rathian Spike+ 8%
+-  Rathian Ruby 2%

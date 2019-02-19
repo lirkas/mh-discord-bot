@@ -1,0 +1,78 @@
+☆ Uragaan Village/Low Rank P3
+1. Body Carves (x4)
+-  Uragaan Scale 46%
+-  Uragaan Shell 34%
+-  Uragaan Jaw 12%
+-  Uragaan Scute 8%
+2. Tail Carves (x1)
+-  Uragaan Scale 58%
+-  Uragaan Scute 32%
+-  Uragaan Marrow 10%
+3. Break Chin
+-  Uragaan Jaw 74%
+-  Uragaan Shell 16%
+-  Uragaan Scute 10%
+4. Break Tail
+-  Uragaan Scale x2 60%
+-  Lava Nugget x2 25%
+-  Uragaan Scute 10%
+-  Uragaan Marrow 5%
+5. Mining Back
+-  Coal 50%
+-  Lava Nugget 43%
+-  Firestone 7%
+6. Shiny Drop
+-  Wyvern Tears 74%
+-  Lava Nugget 18%
+-  Uragaan Marrow 8%
+7. Capture Rewards
+-  Uragaan Shell 28%
+-  Uragaan Scale 24%
+-  Uragaan Jaw 15%
+-  Lava Nugget x2 15%
+-  Uragaan Scute 10%
+-  Uragaan Marrow 8% 
+☆ Uragaan High Rank P3
+1. Body Carves (x4)
+-  Uragaan Scale+ 42%
+-  Uragaan Carapace 28%
+-  Uragaan Scute 12%
+-  Uragaan Jaw 10%
+-  Uragaan Marrow 8%
+2. Tail Carves (x1)
+-  Uragaan Scale+ 58%
+-  Uragaan Scute 23%
+-  Uragaan Marrow 14%
+-  Uragaan Ruby 5% 
+3. Break Chin
+-  Uragaan Jaw 57%
+-  Uragaan Carapace 27%
+-  Uragaan Shell x2 8%
+-  Uragaan Scute x2 5%
+-  Uragaan Ruby 3%
+4. Break Tail
+-  Uragaan Scale+ x2 58%
+-  Uragaan Scute 16%
+-  Uragaan Marrow 10%
+-  Uragaan Scale x3 8%
+-  Lava Nugget x4 8% 
+5. Mining Back
+-  Volatile Coal 40%
+-  Lava Nugget 35%
+-  Coal 10%
+-  Firestone 10%
+-  Firecell Stone 5%
+6. Shiny Drop
+-  Wyvern Tears 38%
+-  Large Wyvern Tears 37%
+-  Lava Nugget 13%
+-  Uragaan Marrow 8%
+-  Uragaan Ruby 4%
+7. Capture Rewards
+-  Uragaan Carapace 25%
+-  Uragaan Scale+ 20%
+-  Uragaan Jaw 20%
+-  Uragaan Marrow 12%
+-  Lava Nugget x4 12%
+-  Uragaan Scute x2 8%
+-  Uragaan Ruby 3%

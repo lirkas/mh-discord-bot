@@ -1,0 +1,60 @@
+☆ Lagombi 1-2 Star P3
+1. Body Carves (x3)
+-  Lagombi Pelt 60%
+-  Bone 20%
+-  Sharpened Fang 15%
+-  Jumbo Bone 5%
+2. Break Ears
+-  Lagombi Ear 50%
+-  Bone x2 30%
+-  Lagombi Pelt 20%
+3. Shiny Drop
+-  Beast Tears 75%
+-  Lagombi Pelt 15%
+-  Bone 10%
+4. Capture Rewards
+-  Lagombi Pelt 30%
+-  Jumbo Bone 25%
+-  Sharpened Fang 20%
+-  Bone x2 18%
+-  Lagombi Ear 7%
+☆ Lagombi Village/Low Rank P3
+1. Body Carves (x3)
+-  Lagombi Pelt 50%
+-  Lagombi Plastron 30%
+-  Lagombi Claw 15%
+-  Jumbo Bone 5%
+2. Break Ears
+-  Lagombi Ear 75%
+-  Lagombi Pelt 25%
+3. Shiny Drop
+-  Beast Tears 75%
+-  Lagombi Pelt 15%
+-  Lagombi Plastron 10%
+4. Capture Rewards
+-  Lagombi Plastron 40%	
+-  Lagombi Claw 30%
+-  Jumbo Bone x2 20%
+-  Lagombi Pelt x2 10%
+☆ Lagombi High Rank P3
+1. Body Carves (x3)
+-  Lagombi Pelt+ 45%
+-  Lagombi Plastron+ 28%
+-  Lagombi Claw+ 12%
+-  Lagombi Pelt 10%
+-  Stout Bone 5%
+2. Break Ears
+-  Lagombi Ear+ 70%
+-  Lagombi Pelt+ 20%
+-  Lagombi Ear 10%
+3. Shiny Drop
+-  Beast Tears 38%
+-  Large Beast Tears 37%
+-  Lagombi Pelt+ 25%
+4. Capture Rewards
+-  Lagombi Plastron+ 35%
+-  Lagombi Claw+ 25%
+-  Stout Bone x2 17%
+-  Lagombi Pelt+ x2 10%
+-  Lagombi Plastron x2 8%
+-  Lagombi Claw x2 5%

@@ -1,0 +1,73 @@
+☆ Duramboros Village/Low Rank Guild P3
+1. Body Carves (x4)
+-  Duramboros Shell 46%
+-  Duramboros Mossplate 40%
+-  Duramboros Hump 10%
+-  Duramboros Tailbone 4%
+2. Tail Carves (x1)
+-  Duramboros Tailcase 81%
+-  Duramboros Shell 16%
+-  Duramboros Tailbone 3%
+3. Tail Mining
+-  Duramboros Tailcase 78%
+-  Duramboros Shell 16%
+-  Duramboros Tailbone 6%
+4. Break Horns
+-  Duramboros Horn 75%
+-  Duramboros Shell 25%
+5. Break Humps
+-  Duramboros Hump 60%
+-  Duramboros Mossplate 27%
+-  Duramboros Shell 13%
+6. Shiny Drop
+-  Wyvern Tears 75%
+-  Duramboros Mossplate 20%
+-  Duramboros Hump 5%
+7. Capture Rewards
+-  Duramboros Mossplate 40%
+-  Duramboros Hump 24%
+-  Duramboros Shell 20%
+-  Duramboros Horn 10%
+-  Duramboros Tailbone 6%
+☆ Duramboros High Rank Guild P3
+1. Body Carves (x4)
+-  Duramboros Carapace 42%
+-  Hard Mossplate 34%
+-  Duramboros Hump 10%
+-  Duramboros Shell 6%
+-  Duramboros Tailbone 5%
+-  Duramboros Sacrum 3%
+2. Tail Carves (x1)
+-  Duramboros Tailcase+ 77%
+-  Duramboros Carapace 10%
+-  Duramboros Tailcase 6%
+-  Duramboros Tailbone 5%
+-  Duramboros Sacrum 2%
+3. Tail Mining
+-  Duramboros Tailcase+ 74%
+-  Duramboros Carapace 10%
+-  Duramboros Tailcase 8%
+-  Duramboros Tailbone 4%
+-  Duramboros Sacrum 4%
+4. Break Horns
+-  Duramboros Horn+ 70%
+-  Duramboros Carapace 20%
+-  Duramboros Horn x2 10%
+5. Break Humps
+-  Duramboros Hump 40%
+-  Hard Mossplate 26%
+-  Duramboros Hump x2 22%
+-  Duramboros Carapace 12%
+6. Shiny Drop
+-  Wyvern Tears 38%
+-  Large Wyvern Tears 37%
+-  Hard Mossplate 18%
+-  Duramboros Hump 7%
+7. Capture Rewards
+-  Hard Mossplate 38%
+-  Duramboros Carapace 18%
+-  Duramboros Horn+ 12%
+-  Duramboros Mossplate x2 10%
+-  Duramboros Hump x2 10%
+-  Duramboros Tailbone 7%
+-  Duramboros Sacrum 5%
