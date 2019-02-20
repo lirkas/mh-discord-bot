@@ -9,6 +9,7 @@ import client.values as values
 #   cmd_info,
 #   cmd_method, is_available)
 #
+
 cmdlist = {
 
     'cmds' :
@@ -16,24 +17,30 @@ cmdlist = {
         [],
         'Display all commands',
         commands.get_commands),
+    
+    'help' :
+        (values.prefix+'help', ['COMMAND'],
+        ['The command you need help with'],
+        'Display infos for a specific command',
+        commands.command_info),
 
-    'itemFU' : (values.prefix+'itemfu',['ITEM'],
+    'itemfu' : (values.prefix+'itemfu',['ITEM'],
         ['The item to find'],
         'Find the possible ways to obtain a monster item (MHFU)',
         commands.find_item_fu),
 
-    'itemP3' : (values.prefix+'itemp3',['ITEM'],
+    'itemp3' : (values.prefix+'itemp3',['ITEM'],
         ['The item to find'],
         'Find the possible ways to obtain a monster item (MHP3)',
         commands.find_item_p3),
 
-    'monsterFU' : (values.prefix+'monsterfu',['MONSTER'],
-        ['The monster to find'],
-        'See all the possible obtainable items from a monster (MHP3)',
+    'monsterfu' : (values.prefix+'monsterfu',['MONSTER', 'RANK'],
+        ['The monster to look for', 'Rank: [1-2][LR][HR][G]'],
+        'See all the possible obtainable items from a monster (MHFU)',
         commands.find_monster_fu),
 
-    'monsterP3' : (values.prefix+'monsterp3',['MONSTER'],
-        ['The monster to find'],
-        'See all the possible obtainable items from a monster (MHFU)',
+    'monsterp3' : (values.prefix+'monsterp3',['MONSTER', 'RANK'],
+        ['The monster to look for', 'Rank: [1-2][LR][HR]'],
+        'See all the possible obtainable items from a monster (MHP3)',
         commands.find_monster_p3),
 }

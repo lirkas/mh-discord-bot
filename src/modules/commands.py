@@ -96,13 +96,47 @@ async def get_commands(**kwargs):
 
         # add spaces for pretty print
         while len(txt) < 30:
-
             txt += " "
 
         txt += ": "+cmdlist[c][values.info]+"\n"
         msg += txt
 
     return msg+values.code
+
+# show infos for a specific command
+async def command_info(**kwargs):
+    
+    try:
+        cmd = kwargs['args'][0].lower().replace(values.prefix,'',1)
+    except IndexError:
+        return 'Missing argument'
+
+    infos = ''
+
+    
+    cmds = kwargs['cmdlist']
+    # check if the command exists
+    if cmd not in cmds.keys():
+        return cmd+' is not a valid command'
+    else:    
+        infos += 'Usage: '+cmd+' '
+        
+        # insert args for the specified command
+        for arg in cmds[cmd][values.args]:
+            infos += arg+' '
+
+        infos += '\n- '+cmds[cmd][values.info]+'\n'
+        # display each argument with its infos
+        for i in range(len(cmds[cmd][values.args_info])):
+            line = '\n\t'+cmds[cmd][values.args][i]
+            
+            # add spaces for pretty print
+            while len(line) < 16 :
+                line += ' '
+            
+            infos += line+' : '+cmds[cmd][values.args_info][i]
+
+    return '```'+infos+'```'
 
 #========================#
 #===== COMMAND PROC =====#
