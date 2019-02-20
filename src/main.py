@@ -80,13 +80,14 @@ async def on_error(event, *args, **kwargs):
     
     message = args[0]
     channel = message.channel
-    exc_info = sys.exc_info()
+
 
     print("ERROR :")
     print("Event : "+str(event))
     print("message_id = "+str(message.id))
-    print(str(exc_info))
-    await channel.send("ERROR: "+str(exc_info[1]))
+    print(str(sys.exc_info()))
+    print(str(sys.exc_info()[2].print_stack()))
+    await channel.send("ERROR: "+str(sys.exc_info()[1]))
 
 
 @client.event
