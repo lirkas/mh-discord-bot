@@ -5,13 +5,14 @@ import logging as log
 
 from aioconsole import ainput
 from threading import Thread
-
-import modules.cmds as cmds
-import modules.commands as commands
-
-import client.uinput as uinput
-import client.values as values
 import discord
+
+import commands.mh as _mh
+import commands.util as _util
+
+import client.bot as cbot
+import client.uinput as uinput
+import client.utils as utils
 
 
 # Logs discord events into a file
@@ -20,41 +21,26 @@ handler = log.FileHandler(filename='discord.log', encoding='utf-8', mode='w')
 handler.setFormatter(log.Formatter('%(asctime)s:%(levelname)s:%(name)s: %(message)s')) 
 logger.addHandler(handler)
 
+# initialize bot and add commands
+client = cbot.Bot()
+client.add_cog(_util.Util)
+client.add_cog(_mh.Mh)
 
-TOKEN = values.get_value('BOT_TOKEN')
-PREFIX = values.prefix
+# initialize UI
+ui = uinput.UI(client)
 
-
-client = discord.Client()
-
-ignore_bot = True
 
 async def restart():
-    await client.close()
     os.execv("main.py",[''])
 
 @client.event
 async def on_message(message):
+    
+    ctx = await client.get_context(message)
+    await client.invoke(ctx)
 
-    print(message.author.name+" : "+message.content)
-
-    if message.author == client.user and ignore_bot:
-        return
-    #Check if the message starts with the defined prefix
-    if (message.content.startswith(values.prefix) == False):
-        return
-
-
-    #Get function related to cmd if it exists
-    await commands.process(message=message, client=client, cmdlist=cmds.cmdlist)
-
-    #await util.check_afk(client, message)
-
-@client.event
-async def on_reaction_add(reaction, user):
-
-    if user != client.user or ignore_bot == False:
-        await commands.process_reaction(reaction=reaction, user=user, client=client)
+    # prints message for console
+    ui.display(message)
 
 
 @client.event
@@ -63,49 +49,25 @@ async def read_input():
     while(True):
         line = await ainput()
         try:
-            await uinput.process(client, line)
+            await ui.process(line)
         except BaseException as e:
             print("Error : "+str(e))
 
 @client.event
-async def read_input_debug():
-
-    while(True):
-        line = await ainput()
-        await uinput.process(client, line)
-
-
-@client.event
-async def on_error(event, *args, **kwargs):
-    
-    message = args[0]
-    channel = message.channel
-
-
-    print("ERROR :")
-    print("Event : "+str(event))
-    print("message_id = "+str(message.id))
-    print(str(sys.exc_info()))
-    print(str(sys.exc_info()[2].print_stack()))
-    await channel.send("ERROR: "+str(sys.exc_info()[1]))
-
-
-@client.event
 async def on_ready():
     print('Logged in as '+client.user.name+' ['+str(client.user.id)+']')
-    print('__________________________________________')
-
-    game_obj = discord.Activity(type=2, name='you' )
-    await client.change_presence(activity=game_obj)
-
+    print('__')
+    print('setting up server/channel')
     try:
-        #set the channel where the bot will speak
-        uinput.server = client.get_guild(542599193127026698)
-        uinput.channel = uinput.server.get_channel(542599193626411009)
+    #set the channel for the CLI
+        print(utils.get('DEFAULT_SERVER'))
+    
+        ui.server = client.get_guild(int(utils.get('DEFAULT_SERVER')))
+        ui.channel = client.get_channel(int(utils.get('DEFAULT_CHANNEL')))
+
     except AttributeError:
         print("Could not set server and channel")
 
-    # allow the bot_owner to input text
     asyncio.ensure_future(read_input(), loop=client.loop)
 
-client.run(TOKEN)
+client.run(utils.get('BOT_TOKEN'))

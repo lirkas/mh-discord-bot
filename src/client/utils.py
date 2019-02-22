@@ -1,4 +1,7 @@
+import json
+
 import discord
+
 
 # attempts to extract the discord user id
 # return int
@@ -19,3 +22,22 @@ def get_uid(string):
             return int(string[2:len(string)-1])
         except ValueError:
             return ""
+
+
+# fetch a value with the given ID from a file
+def get(id):
+
+    f = open('../files/config.json', 'r')
+    config = ''.join(f.readlines())
+    j = json.loads(config)
+
+    value = j[id]
+
+    f.close()
+    return value
+
+# return icon image ( png format )
+def get_icon(name):
+
+    f = open('../files/'+name+'.png', 'rb')
+    return f.read()
