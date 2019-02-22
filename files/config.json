@@ -1,7 +1,7 @@
 {
 	"BOT_TOKEN": "AUTH_TOKEN",
 	"OWNER_ID": 0,
-	"PREFIX": "!"
+	"PREFIX": "!",
 	
 	"DEFAULT_SERVER": 0,
 	"DEFAULT_CHANNEL": 0,
