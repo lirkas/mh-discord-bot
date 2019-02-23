@@ -1,5 +1,14 @@
 {
 	"BOT_TOKEN": "AUTH_TOKEN",
 	"OWNER_ID": 0,
-	"PREFIX": "!"
+	"PREFIX": "!",
+	
+	"DEFAULT_SERVER": 0,
+	"DEFAULT_CHANNEL": 0,
+	
+	"MHFU_SM_MONSTER_PATH": "../files/mhfu/small_monsters/",
+	"MHFU_MONSTER_PATH": "../files/mhfu/monsters/",
+	
+	"MHP3_SM_MONSTER_PATH": "../files/mhp3/small_monsters/",
+	"MHP3_MONSTER_PATH": "../files/mhp3/monsters/"
 }
