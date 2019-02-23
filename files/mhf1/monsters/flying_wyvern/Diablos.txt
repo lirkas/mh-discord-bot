@@ -1,0 +1,25 @@
+ ☆Diablos Village/Low Rank Guild
+  1.Body Carves
+-  Diablos Shell (70%)
+-  Blos Fang (30%)
+  2.Tail Carves
+-  Diablos Shell (70%)
+-  Diablos Tail (30%)
+ ☆Diablos High Rank Guild
+  1.Body Carves
+-  Diablos Spine (45%)
+-  Diablos Shell (40%)
+-  Blos Fang (15%)
+  2.Tail Carves
+-  Diablos Tail (60%)
+-  Diablos Shell (40%)
+ ☆Diablos G Class
+  1.Body Carves
+-  Diablos Carapace (43%)
+-  Diablos Shell (27%)
+-  Diablos Thoracic (20%)
+-  Blos Fang (10%)
+  2.Tail Carves
+-  Diablos Tail (48%)
+-  Diablos Thoracic (34%)
+-  Diablos Shell (18%)

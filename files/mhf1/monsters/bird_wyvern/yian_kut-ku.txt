@@ -1,0 +1,19 @@
+☆ Yian Kut-Ku Village/Low-Rank F1
+1. Body Carves (x3)
+-  Kut-ku Shell (50%)
+-  Kut-ku Webbing (36%)
+-  Kut-ku Ear (8%)
+-  Kut-ku Scale (5%)
+-  Giant Beak (1%)
+☆ Yian Kut-Ku High-Rank Guild
+1. Body Carves (x3)
+-  Kut-ku Shell (45%)
+-  Kut-ku Webbing (25%)
+-  Kut-ku Ear (20%)
+-  Giant Beak (10%)
+☆ Yian Kut-Ku G-Class
+1. Body Carves (x3)
+-  Kut-ku Carapace (50%)
+-  Kut-ku Wing (30%)
+-  Long Kut-ku Ear (12%)
+-  Splendid Beak (8%)

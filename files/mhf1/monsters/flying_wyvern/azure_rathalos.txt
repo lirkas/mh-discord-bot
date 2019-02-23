@@ -1,0 +1,40 @@
+ ☆Azure Rathalos Village/Low Rank Guild
+  1.Body Carves
+-  Azure Rathalos Shell (30%)
+-  Azure Rathalos Webbing (30%)
+-  Azure Rathalos Scale (30%)
+-  Flame Sac (8%)
+-  Wyvern Marrow (2%)
+  2.Tail Carves
+-  Azure Rathalos Tail (38%)
+-  Azure Rathalos Scale (35%)
+-  Azure Rathalos Shell (25%)
+-  Wyvern Marrow (2%)
+ ☆Azure Rathalos High Rank Guild
+  1.Body Carves
+-  Azure Rathalos Shell (30%)
+-  Azure Rathalos Webbing (30%)
+-  Flame Sac (25%)
+-  Wyvern Marrow (8%)
+-  Azure Rathalos Scale (5%)
+-  Azure Rathalos Wing (2%)
+  2.Tail Carves
+-  Azure Rathalos Tail (51%)
+-  Azure Rathalos Shell (30%)
+-  Azure Rathalos Scale (8%)
+-  Wyvern Marrow (6%)
+-  Azure Rathalos Plate (5%)
+ ☆Azure Rathalos G Class
+  1.Body Carves
+-  Azure Carapace (35%)
+-  Inferno Sac (25%)
+-  Azure Rathalos Webbing (15%)
+-  Azure Rathalos Scale+ (15%)
+-  Rathalos BrainStem (8%)
+-  Azure Rathalos Wing (2%)
+  2.Tail Carves
+-  Azure Rathalos Tail (45%)
+-  Azure Rathalos Scale+ (35%)
+-  Azure Rathalos Plate (12%)
+-  Rathalos BrainStem (6%)
+-  Azure Rathalos Ruby (2%)

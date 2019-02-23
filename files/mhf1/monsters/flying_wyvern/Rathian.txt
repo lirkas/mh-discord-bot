@@ -1,0 +1,38 @@
+ ☆Rathian Village/Low Rank Guild
+  Body Carves
+-  Rathian Scale (60%)
+-  Rathian Shell (30%)
+-  Flame Sac (8%)
+-  Rathian Spike (2%)
+  Tail Carves
+-  Rathian Scale (60%)
+-  Rathian Shell (25%)
+-  Rathian Spike (8%)
+-  Large Bone Monster (5%)
+-  Wyvern Marrow (2%)
+ ☆Rathian High Rank Guild
+  Body Carves
+-  Rathian Scale (35%)
+-  Rathian Shell (30%)
+-  Flame Sac (25%)
+-  Rathian Spike (8%)
+-  Wyvern Claw (2%)
+  Tail Carves
+-  Rathian Scale (47%)
+-  Rathian Shell (30%)
+-  Rathian Spike (13%)
+-  Wyvern Marrow (5%)
+-  Rathian Plate (5%)
+ ☆Rathian G Class
+  Body Carves
+-  Rathian Scale+ (35%)
+-  Rathian Carapace (30%)
+-  Inferno Sac (25%)
+-  Rathian Spike (8%)
+  Tail Carves
+-  Rathian Scale+ (45%)
+-  Rathian Carapace (23%)
+-  Rathian Spike (13%)
+-  Rathian Plate (12%)
+-  Rathalos Brainstem (5%)
+-  Rathian Ruby (2%)

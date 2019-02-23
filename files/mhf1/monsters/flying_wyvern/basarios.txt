@@ -1,0 +1,32 @@
+ ☆Basarios Village Low Rank
+  1.Body Carves
+-  Machalite Ore (45%)
+-  Basarios Shell (32%)
+-  Poison Sac (12%)
+-  Large Bone Monster (8%)
+  2.Tail Carves
+-  Machalite Ore (55%)
+-  Basarios Shell (45%)
+ ☆Basarios High Rank
+  1.Body Carves
+-  Dragonite Ore (32%)
+-  Basarios Shell (30%)
+-  Basarios Wing (15%)
+-  Poison Sac (15%)
+-  Monster Bone+ (8%)
+  2.Tail Carves
+-  Machalite Ore (45%)
+-  Basarios Shell (30%)
+-  Dragonite Ore (25%)
+ ☆Basarios G Class
+  1.Body Carves
+-  Basarios Carapace (32%)
+-  Toxin Sac (19%)
+-  Dragonite Ore (17%)
+-  Basarios Tears (15%)
+-  Carbalite Ore (9%)
+-  Hard Monster Bone (8%)
+  2.Tail Carves
+-  Dragonite Ore (52%)
+-  Basarios Carapace (30%)
+-  Carbalite Ore (18%)

@@ -1,0 +1,40 @@
+ ☆Rathalos Village/Low Rank Guild
+  1.Body Carves
+-  Rathalos Shell (30%)
+-  Rathalos Webbing (30%)
+-  Rathalos Scale (30%)
+-  Flame Sac (8%)
+-  Wyvern Marrow (2%)
+  2.Tail Carves
+-  Rathalos Tail (38%)
+-  Rathalos Scale (35%)
+-  Rathalos Shell (25%)
+-  Wyvern Marrow (2%)
+ ☆Rathalos High Rank Guild
+  1.Body Carves
+-  Rathalos Shell (30%)
+-  Rathalos Webbing (30%)
+-  Flame Sac (25%)
+-  Wyvern Marrow (8%)
+-  Rathalos Scale (5%)
+-  Rathalos Wing (2%)
+  2.Tail
+-  Rathalos Tail (51%)
+-  Rathalos Shell (30%)
+-  Rathalos Scale (8%)
+-  Wyvern Marrow (6%)
+-  Rathalos Plate (5%)
+ ☆Rathalos G Class
+  1.Body Carves
+-  Rathalos Carapace (35%)
+-  Inferno Sac (25%)
+-  Rathalos Webbing (15%)
+-  Rathalos Scale+ (15%)
+-  Rathalos BrainStem (8%)
+-  Rathalos Wing (2%)
+  2.Tail Carves
+-  Rathalos Tail (45%)
+-  Rathalos Scale+ (35%)
+-  Rathalos Plate (12%)
+-  Rathalos BrainStem (6%)
+-  Rarhalos Ruby (2%)
