@@ -6,6 +6,9 @@
 	"DEFAULT_SERVER": 0,
 	"DEFAULT_CHANNEL": 0,
 	
+	"MHF1_SM_MONSTER_PATH": "../files/mhf1/small_monsters/",
+	"MHF1_MONSTER_PATH": "../files/mhf1/monsters/",
+	
 	"MHFU_SM_MONSTER_PATH": "../files/mhfu/small_monsters/",
 	"MHFU_MONSTER_PATH": "../files/mhfu/monsters/",
 	

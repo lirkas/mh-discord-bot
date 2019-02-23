@@ -14,8 +14,10 @@ low_rank = "Low-Rank"
 high_rank = "High-Rank"
 g_rank = "G-Rank"
 
+
 mhp3 = "MHP3"
 mhfu = "MHFU"
+mhf1 = 'MHF1'
 
 rank_suffix = {
     '1-2': star_1_2,
@@ -29,15 +31,16 @@ _rank_suffix = ['1-2','LR','HR','G']
 wordlist_12 = ["1-2","1/2", '1-2 star']
 wordlist_lr = ["village","village/low","village/low-rank","low","low-rank","lr"]
 wordlist_hr = ["high","hr","high-rank"]
-wordlist_g = ["g","g-rank"]
+wordlist_g = ["g","g-rank",'g-class']
 wordlist_p3 = ["p3","mhp3"]
 wordlist_fu = ["fu","mhfu"]
+wordlist_f1 = ['f1','mhf1']
 
 
 wordlist_rank = wordlist_12+wordlist_lr+wordlist_hr+wordlist_g
-wordlist_game = wordlist_fu+wordlist_p3
+wordlist_game = wordlist_fu+wordlist_p3+wordlist_f1
 
-log.basicConfig(level='WARNING')
+log.basicConfig(level='ERROR')
 
 # check the term and return the rank if it does match any
 def check_rank(terms): 
@@ -249,12 +252,19 @@ def text_to_obj(path):
             infos = find_infos(line)
             log.debug("Rank: "+infos['rank'])
 
-            current_rank = infos['rank'] 
+            current_rank = infos['rank']
 
         # skip until we find the reward type
         while line[0].isnumeric() == False:
             line = file.readline()
-    
+            
+            # quick n dirty error check
+            try:
+                line[0]
+            except IndexError:
+                log.error('cannot process this file')
+                return
+
         line = line.split( )
         line.remove(line[0])
         reward_type =' '.join(line)

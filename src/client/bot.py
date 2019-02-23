@@ -20,6 +20,10 @@ class Bot(cmds.Bot):
     
     async def on_command_error(self, ctx, exception):
         cmd = ctx.command
+
+        for i in range(len(exception.args)):
+            print(str(i)+' : '+str(exception.args[i]))
+
         if cmd == None:
             await ctx.send(self.command_not_found)
         else:
