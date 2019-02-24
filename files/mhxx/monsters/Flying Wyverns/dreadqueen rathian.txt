@@ -1,0 +1,266 @@
+﻿☆ Dreadqueen Rathian - MHXX Lv 1~3
+Item			Qty	Prob.	How to obtain
+Dreadqueen Scale	1	40%	Body Carve
+Dreadqueen Shell	1	30%	Body Carve
+Rathian Webbing		1	15%	Body Carve
+Flame Sac		1	10%	Body Carve
+Rathian Spike		1	5%	Body Carve
+Dreadqueen Scale	1	62%	Tail Carve
+Rathian Spike		1	20%	Tail Carve
+Rath Marrow		1	15%	Tail Carve
+Rathian Plate		1	3%	Tail Carve
+Wyvern Tear		1	74%	Shiny Drops
+Dreadqueen Scale	1	15%	Shiny Drops
+Rathian Spike		1	10%	Shiny Drops
+Rathian Plate		1	1%	Shiny Drops
+Dreadqueen Shell	1	30%	Capture
+Dreadqueen Scale	2	25%	Capture
+Rath Marrow		1	23%	Capture
+Flame Sac		1	20%	Capture
+Rathian Plate		1	2%	Capture
+Dreadqueen Shell	1	71%	Wound Head
+Dreadqueen Scale	1	25%	Wound Head
+Rathian Plate		1	4%	Wound Head
+Rath Wingtalon		1	30%	Wound Wing
+Rath Wingtalon		2	45%	Wound Wing
+Wyvern Claw		4	10%	Wound Wing
+Rathian Webbing		1	15%	Wound Wing
+Dreadqueen Shell	1	69%	Wound Back
+Rathian Spike		1	30%	Wound Back
+Rathian Plate		1	1%	Wound Back
+
+☆ Dreadqueen Rathian - MHXX Lv 4~5
+Item			Qty	Prob.	How to obtain
+Dreadqueen Scale	1	38%	Body Carve
+Dreadqueen Shell	1	25%	Body Carve
+Rathian Webbing		1	12%	Body Carve
+Inferno Sac		1	12%	Body Carve
+Rathian Spike+		1	5%	Body Carve
+Rathian Spike		1	8%	Body Carve
+Dreadqueen Scale	1	62%	Tail Carve
+Rathian Spike+		1	15%	Tail Carve
+Rath Medulla		1	10%	Tail Carve
+Rathian Ruby		1	3%	Tail Carve
+Rathian Plate		1	10%	Tail Carve
+Wyvern Tear		1	38%	Shiny Drops
+Large Wyvern Tear	1	37%	Shiny Drops
+Dreadqueen Scale	1	15%	Shiny Drops
+Rathian Ruby		1	2%	Shiny Drops
+Rathian Spike+		1	8%	Shiny Drops
+Dreadqueen Shell	1	30%	Capture
+Dreadqueen Scale	2	22%	Capture
+Rath Marrow		1	13%	Capture
+Rath Medulla		1	13%	Capture
+Inferno Sac		1	15%	Capture
+Rathian Plate		1	4%	Capture
+Rathian Ruby		1	3%	Capture
+Dreadqueen Shell	1	71%	Wound Head
+Dreadqueen Scale	1	25%	Wound Head
+Rathian Ruby		1	4%	Wound Head
+Rath Wingtalon		2	65%	Wound Wing
+Wyvern Claw		5	10%	Wound Wing
+Dreadqueen Scale	1	15%	Wound Wing
+Rathian Webbing		2	10%	Wound Wing
+Dreadqueen Shell	1	69%	Wound Back
+Rathian Spike+		1	30%	Wound Back
+Rathian Ruby		1	1%	Wound Back
+
+☆ Dreadqueen Rathian - MHXX Lv 6~8	
+Item			Qty	Prob.	How to obtain
+Dreadqueen Scale+	1	25%	Body Carve
+Dreadqueen Scale	1	10%	Body Carve
+Dreadqueen Carapace	1	22%	Body Carve
+Dreadqueen Shell	1	8%	Body Carve
+Rathian Webbing		1	10%	Body Carve
+Inferno Sac		1	10%	Body Carve
+Rathian Spike+		1	7%	Body Carve
+Rathian Spike		1	8%	Body Carve
+Dreadqueen Scale+	1	45%	Tail Carve
+Dreadqueen Scale	1	10%	Tail Carve
+Rathian Spike+		1	10%	Tail Carve
+Rath Medulla		1	18%	Tail Carve
+Rathian Ruby		1	5%	Tail Carve
+Rathian Plate		1	12%	Tail Carve
+Wyvern Tear		1	30%	Shiny Drops
+Large Wyvern Tear	1	30%	Shiny Drops
+Dreadqueen Scale+	1	20%	Shiny Drops
+Dreadqueen Scale	1	8%	Shiny Drops
+Rathian Ruby		1	4%	Shiny Drops
+Rathian Spike+		1	8%	Shiny Drops
+Dreadqueen Carapace	1	28%	Capture
+Dreadqueen Shell	1	12%	Capture
+Dreadqueen Scale+	2	12%	Capture
+Dreadqueen Scale	2	10%	Capture
+Rath Marrow		2	8%	Capture
+Rath Medulla		1	10%	Capture
+Inferno Sac		1	10%	Capture
+Rathian Plate		1	5%	Capture
+Rathian Ruby		1	5%	Capture
+Dreadqueen Carapace	1	60%	Wound Head
+Dreadqueen Shell	1	15%	Wound Head
+Dreadqueen Scale+	1	15%	Wound Head
+Dreadqueen Scale	1	5%	Wound Head
+Rathian Ruby		1	5%	Wound Head
+Rath Wingtalon		2	65%	Wound Wing
+Wyvern Claw		5	7%	Wound Wing
+Dreadqueen Scale+	1	12%	Wound Wing
+Dreadqueen Scale	1	8%	Wound Wing
+Rathian Webbing		2	8%	Wound Wing
+Dreadqueen Carapace	1	50%	Wound Back
+Dreadqueen Shell	2	15%	Wound Back
+Rathian Spike+		1	32%	Wound Back
+Rathian Ruby		1	3%	Wound Back
+
+☆ Dreadqueen Rathian - MHXX Lv 9~10	
+Item			Qty	Prob.	How to obtain
+Dreadqueen Scale+	1	31%	Body Carve
+Dreadqueen Carapace	1	25%	Body Carve
+Rathian Webbing		1	10%	Body Carve
+Inferno Sac		1	10%	Body Carve
+Rathian Spike+		1	12%	Body Carve
+Rathian Spike		1	7%	Body Carve
+Rathian Ruby		1	5%	Body Carve
+Dreadqueen Scale+	1	50%	Tail Carve
+Rathian Spike+		1	10%	Tail Carve
+Rath Medulla		1	18%	Tail Carve
+Rathian Ruby		1	7%	Tail Carve
+Rathian Plate		1	15%	Tail Carve
+Wyvern Tear		1	20%	Shiny Drops
+Large Wyvern Tear	1	40%	Shiny Drops
+Dreadqueen Scale+	1	25%	Shiny Drops
+Rathian Ruby		1	5%	Shiny Drops
+Rathian Spike+		1	10%	Shiny Drops
+Dreadqueen Carapace	1	34%	Capture
+Dreadqueen Scale+	2	22%	Capture
+Rath Medulla		1	15%	Capture
+Inferno Sac		1	12%	Capture
+Rathian Plate		1	10%	Capture
+Rathian Ruby		1	7%	Capture
+Dreadqueen Carapace	1	73%	Wound Head
+Dreadqueen Scale+	1	20%	Wound Head
+Rathian Ruby		1	7%	Wound Head
+Rath Wingtalon		2	40%	Wound Wing
+Rath Wingtalon		4	20%	Wound Wing
+Wyvern Claw		5	10%	Wound Wing
+Dreadqueen Scale+	1	20%	Wound Wing
+Rathian Webbing		2	10%	Wound Wing
+Dreadqueen Carapace	1	60%	Wound Back
+Rathian Spike+		1	35%	Wound Back
+Rathian Ruby		1	5%	Wound Back
+
+☆ Dreadqueen Rathian - MHXX Lv 11~12	
+Item			Qty	Prob.	How to obtain
+Dreadqueen Shard	1	25%	Body Carve
+Dreadqueen Scale+	1	13%	Body Carve
+Dreadqueen Carapace	1	25%	Body Carve
+Rathian Weave		1	12%	Body Carve
+Conflagrant Sac		1	12%	Body Carve
+Rathian Surspike	1	5%	Body Carve
+Rathian Spike+		1	8%	Body Carve
+Dreadqueen Shard	1	45%	Tail Carve
+Dreadqueen Scale+	1	17%	Tail Carve
+Rathian Surspike	1	15%	Tail Carve
+Rath Medulla		1	10%	Tail Carve
+Rathian Mantle		1	3%	Tail Carve
+Rathian Ruby		1	10%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Dreadqueen Shard	1	12%	Shiny Drops
+Dreadqueen Scale+	1	5%	Shiny Drops
+Rathian Mantle		1	2%	Shiny Drops
+Rathian Surspike	1	6%	Shiny Drops
+Dreadqueen Carapace	1	38%	Capture
+Dreadqueen Shard	2	15%	Capture
+Dreadqueen Scale+	2	12%	Capture
+Rath Medulla		1	13%	Capture
+Conflagrant Sac		1	15%	Capture
+Rathian Ruby		1	4%	Capture
+Rathian Mantle		1	3%	Capture
+Dreadqueen Carapace	1	60%	Wound Head
+Dreadqueen Shard	1	15%	Wound Head
+Dreadqueen Scale+	1	21%	Wound Head
+Rathian Mantle		1	4%	Wound Head
+Rath Wingtalon+		2	70%	Wound Wing
+Dreadqueen Shard	1	14%	Wound Wing
+Dreadqueen Scale+	1	8%	Wound Wing
+Rathian Weave		1	8%	Wound Wing
+Dreadqueen Carapace	1	69%	Wound Back
+Rathian Surspike	1	30%	Wound Back
+Rathian Mantle		1	1%	Wound Back
+
+☆ Dreadqueen Rathian - MHXX Lv 13~15
+Item			Qty	Prob.	How to obtain
+Dreadqueen Shard	1	25%	Body Carve
+Dreadqueen Scale+	1	10%	Body Carve
+Dreadqueen Cortex	1	22%	Body Carve
+Dreadqueen Carapace	1	8%	Body Carve
+Rathian Weave		1	10%	Body Carve
+Conflagrant Sac		1	10%	Body Carve
+Rathian Surspike	1	7%	Body Carve
+Rathian Spike+		1	8%	Body Carve
+Dreadqueen Shard	1	45%	Tail Carve
+Dreadqueen Scale+	1	10%	Tail Carve
+Rathian Surspike	1	10%	Tail Carve
+Rath Medulla		1	18%	Tail Carve
+Rathian Mantle		1	5%	Tail Carve
+Rathian Ruby		1	12%	Tail Carve
+Large Wyvern Tear	1	60%	Shiny Drops
+Dreadqueen Shard	1	20%	Shiny Drops
+Dreadqueen Scale+	1	8%	Shiny Drops
+Rathian Mantle		1	4%	Shiny Drops
+Rathian Surspike	1	8%	Shiny Drops
+Dreadqueen Cortex	1	30%	Capture
+Dreadqueen Carapace	1	13%	Capture
+Dreadqueen Shard	2	15%	Capture
+Dreadqueen Scale+	2	12%	Capture
+Rath Medulla		1	10%	Capture
+Conflagrant Sac		1	10%	Capture
+Rathian Ruby		1	5%	Capture
+Rathian Mantle		1	5%	Capture
+Dreadqueen Cortex	1	60%	Wound Head
+Dreadqueen Carapace	1	15%	Wound Head
+Dreadqueen Shard	1	15%	Wound Head
+Dreadqueen Scale+	1	5%	Wound Head
+Rathian Mantle		1	5%	Wound Head
+Rath Wingtalon+		2	70%	Wound Wing
+Dreadqueen Shard	1	14%	Wound Wing
+Dreadqueen Scale+	1	8%	Wound Wing
+Rathian Weave		2	8%	Wound Wing
+Dreadqueen Cortex	1	50%	Wound Back
+Dreadqueen Carapace	2	15%	Wound Back
+Rathian Surspike	1	32%	Wound Back
+Rathian Mantle		1	3%	Wound Back
+
+☆ Dreadqueen Rathian - MHXX Lv Ex
+Item			Qty	Prob.	How to obtain
+Dreadqueen Shard	1	31%	Body Carve
+Dreadqueen Cortex	1	25%	Body Carve
+Rathian Weave		1	10%	Body Carve
+Conflagrant Sac		1	10%	Body Carve
+Rathian Surspike	1	12%	Body Carve
+Rathian Spike+		1	7%	Body Carve
+Rathian Mantle		1	5%	Body Carve
+Dreadqueen Shard	1	50%	Tail Carve
+Rathian Surspike	1	10%	Tail Carve
+Rath Medulla		1	18%	Tail Carve
+Rathian Mantle		1	7%	Tail Carve
+Rathian Ruby		1	15%	Tail Carve
+Large Wyvern Tear	1	60%	Shiny Drops
+Dreadqueen Shard	1	25%	Shiny Drops
+Rathian Mantle		1	5%	Shiny Drops
+Rathian Surspike	1	10%	Shiny Drops
+Dreadqueen Cortex	1	34%	Capture
+Dreadqueen Shard	2	22%	Capture
+Rath Medulla		1	15%	Capture
+Conflagrant Sac		1	12%	Capture
+Rathian Ruby		1	10%	Capture
+Rathian Mantle		1	7%	Capture
+Dreadqueen Cortex	1	73%	Wound Head
+Dreadqueen Shard	1	20%	Wound Head
+Rathian Mantle		1	7%	Wound Head
+Rath Wingtalon+		2	45%	Wound Wing
+Rath Wingtalon+		2	20%	Wound Wing
+Dreadqueen Shard	1	20%	Wound Wing
+Rathian Weave		2	15%	Wound Wing
+Dreadqueen Cortex	1	60%	Wound Back
+Rathian Surspike	1	35%	Wound Back
+Rathian Mantle		1	5%	Wound Back

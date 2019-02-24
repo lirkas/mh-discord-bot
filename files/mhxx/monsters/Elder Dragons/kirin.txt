@@ -1,0 +1,28 @@
+﻿☆ Kirin - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Kirin Hide		1	70%	Body Carve
+Kirin Mane		1	30%	Body Carve
+Kirin Hide		1	20%	Shiny Drops
+Lightcrystal		1	50%	Shiny Drops
+Dragon Treasure		1	30%	Shiny Drops
+Kirin Thunderhorn	1	100%	Break Horn
+
+☆ Kirin - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Kirin Hide+		1	70%	Body Carve
+Kirin Thundertail	1	30%	Body Carve
+Kirin Hide+		1	20%	Shiny Drops
+Novacrystal		1	50%	Shiny Drops
+Old Dragon Treasure	1	30%	Shiny Drops
+Kirin Azure Horn	1	80%	Break Horn
+Kirin Thunderhorn	1	20%	Break Horn
+
+☆ Kirin - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Kirin Finehide		1	70%	Body Carve
+Kirin Thunderlash	1	30%	Body Carve
+Kirin Finehide		1	20%	Shiny Drops
+Purecrystal		1	50%	Shiny Drops
+Old Dragon Treasure	1	30%	Shiny Drops
+Kirin Azure Peak	1	80%	Break Horn
+Kirin Azure Horn	1	20%	Break Horn

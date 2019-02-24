@@ -1,0 +1,114 @@
+﻿☆ Mizutsune - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Mizutsune Scale		1	45%	Body Carve
+Mizutsune Purplefur	1	15%	Body Carve
+Mizutsune Claw		1	20%	Body Carve
+Bubblefoam		1	18%	Body Carve
+Mizutsune Plate		1	2%	Body Carve
+Mizutsune Tail		1	80%	Tail Carve
+Mizutsune Purplefur	1	15%	Tail Carve
+Mizutsune Scale		1	5%	Tail Carve
+Wyvern Tear		1	70%	Shiny Drops
+Mizutsune Scale		1	5%	Shiny Drops
+Bubblefoam		1	20%	Shiny Drops
+Mizutsune Plate		1	5%	Shiny Drops
+Mizutsune Scale		1	20%	Capture
+Mizutsune Purplefur	1	35%	Capture
+Mizutsune Fin		1	15%	Capture
+Mizutsune Tail		1	20%	Capture
+Bubblefoam		2	10%	Capture
+Mizutsune Fin		1	50%	Wound Head
+Mizutsune Scale		1	17%	Wound Head
+Bubblefoam		1	30%	Wound Head
+Mizutsune Plate		1	3%	Wound Head
+Mizutsune Claw		1	75%	Break Claw
+Mizutsune Purplefur	1	20%	Break Claw
+Mizutsune Scale		1	5%	Break Claw
+Mizutsune Purplefur	2	18%	Wound Tail
+Mizutsune Purplefur	1	50%	Wound Tail
+Bubblefoam		1	30%	Wound Tail
+Mizutsune Plate		1	2%	Wound Tail
+Mizutsune Fin		2	10%	Wound Top Fin
+Mizutsune Fin		1	60%	Wound Top Fin
+Mizutsune Purplefur	1	30%	Wound Top Fin
+
+☆ Mizutsune - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Mizutsune Scale+	1	40%	Body Carve
+Mizutsune Scale		1	10%	Body Carve
+Mizutsune Purplefur+	1	10%	Body Carve
+Mizutsune Claw+		1	18%	Body Carve
+Bubblefoam+		1	15%	Body Carve
+Mizutsune Water Orb	1	2%	Body Carve
+Mizutsune Plate		1	5%	Body Carve
+Mizutsune Tail		1	80%	Tail Carve
+Mizutsune Purplefur+	1	15%	Tail Carve
+Mizutsune Scale+	1	5%	Tail Carve
+Wyvern Tear		1	35%	Shiny Drops
+Large Wyvern Tear	1	35%	Shiny Drops
+Mizutsune Scale+	1	5%	Shiny Drops
+Bubblefoam+		1	20%	Shiny Drops
+Mizutsune Water Orb	1	5%	Shiny Drops
+Mizutsune Scale+	1	18%	Capture
+Mizutsune Purplefur+	1	33%	Capture
+Mizutsune Fin+		1	15%	Capture
+Mizutsune Tail		1	24%	Capture
+Bubblefoam+		2	10%	Capture
+Mizutsune Fin+		1	46%	Wound Head
+Mizutsune Scale+	1	15%	Wound Head
+Bubblefoam+		1	28%	Wound Head
+Bubblefoam		2	8%	Wound Head
+Mizutsune Water Orb	1	3%	Wound Head
+Mizutsune Claw+		1	71%	Break Claw
+Mizutsune Claw		2	4%	Break Claw
+Mizutsune Purplefur+	1	20%	Break Claw
+Mizutsune Scale+	1	5%	Break Claw
+Mizutsune Purplefur+	2	15%	Wound Tail
+Mizutsune Purplefur+	1	50%	Wound Tail
+Mizutsune Purplefur	2	8%	Wound Tail
+Bubblefoam+		1	21%	Wound Tail
+Mizutsune Water Orb	1	2%	Wound Tail
+Mizutsune Plate		1	4%	Wound Tail
+Mizutsune Fin+		2	10%	Wound Top Fin
+Mizutsune Fin+		1	52%	Wound Top Fin
+Mizutsune Fin		2	10%	Wound Top Fin
+Mizutsune Purplefur+	1	28%	Wound Top Fin
+
+☆ Mizutsune - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Mizutsune Shard		1	40%	Body Carve
+Mizutsune Scale+	1	10%	Body Carve
+Mizutsune Purplefell	1	10%	Body Carve
+Mizutsune Hardclaw	1	18%	Body Carve
+Distilled Bubblefoam	1	15%	Body Carve
+Mizutsune Pallium	1	2%	Body Carve
+Mizutsune Water Orb	1	5%	Body Carve
+Purple Mizutsune Tail	1	80%	Tail Carve
+Mizutsune Purplefell	1	15%	Tail Carve
+Mizutsune Shard		1	5%	Tail Carve
+Large Wyvern Tear	1	70%	Shiny Drops
+Mizutsune Shard		1	5%	Shiny Drops
+Distilled Bubblefoam	1	20%	Shiny Drops
+Mizutsune Pallium	1	5%	Shiny Drops
+Mizutsune Shard		1	18%	Capture
+Mizutsune Purplefell	1	33%	Capture
+Mizutsune Silkfin	1	15%	Capture
+Purple Mizutsune Tail	1	24%	Capture
+Distilled Bubblefoam	1	10%	Capture
+Mizutsune Silkfin	1	46%	Wound Head
+Mizutsune Shard		1	15%	Wound Head
+Distilled Bubblefoam	1	28%	Wound Head
+Bubblefoam+		2	8%	Wound Head
+Mizutsune Pallium	1	3%	Wound Head
+Mizutsune Hardclaw	1	71%	Break Claw
+Mizutsune Claw+		2	4%	Break Claw
+Mizutsune Purplefell	1	20%	Break Claw
+Mizutsune Shard		1	5%	Break Claw
+Mizutsune Purplefell	1	65%	Wound Tail
+Mizutsune Purplefur+	2	8%	Wound Tail
+Distilled Bubblefoam	1	21%	Wound Tail
+Mizutsune Pallium	1	2%	Wound Tail
+Mizutsune Water Orb	1	4%	Wound Tail
+Mizutsune Silkfin	1	62%	Wound Top Fin
+Mizutsune Fin+		2	10%	Wound Top Fin
+Mizutsune Purplefell	1	28%	Wound Top Fin

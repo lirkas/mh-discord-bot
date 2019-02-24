@@ -1,0 +1,71 @@
+﻿☆ Teostra - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Teostra Shell		1	45%	Body Carve
+Fire Dragon Scale	1	20%	Body Carve
+Teostra Mane		1	15%	Body Carve
+Fire Dragon Claw	1	10%	Body Carve
+Teostra Webbing		1	10%	Body Carve
+Teostra Tail		1	65%	Tail Carve
+Teostra Shell		1	12%	Tail Carve
+Elder Dragon Bone	1	23%	Tail Carve
+Dragon Treasure		1	75%	Shiny Drops
+Fire Dragon Scale	1	5%	Shiny Drops
+Elder Dragon Blood	1	20%	Shiny Drops
+Teostra Horn		1	90%	Wound Head
+Teostra Mane		2	10%	Wound Head
+Teostra Webbing		1	77%	Break Wingtalon
+Fire Dragon Claw	1	23%	Break Wingtalon
+
+☆ Teostra - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Teostra Carapace	1	45%	Body Carve
+Fire Dragon Scale+	1	20%	Body Carve
+Teostra Mane		1	8%	Body Carve
+Teostra Claw+		1	16%	Body Carve
+Teostra Webbing		1	8%	Body Carve
+Teostra Gem		1	3%	Body Carve
+Teostra Tail		1	60%	Tail Carve
+Teostra Carapace	1	12%	Tail Carve
+Elder Dragon Bone	1	23%	Tail Carve
+Teostra Gem		1	5%	Tail Carve
+Dragon Treasure		1	15%	Shiny Drops
+Old Dragon Treasure	1	15%	Shiny Drops
+Teostra Powder		1	60%	Shiny Drops
+Teostra Gem		1	2%	Shiny Drops
+Pure Dragon Blood	1	8%	Shiny Drops
+Teostra Horn+		1	85%	Wound Head
+Teostra Horn		1	5%	Wound Head
+Teostra Mane		2	8%	Wound Head
+Teostra Gem		1	2%	Wound Head
+Teostra Powder		1	50%	Break Wingtalon
+Teostra Webbing		1	20%	Break Wingtalon
+Teostra Claw+		1	25%	Break Wingtalon
+Fire Dragon Claw	2	5%	Break Wingtalon
+
+☆ Teostra - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Teostra Cortex		1	45%	Body Carve
+Flame Shard		1	24%	Body Carve
+Fire Dragon Scale+	1	8%	Body Carve
+Fire Dragon Hardclaw	1	18%	Body Carve
+Teostra Gem		1	3%	Body Carve
+Lrg Elder Dragon Gem	1	2%	Body Carve
+Teostra Lash		1	60%	Tail Carve
+Teostra Cortex		1	12%	Tail Carve
+Lrg ElderDragon Bone	1	21%	Tail Carve
+Teostra Gem		1	5%	Tail Carve
+Lrg Elder Dragon Gem	1	2%	Tail Carve
+Old Dragon Treasure	1	30%	Shiny Drops
+Teostra Powder		1	56%	Shiny Drops
+Teostra Gem		1	2%	Shiny Drops
+Viscous Dragon Blood	1	8%	Shiny Drops
+Lrg Elder Dragon Gem	1	4%	Shiny Drops
+Teostra Hardhorn	1	85%	Wound Head
+Teostra Horn+		1	5%	Wound Head
+Teostra Mane		2	6%	Wound Head
+Teostra Gem		1	2%	Wound Head
+Lrg Elder Dragon Gem	1	2%	Wound Head
+Teostra Powder		1	35%	Break Wingtalon
+Teostra Powder		2	25%	Break Wingtalon
+Fire Dragon Hardclaw	1	30%	Break Wingtalon
+Teostra Claw+		2	10%	Break Wingtalon

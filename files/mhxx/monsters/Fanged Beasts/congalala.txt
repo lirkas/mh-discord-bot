@@ -1,0 +1,49 @@
+﻿☆ Congalala - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Congalala Pelt+		1	63%	Body Carve
+Stoutbone		1	8%	Body Carve
+Congalala Fang		1	29%	Body Carve
+Territorial Dung	1	35%	Shiny Drops (Bone)
+Territorial Dung+	1	35%	Shiny Drops (Bone)
+Monster Bone+		1	20%	Shiny Drops (Bone)
+Monster Keenbone	1	10%	Shiny Drops (Bone)
+Territorial Dung	1	35%	Shiny Drops (Mushroom)
+Territorial Dung+	1	35%	Shiny Drops (Mushroom)
+Blue Mushroom		1	20%	Shiny Drops (Mushroom)
+Nitroshroom		1	10%	Shiny Drops (Mushroom)
+Territorial Dung	1	35%	Shiny Drops (Ore)
+Territorial Dung+	1	35%	Shiny Drops (Ore)
+Dragonite Ore		1	29%	Shiny Drops (Ore)
+Novacrystal		1	1%	Shiny Drops (Ore)
+Congalala Pelt+		1	40%	Capture
+Stoutbone		1	20%	Capture
+Congalala Fang		1	40%	Capture
+Congalala Pelt+		1	50%	Wound Head
+Vibrant Pelt		1	50%	Wound Head
+Congalala Claw+		1	100%	Break Claw
+
+☆ Congalala - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Congalala Fur		1	53%	Body Carve
+Congalala Pelt+		1	10%	Body Carve
+Massive Bone		1	8%	Body Carve
+Beastly Fang		1	29%	Body Carve
+Territorial Dung+	1	70%	Shiny Drops (Bone)
+Monster Keenbone	1	20%	Shiny Drops (Bone)
+Monster Toughbone	1	10%	Shiny Drops (Bone)
+Territorial Dung+	1	70%	Shiny Drops (Mushroom)
+Dragon Toadstool	1	10%	Shiny Drops (Mushroom)
+Blue Mushroom		1	10%	Shiny Drops (Mushroom)
+Nitroshroom		1	10%	Shiny Drops (Mushroom)
+Territorial Dung+	1	70%	Shiny Drops (Ore)
+Carbalite Ore		1	29%	Shiny Drops (Ore)
+Purecrystal		1	1%	Shiny Drops (Ore)
+Congalala Fur		1	40%	Capture
+Massive Bone		1	20%	Capture
+Beastly Fang		1	32%	Capture
+Congalala Fang		2	8%	Capture
+Congalala Fur		1	40%	Wound Head
+Vibrant Fur		1	50%	Wound Head
+Vibrant Pelt		2	10%	Wound Head
+Congalala Hardclaw	1	85%	Break Claw
+Congalala Claw+		2	15%	Break Claw

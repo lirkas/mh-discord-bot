@@ -1,0 +1,57 @@
+﻿☆ Arzuros - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Arzuros Pelt		1	65%	Body Carve
+Arzuros Shell		1	25%	Body Carve
+Jumbo Bone		1	10%	Body Carve
+Beast Tear		1	75%	Shiny Drops
+Arzuros Pelt		1	25%	Shiny Drops
+Honey			1	100%	Shiny Drops (Honey)
+Sushifish		1	85%	Shiny Drops (Fish)
+Goldenfish		1	15%	Shiny Drops (Fish)
+Arzuros Pelt		1	10%	Capture
+Arzuros Shell		1	45%	Capture
+Arzuros Brace		1	20%	Capture
+Jumbo Bone		2	25%	Capture
+Arzuros Brace		1	70%	Wound Wrist
+Arzuros Pelt		1	30%	Wound Wrist
+
+☆ Arzuros - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Arzuros Pelt+		1	60%	Body Carve
+Arzuros Pelt		1	10%	Body Carve
+Arzuros Carapace	1	20%	Body Carve
+Stoutbone		1	10%	Body Carve
+Beast Tear		1	38%	Shiny Drops
+Large Beast Tear	1	37%	Shiny Drops
+Arzuros Pelt+		1	25%	Shiny Drops
+Honey			1	100%	Shiny Drops (Honey)
+Sushifish		1	80%	Shiny Drops (Fish)
+Goldenfish		1	20%	Shiny Drops (Fish)
+Arzuros Pelt+		1	10%	Capture
+Arzuros Carapace	1	40%	Capture
+Arzuros Shell		2	10%	Capture
+Arzuros Brace+		1	20%	Capture
+Stoutbone		2	20%	Capture
+Arzuros Brace+		1	65%	Wound Wrist
+Arzuros Brace		2	10%	Wound Wrist
+Arzuros Pelt+		1	25%	Wound Wrist
+
+☆ Arzuros - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Arzuros Fur		1	60%	Body Carve
+Arzuros Pelt+		1	10%	Body Carve
+Arzuros Cortex		1	20%	Body Carve
+Massive Bone		1	10%	Body Carve
+Large Beast Tear	1	75%	Shiny Drops
+Arzuros Fur		1	25%	Shiny Drops
+Honey			1	100%	Shiny Drops (Honey)
+Sushifish		1	80%	Shiny Drops (Fish)
+Goldenfish		1	20%	Shiny Drops (Fish)
+Arzuros Fur		1	10%	Capture
+Arzuros Cortex		1	40%	Capture
+Arzuros Carapace	2	10%	Capture
+Arzuros Allbrace	1	20%	Capture
+Massive Bone		2	20%	Capture
+Arzuros Allbrace	1	65%	Wound Wrist
+Arzuros Brace+		2	10%	Wound Wrist
+Arzuros Fur		1	25%	Wound Wrist

@@ -1,0 +1,57 @@
+﻿☆ Barioth - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Barioth Pelt+		1	25%	Body Carve
+Barioth Carapace	1	40%	Body Carve
+Amber Fang+		1	15%	Body Carve
+Freezer Sac		1	20%	Body Carve
+Barioth Tail		1	65%	Tail Carve
+Barioth Spike		1	16%	Tail Carve
+Barioth Carapace	1	15%	Tail Carve
+Wyvern Gem		1	4%	Tail Carve
+Barioth Spike		1	15%	Shiny Drops
+Freezer Sac		1	11%	Shiny Drops
+Wyvern Tear		1	37%	Shiny Drops
+Large Wyvern Tear	1	37%	Shiny Drops
+Barioth Claw+		1	14%	Capture
+Amber Fang+		1	18%	Capture
+Barioth Pelt+		1	24%	Capture
+Barioth Spike		2	14%	Capture
+Freezer Sac		1	26%	Capture
+Wyvern Gem		1	4%	Capture
+Amber Fang+		1	60%	Break Tusk
+Barioth Carapace	1	25%	Break Tusk
+Freezer Sac		1	15%	Break Tusk
+Barioth Claw+		1	78%	Break Spike
+Barioth Spike		1	12%	Break Spike
+Barioth Pelt+		1	10%	Break Spike
+
+☆ Barioth - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Barioth Thickfur	1	25%	Body Carve
+Barioth Cortex		1	35%	Body Carve
+Barioth Carapace	1	8%	Body Carve
+Amber Hardfang		1	15%	Body Carve
+Cryo Sac		1	17%	Body Carve
+Barioth Lash		1	65%	Tail Carve
+Barioth Tail		1	10%	Tail Carve
+Barioth Spike		1	12%	Tail Carve
+Barioth Cortex		1	9%	Tail Carve
+Lrg Wyvern Gem		1	4%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Barioth Spike		1	15%	Shiny Drops
+Cryo Sac		1	10%	Shiny Drops
+Barioth Talon		1	14%	Capture
+Amber Hardfang		1	18%	Capture
+Barioth Thickfur	1	24%	Capture
+Barioth Spike		2	14%	Capture
+Cryo Sac		1	21%	Capture
+Lrg Wyvern Gem		1	4%	Capture
+Wyvern Gem		1	5%	Capture
+Amber Hardfang		1	60%	Break Tusk
+Amber Fang+		2	6%	Break Tusk
+Barioth Cortex		1	24%	Break Tusk
+Cryo Sac		1	10%	Break Tusk
+Barioth Talon		1	74%	Break Spike
+Barioth Claw+		2	8%	Break Spike
+Barioth Spike		1	10%	Break Spike
+Barioth Thickfur	1	8%	Break Spike

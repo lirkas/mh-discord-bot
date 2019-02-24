@@ -1,0 +1,22 @@
+﻿☆ Popo - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Raw Meat		1	30%	Body Carve
+Popo Tongue		1	45%	Body Carve
+Brute Bone		1	20%	Body Carve
+Jumbo Bone		1	5%	Body Carve
+
+☆ Popo - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Raw Meat		1	25%	Body Carve
+Popo Tongue		1	45%	Body Carve
+Brute Bone		1	8%	Body Carve
+Jumbo Bone		1	20%	Body Carve
+Stoutbone		1	2%	Body Carve
+
+☆ Popo - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Raw Meat		1	25%	Body Carve
+Popo Tongue		1	45%	Body Carve
+Brute Bone		1	8%	Body Carve
+Jumbo Bone		1	20%	Body Carve
+Stoutbone		1	2%	Body Carve

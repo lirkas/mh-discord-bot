@@ -1,0 +1,49 @@
+﻿☆ Alatreon - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Alatreon Scute		1	35%	Body Carve
+Alatreon Plate		1	22%	Body Carve
+Alatreon Talon		1	18%	Body Carve
+Pure Dragon Blood	1	10%	Body Carve
+Broken Skypiercer	1	12%	Body Carve
+Azure Dragongem		1	3%	Body Carve
+Alatreon Plate		1	36%	Tail Carve
+Alatreon Tail		1	60%	Tail Carve
+Azure Dragongem		1	4%	Tail Carve
+Skypiercer		1	50%	Break Horn
+Broken Skypiercer	1	40%	Break Horn
+Broken Skypiercer	2	10%	Break Horn
+Alatreon Webbing	1	75%	Wound Wing
+Alatreon Scute		1	15%	Wound Wing
+Alatreon Plate		1	10%	Wound Wing
+Alatreon Plate		1	33%	Wound Leg
+Alatreon Plate		2	5%	Wound Leg
+Alatreon Talon		1	52%	Wound Leg
+Alatreon Talon		2	10%	Wound Leg
+
+☆ Alatreon - MHXX G Rank
+Item			Qty	Prob.	How to obtain
+Alatreon Pallium	1	30%	Body Carve
+Alatreon Mantle		1	16%	Body Carve
+Alatreon Plate		1	8%	Body Carve
+Alatreon Riptalon	1	16%	Body Carve
+Viscous Dragon Blood	1	10%	Body Carve
+Skypiercer		1	12%	Body Carve
+Azure Dragonsphire	1	3%	Body Carve
+Azure Dragongem		1	5%	Body Carve
+Alatreon Mantle		1	21%	Tail Carve
+Alatreo Diretail	1	60%	Tail Carve
+Alatreon Tail		1	10%	Tail Carve
+Azure Dragonsphire	1	4%	Tail Carve
+Azure Dragongem		1	5%	Tail Carve
+Skyswayer		1	50%	Break Horn
+Skypiercer		1	40%	Break Horn
+Skypiercer		2	10%	Break Horn
+Alatreo Direwing	1	75%	Wound Wing
+Alatreon Webbing	1	10%	Wound Wing
+Alatreon Pallium	1	8%	Wound Wing
+Alatreon Mantle		1	7%	Wound Wing
+Alatreon Mantle		1	30%	Wound Leg
+Alatreon Mantle		2	5%	Wound Leg
+Alatreon Riptalon	1	45%	Wound Leg
+Alatreon Riptalon	2	10%	Wound Leg
+Alatreon Talon		2	10%	Wound Leg

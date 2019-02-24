@@ -1,0 +1,102 @@
+﻿☆ Astalos - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Astalos Scale		1	40%	Body Carve
+Astalos Shell		1	20%	Body Carve
+Astalos Membrane	1	20%	Body Carve
+Electroscale		1	16%	Body Carve
+Astalos Plate		1	4%	Body Carve
+Astalos Scissortail	1	80%	Tail Carve
+Electroscale		1	20%	Tail Carve
+Wyvern Tear		1	75%	Shiny Drops
+Astalos Scale		1	23%	Shiny Drops
+Astalos Plate		1	2%	Shiny Drops
+Astalos Shell		1	25%	Capture
+Astalos Membrane	1	30%	Capture
+Astalos Wingtalon	1	14%	Capture
+Astalos Scissortail	1	15%	Capture
+Electroscale		2	14%	Capture
+Astalos Plate		1	2%	Capture
+Astalos Crest		1	72%	Wound Head
+Electroscale		1	25%	Wound Head
+Astalos Plate		1	3%	Wound Head
+Astalos Shell		1	60%	Wound Back
+Astalos Scale		1	38%	Wound Back
+Astalos Plate		1	2%	Wound Back
+Astalos Wingtalon	2	25%	Break Wingtalon
+Astalos Membrane	1	65%	Break Wingtalon
+Electroscale		1	10%	Break Wingtalon
+
+☆ Astalos - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Astalos Scale+		1	35%	Body Carve
+Astalos Scale		1	8%	Body Carve
+Astalos Shell+		1	20%	Body Carve
+Astalos Membrane+	1	18%	Body Carve
+Electroscale+		1	16%	Body Carve
+Astalos Electrogem	1	3%	Body Carve
+Astalos Scissortail	1	70%	Tail Carve
+Electroscale+		1	20%	Tail Carve
+Electroscale		1	10%	Tail Carve
+Wyvern Tear		1	38%	Shiny Drops
+Large Wyvern Tear	1	37%	Shiny Drops
+Astalos Scale+		1	18%	Shiny Drops
+Astalos Electrogem	1	2%	Shiny Drops
+Astalos Plate		1	5%	Shiny Drops
+Astalos Shell+		1	22%	Capture
+Astalos Membrane+	1	28%	Capture
+Astalos Membrane	2	8%	Capture
+Astalos Wingtalon+	1	14%	Capture
+Astalos Scissortail	1	10%	Capture
+Electroscale+		2	12%	Capture
+Astalos Electrogem	1	2%	Capture
+Astalos Plate		1	4%	Capture
+Astalos Crest+		1	70%	Wound Head
+Astalos Crest		1	10%	Wound Head
+Electroscale+		1	17%	Wound Head
+Astalos Electrogem	1	3%	Wound Head
+Astalos Shell+		1	56%	Wound Back
+Astalos Shell		2	8%	Wound Back
+Astalos Scale+		1	30%	Wound Back
+Astalos Electrogem	1	2%	Wound Back
+Astalos Plate		1	4%	Wound Back
+Astalos Wingtalon+	2	20%	Break Wingtalon
+Astalos Wingtalon	2	10%	Break Wingtalon
+Astalos Membrane+	1	60%	Break Wingtalon
+Electroscale+		1	10%	Break Wingtalon
+
+☆ Astalos - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Astalos Shard		1	35%	Body Carve
+Astalos Scale+		1	8%	Body Carve
+Heavy Astalos Shell	1	20%	Body Carve
+Astalos Wingmembrane	1	18%	Body Carve
+Boltscale		1	16%	Body Carve
+Astalos Mantle		1	3%	Body Carve
+Astalos Scissortailblade	1	80%	Tail Carve
+Boltscale		1	15%	Tail Carve
+Electroscale+		1	5%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Astalos Shard		1	18%	Shiny Drops
+Astalos Mantle		1	2%	Shiny Drops
+Astalos Electrogem	1	5%	Shiny Drops
+Heavy Astalos Shell	1	22%	Capture
+Astalos Wingmembrane	1	28%	Capture
+Astalos Membrane+	2	8%	Capture
+Astalos Wingripper	1	14%	Capture
+Astalos Scissortailblade	1	10%	Capture
+Boltscale		1	12%	Capture
+Astalos Mantle		1	2%	Capture
+Astalos Electrogem	1	4%	Capture
+Heavy Astalos Crest+	1	70%	Wound Head
+Astalos Crest+		1	10%	Wound Head
+Boltscale		1	17%	Wound Head
+Astalos Mantle		1	3%	Wound Head
+Heavy Astalos Shell	1	56%	Wound Back
+Astalos Shell+		2	8%	Wound Back
+Astalos Shard		1	30%	Wound Back
+Astalos Mantle		1	2%	Wound Back
+Astalos Electrogem	1	4%	Wound Back
+Astalos Wingripper	2	20%	Break Wingtalon
+Astalos Wingtalon+	2	10%	Break Wingtalon
+Astalos Wingmembrane	1	60%	Break Wingtalon
+Boltscale		1	10%	Break Wingtalon

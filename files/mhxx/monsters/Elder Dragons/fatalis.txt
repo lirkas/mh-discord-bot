@@ -1,0 +1,10 @@
+﻿☆ Fatalis - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Fatalis Shard		1	30%	Body Carve
+Fatalis Cortex		1	62%	Body Carve
+Fatalis Hardhorn	1	8%	Body Carve
+Fatalis Hardhorn	1	100%	Break Horn
+Fatalis Evil Eye	1	100%	Wound Eye
+Fatalis Fellwing	1	100%	Wound Wing
+Fatalis Cortex		1	70%	Wound Breast
+Fatalis Shard		1	30%	Wound Breast

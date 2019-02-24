@@ -1,0 +1,24 @@
+﻿☆ Anteka - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Raw Meat		1	15%	Body Carve
+Warm Pelt		1	30%	Body Carve
+Anteka Antler		1	45%	Body Carve
+White Liver		1	10%	Body Carve
+Anteka Antler		1	100%	Body Carve (KO'd)
+
+☆ Anteka - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Raw Meat		1	10%	Body Carve
+High-quality Pelt	1	40%	Body Carve
+Warm Pelt		1	17%	Body Carve
+Anteka Antler		1	15%	Body Carve
+White Liver		1	18%	Body Carve
+Anteka Antler		1	100%	Body Carve (KO'd)
+
+☆ Anteka - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Raw Meat		1	10%	Body Carve
+Prized Pelt		1	50%	Body Carve
+Anteka Proud Antler	1	30%	Body Carve
+White Liver		1	10%	Body Carve
+Anteka Proud Antler	1	100%	Body Carve (KO'd)

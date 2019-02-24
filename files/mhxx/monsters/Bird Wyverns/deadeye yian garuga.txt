@@ -1,0 +1,183 @@
+﻿☆ Deadeye Yian Garuga - MHXX Lv 1~4
+Item			Qty	Prob.	How to obtain
+Deadeye Scale		1	48%	Body Carve
+Deadeye Shell		1	25%	Body Carve
+Garuga Mane		1	16%	Body Carve
+Garuga Wing		1	11%	Body Carve
+Garuga Tail		1	80%	Tail Carve
+Deadeye Scale		1	20%	Tail Carve
+Wyvern Tear		1	37%	Shiny Drops
+Large Wyvern Tear	1	37%	Shiny Drops
+Deadeye Scale		1	25%	Shiny Drops
+Garuga Wing		1	1%	Shiny Drops
+Deadeye Shell		2	12%	Capture
+Deadeye Shell		1	50%	Capture
+Rejuvenated Beak	1	15%	Capture
+Garuga Auricle		1	15%	Capture
+Garuga Tail		1	8%	Capture
+Rejuvenated Beak	1	70%	Wound Beak
+Sharpened Beak		1	15%	Wound Beak
+Deadeye Scale		1	15%	Wound Beak
+Garuga Auricle		1	75%	Wound Ears
+Garuga Ear		2	10%	Wound Ears
+Garuga Mane		2	15%	Wound Ears
+Garuga Wing		1	50%	Break Wingtalon
+Garuga Wing		2	35%	Break Wingtalon
+Deadeye Shell		1	15%	Break Wingtalon
+Garuga Mane		1	80%	Wound Back
+Deadeye Shell		1	20%	Wound Back
+
+☆ Deadeye Yian Garuga - MHXX Lv 5~8
+Item			Qty	Prob.	How to obtain
+Deadeye Scale+		1	20%	Body Carve
+Deadeye Scale		1	28%	Body Carve
+Deadeye Carapace	1	10%	Body Carve
+Deadeye Shell		1	15%	Body Carve
+Garuga Mane		1	16%	Body Carve
+Garuga Wing		1	11%	Body Carve
+Garuga Tail		1	70%	Tail Carve
+Deadeye Scale+		1	10%	Tail Carve
+Deadeye Scale		1	20%	Tail Carve
+Wyvern Tear		1	37%	Shiny Drops
+Large Wyvern Tear	1	37%	Shiny Drops
+Deadeye Scale+		1	10%	Shiny Drops
+Deadeye Scale		1	15%	Shiny Drops
+Garuga Wing		1	1%	Shiny Drops
+Deadeye Carapace	1	30%	Capture
+Deadeye Shell		2	32%	Capture
+Rejuvenated Beak	1	15%	Capture
+Garuga Auricle		1	15%	Capture
+Garuga Tail		1	8%	Capture
+Rejuvenated Beak	1	70%	Wound Beak
+Sharpened Beak		1	15%	Wound Beak
+Deadeye Scale+		1	5%	Wound Beak
+Deadeye Scale		1	10%	Wound Beak
+Garuga Auricle		1	75%	Wound Ears
+Garuga Ear		2	10%	Wound Ears
+Garuga Mane		2	15%	Wound Ears
+Garuga Wing		1	50%	Break Wingtalon
+Garuga Wing		2	35%	Break Wingtalon
+Deadeye Carapace	1	5%	Break Wingtalon
+Deadeye Shell		1	10%	Break Wingtalon
+Garuga Mane		1	70%	Wound Back
+Deadeye Carapace	1	20%	Wound Back
+Deadeye Shell		2	10%	Wound Back
+
+☆ Deadeye Yian Garuga - MHXX Lv 9~10	
+Item			Qty	Prob.	How to obtain
+Deadeye Scale+		1	48%	Body Carve
+Deadeye Carapace	1	25%	Body Carve
+Garuga Mane		1	16%	Body Carve
+Garuga Wing		1	11%	Body Carve
+Garuga Tail		1	80%	Tail Carve
+Deadeye Scale+		1	20%	Tail Carve
+Wyvern Tear		1	37%	Shiny Drops
+Large Wyvern Tear	1	37%	Shiny Drops
+Deadeye Scale+		1	25%	Shiny Drops
+Garuga Wing		1	1%	Shiny Drops
+Deadeye Carapace	2	12%	Capture
+Deadeye Carapace	1	50%	Capture
+Rejuvenated Beak	1	15%	Capture
+Garuga Auricle		1	15%	Capture
+Garuga Tail		1	8%	Capture
+Rejuvenated Beak	1	70%	Wound Beak
+Sharpened Beak		1	15%	Wound Beak
+Deadeye Scale+		1	15%	Wound Beak
+Garuga Auricle		1	75%	Wound Ears
+Garuga Ear		2	10%	Wound Ears
+Garuga Mane		2	15%	Wound Ears
+Garuga Wing		1	50%	Break Wingtalon
+Garuga Wing		2	35%	Break Wingtalon
+Deadeye Carapace	1	15%	Break Wingtalon
+Garuga Mane		1	70%	Wound Back
+Deadeye Carapace	1	30%	Wound Back
+
+☆ Deadeye Yian Garuga - MHXX Lv 11~12	
+Item			Qty	Prob.	How to obtain
+Deadeye Shard		1	20%	Body Carve
+Deadeye Scale+		1	28%	Body Carve
+Deadeye Carapace	1	25%	Body Carve
+Garuga Silverpelt	1	16%	Body Carve
+Garuga Fellwing		1	11%	Body Carve
+Garuga Lash		1	70%	Tail Carve
+Deadeye Shard		1	10%	Tail Carve
+Deadeye Scale+		1	20%	Tail Carve
+Large Wyvern Tear	1	74%	Shiny Drops
+Deadeye Shard		1	10%	Shiny Drops
+Deadeye Scale+		1	15%	Shiny Drops
+Garuga Fellwing		1	1%	Shiny Drops
+Deadeye Carapace	2	12%	Capture
+Deadeye Carapace	1	50%	Capture
+Rejuvenated Beak	1	15%	Capture
+Garuga Auricle		1	15%	Capture
+Garuga Lash		1	8%	Capture
+Rejuvenated Beak	1	70%	Wound Beak
+Deadeye Shard		1	20%	Wound Beak
+Deadeye Scale+		1	10%	Wound Beak
+Garuga Auricle		1	53%	Wound Ears
+Garuga Auricle		2	22%	Wound Ears
+Garuga Silverpelt	1	25%	Wound Ears
+Garuga Fellwing		1	85%	Break Wingtalon
+Deadeye Carapace	1	15%	Break Wingtalon
+Garuga Silverpelt	1	80%	Wound Back
+Deadeye Carapace	1	20%	Wound Back
+
+☆ Deadeye Yian Garuga - MHXX Lv 13~15	
+Item			Qty	Prob.	How to obtain
+Deadeye Shard		1	20%	Body Carve
+Deadeye Scale+		1	28%	Body Carve
+Deadeye Cortex		1	10%	Body Carve
+Deadeye Carapace	1	15%	Body Carve
+Garuga Silverpelt	1	16%	Body Carve
+Garuga Fellwing		1	11%	Body Carve
+Garuga Lash		1	70%	Tail Carve
+Deadeye Shard		1	10%	Tail Carve
+Deadeye Scale+		1	20%	Tail Carve
+Large Wyvern Tear	1	74%	Shiny Drops
+Deadeye Shard		1	10%	Shiny Drops
+Deadeye Scale+		1	15%	Shiny Drops
+Garuga Fellwing		1	1%	Shiny Drops
+Deadeye Cortex		1	30%	Capture
+Deadeye Carapace	2	32%	Capture
+Rejuvenated Beak	1	12%	Capture
+Garuga Auricle		2	8%	Capture
+Garuga Lash		1	18%	Capture
+Rejuvenated Beak	1	70%	Wound Beak
+Deadeye Shard		1	20%	Wound Beak
+Deadeye Scale+		1	10%	Wound Beak
+Garuga Auricle		1	53%	Wound Ears
+Garuga Auricle		2	22%	Wound Ears
+Garuga Silverpelt	1	25%	Wound Ears
+Garuga Fellwing		1	85%	Break Wingtalon
+Deadeye Cortex		1	5%	Break Wingtalon
+Deadeye Carapace	1	10%	Break Wingtalon
+Garuga Silverpelt	1	70%	Wound Back
+Deadeye Cortex		1	20%	Wound Back
+Deadeye Carapace	2	10%	Wound Back
+
+☆ Deadeye Yian Garuga - MHXX Lv Ex
+Item			Qty	Prob.	How to obtain
+Deadeye Shard		1	48%	Body Carve
+Deadeye Cortex		1	25%	Body Carve
+Garuga Silverpelt	1	16%	Body Carve
+Garuga Fellwing		1	11%	Body Carve
+Garuga Lash		1	80%	Tail Carve
+Deadeye Shard		1	20%	Tail Carve
+Large Wyvern Tear	1	74%	Shiny Drops
+Deadeye Shard		1	25%	Shiny Drops
+Garuga Fellwing		1	1%	Shiny Drops
+Deadeye Carapace	2	12%	Capture
+Deadeye Cortex		1	50%	Capture
+Rejuvenated Beak	1	12%	Capture
+Garuga Auricle		2	8%	Capture
+Garuga Lash		1	18%	Capture
+Rejuvenated Beak	2	70%	Wound Beak
+Deadeye Shard		1	30%	Wound Beak
+Garuga Auricle		1	53%	Wound Ears
+Garuga Auricle		2	22%	Wound Ears
+Garuga Silverpelt	2	25%	Wound Ears
+Garuga Fellwing		1	50%	Break Wingtalon
+Garuga Fellwing		2	25%	Break Wingtalon
+Deadeye Cortex		1	25%	Break Wingtalon
+Garuga Silverpelt	1	70%	Wound Back
+Deadeye Cortex		1	30%	Wound Back

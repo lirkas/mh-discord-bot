@@ -1,0 +1,72 @@
+﻿☆ Zamtrios - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Zamtrios Scale+		1	30%	Body Carve
+Zamtrios Sawtooth	1	8%	Body Carve
+Zamtrios Hide+		1	20%	Body Carve
+Freezer Sac		1	16%	Body Carve
+Zamtrios Fin+		1	18%	Body Carve
+Zamtrios Tailblade	1	8%	Body Carve
+Toad Tear		1	30%	Shiny Drops
+Large Toad Tear		1	10%	Shiny Drops
+Zamtrios Scale+		1	10%	Shiny Drops
+Freezer Sac		1	30%	Shiny Drops
+Paddock Oil+		1	20%	Shiny Drops
+Ice Crystal		1	75%	Shiny Drops (Breaking Ice)
+Paddock Oil		1	10%	Shiny Drops (Breaking Ice)
+Freezer Sac		1	15%	Shiny Drops (Breaking Ice)
+Zamtrios Hide+		1	38%	Capture
+Zamtrios Scale+		1	16%	Capture
+Zamtrios Sawtooth	1	10%	Capture
+Freezer Sac		1	24%	Capture
+Paddock Oil+		1	8%	Capture
+Paddock Oil+		2	4%	Capture
+Zamtrios Sawtooth	1	100%	Wound Head
+Zamtrios Scale+		1	24%	Wound Top Fin
+Zamtrios Fin+		1	65%	Wound Top Fin
+Zamtrios Hide+		1	11%	Wound Top Fin
+Zamtrios Fin+		1	40%	Wound Front Leg
+Zamtrios Scale+		1	36%	Wound Front Leg
+Zamtrios Hide+		1	24%	Wound Front Leg
+Zamtrios Scale+		1	10%	Wound Tail
+Zamtrios Tailblade	1	85%	Wound Tail
+Zamtrios Hide+		1	5%	Wound Tail
+
+☆ Zamtrios - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Zamtrios Shard		1	27%	Body Carve
+Zamtrios Scale+		1	8%	Body Carve
+Zamtrios Sawtooth+	1	8%	Body Carve
+Zamtrios Piel		1	20%	Body Carve
+Cryo Sac		1	14%	Body Carve
+Zamtrios Grandfin	1	15%	Body Carve
+Zamtrios Tailbrand	1	8%	Body Carve
+Large Toad Tear		1	35%	Shiny Drops
+Zamtrios Shard		1	10%	Shiny Drops
+Cryo Sac		1	25%	Shiny Drops
+Freezer Sac		1	10%	Shiny Drops
+Paddock Cream		1	20%	Shiny Drops
+Ice Crystal		1	75%	Shiny Drops (Breaking Ice)
+Paddock Oil+		1	10%	Shiny Drops (Breaking Ice)
+Cryo Sac		1	15%	Shiny Drops (Breaking Ice)
+Zamtrios Piel		1	38%	Capture
+Zamtrios Shard		1	16%	Capture
+Zamtrios Sawtooth+	1	10%	Capture
+Cryo Sac		1	20%	Capture
+Paddock Cream		1	8%	Capture
+Paddock Cream		2	4%	Capture
+Paddock Oil+		2	4%	Capture
+Zamtrios Sawtooth+	1	90%	Wound Head
+Zamtrios Sawtooth	1	10%	Wound Head
+Zamtrios Shard		1	18%	Wound Top Fin
+Zamtrios Grandfin	1	63%	Wound Top Fin
+Zamtrios Fin+		1	4%	Wound Top Fin
+Zamtrios Piel		1	11%	Wound Top Fin
+Zamtrios Hide+		1	4%	Wound Top Fin
+Zamtrios Grandfin	1	40%	Wound Front Leg
+Zamtrios Shard		1	30%	Wound Front Leg
+Zamtrios Piel		1	20%	Wound Front Leg
+Zamtrios Hide+		1	10%	Wound Front Leg
+Zamtrios Shard		1	10%	Wound Tail
+Zamtrios Tailbrand	1	75%	Wound Tail
+Zamtrios Tailblade	1	10%	Wound Tail
+Zamtrios Piel		1	5%	Wound Tail

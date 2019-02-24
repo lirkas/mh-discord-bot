@@ -1,0 +1,53 @@
+﻿☆ Savage Deviljho - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Deviljho Scale		1	25%	Body Carve
+Deviljho Hide		1	18%	Body Carve
+Deviljho Tallfang	1	10%	Body Carve
+Deviljho Talon		1	12%	Body Carve
+Spattered Hide		1	32%	Body Carve
+Deviljho Gem		1	3%	Body Carve
+Deviljho Scale		1	26%	Tail Carve
+Deviljho Tail		1	55%	Tail Carve
+Spattered Hide		1	15%	Tail Carve
+Deviljho Gem		1	4%	Tail Carve
+Large Wyvern Tear	1	56%	Shiny Drops
+Deviljho Talon		1	42%	Shiny Drops
+Deviljho Gem		1	2%	Shiny Drops
+Black Blood		2	7%	Capture
+Black Blood		1	23%	Capture
+Deviljho Hide		1	20%	Capture
+Deviljho Talon		2	10%	Capture
+Deviljho Scalp		1	35%	Capture
+Deviljho Gem		1	5%	Capture
+Deviljho Scalp		1	45%	Wound Head
+Deviljho Tallfang	1	35%	Wound Head
+Deviljho Tallfang	2	20%	Wound Head
+
+☆ Savage Deviljho - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Deviljho Shard		1	21%	Body Carve
+Deviljho Blackpiel	1	18%	Body Carve
+Vile Fang		1	10%	Body Carve
+Deviljho Ripper		1	12%	Body Carve
+Bloodied Ebonhide	1	32%	Body Carve
+Deviljho Crook		1	3%	Body Carve
+Deviljho Gem		1	4%	Body Carve
+Deviljho Shard		1	21%	Tail Carve
+Deviljho Flail		1	55%	Tail Carve
+Bloodied Ebonhide	1	15%	Tail Carve
+Deviljho Crook		1	4%	Tail Carve
+Deviljho Gem		1	5%	Tail Carve
+Large Wyvern Tear	1	53%	Shiny Drops
+Deviljho Ripper		1	42%	Shiny Drops
+Deviljho Crook		1	2%	Shiny Drops
+Deviljho Gem		1	3%	Shiny Drops
+Black Blood		2	7%	Capture
+Black Blood		1	23%	Capture
+Bloodied Ebonhide	1	20%	Capture
+Deviljho Ripper		2	10%	Capture
+Deviljho Scalp		1	29%	Capture
+Deviljho Crook		1	5%	Capture
+Deviljho Gem		1	6%	Capture
+Deviljho Scalp		1	45%	Wound Head
+Vile Fang		1	35%	Wound Head
+Vile Fang		2	20%	Wound Head

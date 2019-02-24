@@ -1,0 +1,67 @@
+﻿☆ Silver Rathalos - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+S.Rathalos Scale+	1	43%	Body Carve
+S.Rathalos Carapace	1	30%	Body Carve
+Inferno Sac		1	12%	Body Carve
+Rath Medulla		1	3%	Body Carve
+Rath Gleam		1	12%	Body Carve
+S.Rathalos Scale+	1	15%	Tail Carve
+S.Rathalos Tail		1	68%	Tail Carve
+Rathalos Ruby		1	5%	Tail Carve
+Rathalos Plate		1	12%	Tail Carve
+Wyvern Tear		1	38%	Shiny Drops
+Large Wyvern Tear	1	37%	Shiny Drops
+S.Rathalos Scale+	1	12%	Shiny Drops
+Rath Gleam		1	10%	Shiny Drops
+Rathalos Ruby		1	3%	Shiny Drops
+S.Rathalos Carapace	1	40%	Capture
+S.Rathalos Scale+	2	25%	Capture
+S.Rathalos Tail		1	10%	Capture
+Rath Gleam		1	18%	Capture
+Rathalos Ruby		1	7%	Capture
+S.Rathalos Scale+	1	50%	Wound Head
+S.Rathalos Carapace	1	25%	Wound Head
+Rath Gleam		2	15%	Wound Head
+Rathalos Plate		1	6%	Wound Head
+Rathalos Ruby		1	4%	Wound Head
+Rath Wingtalon		4	60%	Wound Wing
+Wyvern Claw		5	15%	Wound Wing
+Rathalos Wing		2	10%	Wound Wing
+S.Rathalos Scale+	1	15%	Wound Wing
+S.Rathalos Carapace	1	67%	Wound Back
+Rath Gleam		1	30%	Wound Back
+Rathalos Ruby		1	3%	Wound Back
+
+☆ Silver Rathalos - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+S.Rathalos Shard	1	43%	Body Carve
+S.Rath Cortex		1	30%	Body Carve
+Conflagrant Sac		1	12%	Body Carve
+Rath Medulla		1	3%	Body Carve
+Firegleam Dollop	1	12%	Body Carve
+S.Rathalos Shard	1	15%	Tail Carve
+S.Rath Lash		1	68%	Tail Carve
+Rathalos Mantle		1	5%	Tail Carve
+Rathalos Ruby		1	12%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+S.Rathalos Shard	1	12%	Shiny Drops
+Firegleam Dollop	1	10%	Shiny Drops
+Rathalos Mantle		1	3%	Shiny Drops
+S.Rath Cortex		1	38%	Capture
+S.Rathalos Shard	2	23%	Capture
+S.Rath Lash		1	8%	Capture
+Rath Gleam		2	8%	Capture
+Firegleam Dollop	1	16%	Capture
+Rathalos Mantle		1	7%	Capture
+S.Rathalos Shard	1	45%	Wound Head
+S.Rath Cortex		1	22%	Wound Head
+Rath Gleam		2	8%	Wound Head
+Firegleam Dollop	2	15%	Wound Head
+Rathalos Ruby		1	6%	Wound Head
+Rathalos Mantle		1	4%	Wound Head
+Rath Wingtalon+		2	70%	Wound Wing
+Rathalos Fellwing	2	12%	Wound Wing
+S.Rathalos Shard	1	18%	Wound Wing
+S.Rath Cortex		1	67%	Wound Back
+Firegleam Dollop	1	30%	Wound Back
+Rathalos Mantle		1	3%	Wound Back

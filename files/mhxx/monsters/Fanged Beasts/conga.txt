@@ -1,0 +1,18 @@
+﻿☆ Conga - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Conga Pelt+		1	50%	Body Carve
+Sharp Claw		1	25%	Body Carve
+Brute Bone		1	25%	Body Carve
+
+☆ Conga - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Conga Pelt+		1	50%	Body Carve
+Sharp Claw		1	25%	Body Carve
+Jumbo Bone		1	25%	Body Carve
+
+☆ Conga - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Conga Fur		1	52%	Body Carve
+Conga Pelt+		1	10%	Body Carve
+Piercing Claw		1	23%	Body Carve
+Jumbo Bone		1	15%	Body Carve

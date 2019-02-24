@@ -1,0 +1,57 @@
+﻿☆ Blangonga - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Blangonga Pelt		1	63%	Body Carve
+Blangonga Whisker	1	21%	Body Carve
+Blangonga Fang		1	8%	Body Carve
+Jumbo Bone		1	8%	Body Carve
+Territorial Dung	1	75%	Shiny Drops
+Dung			1	5%	Shiny Drops
+Blangonga Pelt		1	20%	Shiny Drops
+Blangonga Pelt		1	35%	Capture
+Blangonga Whisker	1	40%	Capture
+Blangonga Tail		1	10%	Capture
+Jumbo Bone		2	15%	Capture
+Blangonga Fang		1	100%	Break Tusk
+Blangonga Pelt		1	35%	Wound Tail
+Blangonga Tail		1	65%	Wound Tail
+
+☆ Blangonga - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Blangonga Pelt+		1	60%	Body Carve
+Blangonga Pelt		1	5%	Body Carve
+Blangonga Whisker	1	12%	Body Carve
+Blangonga Fang		1	13%	Body Carve
+Stoutbone		1	10%	Body Carve
+Territorial Dung	1	38%	Shiny Drops
+Territorial Dung+	1	37%	Shiny Drops
+Dung			1	5%	Shiny Drops
+Blangonga Pelt+		1	20%	Shiny Drops
+Blangonga Pelt+		1	40%	Capture
+Blangonga Whisker	2	25%	Capture
+Blangonga Tail		1	15%	Capture
+Stoutbone		2	20%	Capture
+Blangonga Fang+		1	60%	Break Tusk
+Blangonga Fang+		2	20%	Break Tusk
+Blangonga Fang		2	20%	Break Tusk
+Blangonga Pelt+		1	35%	Wound Tail
+Blangonga Tail		1	65%	Wound Tail
+
+☆ Blangonga - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Blangonga Fur		1	58%	Body Carve
+Blangonga Pelt+		1	5%	Body Carve
+Leather Beast Pelt	1	21%	Body Carve
+Blangonga Fang+		1	8%	Body Carve
+Massive Bone		1	8%	Body Carve
+Territorial Dung+	1	75%	Shiny Drops
+Dung			1	5%	Shiny Drops
+Blangonga Fur		1	20%	Shiny Drops
+Blangonga Fur		1	35%	Capture
+Leather Beast Pelt	1	40%	Capture
+Blangonga Lash		1	10%	Capture
+Massive Bone		2	15%	Capture
+Blangonga Hardfang	1	60%	Break Tusk
+Blangonga Hardfang	2	20%	Break Tusk
+Blangonga Fang+		2	20%	Break Tusk
+Blangonga Fur		1	35%	Wound Tail
+Blangonga Lash		1	65%	Wound Tail

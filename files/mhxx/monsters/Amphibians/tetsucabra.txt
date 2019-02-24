@@ -1,0 +1,74 @@
+﻿☆ Tetsucabra - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Tetsucabra Scale	1	35%	Body Carve
+Tetsucabra Shell	1	22%	Body Carve
+Tetsucabra Claw		1	18%	Body Carve
+Jumbo Bone		1	10%	Body Carve
+Dignified Skull		1	15%	Body Carve
+Toad Tear		1	75%	Shiny Drops
+Paddock Oil		1	25%	Shiny Drops
+Tetsucabra Scale	1	10%	Capture
+Tetsucabra Shell	1	15%	Capture
+Tetsucabra Claw		1	10%	Capture
+Tetsucabra Tusks	1	20%	Capture
+Jumbo Bone		1	20%	Capture
+Paddock Oil		1	25%	Capture
+Tetsucabra Tusks	1	80%	Wound Jaw
+Dignified Skull		1	20%	Wound Jaw
+Tetsucabra Claw		1	65%	Wound Hind Leg
+Tetsucabra Scale	1	35%	Wound Hind Leg
+Tetsucabra Scale	1	70%	Wound Back
+Tetsucabra Shell	1	30%	Wound Back
+
+☆ Tetsucabra - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Tetsucabra Scale+	1	34%	Body Carve
+Tetsucabra Carapace	1	20%	Body Carve
+Tetsucabra Claw+	1	18%	Body Carve
+Stoutbone		1	10%	Body Carve
+Dignified Skull		1	18%	Body Carve
+Toad Tear		1	38%	Shiny Drops
+Large Toad Tear		1	37%	Shiny Drops
+Paddock Oil+		1	25%	Shiny Drops
+Tetsucabra Scale+	1	10%	Capture
+Tetsucabra Carapace	1	15%	Capture
+Tetsucabra Claw+	1	10%	Capture
+Tetsucabra Tusks+	1	20%	Capture
+Stoutbone		1	20%	Capture
+Paddock Oil+		1	25%	Capture
+Tetsucabra Tusks+	1	60%	Wound Jaw
+Tetsucabra Tusks	2	15%	Wound Jaw
+Dignified Skull		1	25%	Wound Jaw
+Tetsucabra Claw+	1	60%	Wound Hind Leg
+Tetsucabra Claw		2	10%	Wound Hind Leg
+Tetsucabra Scale+	1	30%	Wound Hind Leg
+Tetsucabra Scale	2	10%	Wound Back
+Tetsucabra Scale+	1	60%	Wound Back
+Tetsucabra Shell	2	10%	Wound Back
+Tetsucabra Carapace	1	20%	Wound Back
+
+☆ Tetsucabra - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Tetsucabra Shard	1	34%	Body Carve
+Tetsucabra Cortex	1	20%	Body Carve
+Tetsucabra Hardclaw	1	18%	Body Carve
+Massive Bone		1	10%	Body Carve
+Vicious Visage		1	18%	Body Carve
+Large Toad Tear		1	75%	Shiny Drops
+Paddock Cream		1	25%	Shiny Drops
+Tetsucabra Shard	1	10%	Capture
+Tetsucabra Cortex	1	15%	Capture
+Tetsucabra Hardclaw	1	10%	Capture
+Tetsucabra Gnawr	1	20%	Capture
+Massive Bone		1	20%	Capture
+Paddock Cream		1	25%	Capture
+Tetsucabra Gnawrl	1	60%	Wound Jaw
+Tetsucabra Tusks+	2	15%	Wound Jaw
+Vicious Visage		1	25%	Wound Jaw
+Tetsucabra Hardclaw	1	60%	Wound Hind Leg
+Tetsucabra Claw+	2	10%	Wound Hind Leg
+Tetsucabra Shard	1	30%	Wound Hind Leg
+Tetsucabra Scale+	2	10%	Wound Back
+Tetsucabra Shard	1	60%	Wound Back
+Tetsucabra Carapace	2	10%	Wound Back
+Tetsucabra Cortex	1	20%	Wound Back

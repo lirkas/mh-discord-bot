@@ -1,0 +1,51 @@
+﻿☆ Cephadrome - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Wyvern Tear		1	70%	Body Carve
+Cephalos Scale		1	20%	Body Carve
+Piscine Liver		1	10%	Body Carve
+Cephalos Scale		1	25%	Capture
+Cephalos Fin		1	35%	Capture
+Cephalos Fang		1	15%	Capture
+Monster Bone M		1	25%	Capture
+Cephalos Fin		1	100%	Wound Top Fin
+Cephalos Fang		1	75%	Wound Head
+Cephalos Fang		2	25%	Wound Head
+Cephalos Scale		1	60%	Wound Tail
+Cephalos Fin		1	40%	Wound Tail
+
+☆ Cephadrome - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Wyvern Tear		1	35%	Body Carve
+Large Wyvern Tear	1	35%	Body Carve
+Cephalos Scale+		1	20%	Body Carve
+Piscine Liver		1	10%	Body Carve
+Cephalos Scale+		1	25%	Capture
+Cephalos Fin+		1	35%	Capture
+Cephalos Fang+		1	15%	Capture
+Monster Keenbone	1	25%	Capture
+Cephalos Fin+		1	85%	Wound Top Fin
+Cephalos Fin		2	15%	Wound Top Fin
+Cephalos Fang+		1	65%	Wound Head
+Cephalos Fang+		2	20%	Wound Head
+Cephalos Fang		2	15%	Wound Head
+Cephalos Scale+		1	55%	Wound Tail
+Cephalos Scale		2	10%	Wound Tail
+Cephalos Fin+		1	35%	Wound Tail
+
+☆ Cephadrome - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Large Wyvern Tear	1	70%	Body Carve
+Cephalos Shard		1	20%	Body Carve
+Piscine Liver		1	10%	Body Carve
+Cephalos Shard		1	25%	Capture
+Cephalos Grandfin	1	35%	Capture
+Cephalos Hardfang	1	15%	Capture
+Monster Toughbone	1	25%	Capture
+Cephalos Grandfin	1	85%	Wound Top Fin
+Cephalos Fin+		2	15%	Wound Top Fin
+Cephalos Hardfang	1	65%	Wound Head
+Cephalos Hardfang	2	20%	Wound Head
+Cephalos Fang+		2	15%	Wound Head
+Cephalos Shard		1	55%	Wound Tail
+Cephalos Scale+		2	10%	Wound Tail
+Cephalos Grandfin	1	35%	Wound Tail

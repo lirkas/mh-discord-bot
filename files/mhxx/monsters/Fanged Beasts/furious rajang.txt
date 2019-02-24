@@ -1,0 +1,41 @@
+﻿☆ Furious Rajang - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Rajang Blackfur		1	20%	Body Carve
+Rajang Fang+		1	26%	Body Carve
+Rajang Claw+		1	16%	Body Carve
+Gold Rajang Pelt	1	12%	Body Carve
+Rajang Ragehair		1	18%	Body Carve
+Rajang Nerve		1	8%	Body Carve
+Large Beast Tear	1	70%	Shiny Drops
+Gold Rajang Pelt	1	18%	Shiny Drops
+Rajang Ragehair		1	12%	Shiny Drops
+Rajang Blackfur		1	33%	Capture
+Rajang Fang+		1	15%	Capture
+Rajang Claw+		1	12%	Capture
+Gold Rajang Pelt	1	15%	Capture
+Rajang Ragehair		1	25%	Capture
+Rajang Horn+		1	20%	Break Horns
+Ghoulish Gold Horn	1	80%	Break Horns
+
+☆ Furious Rajang - MHXX G Rank	
+Item	Qty	Prob.	How to obtain
+Rajang Wildpelt		1	20%	Body Carve
+Rajang Hardfang		1	24%	Body Carve
+Rajang Hardclaw		1	14%	Body Carve
+Gold Rajang Pelt+	1	12%	Body Carve
+Rajang Apoplexy		1	18%	Body Carve
+Rajang Heart		1	8%	Body Carve
+Rajang Nerve		1	4%	Body Carve
+Large Beast Tear	1	70%	Shiny Drops
+Gold Rajang Pelt+	1	18%	Shiny Drops
+Rajang Apoplexy		1	12%	Shiny Drops
+Rajang Wildpelt		1	25%	Capture
+Rajang Hardfang		1	13%	Capture
+Rajang Hardclaw		1	12%	Capture
+Gold Rajang Pelt+	1	15%	Capture
+Gold Rajang Pelt	2	8%	Capture
+Rajang Apoplexy		1	22%	Capture
+Rajang Ragehair		2	5%	Capture
+Rajang Hardhorn		1	10%	Break Horns
+Ghoulish Gold Gorer	1	80%	Break Horns
+Ghoulish Gold Horn	1	10%	Break Horns

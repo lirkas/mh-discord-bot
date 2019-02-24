@@ -1,0 +1,55 @@
+﻿☆ Volvidon - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Volvidon Shell		1	40%	Body Carve
+Volvidon Claw		1	20%	Body Carve
+Volvi Rickrack		1	25%	Body Carve
+Paralysis Sac		1	15%	Body Carve
+Beast Tear		1	75%	Shiny Drops
+Volvi Rickrack		1	10%	Shiny Drops
+Paralysis Sac		1	15%	Shiny Drops
+Volvidon Shell		1	30%	Capture
+Volvidon Claw		1	20%	Capture
+Volvidon Claw		2	15%	Capture
+Paralysis Sac		2	20%	Capture
+Jumbo Bone		2	15%	Capture
+Volvi Rickrack		1	60%	Wound Back
+Volvidon Shell		1	40%	Wound Back
+
+☆ Volvidon - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Volvidon Carapace	1	37%	Body Carve
+Volvidon Claw+		1	20%	Body Carve
+Volvi Rickrack		1	28%	Body Carve
+Omniplegia Sac		1	15%	Body Carve
+Beast Tear		1	38%	Shiny Drops
+Large Beast Tear	1	37%	Shiny Drops
+Volvi Rickrack		1	10%	Shiny Drops
+Omniplegia Sac		1	15%	Shiny Drops
+Volvidon Carapace	1	28%	Capture
+Volvidon Claw+		1	20%	Capture
+Volvidon Claw+		2	12%	Capture
+Volvidon Claw		2	15%	Capture
+Omniplegia Sac		1	20%	Capture
+Paralysis Sac		2	5%	Capture
+Volvi Rickrack		2	52%	Wound Back
+Volvidon Carapace	1	40%	Wound Back
+Volvidon Shell		2	8%	Wound Back
+
+☆ Volvidon - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Volvidon Cortex		1	40%	Body Carve
+Volvidon Talon		1	20%	Body Carve
+Large Volvi Rickrack	1	25%	Body Carve
+Ultraplegia Sac		1	15%	Body Carve
+Large Beast Tear	1	75%	Shiny Drops
+Large Volvi Rickrack	1	10%	Shiny Drops
+Ultraplegia Sac		1	15%	Shiny Drops
+Volvidon Cortex		1	28%	Capture
+Volvidon Talon		1	20%	Capture
+Volvidon Talon		2	12%	Capture
+Volvidon Claw+		2	15%	Capture
+Ultraplegia Sac		1	20%	Capture
+Omniplegia Sac		2	5%	Capture
+Large Volvi Rickrack	1	60%	Wound Back
+Volvidon Cortex		1	34%	Wound Back
+Volvidon Carapace	2	6%	Wound Back

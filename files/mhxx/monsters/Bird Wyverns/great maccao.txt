@@ -1,0 +1,66 @@
+﻿☆ Great Maccao - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Great Maccao Scale	1	45%	Body Carve
+Great Maccao Hide	1	30%	Body Carve
+Maccao Tailspike	1	9%	Body Carve
+Maccao Scale		1	16%	Body Carve
+Wyvern Tear		1	75%	Shiny Drops
+Maccao Scale		1	25%	Shiny Drops
+Great Maccao Scale	1	25%	Capture
+Great Maccao Hide	1	40%	Capture
+Maccao Tailspike	1	20%	Capture
+Champion's Crest	1	15%	Capture
+Champion's Crest	2	10%	Wound Head
+Champion's Crest	1	70%	Wound Head
+Great Maccao Hide	1	20%	Wound Head
+Maccao Tailspike	2	20%	Wound Tail
+Maccao Tailspike	1	80%	Wound Tail
+
+☆ Great Maccao - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Great Maccao Scale+	1	45%	Body Carve
+Great Maccao Hide+	1	30%	Body Carve
+Maccao Tailspike	1	9%	Body Carve
+Great Maccao Scale	1	16%	Body Carve
+Wyvern Tear		1	50%	Shiny Drops
+Large Wyvern Tear	1	25%	Shiny Drops
+Great Maccao Scale+	1	23%	Shiny Drops
+Bird Wyvern Gem		1	2%	Shiny Drops
+Great Maccao Scale+	1	20%	Capture
+Great Maccao Hide+	1	40%	Capture
+Great Maccao Hide	2	8%	Capture
+Maccao Tailspike	1	13%	Capture
+Champion's Crest	1	15%	Capture
+Bird Wyvern Gem		1	4%	Capture
+Champion's Crest	2	25%	Wound Head
+Champion's Crest	1	45%	Wound Head
+Great Maccao Hide+	1	20%	Wound Head
+Bird Wyvern Gem		1	10%	Wound Head
+Maccao Tailspike	2	40%	Wound Tail
+Maccao Tailspike	1	60%	Wound Tail
+
+☆ Great Maccao - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Great Maccao Shard	1	45%	Body Carve
+Great Maccao Piel	1	30%	Body Carve
+Maccao Tailspear	1	9%	Body Carve
+Great Maccao Scale+	1	16%	Body Carve
+Large Wyvern Tear	1	73%	Shiny Drops
+Great Maccao Shard	1	23%	Shiny Drops
+Fey Wyvern Gem		1	2%	Shiny Drops
+Bird Wyvern Gem		1	2%	Shiny Drops
+Great Maccao Shard	1	18%	Capture
+Great Maccao Piel	1	38%	Capture
+Great Maccao Hide+	2	8%	Capture
+Maccao Tailspear	1	13%	Capture
+Glorious Crest		1	15%	Capture
+Fey Wyvern Gem		1	4%	Capture
+Bird Wyvern Gem		1	4%	Capture
+Glorious Crest		2	10%	Wound Head
+Glorious Crest		1	40%	Wound Head
+Champion's Crest	2	10%	Wound Head
+Great Maccao Piel	1	20%	Wound Head
+Fey Wyvern Gem		1	10%	Wound Head
+Bird Wyvern Gem		1	10%	Wound Head
+Maccao Tailspear	2	20%	Wound Tail
+Maccao Tailspear	1	80%	Wound Tail

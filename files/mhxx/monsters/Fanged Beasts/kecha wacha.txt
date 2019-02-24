@@ -1,0 +1,57 @@
+﻿☆ Kecha Wacha - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Kecha Pelt+		1	40%	Body Carve
+Kecha Grandbone		1	32%	Body Carve
+Kecha Tail		1	16%	Body Carve
+Kecha Ear+		1	2%	Body Carve
+Stoutbone		1	10%	Body Carve
+Beast Tear		1	38%	Shiny Drops
+Large Beast Tear	1	37%	Shiny Drops
+Kecha Pelt+		1	15%	Shiny Drops
+Kecha Tail		1	10%	Shiny Drops
+Kecha Pelt+		2	10%	Capture
+Kecha Grandbone		1	25%	Capture
+Kecha Tail		1	15%	Capture
+Kecha Ear+		1	10%	Capture
+Kecha Talon		1	20%	Capture
+Torrent Sac		1	20%	Capture
+Kecha Ear+		1	55%	Wound Ears
+Torrent Sac		1	25%	Wound Ears
+Aqua Sac		2	20%	Wound Ears
+Kecha Grandbone		1	30%	Break Claw
+Kecha Talon		1	50%	Break Claw
+Kecha Talon		2	20%	Break Claw
+Kecha Pelt+		1	40%	Wound Tail
+Kecha Grandbone		1	10%	Wound Tail
+Kecha Tail		1	50%	Wound Tail
+
+☆ Kecha Wacha - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Kecha Fur		1	34%	Body Carve
+Kecha Pelt+		1	8%	Body Carve
+Kecha Leadbone		1	32%	Body Carve
+Kecha Lash		1	16%	Body Carve
+Kecha Auricle		1	2%	Body Carve
+Massive Bone		1	8%	Body Carve
+Large Beast Tear	1	75%	Shiny Drops
+Kecha Fur		1	15%	Shiny Drops
+Kecha Lash		1	10%	Shiny Drops
+Kecha Fur		2	10%	Capture
+Kecha Leadbone		1	28%	Capture
+Kecha Grandbone		2	5%	Capture
+Kecha Lash		1	15%	Capture
+Kecha Auricle		1	10%	Capture
+Kecha Ripper		1	17%	Capture
+Flood Sac		1	15%	Capture
+Kecha Auricle		1	55%	Wound Ears
+Kecha Ear+		1	8%	Wound Ears
+Flood Sac		1	25%	Wound Ears
+Torrent Sac		2	12%	Wound Ears
+Kecha Leadbone		1	30%	Break Claw
+Kecha Ripper		1	40%	Break Claw
+Kecha Ripper		2	20%	Break Claw
+Kecha Talon		2	10%	Break Claw
+Kecha Fur		1	35%	Wound Tail
+Kecha Leadbone		1	10%	Wound Tail
+Kecha Lash		1	45%	Wound Tail
+Kecha Tail		1	10%	Wound Tail

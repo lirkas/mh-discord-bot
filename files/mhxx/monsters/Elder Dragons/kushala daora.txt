@@ -1,0 +1,69 @@
+﻿☆ Kushala Daora - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Daora Shell		1	55%	Body Carve
+Daora Scale		1	30%	Body Carve
+Daora Claw		1	5%	Body Carve
+Elder Dragon Bone	1	10%	Body Carve
+Daora Tail		1	75%	Tail Carve
+Daora Shell		1	25%	Tail Carve
+Dragon Treasure		1	50%	Shiny Drops
+Decayed Scale		1	25%	Shiny Drops
+Daora Scale		1	23%	Shiny Drops
+Elder Dragon Blood	1	2%	Shiny Drops
+Daora Horn		1	95%	Wound Head
+Elder Dragon Blood	1	5%	Wound Head
+Daora Webbing		1	65%	Wound Wing
+Daora Claw		1	35%	Wound Wing
+
+☆ Kushala Daora - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Daora Carapace		1	53%	Body Carve
+Daora Dragon Scale+	1	30%	Body Carve
+Daora Claw+		1	10%	Body Carve
+Elder Dragon Bone	1	5%	Body Carve
+Daora Gem		1	2%	Body Carve
+Daora Tail		1	71%	Tail Carve
+Daora Carapace		1	25%	Tail Carve
+Daora Gem		1	4%	Tail Carve
+Dragon Treasure		1	45%	Shiny Drops
+Old Dragon Treasure	1	25%	Shiny Drops
+Daora Dragon Scale+	1	17%	Shiny Drops
+Pure Dragon Blood	1	4%	Shiny Drops
+Elder Dragon Blood	1	6%	Shiny Drops
+Daora Gem		1	3%	Shiny Drops
+Daora Horn+		1	71%	Wound Head
+Daora Horn		1	10%	Wound Head
+Elder Dragon Blood	2	10%	Wound Head
+Daora Gem		1	4%	Wound Head
+Pure Dragon Blood	1	5%	Wound Head
+Daora Webbing		1	53%	Wound Wing
+Daora Claw+		1	35%	Wound Wing
+Daora Claw		2	12%	Wound Wing
+
+☆ Kushala Daora - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Daora Cortex		1	51%	Body Carve
+Daora Shard		1	28%	Body Carve
+Daora Hardclaw		1	10%	Body Carve
+Lrg ElderDragon Bone	1	5%	Body Carve
+Daora Gem		1	4%	Body Carve
+Lrg Elder Dragon Gem	1	2%	Body Carve
+Daora Lash		1	75%	Tail Carve
+Daora Cortex		1	19%	Tail Carve
+Daora Gem		1	4%	Tail Carve
+Lrg Elder Dragon Gem	1	2%	Tail Carve
+Old Dragon Treasure	1	65%	Shiny Drops
+Daora Shard		1	17%	Shiny Drops
+Viscous Dragon Blood	1	4%	Shiny Drops
+Pure Dragon Blood	1	6%	Shiny Drops
+Daora Gem		1	5%	Shiny Drops
+Lrg Elder Dragon Gem	1	3%	Shiny Drops
+Daora Hardhorn		1	70%	Wound Head
+Daora Horn+		1	9%	Wound Head
+Pure Dragon Blood	2	8%	Wound Head
+Daora Gem		1	4%	Wound Head
+Viscous Dragon Blood	1	5%	Wound Head
+Lrg Elder Dragon Gem	1	4%	Wound Head
+Daora Fellwing		1	60%	Wound Wing
+Daora Hardclaw		1	30%	Wound Wing
+Daora Claw+		2	10%	Wound Wing

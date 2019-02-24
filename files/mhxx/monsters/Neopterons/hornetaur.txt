@@ -1,0 +1,22 @@
+﻿☆ Hornetaur - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Monster Fluid		1	20%	Body Carve
+Hornetaur Shell		1	40%	Body Carve
+Hornetaur Wing		1	32%	Body Carve
+Hornetaur Head		1	8%	Body Carve
+
+☆ Hornetaur - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Monster Broth		1	19%	Body Carve
+Hornetaur Carapace	1	40%	Body Carve
+Hornetaur Wing		1	8%	Body Carve
+Hornetaur Innerwing	1	15%	Body Carve
+Hornetaur Head		1	18%	Body Carve
+
+☆ Hornetaur - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Monster Essence		1	20%	Body Carve
+Hornetaur Carapace	1	18%	Body Carve
+Hornetaur Innerwing	1	8%	Body Carve
+Hornetaur Razorwing	1	40%	Body Carve
+Hornetaur Head		1	14%	Body Carve

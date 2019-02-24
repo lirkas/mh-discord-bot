@@ -1,0 +1,46 @@
+﻿☆ Bulldrome - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Bulldrome Hide		1	50%	Body Carve
+Bullfango Head		1	5%	Body Carve
+Bulldrome Tusk		1	15%	Body Carve
+Jumbo Bone		1	30%	Body Carve
+Beast Tear		1	75%	Shiny Drops
+Bulldrome Hide		1	20%	Shiny Drops
+Bulldrome Tusk		1	5%	Shiny Drops
+Bulldrome Hide		1	35%	Capture
+Bullfango Head		1	10%	Capture
+Bulldrome Tusk		1	25%	Capture
+Jumbo Bone		2	30%	Capture
+
+☆ Bulldrome - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Bulldrome Hide+		1	43%	Body Carve
+Bulldrome Hide		1	5%	Body Carve
+Bullfango Head		1	10%	Body Carve
+Bulldrome Tusk+		1	17%	Body Carve
+Stoutbone		1	25%	Body Carve
+Beast Tear		1	38%	Shiny Drops
+Large Beast Tear	1	37%	Shiny Drops
+Bulldrome Hide+		1	20%	Shiny Drops
+Bulldrome Tusk+		1	5%	Shiny Drops
+Bulldrome Hide+		1	32%	Capture
+Bullfango Head		1	15%	Capture
+Bulldrome Tusk+		1	20%	Capture
+Bulldrome Tusk		2	8%	Capture
+Stoutbone		2	25%	Capture
+
+☆ Bulldrome - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Bulldrome Thickhide	1	43%	Body Carve
+Bulldrome Hide+		1	5%	Body Carve
+Bullfango Head		1	10%	Body Carve
+Bulldrome Hardtusk	1	17%	Body Carve
+Massive Bone		1	25%	Body Carve
+Large Beast Tear	1	75%	Shiny Drops
+Bulldrome Thickhide	1	20%	Shiny Drops
+Bulldrome Hardtusk	1	5%	Shiny Drops
+Bulldrome Thickhide	1	32%	Capture
+Bullfango Head		2	15%	Capture
+Bulldrome Hardtusk	1	20%	Capture
+Bulldrome Tusk+		2	8%	Capture
+Massive Bone		2	25%	Capture

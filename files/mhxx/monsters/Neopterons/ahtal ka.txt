@@ -1,0 +1,50 @@
+﻿☆ Ahtal Ka - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Ahtal-Ka Gold Cocoon	1	32%	Body Carve
+Ahtal-Ka Purple Cocoon	1	20%	Body Carve
+Ahtal-Ka Pheromone	1	16%	Body Carve
+Ahtal-Ka Fine Silk	1	15%	Body Carve
+Iridescent Carapace	1	15%	Body Carve
+Ahtal-Ka Alluring Gem	1	2%	Body Carve
+Queen Substance		1	50%	Shiny Drops
+Ahtal-Ka Pheromone	1	35%	Shiny Drops
+Royal Pyroxene		1	15%	Shiny Drops
+Golden Silk		1	75%	Shiny Drops (Armor 1)
+Sovereign Orb		1	25%	Shiny Drops (Armor 1)
+Golden Silk		1	10%	Shiny Drops (Armor 2)
+Timeworn Charm		1	15%	Shiny Drops (Armor 2)
+Enduring Charm		1	20%	Shiny Drops (Armor 2)
+Ultimas Crystal		1	20%	Shiny Drops (Armor 2)
+True Armor Sphere	1	25%	Shiny Drops (Armor 2)
+Ancient Shard		1	10%	Shiny Drops (Armor 2)
+Timeworn Charm		1	17%	Mining Armor
+Enduring Charm		1	50%	Mining Armor
+Ultimas Crystal		1	17%	Mining Armor
+Purecrystal		1	8%	Mining Armor
+Golden Egg		1	8%	Mining Armor
+Ahtal-Ka Gold Cocoon	1	32%	Wound Head
+Ahtal-Ka Purple Cocoon	1	26%	Wound Head
+Ahtal-Ka Fine Silk	1	22%	Wound Head
+Royal Pyroxene		1	18%	Wound Head
+Ahtal-Ka Alluring Gem	1	2%	Wound Head
+Iridescent Carapace	1	70%	Wound Back
+Ahtal-Ka Pheromone	1	18%	Wound Back
+Royal Pyroxene		1	9%	Wound Back
+Ahtal-Ka Alluring Gem	1	3%	Wound Back
+Ahtal-Ka Foreblade	1	80%	Wound Scythe
+Ahtal-Ka Foreblade	2	20%	Wound Scythe
+Ahtal-Ka Pheromone	1	78%	Wound Tail
+Ahtal-Ka Purple Cocoon	1	20%	Wound Tail
+Ahtal-Ka Alluring Gem	1	2%	Wound Tail
+Golden Silk		1	20%	Break Giant Cocoon
+Royal Pyroxene		1	80%	Break Giant Cocoon
+Heavy Armor Sphere	2	20%	Wound Armor Frontleg
+King Armor Sphere	1	20%	Wound Armor Frontleg
+Timeworn Charm		2	15%	Wound Armor Frontleg
+Enduring Charm		1	17%	Wound Armor Frontleg
+Adamant Orb		1	18%	Wound Armor Frontleg
+Sovereign Orb		1	10%	Wound Armor Frontleg
+Golden Silk		1	70%	Break Cocoon
+Purecrystal		1	8%	Break Cocoon
+Novacrystal		1	10%	Break Cocoon
+Lightcrystal		2	12%	Break Cocoon

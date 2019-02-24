@@ -1,0 +1,23 @@
+﻿☆ Mosswine - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Unique Mushroom		1	20%	Body Carve
+Blue Mushroom		1	45%	Body Carve
+Raw Meat		1	30%	Body Carve
+Mosswine Hide		1	5%	Body Carve
+
+☆ Mosswine - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Unique Mushroom		1	20%	Body Carve
+Choice Mushroom		1	10%	Body Carve
+Blue Mushroom		1	42%	Body Carve
+Raw Meat		1	20%	Body Carve
+Mosswine Hide		1	8%	Body Carve
+
+☆ Mosswine - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Unique Mushroom		1	18%	Body Carve
+Choice Mushroom		1	8%	Body Carve
+Blue Mushroom		1	38%	Body Carve
+Raw Meat		1	16%	Body Carve
+Mosswine Thick Hide	1	8%	Body Carve
+Mosswine Hide		1	12%	Body Carve

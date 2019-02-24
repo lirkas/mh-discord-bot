@@ -1,0 +1,61 @@
+﻿☆ Iodrome - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Iodrome Hide		1	30%	Body Carve
+Iodrome Violet Scale	1	33%	Body Carve
+Poison Sac		1	35%	Body Carve
+Iodrome Head		1	2%	Body Carve
+Wyvern Tear		1	75%	Shiny Drops
+Iodrome Violet Scale	1	25%	Shiny Drops
+Iodrome Hide		1	56%	Capture
+Poison Sac		2	39%	Capture
+Iodrome Head		1	5%	Capture
+Iodrome Hide		1	40%	Wound Head
+Poison Sac		1	50%	Wound Head
+Iodrome Head		1	10%	Wound Head
+
+☆ Iodrome - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Iodrome Hide+		1	27%	Body Carve
+Iodrome Violet Scale+	1	33%	Body Carve
+Iodrome Violet Scale	1	8%	Body Carve
+Iodrome Head		1	7%	Body Carve
+Toxin Sac		1	20%	Body Carve
+Bird Wyvern Gem		1	5%	Body Carve
+Wyvern Tear		1	50%	Shiny Drops
+Large Wyvern Tear	1	25%	Shiny Drops
+Bird Wyvern Gem		1	5%	Shiny Drops
+Iodrome Violet Scale+	1	20%	Shiny Drops
+Iodrome Hide+		1	50%	Capture
+Iodrome Hide		2	8%	Capture
+Toxin Sac		2	27%	Capture
+Iodrome Head		1	12%	Capture
+Bird Wyvern Gem		1	3%	Capture
+Toxin Sac		1	43%	Wound Head
+Toxin Sac		2	32%	Wound Head
+Iodrome Head		1	15%	Wound Head
+Bird Wyvern Gem		1	10%	Wound Head
+
+☆ Iodrome - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Iodrome Piel		1	25%	Body Carve
+Iodrome Violet Shard	1	33%	Body Carve
+Iodrome Violet Scale+	1	6%	Body Carve
+Iodrome Head		1	6%	Body Carve
+Deadly Poison Sac	1	20%	Body Carve
+Fey Wyvern Gem		1	5%	Body Carve
+Bird Wyvern Gem		1	5%	Body Carve
+Large Wyvern Tear	1	70%	Shiny Drops
+Fey Wyvern Gem		1	5%	Shiny Drops
+Bird Wyvern Gem		1	5%	Shiny Drops
+Iodrome Violet Shard	1	20%	Shiny Drops
+Iodrome Piel		1	49%	Capture
+Iodrome Hide+		2	8%	Capture
+Deadly Poison Sac	2	27%	Capture
+Iodrome Head		1	10%	Capture
+Fey Wyvern Gem		1	3%	Capture
+Bird Wyvern Gem		1	3%	Capture
+Deadly Poison Sac	1	33%	Wound Head
+Deadly Poison Sac	2	32%	Wound Head
+Iodrome Head		1	15%	Wound Head
+Fey Wyvern Gem		1	10%	Wound Head
+Bird Wyvern Gem		1	10%	Wound Head

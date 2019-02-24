@@ -1,0 +1,86 @@
+﻿☆ Shagaru Magala - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+S.Magala Shell		1	28%	Body Carve
+S.Magala Scale		1	38%	Body Carve
+S.Magala Caress		1	13%	Body Carve
+S.Magala Prismwing	1	10%	Body Carve
+S.Magala Tail		1	8%	Body Carve
+S.Magala Plate		1	3%	Body Carve
+S.Magala Tail		1	75%	Tail Carve
+S.Magala Plate		1	4%	Tail Carve
+S.Magala Scale		1	21%	Tail Carve
+Pure Scale		1	23%	Shiny Drops
+S.Magala Plate		1	2%	Shiny Drops
+Dragon Treasure		1	50%	Shiny Drops
+Frenzy Crystal		1	25%	Shiny Drops
+S.Magala Horn		1	75%	Break Horn
+Pure Scale		1	22%	Break Horn
+S.Magala Plate		1	3%	Break Horn
+S.Magala Caress		1	60%	Wound Wingarm
+S.Magala Caress		2	20%	Wound Wingarm
+Pure Scale		1	20%	Wound Wingarm
+S.Magala Prismwing	1	80%	Wound Wing
+S.Magala Scale		1	20%	Wound Wing
+
+☆ Shagaru Magala - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+S.Magala Carapace	1	30%	Body Carve
+S.Magala Scale+		1	40%	Body Carve
+S.Magala Caress+	1	14%	Body Carve
+S.Magala Prismwing+	1	10%	Body Carve
+S.Magala Plate		1	4%	Body Carve
+S.Magala Phosgem	1	2%	Body Carve
+S.Magala Tail		1	64%	Tail Carve
+S.Magala Plate		1	5%	Tail Carve
+S.Magala Phosgem	1	3%	Tail Carve
+S.Magala Scale+		1	28%	Tail Carve
+Pure Scale		1	20%	Shiny Drops
+S.Magala Plate		1	3%	Shiny Drops
+S.Magala Phosgem	1	2%	Shiny Drops
+Dragon Treasure		1	25%	Shiny Drops
+Old Dragon Treasure	1	25%	Shiny Drops
+Frenzy Crystal		1	20%	Shiny Drops
+Vile Frenzy Crystal	1	5%	Shiny Drops
+S.Magala Horn+		1	72%	Break Horn
+S.Magala Horn		1	20%	Break Horn
+S.Magala Plate		1	5%	Break Horn
+S.Magala Phosgem	1	3%	Break Horn
+S.Magala Caress+	1	57%	Wound Wingarm
+S.Magala Caress+	2	18%	Wound Wingarm
+S.Magala Caress		2	10%	Wound Wingarm
+S.Magala Shell		2	15%	Wound Wingarm
+S.Magala Prismwing+	1	78%	Wound Wing
+S.Magala Prismwing	2	8%	Wound Wing
+S.Magala Scale+		1	10%	Wound Wing
+S.Magala Scale		2	4%	Wound Wing
+
+☆ Shagaru Magala - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+S.Magala Cortex		1	28%	Body Carve
+S.Magala Shard		1	36%	Body Carve
+S.Magala Purifier	1	12%	Body Carve
+S.Magala Lightwing	1	10%	Body Carve
+S.Magala Phosgem	1	4%	Body Carve
+S.Magala Mantle		1	2%	Body Carve
+S.Magala Lash		1	8%	Body Carve
+S.Magala Lash		1	64%	Tail Carve
+S.Magala Phosgem	1	5%	Tail Carve
+S.Magala Mantle		1	3%	Tail Carve
+S.Magala Shard		1	28%	Tail Carve
+Pure Scale		1	20%	Shiny Drops
+S.Magala Phosgem	1	3%	Shiny Drops
+S.Magala Mantle		1	2%	Shiny Drops
+Old Dragon Treasure	1	50%	Shiny Drops
+Vile Frenzy Crystal	1	25%	Shiny Drops
+S.Magala Hardhorn	1	72%	Break Horn
+S.Magala Horn+		1	20%	Break Horn
+S.Magala Phosgem	1	5%	Break Horn
+S.Magala Mantle		1	3%	Break Horn
+S.Magala Purifier	1	57%	Wound Wingarm
+S.Magala Purifier	2	18%	Wound Wingarm
+S.Magala Caress+	2	10%	Wound Wingarm
+S.Magala Carapace	2	15%	Wound Wingarm
+S.Magala Lightwing	1	78%	Wound Wing
+S.Magala Prismwing+	2	8%	Wound Wing
+S.Magala Shard		1	10%	Wound Wing
+S.Magala Scale+		2	4%	Wound Wing

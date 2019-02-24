@@ -1,0 +1,21 @@
+﻿☆ Vespoid - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Monster Fluid		1	17%	Body Carve
+Vespoid Shell		1	47%	Body Carve
+Vespoid Wing		1	36%	Body Carve
+
+☆ Vespoid - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Monster Broth		1	10%	Body Carve
+Monster Fluid		1	15%	Body Carve
+Vespoid Carapace	1	40%	Body Carve
+Vespoid Wing		1	20%	Body Carve
+Vespoid Innerwing	1	15%	Body Carve
+
+☆ Vespoid - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Monster Essence		1	20%	Body Carve
+Monster Broth		1	14%	Body Carve
+Vespoid Carapace	1	18%	Body Carve
+Vespoid Innerwing	1	8%	Body Carve
+Vespoid Razorwing	1	40%	Body Carve

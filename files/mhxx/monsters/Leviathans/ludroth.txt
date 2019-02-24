@@ -1,0 +1,21 @@
+﻿☆ Ludroth - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Hydro Hide		1	49%	Body Carve
+Immature Sponge		1	32%	Body Carve
+Monster Bone S		1	19%	Body Carve
+
+☆ Ludroth - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Hydro Hide+		1	45%	Body Carve
+Hydro Hide		1	5%	Body Carve
+Immature Sponge		1	32%	Body Carve
+Monster Bone M		1	13%	Body Carve
+Monster Bone S		1	5%	Body Carve
+
+☆ Ludroth - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Hydro Piel		1	45%	Body Carve
+Hydro Hide+		1	5%	Body Carve
+Supple Piel		1	32%	Body Carve
+Monster Bone M		1	13%	Body Carve
+Monster Bone S		1	5%	Body Carve

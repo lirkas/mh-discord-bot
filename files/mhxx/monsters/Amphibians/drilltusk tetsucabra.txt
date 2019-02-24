@@ -1,0 +1,160 @@
+﻿☆ Drilltusk Tetsucabra - MHXX Lv 1~4
+Item			Qty	Prob.	How to obtain
+Drilltusk Scale		1	34%	Body Carve
+Drilltusk Shell		1	20%	Body Carve
+Tetsucabra Claw+	1	18%	Body Carve
+Stoutbone		1	10%	Body Carve
+Dignified Skull		1	18%	Body Carve
+Toad Tear		1	38%	Shiny Drops
+Large Toad Tear		1	37%	Shiny Drops
+Paddock Oil+		1	25%	Shiny Drops
+Drilltusk Scale		1	10%	Capture
+Drilltusk Shell		1	15%	Capture
+Tetsucabra Claw+	1	10%	Capture
+Drilltusk Tusk		1	20%	Capture
+Stoutbone		1	20%	Capture
+Paddock Oil+		1	25%	Capture
+Drilltusk Tusk		1	75%	Wound Jaw
+Dignified Skull		1	25%	Wound Jaw
+Tetsucabra Claw+	1	60%	Wound Hind Leg
+Tetsucabra Claw		2	10%	Wound Hind Leg
+Drilltusk Scale		1	30%	Wound Hind Leg
+Drilltusk Scale		1	70%	Wound Back
+Drilltusk Shell		1	30%	Wound Back
+
+☆ Drilltusk Tetsucabra - MHXX Lv 5~8
+Item			Qty	Prob.	How to obtain
+Drilltusk Scale+	1	14%	Body Carve
+Drilltusk Scale		1	20%	Body Carve
+Drilltusk Carapace	1	8%	Body Carve
+Drilltusk Shell		1	12%	Body Carve
+Tetsucabra Claw+	1	18%	Body Carve
+Stoutbone		1	10%	Body Carve
+Dignified Skull		1	18%	Body Carve
+Toad Tear		1	38%	Shiny Drops
+Large Toad Tear		1	37%	Shiny Drops
+Paddock Oil+		1	25%	Shiny Drops
+Drilltusk Scale+	1	10%	Capture
+Drilltusk Carapace	1	15%	Capture
+Tetsucabra Claw+	1	10%	Capture
+Drilltusk Tusk+		1	5%	Capture
+Drilltusk Tusk		1	15%	Capture
+Stoutbone		1	20%	Capture
+Paddock Oil+		1	25%	Capture
+Drilltusk Tusk+		1	30%	Wound Jaw
+Drilltusk Tusk		1	45%	Wound Jaw
+Dignified Skull		1	25%	Wound Jaw
+Tetsucabra Claw+	1	60%	Wound Hind Leg
+Tetsucabra Claw		2	10%	Wound Hind Leg
+Drilltusk Scale+	1	12%	Wound Hind Leg
+Drilltusk Scale		1	18%	Wound Hind Leg
+Drilltusk Scale		1	40%	Wound Back
+Drilltusk Scale+	1	30%	Wound Back
+Drilltusk Shell		2	10%	Wound Back
+Drilltusk Carapace	1	20%	Wound Back
+
+☆ Drilltusk Tetsucabra - MHXX Lv 9~10	
+Item			Qty	Prob.	How to obtain
+Drilltusk Scale+	1	34%	Body Carve
+Drilltusk Carapace	1	20%	Body Carve
+Tetsucabra Claw+	1	18%	Body Carve
+Stoutbone		1	10%	Body Carve
+Dignified Skull		1	18%	Body Carve
+Toad Tear		1	38%	Shiny Drops
+Large Toad Tear		1	37%	Shiny Drops
+Paddock Oil+		1	25%	Shiny Drops
+Drilltusk Scale+	1	10%	Capture
+Drilltusk Carapace	1	15%	Capture
+Tetsucabra Claw+	1	10%	Capture
+Drilltusk Tusk+		1	20%	Capture
+Stoutbone		1	20%	Capture
+Paddock Oil+		1	25%	Capture
+Drilltusk Tusk+		1	75%	Wound Jaw
+Dignified Skull		1	25%	Wound Jaw
+Tetsucabra Claw+	1	60%	Wound Hind Leg
+Tetsucabra Claw		2	10%	Wound Hind Leg
+Drilltusk Scale+	1	30%	Wound Hind Leg
+Drilltusk Scale+	1	70%	Wound Back
+Drilltusk Carapace	1	30%	Wound Back
+
+☆ Drilltusk Tetsucabra - MHXX Lv 11~12	
+Item			Qty	Prob.	How to obtain
+Drilltusk Shard		1	14%	Body Carve
+Drilltusk Scale+	1	20%	Body Carve
+Drilltusk Carapace	1	20%	Body Carve
+Tetsucabra Hardclaw	1	18%	Body Carve
+Massive Bone		1	10%	Body Carve
+Vicious Visage		1	18%	Body Carve
+Large Toad Tear		1	75%	Shiny Drops
+Paddock Cream		1	25%	Shiny Drops
+Drilltusk Shard		1	10%	Capture
+Drilltusk Scale+	1	10%	Capture
+Drilltusk Carapace	1	10%	Capture
+Tetsucabra Hardclaw	1	10%	Capture
+Drilltusk Gnawrl	1	5%	Capture
+Drilltusk Tusk+		1	15%	Capture
+Massive Bone		1	20%	Capture
+Paddock Cream		1	20%	Capture
+Drilltusk Gnawrl	1	30%	Wound Jaw
+Drilltusk Tusk+		1	45%	Wound Jaw
+Vicious Visage		1	25%	Wound Jaw
+Tetsucabra Hardclaw	1	60%	Wound Hind Leg
+Tetsucabra Claw+	2	10%	Wound Hind Leg
+Drilltusk Shard		1	12%	Wound Hind Leg
+Drilltusk Scale+	1	18%	Wound Hind Leg
+Drilltusk Scale+	1	40%	Wound Back
+Drilltusk Shard		1	30%	Wound Back
+Drilltusk Carapace	1	30%	Wound Back
+
+☆ Drilltusk Tetsucabra - MHXX Lv 13~15	
+Item			Qty	Prob.	How to obtain
+Drilltusk Shard		1	14%	Body Carve
+Drilltusk Scale+	1	20%	Body Carve
+Drilltusk Cortex	1	8%	Body Carve
+Drilltusk Carapace	1	12%	Body Carve
+Tetsucabra Hardclaw	1	18%	Body Carve
+Massive Bone		1	10%	Body Carve
+Vicious Visage		1	18%	Body Carve
+Large Toad Tear		1	75%	Shiny Drops
+Paddock Cream		1	25%	Shiny Drops
+Drilltusk Shard		1	10%	Capture
+Drilltusk Cortex	1	15%	Capture
+Tetsucabra Hardclaw	1	10%	Capture
+Drilltusk Gnawrl	1	5%	Capture
+Drilltusk Tusk+		1	15%	Capture
+Massive Bone		1	20%	Capture
+Paddock Cream		1	25%	Capture
+Drilltusk Gnawrl	1	30%	Wound Jaw
+Drilltusk Tusk+		1	45%	Wound Jaw
+Vicious Visage		1	25%	Wound Jaw
+Tetsucabra Hardclaw	1	60%	Wound Hind Leg
+Tetsucabra Claw+	2	10%	Wound Hind Leg
+Drilltusk Shard		1	12%	Wound Hind Leg
+Drilltusk Scale+	1	18%	Wound Hind Leg
+Drilltusk Scale+	1	40%	Wound Back
+Drilltusk Shard		1	30%	Wound Back
+Drilltusk Carapace	2	10%	Wound Back
+Drilltusk Cortex	1	20%	Wound Back
+
+☆ Drilltusk Tetsucabra - MHXX Lv Ex
+Item			Qty	Prob.	How to obtain
+Drilltusk Shard		1	34%	Body Carve
+Drilltusk Cortex	1	20%	Body Carve
+Tetsucabra Hardclaw	1	18%	Body Carve
+Massive Bone		1	10%	Body Carve
+Vicious Visage		1	18%	Body Carve
+Large Toad Tear		1	75%	Shiny Drops
+Paddock Cream		1	25%	Shiny Drops
+Drilltusk Shard		1	10%	Capture
+Drilltusk Cortex	1	15%	Capture
+Tetsucabra Hardclaw	1	10%	Capture
+Drilltusk Gnawrl	1	20%	Capture
+Massive Bone		1	20%	Capture
+Paddock Cream		1	25%	Capture
+Drilltusk Gnawrl	1	75%	Wound Jaw
+Vicious Visage		1	25%	Wound Jaw
+Tetsucabra Hardclaw	1	60%	Wound Hind Leg
+Tetsucabra Claw+	2	10%	Wound Hind Leg
+Drilltusk Shard		1	30%	Wound Hind Leg
+Drilltusk Shard		1	70%	Wound Back
+Drilltusk Cortex	1	30%	Wound Back

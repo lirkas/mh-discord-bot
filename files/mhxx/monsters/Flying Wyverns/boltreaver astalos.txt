@@ -1,0 +1,119 @@
+﻿☆ Boltreaver Astalos - MHXX Lv 11~12
+Item			Qty	Prob.	How to obtain
+Boltreaver Shard	1	35%	Body Carve
+Astalos Scale+		1	6%	Body Carve
+Heavy Astalos Shell	1	20%	Body Carve
+Astalos Wingmembrane	1	16%	Body Carve
+Boltscale		1	15%	Body Carve
+Astalos Mantle		1	3%	Body Carve
+Boltreaver Electric Barb	1	5%	Body Carve
+Astalos Scissortailblade	1	70%	Tail Carve
+Boltscale		1	20%	Tail Carve
+Electroscale+		1	10%	Tail Carve
+Large Wyvern Tear	1	40%	Shiny Drops
+Boltreaver Shard	1	18%	Shiny Drops
+Astalos Mantle		1	2%	Shiny Drops
+Astalos Electrogem	1	5%	Shiny Drops
+Boltreaver Electric Barb	1	35%	Shiny Drops
+Heavy Astalos Shell	1	22%	Capture
+Astalos Wingmembrane	1	28%	Capture
+Astalos Membrane+	2	8%	Capture
+Astalos Wingripper	1	14%	Capture
+Astalos Scissortailblade	1	10%	Capture
+Boltscale		1	12%	Capture
+Astalos Mantle		1	2%	Capture
+Astalos Electrogem	1	4%	Capture
+Heavy Astalos Crest+	1	70%	Wound Head
+Astalos Crest+		1	10%	Wound Head
+Boltscale		1	17%	Wound Head
+Astalos Mantle		1	3%	Wound Head
+Heavy Astalos Shell	1	51%	Wound Back
+Astalos Shell+		2	8%	Wound Back
+Boltreaver Shard	1	30%	Wound Back
+Astalos Mantle		1	2%	Wound Back
+Astalos Electrogem	1	4%	Wound Back
+Boltreaver Electric Barb	1	5%	Wound Back
+Astalos Wingripper	2	20%	Break Wingtalon
+Astalos Wingtalon+	2	10%	Break Wingtalon
+Astalos Wingmembrane	1	60%	Break Wingtalon
+Boltscale		1	10%	Break Wingtalon
+
+☆ Boltreaver Astalos - MHXX Lv 13~15
+Item			Qty	Prob.	How to obtain
+Boltreaver Shard	1	35%	Body Carve
+Astalos Scale+		1	6%	Body Carve
+Heavy Boltreaver Shell	1	20%	Body Carve
+Astalos Wingmembrane	1	16%	Body Carve
+Boltscale		1	15%	Body Carve
+Astalos Mantle		1	3%	Body Carve
+Boltreaver Electric Barb	1	5%	Body Carve
+Astalos Scissortailblade	1	70%	Tail Carve
+Boltscale		1	20%	Tail Carve
+Electroscale+		1	10%	Tail Carve
+Large Wyvern Tear	1	38%	Shiny Drops
+Boltreaver Shard	1	18%	Shiny Drops
+Astalos Mantle		1	3%	Shiny Drops
+Astalos Electrogem	1	6%	Shiny Drops
+Boltreaver Electric Barb	1	35%	Shiny Drops
+Heavy Boltreaver Shell	1	22%	Capture
+Astalos Wingmembrane	1	26%	Capture
+Astalos Membrane+	2	8%	Capture
+Astalos Wingripper	1	14%	Capture
+Astalos Scissortailblade	1	10%	Capture
+Boltscale		1	12%	Capture
+Astalos Mantle		1	3%	Capture
+Astalos Electrogem	1	5%	Capture
+Heavy Astalos Crest+	1	70%	Wound Head
+Astalos Crest+		1	10%	Wound Head
+Boltscale		1	17%	Wound Head
+Astalos Mantle		1	3%	Wound Head
+Heavy Boltreaver Shell	1	51%	Wound Back
+Astalos Shell+		2	8%	Wound Back
+Boltreaver Shard	1	30%	Wound Back
+Astalos Mantle		1	2%	Wound Back
+Astalos Electrogem	1	4%	Wound Back
+Boltreaver Electric Barb	1	5%	Wound Back
+Astalos Wingripper	2	20%	Break Wingtalon
+Astalos Wingtalon+	2	10%	Break Wingtalon
+Astalos Wingmembrane	1	60%	Break Wingtalon
+Boltscale		1	10%	Break Wingtalon
+
+☆ Boltreaver Astalos - MHXX Lv Ex	
+Item			Qty	Prob.	How to obtain
+Boltreaver Shard	1	35%	Body Carve
+Astalos Scale+		1	6%	Body Carve
+Heavy Boltreaver Shell	1	20%	Body Carve
+Astalos Wingmembrane	1	16%	Body Carve
+Boltscale		1	15%	Body Carve
+Astalos Mantle		1	3%	Body Carve
+Boltreaver Electric Barb	1	5%	Body Carve
+Astalos Scissortailblade	1	70%	Tail Carve
+Boltscale		1	20%	Tail Carve
+Electroscale+		1	10%	Tail Carve
+Large Wyvern Tear	1	36%	Shiny Drops
+Boltreaver Shard	1	18%	Shiny Drops
+Astalos Mantle		1	4%	Shiny Drops
+Astalos Electrogem	1	7%	Shiny Drops
+Boltreaver Electric Barb	1	35%	Shiny Drops
+Heavy Boltreaver Shell	1	22%	Capture
+Astalos Wingmembrane	1	26%	Capture
+Astalos Membrane+	2	6%	Capture
+Astalos Wingripper	1	14%	Capture
+Astalos Scissortailblade	1	10%	Capture
+Boltscale		2	12%	Capture
+Astalos Mantle		1	4%	Capture
+Astalos Electrogem	1	6%	Capture
+Heavy Astalos Crest+	1	72%	Wound Head
+Astalos Crest+		1	5%	Wound Head
+Boltscale		1	20%	Wound Head
+Astalos Mantle		1	3%	Wound Head
+Heavy Boltreaver Shell	1	53%	Wound Back
+Astalos Shell+		2	6%	Wound Back
+Boltreaver Shard	1	30%	Wound Back
+Astalos Mantle		1	2%	Wound Back
+Astalos Electrogem	1	4%	Wound Back
+Boltreaver Electric Barb	1	5%	Wound Back
+Astalos Wingripper	2	24%	Break Wingtalon
+Astalos Wingtalon+	2	6%	Break Wingtalon
+Astalos Wingmembrane	1	60%	Break Wingtalon
+Boltscale		1	10%	Break Wingtalon

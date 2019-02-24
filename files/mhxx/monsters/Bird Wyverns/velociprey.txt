@@ -1,0 +1,20 @@
+﻿☆ Velociprey - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Bird Wyvern Fang	1	40%	Body Carve
+Velociprey Scale	1	29%	Body Carve
+Velociprey Hide		1	23%	Body Carve
+Monster Bone S		1	8%	Body Carve
+
+☆ Velociprey - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Bird Wyvern Fang	1	15%	Body Carve
+Velociprey Scale+	1	40%	Body Carve
+Velociprey Hide+	1	35%	Body Carve
+Avian Finebone		1	10%	Body Carve
+
+☆ Velociprey - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Bird Wyvern Fang	1	15%	Body Carve
+Velociprey Shard	1	40%	Body Carve
+Velociprey Hide+	1	35%	Body Carve
+Avian Stoutbone		1	10%	Body Carve

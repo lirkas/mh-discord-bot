@@ -1,0 +1,17 @@
+﻿☆ Genprey - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Genprey Fang		1	42%	Body Carve
+Genprey Scale		1	33%	Body Carve
+Genprey Hide		1	25%	Body Carve
+
+☆ Genprey - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Genprey Fang		1	25%	Body Carve
+Genprey Scale+		1	40%	Body Carve
+Genprey Hide+		1	35%	Body Carve
+
+☆ Genprey - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Genprey Fang		1	25%	Body Carve
+Genprey Shard		1	40%	Body Carve
+Genprey Hide+		1	35%	Body Carve

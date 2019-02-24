@@ -1,0 +1,61 @@
+﻿☆ Seltas Queen - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+S.Queen Carapace	1	46%	Body Carve
+S.Queen Hardpectus	1	40%	Body Carve
+S.Queen Sharpclaw	1	10%	Body Carve
+S.Queen Extract		1	4%	Body Carve
+Drone Substance		1	25%	Shiny Drops
+Queen Substance		1	50%	Shiny Drops
+S.Queen Carapace	1	15%	Shiny Drops
+S.Queen Extract		1	10%	Shiny Drops
+S.Queen Carapace	1	20%	Capture
+S.Queen Hardpectus	1	36%	Capture
+S.Queen Sharpclaw	1	18%	Capture
+S.Queen Jaw		1	10%	Capture
+S.Queen Extract		1	6%	Capture
+Torrent Sac		2	10%	Capture
+S.Queen Jaw		1	70%	Wound Head
+S.Queen Hardpectus	1	24%	Wound Head
+S.Queen Extract		1	6%	Wound Head
+S.Queen Sharpclaw	1	60%	Break Claw
+S.Queen Hardpectus	1	40%	Break Claw
+S.Queen Sharpclaw	1	65%	Wound Leg
+S.Queen Carapace	1	25%	Wound Leg
+S.Queen Hardpectus	1	10%	Wound Leg
+S.Queen Crescent	1	85%	Wound Tail
+S.Queen Carapace	1	10%	Wound Tail
+Torrent Sac		2	5%	Wound Tail
+
+☆ Seltas Queen - MHXX G Rank
+Item			Qty	Prob.	How to obtain
+S.Queen Cortex		1	42%	Body Carve
+S.Queen Carapace	1	8%	Body Carve
+S.Queen Pectus+		1	38%	Body Carve
+S.Queen Hardclaw	1	8%	Body Carve
+D.S.QueenConcentrate	1	4%	Body Carve
+Queen Substance		1	70%	Shiny Drops
+S.Queen Cortex		1	15%	Shiny Drops
+D.S.QueenConcentrate	1	10%	Shiny Drops
+S.Queen Extract		1	5%	Shiny Drops
+S.Queen Cortex		1	18%	Capture
+S.Queen Pectus+		1	34%	Capture
+S.Queen Hardpectus	2	6%	Capture
+S.Queen Hardclaw	1	16%	Capture
+S.Queen Maw		1	10%	Capture
+D.S.QueenConcentrate	1	6%	Capture
+S.Queen Extract		2	2%	Capture
+Flood Sac		2	8%	Capture
+S.Queen Maw		1	68%	Wound Head
+S.Queen Jaw		1	8%	Wound Head
+S.Queen Pectus+		1	18%	Wound Head
+D.S.QueenConcentrate	1	6%	Wound Head
+S.Queen Hardclaw	1	58%	Break Claw
+S.Queen Sharpclaw	2	4%	Break Claw
+S.Queen Pectus+		1	38%	Break Claw
+S.Queen Hardclaw	1	65%	Wound Leg
+S.Queen Cortex		1	25%	Wound Leg
+S.Queen Pectus+		1	10%	Wound Leg
+S.Queen Moonlash	1	80%	Wound Tail
+S.Queen Crescent	1	7%	Wound Tail
+S.Queen Cortex		1	8%	Wound Tail
+Flood Sac		2	5%	Wound Tail

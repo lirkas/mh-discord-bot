@@ -1,0 +1,89 @@
+﻿☆ Brachydios - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Brach Shell		1	42%	Body Carve
+Brach Ebonshell		1	28%	Body Carve
+Brach Scalp		1	6%	Body Carve
+Mystery Slime		1	19%	Body Carve
+Brach Marrow		1	5%	Body Carve
+Brach Tail		1	75%	Tail Carve
+Brach Ebonshell		1	20%	Tail Carve
+Brach Marrow		1	5%	Tail Carve
+Wyvern Tear		1	75%	Shiny Drops
+Mystery Slime		1	22%	Shiny Drops
+Brach Marrow		1	3%	Shiny Drops
+Brach Shell		1	24%	Capture
+Brach Ebonshell		1	33%	Capture
+Brach Hammer		1	20%	Capture
+Mystery Slime		2	8%	Capture
+Brach Tail		1	10%	Capture
+Brach Marrow		1	5%	Capture
+Brach Scalp		1	76%	Wound Head
+Brach Shell		1	24%	Wound Head
+Brach Hammer		1	59%	Wound Front Leg
+Brach Ebonshell		1	14%	Wound Front Leg
+Mystery Slime		1	27%	Wound Front Leg
+
+☆ Brachydios - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Brach Carapace		1	40%	Body Carve
+Brach Shell		1	8%	Body Carve
+Brach Ebonshell+	1	28%	Body Carve
+Brach Scalp+		1	6%	Body Carve
+Mystery Slime		1	16%	Body Carve
+Brach Gem		1	2%	Body Carve
+Brach Tail		1	60%	Tail Carve
+Brach Ebonshell+	1	23%	Tail Carve
+Brach Marrow		1	14%	Tail Carve
+Brach Gem		1	3%	Tail Carve
+Wyvern Tear		1	38%	Shiny Drops
+Large Wyvern Tear	1	37%	Shiny Drops
+Mystery Slime		1	21%	Shiny Drops
+Brach Marrow		1	3%	Shiny Drops
+Brach Gem		1	1%	Shiny Drops
+Brach Carapace		1	24%	Capture
+Brach Ebonshell+	1	33%	Capture
+Brach Ebonshell		2	5%	Capture
+Brach Pounder		1	20%	Capture
+Mystery Slime		3	7%	Capture
+Brach Tail		1	9%	Capture
+Brach Gem		1	2%	Capture
+Brach Scalp+		1	70%	Wound Head
+Brach Scalp		1	10%	Wound Head
+Brach Carapace		1	20%	Wound Head
+Brach Pounder		1	58%	Wound Front Leg
+Brach Hammer		2	8%	Wound Front Leg
+Brach Ebonshell+	1	14%	Wound Front Leg
+Mystery Slime		2	20%	Wound Front Leg
+
+☆ Brachydios - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Brach Cortex		1	37%	Body Carve
+Brach Carapace		1	8%	Body Carve
+Fine Brach Ebonshell	1	28%	Body Carve
+Brach Crown		1	6%	Body Carve
+Glowing Slime		1	16%	Body Carve
+Brach Pallium		1	2%	Body Carve
+Brach Gem		1	3%	Body Carve
+Brach Lash		1	75%	Tail Carve
+Fine Brach Ebonshell	1	18%	Tail Carve
+Brach Pallium		1	3%	Tail Carve
+Brach Gem		1	4%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Glowing Slime		1	22%	Shiny Drops
+Brach Pallium		1	1%	Shiny Drops
+Brach Gem		1	2%	Shiny Drops
+Brach Cortex		1	22%	Capture
+Fine Brach Ebonshell	1	33%	Capture
+Brach Ebonshell+	2	5%	Capture
+Brach Pounder+		1	20%	Capture
+Glowing Slime		2	7%	Capture
+Brach Lash		1	9%	Capture
+Brach Pallium		1	2%	Capture
+Brach Gem		1	2%	Capture
+Brach Crown		1	70%	Wound Head
+Brach Scalp+		1	10%	Wound Head
+Brach Cortex		1	20%	Wound Head
+Brach Pounder+		1	58%	Wound Front Leg
+Brach Pounder		2	8%	Wound Front Leg
+Fine Brach Ebonshell	1	14%	Wound Front Leg
+Glowing Slime		1	20%	Wound Front Leg

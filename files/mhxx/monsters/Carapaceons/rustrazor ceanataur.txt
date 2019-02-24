@@ -1,0 +1,67 @@
+﻿☆ Rustrazor Ceanataur - MHXX Lv 11~12
+Item			Qty	Prob.	How to obtain
+Rustrazor Cortex	1	50%	Body Carve
+Ceanataur Carapace	1	5%	Body Carve
+Heavy Ceanataur Leg	1	30%	Body Carve
+Ceanataur Hardclaw	1	5%	Body Carve
+Fine Black Pearl	1	10%	Body Carve
+Crab Pearl+		1	75%	Shiny Drops
+Fine Black Pearl	1	25%	Shiny Drops
+Rustrazor Cortex	1	20%	Capture
+Heavy Ceanataur Leg	1	40%	Capture
+Ceanataur Leg+		1	12%	Capture
+Ceanataur Hardclaw	1	13%	Capture
+Monster Toughbone	1	15%	Capture
+Rustrazor Cortex	1	20%	Break Shell(1)
+Heavy Wyvern Scalp	1	80%	Break Shell(1)
+Rustrazor Cortex	1	30%	Break Shell(2)
+Heavy Wyvern Scalp	1	55%	Break Shell(2)
+Monster Toughbone	2	15%	Break Shell(2)
+Rustrazor Hardclaw	1	55%	Break Claw
+Ceanataur Hardclaw	1	30%	Break Claw
+Ceanataur Claw+		2	15%	Break Claw
+
+☆ Rustrazor Ceanataur - MHXX Lv 13~15
+Item			Qty	Prob.	How to obtain
+Rustrazor Cortex	1	50%	Body Carve
+Ceanataur Carapace	1	5%	Body Carve
+Heavy Ceanataur Leg	1	30%	Body Carve
+Ceanataur Hardclaw	1	5%	Body Carve
+Fine Black Pearl	1	10%	Body Carve
+Crab Pearl+		1	75%	Shiny Drops
+Fine Black Pearl	1	25%	Shiny Drops
+Rustrazor Cortex	1	20%	Capture
+Heavy Ceanataur Leg	1	40%	Capture
+Ceanataur Leg+		1	12%	Capture
+Ceanataur Hardclaw	1	13%	Capture
+Monster Toughbone	1	15%	Capture
+Rustrazor Cortex	1	20%	Break Shell(1)
+Heavy Rustrazor Scalp	1	80%	Break Shell(1)
+Rustrazor Cortex	1	30%	Break Shell(2)
+Heavy Rustrazor Scalp	1	55%	Break Shell(2)
+Monster Toughbone	2	15%	Break Shell(2)
+Rustrazor Hardclaw	1	65%	Break Claw
+Ceanataur Hardclaw	1	25%	Break Claw
+Ceanataur Claw+		2	10%	Break Claw
+
+☆ Rustrazor Ceanataur - MHXX Lv Ex	
+Item			Qty	Prob.	How to obtain
+Rustrazor Cortex	1	50%	Body Carve
+Ceanataur Carapace	1	5%	Body Carve
+Heavy Ceanataur Leg	1	30%	Body Carve
+Rustrazor Hardclaw	1	5%	Body Carve
+Fine Black Pearl	1	10%	Body Carve
+Crab Pearl+		1	75%	Shiny Drops
+Fine Black Pearl	1	25%	Shiny Drops
+Rustrazor Cortex	2	20%	Capture
+Heavy Ceanataur Leg	1	44%	Capture
+Ceanataur Leg+		1	8%	Capture
+Rustrazor Hardclaw	1	13%	Capture
+Monster Toughbone	1	15%	Capture
+Rustrazor Cortex	1	20%	Break Shell(1)
+Heavy Rustrazor Scalp	1	80%	Break Shell(1)
+Rustrazor Cortex	1	30%	Break Shell(2)
+Heavy Rustrazor Scalp	1	55%	Break Shell(2)
+Monster Toughbone	2	15%	Break Shell(2)
+Rustrazor Hardclaw	1	85%	Break Claw
+Ceanataur Hardclaw	1	15%	Break Claw

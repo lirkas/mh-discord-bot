@@ -1,0 +1,22 @@
+﻿☆ Moofah - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Moofah Fur		1	20%	Body Carve
+Moofah Horn		1	80%	Body Carve
+Moofah Fur		1	80%	Shiny Drops
+Moofah Horn		1	20%	Shiny Drops
+
+☆ Moofah - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Moofah Fur		1	20%	Body Carve
+Moofah Horn		1	80%	Body Carve
+Moofah Fur		1	80%	Shiny Drops
+Moofah Horn		1	20%	Shiny Drops
+
+☆ Moofah - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Moofah Fur		1	20%	Body Carve
+Moofah Heavyhorn	1	70%	Body Carve
+Moofah Horn		1	10%	Body Carve
+Moofah Fur		1	80%	Shiny Drops
+Moofah Heavyhorn	1	15%	Shiny Drops
+Moofah Horn		1	5%	Shiny Drops

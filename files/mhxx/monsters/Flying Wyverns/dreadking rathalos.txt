@@ -1,0 +1,221 @@
+﻿☆ Dreadking Rathalos - MHXX Lv 1~4
+Item			Qty	Prob.	How to obtain
+Dreadking Scale		1	38%	Body Carve
+Dreadking Shell		1	29%	Body Carve
+Rathalos Wing		1	13%	Body Carve
+Inferno Sac		1	15%	Body Carve
+Rath Medulla		1	5%	Body Carve
+Dreadking Scale		1	20%	Tail Carve
+Rathalos Tail		1	61%	Tail Carve
+Rath Medulla		1	8%	Tail Carve
+Rathalos Ruby		1	3%	Tail Carve
+Rathalos Plate		1	8%	Tail Carve
+Wyvern Tear		1	38%	Shiny Drops
+Large Wyvern Tear	1	37%	Shiny Drops
+Dreadking Scale		1	23%	Shiny Drops
+Rathalos Ruby		1	2%	Shiny Drops
+Dreadking Shell		1	38%	Capture
+Rathalos Wing		1	10%	Capture
+Rathalos Webbing	2	18%	Capture
+Rathalos Tail		1	18%	Capture
+Rath Medulla		1	8%	Capture
+Rathalos Plate		1	5%	Capture
+Rathalos Ruby		1	3%	Capture
+Dreadking Scale		1	60%	Wound Head
+Dreadking Shell		1	30%	Wound Head
+Rathalos Plate		1	6%	Wound Head
+Rathalos Ruby		1	4%	Wound Head
+Rath Wingtalon		4	70%	Wound Wing
+Wyvern Claw		5	10%	Wound Wing
+Rathalos Wing		1	20%	Wound Wing
+Dreadking Shell		1	59%	Wound Back
+Rath Medulla		1	30%	Wound Back
+Rath Marrow		1	10%	Wound Back
+Rathalos Ruby		1	1%	Wound Back
+
+☆ Dreadking Rathalos - MHXX Lv 5~8
+Item			Qty	Prob.	How to obtain
+Dreadking Scale+	1	18%	Body Carve
+Dreadking Scale		1	20%	Body Carve
+Dreadking Carapace	1	14%	Body Carve
+Dreadking Shell		1	15%	Body Carve
+Rathalos Wing		1	13%	Body Carve
+Inferno Sac		1	15%	Body Carve
+Rath Medulla		1	5%	Body Carve
+Dreadking Scale+	1	18%	Tail Carve
+Dreadking Scale		1	7%	Tail Carve
+Rathalos Tail		1	53%	Tail Carve
+Rath Medulla		1	8%	Tail Carve
+Rathalos Ruby		1	4%	Tail Carve
+Rathalos Plate		1	10%	Tail Carve
+Wyvern Tear		1	38%	Shiny Drops
+Large Wyvern Tear	1	37%	Shiny Drops
+Dreadking Scale+	1	10%	Shiny Drops
+Dreadking Scale		1	12%	Shiny Drops
+Rathalos Ruby		1	3%	Shiny Drops
+Dreadking Carapace	1	18%	Capture
+Dreadking Shell		1	20%	Capture
+Rathalos Wing		1	10%	Capture
+Rathalos Webbing	2	18%	Capture
+Rathalos Tail		1	18%	Capture
+Rath Medulla		1	8%	Capture
+Rathalos Plate		1	5%	Capture
+Rathalos Ruby		1	3%	Capture
+Dreadking Scale+	1	27%	Wound Head
+Dreadking Scale		1	30%	Wound Head
+Dreadking Carapace	1	15%	Wound Head
+Dreadking Shell		1	18%	Wound Head
+Rathalos Plate		1	6%	Wound Head
+Rathalos Ruby		1	4%	Wound Head
+Rath Wingtalon		4	70%	Wound Wing
+Wyvern Claw		5	10%	Wound Wing
+Rathalos Wing		1	20%	Wound Wing
+Dreadking Carapace	1	28%	Wound Back
+Dreadking Shell		1	30%	Wound Back
+Rath Medulla		1	30%	Wound Back
+Rath Marrow		1	10%	Wound Back
+Rathalos Ruby		1	2%	Wound Back
+
+☆ Dreadking Rathalos - MHXX Lv 9~10	
+Item			Qty	Prob.	How to obtain
+Dreadking Scale+	1	38%	Body Carve
+Dreadking Carapace	1	29%	Body Carve
+Rathalos Wing		1	13%	Body Carve
+Inferno Sac		1	15%	Body Carve
+Rath Medulla		1	5%	Body Carve
+Dreadking Scale+	1	18%	Tail Carve
+Rathalos Tail		1	56%	Tail Carve
+Rath Medulla		1	9%	Tail Carve
+Rathalos Ruby		1	5%	Tail Carve
+Rathalos Plate		1	12%	Tail Carve
+Wyvern Tear		1	38%	Shiny Drops
+Large Wyvern Tear	1	37%	Shiny Drops
+Dreadking Scale+	1	21%	Shiny Drops
+Rathalos Ruby		1	4%	Shiny Drops
+Dreadking Carapace	1	38%	Capture
+Rathalos Wing		1	10%	Capture
+Rathalos Webbing	2	18%	Capture
+Rathalos Tail		1	18%	Capture
+Rath Medulla		1	8%	Capture
+Rathalos Plate		1	5%	Capture
+Rathalos Ruby		1	3%	Capture
+Dreadking Scale+	1	57%	Wound Head
+Dreadking Carapace	1	25%	Wound Head
+Dreadking Shell		2	8%	Wound Head
+Rathalos Plate		1	6%	Wound Head
+Rathalos Ruby		1	4%	Wound Head
+Rath Wingtalon		4	70%	Wound Wing
+Wyvern Claw		5	10%	Wound Wing
+Rathalos Wing		1	20%	Wound Wing
+Dreadking Carapace	1	57%	Wound Back
+Rath Medulla		1	30%	Wound Back
+Rath Marrow		1	10%	Wound Back
+Rathalos Ruby		1	3%	Wound Back
+
+☆ Dreadking Rathalos - MHXX Lv 11~12	
+Item			Qty	Prob.	How to obtain
+Dreadking Shard		1	18%	Body Carve
+Dreadking Scale+	1	20%	Body Carve
+Dreadking Carapace	1	29%	Body Carve
+Rathalos Fellwing	1	13%	Body Carve
+Conflagrant Sac		1	15%	Body Carve
+Rath Medulla		1	5%	Body Carve
+Dreadking Shard		1	12%	Tail Carve
+Dreadking Scale+	1	4%	Tail Carve
+Rathalos Lash		1	70%	Tail Carve
+Rath Medulla		1	3%	Tail Carve
+Rathalos Mantle		1	3%	Tail Carve
+Rathalos Ruby		1	8%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Dreadking Scale+	1	23%	Shiny Drops
+Rathalos Mantle		1	2%	Shiny Drops
+Dreadking Carapace	1	40%	Capture
+Rathalos Fellwing	1	18%	Capture
+Rathalos Lash		1	26%	Capture
+Rath Medulla		1	8%	Capture
+Rathalos Ruby		1	5%	Capture
+Rathalos Mantle		1	3%	Capture
+Dreadking Shard		1	30%	Wound Head
+Dreadking Scale+	1	30%	Wound Head
+Dreadking Carapace	1	30%	Wound Head
+Rathalos Ruby		1	6%	Wound Head
+Rathalos Mantle		1	4%	Wound Head
+Rath Wingtalon+		1	40%	Wound Wing
+Rath Wingtalon+		2	30%	Wound Wing
+Rathalos Fellwing	1	30%	Wound Wing
+Dreadking Carapace	1	59%	Wound Back
+Rath Medulla		1	40%	Wound Back
+Rathalos Mantle		1	1%	Wound Back
+
+☆ Dreadking Rathalos - MHXX Lv 13~15	
+Item			Qty	Prob.	How to obtain
+Dreadking Shard		1	18%	Body Carve
+Dreadking Scale+	1	20%	Body Carve
+Dreadking Cortex	1	14%	Body Carve
+Dreadking Carapace	1	15%	Body Carve
+Rathalos Fellwing	1	13%	Body Carve
+Conflagrant Sac		1	15%	Body Carve
+Rath Medulla		1	5%	Body Carve
+Dreadking Shard		1	18%	Tail Carve
+Dreadking Scale+	1	4%	Tail Carve
+Rathalos Lash		1	60%	Tail Carve
+Rath Medulla		1	4%	Tail Carve
+Rathalos Mantle		1	4%	Tail Carve
+Rathalos Ruby		1	10%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Dreadking Shard		1	10%	Shiny Drops
+Dreadking Scale+	1	12%	Shiny Drops
+Rathalos Mantle		1	3%	Shiny Drops
+Dreadking Cortex	1	20%	Capture
+Dreadking Carapace	1	20%	Capture
+Rathalos Fellwing	1	18%	Capture
+Rathalos Lash		1	26%	Capture
+Rath Medulla		1	8%	Capture
+Rathalos Ruby		1	5%	Capture
+Rathalos Mantle		1	3%	Capture
+Dreadking Shard		1	27%	Wound Head
+Dreadking Scale+	1	30%	Wound Head
+Dreadking Cortex	1	15%	Wound Head
+Dreadking Carapace	1	18%	Wound Head
+Rathalos Ruby		1	6%	Wound Head
+Rathalos Mantle		1	4%	Wound Head
+Rath Wingtalon+		1	40%	Wound Wing
+Rath Wingtalon+		2	30%	Wound Wing
+Rathalos Fellwing	1	30%	Wound Wing
+Dreadking Cortex	1	28%	Wound Back
+Dreadking Carapace	1	30%	Wound Back
+Rath Medulla		1	40%	Wound Back
+Rathalos Mantle		1	2%	Wound Back
+
+☆ Dreadking Rathalos - MHXX Lv Ex
+Item			Qty	Prob.	How to obtain
+Dreadking Shard		1	38%	Body Carve
+Dreadking Cortex	1	29%	Body Carve
+Rathalos Fellwing	1	13%	Body Carve
+Conflagrant Sac		1	15%	Body Carve
+Rath Medulla		1	5%	Body Carve
+Dreadking Shard		1	18%	Tail Carve
+Rathalos Lash		1	56%	Tail Carve
+Rath Medulla		1	9%	Tail Carve
+Rathalos Mantle		1	5%	Tail Carve
+Rathalos Ruby		1	12%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Dreadking Shard		1	21%	Shiny Drops
+Rathalos Mantle		1	4%	Shiny Drops
+Dreadking Cortex	1	40%	Capture
+Rathalos Fellwing	1	18%	Capture
+Rathalos Lash		1	26%	Capture
+Rath Medulla		1	8%	Capture
+Rathalos Ruby		1	5%	Capture
+Rathalos Mantle		1	3%	Capture
+Dreadking Shard		1	57%	Wound Head
+Dreadking Cortex	1	25%	Wound Head
+Dreadking Carapace	2	8%	Wound Head
+Rathalos Ruby		1	6%	Wound Head
+Rathalos Mantle		1	4%	Wound Head
+Rath Wingtalon+		1	40%	Wound Wing
+Rath Wingtalon+		2	30%	Wound Wing
+Rathalos Fellwing	1	30%	Wound Wing
+Dreadking Cortex	1	57%	Wound Back
+Rath Medulla		1	40%	Wound Back
+Rathalos Mantle		1	3%	Wound Back

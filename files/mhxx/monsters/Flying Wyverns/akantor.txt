@@ -1,0 +1,65 @@
+﻿☆ Akantor - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Akantor Scale+		1	40%	Body Carve
+Akantor Carapace	1	30%	Body Carve
+Akantor Hardclaw	1	10%	Body Carve
+Akantor Tallfang	1	8%	Body Carve
+Akantor Gem		1	2%	Body Carve
+Firecell Stone		1	10%	Body Carve
+Akantor Tail		1	80%	Tail Carve
+Akantor Scale+		1	20%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Akantor Spike		1	5%	Shiny Drops
+Akantor Carapace	1	12%	Shiny Drops
+Wyvern Crystal		1	8%	Shiny Drops
+Akantor Tallfang	1	78%	Wound Head
+Akantor Scale+		1	18%	Wound Head
+Akantor Gem		1	4%	Wound Head
+Akantor Spike		1	70%	Wound Back
+Akantor Carapace	1	10%	Wound Back
+Wyvern Crystal		2	20%	Wound Back
+Akantor Scale+		1	50%	Wound Belly
+Akantor Carapace	1	22%	Wound Belly
+Akantor Gem		1	6%	Wound Belly
+Firecell Stone		2	10%	Wound Belly
+Wyvern Crystal		2	12%	Wound Belly
+Akantor Hardclaw	1	80%	Wound Front Leg
+Akantor Hardclaw	2	10%	Wound Front Leg
+Akantor Carapace	1	10%	Wound Front Leg
+
+☆ Akantor - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Akantor Shard		1	38%	Body Carve
+Akantor Cortex		1	30%	Body Carve
+Akantor Shredtalon	1	10%	Body Carve
+Akantor Greatfang	1	8%	Body Carve
+Conquest Sphere		1	2%	Body Carve
+Akantor Gem		1	2%	Body Carve
+Allfire Stone		1	10%	Body Carve
+Akantor Flail		1	75%	Tail Carve
+Akantor Tail		1	10%	Tail Carve
+Akantor Shard		1	10%	Tail Carve
+Akantor Scale+		1	5%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Akantor Thickspike	1	5%	Shiny Drops
+Akantor Cortex		1	12%	Shiny Drops
+Great Wyvern Crystal	1	8%	Shiny Drops
+Akantor Greatfang	1	70%	Wound Head
+Akantor Tallfang	1	8%	Wound Head
+Akantor Shard		1	16%	Wound Head
+Conquest Sphere		1	4%	Wound Head
+Akantor Gem		1	2%	Wound Head
+Akantor Thickspike	1	60%	Wound Back
+Akantor Spike		2	10%	Wound Back
+Akantor Cortex		1	10%	Wound Back
+Great Wyvern Crystal	2	20%	Wound Back
+Akantor Shard		1	50%	Wound Belly
+Akantor Cortex		1	22%	Wound Belly
+Conquest Sphere		1	6%	Wound Belly
+Akantor Gem		1	2%	Wound Belly
+Allfire Stone		2	10%	Wound Belly
+Great Wyvern Crystal	2	10%	Wound Belly
+Akantor Shredtalon	1	70%	Wound Front Leg
+Akantor Shredtalon	2	10%	Wound Front Leg
+Akantor Hardclaw	2	10%	Wound Front Leg
+Akantor Cortex		1	10%	Wound Front Leg

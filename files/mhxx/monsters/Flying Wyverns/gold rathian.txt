@@ -1,0 +1,73 @@
+﻿☆ Gold Rathian - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+G.Rathian Scale+	1	43%	Body Carve
+G.Rathian Carapace	1	29%	Body Carve
+Inferno Sac		1	8%	Body Carve
+G.Rathian Spike+	1	10%	Body Carve
+Rath Gleam		1	10%	Body Carve
+G.Rathian Scale+	1	45%	Tail Carve
+G.Rathian Carapace	1	30%	Tail Carve
+G.Rathian Spike+	1	10%	Tail Carve
+Rathian Plate		1	10%	Tail Carve
+Rathian Ruby		1	5%	Tail Carve
+Wyvern Tear		1	38%	Shiny Drops
+Large Wyvern Tear	1	37%	Shiny Drops
+G.Rathian Scale+	1	11%	Shiny Drops
+Rath Gleam		1	10%	Shiny Drops
+Rathian Ruby		1	4%	Shiny Drops
+G.Rathian Carapace	1	30%	Capture
+G.Rathian Scale+	2	22%	Capture
+Rath Medulla		1	7%	Capture
+Rath Gleam		1	20%	Capture
+Inferno Sac		1	10%	Capture
+Rathian Plate		1	4%	Capture
+Rathian Ruby		1	7%	Capture
+G.Rathian Carapace	1	50%	Wound Head
+G.Rathian Scale+	1	25%	Wound Head
+Rath Gleam		2	15%	Wound Head
+Rathian Plate		1	6%	Wound Head
+Rathian Ruby		1	4%	Wound Head
+Rath Wingtalon		2	60%	Wound Wing
+Wyvern Claw		5	15%	Wound Wing
+Rathian Webbing		2	10%	Wound Wing
+G.Rathian Scale+	1	15%	Wound Wing
+G.Rathian Carapace	1	69%	Wound Back
+G.Rathian Spike+	1	30%	Wound Back
+Rathian Ruby		1	1%	Wound Back
+
+☆ Gold Rathian - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+G.Rathian Shard		1	43%	Body Carve
+G.Rathian Cortex	1	29%	Body Carve
+Conflagrant Sac		1	8%	Body Carve
+G.Rath Surspike		1	10%	Body Carve
+Firegleam Dollop	1	10%	Body Carve
+G.Rathian Shard		1	45%	Tail Carve
+G.Rathian Cortex	1	30%	Tail Carve
+G.Rath Surspike		1	10%	Tail Carve
+Rathian Ruby		1	10%	Tail Carve
+Rathian Mantle		1	5%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+G.Rathian Shard		1	11%	Shiny Drops
+Firegleam Dollop	1	10%	Shiny Drops
+Rathian Mantle		1	4%	Shiny Drops
+G.Rathian Cortex	1	30%	Capture
+G.Rathian Shard		2	22%	Capture
+Rath Medulla		1	5%	Capture
+Rath Gleam		2	8%	Capture
+Firegleam Dollop	1	16%	Capture
+Conflagrant Sac		1	8%	Capture
+Rathian Ruby		1	4%	Capture
+Rathian Mantle		1	7%	Capture
+G.Rathian Cortex	1	45%	Wound Head
+G.Rathian Shard		1	22%	Wound Head
+Rath Gleam		2	8%	Wound Head
+Firegleam Dollop	2	15%	Wound Head
+Rathian Ruby		1	6%	Wound Head
+Rathian Mantle		1	4%	Wound Head
+Rath Wingtalon+		2	70%	Wound Wing
+Rathian Weave		2	12%	Wound Wing
+G.Rathian Shard		1	18%	Wound Wing
+G.Rathian Shard		1	69%	Wound Back
+G.Rath Surspike		1	30%	Wound Back
+Rathian Mantle		1	1%	Wound Back

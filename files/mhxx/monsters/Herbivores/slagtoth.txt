@@ -1,0 +1,20 @@
+﻿☆ Slagtoth - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Monster Bone M		1	10%	Body Carve
+Raw Meat		1	20%	Body Carve
+Slagtoth Hide+		1	25%	Body Carve
+Slagtoth Oil		1	45%	Body Carve
+
+☆ Slagtoth - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Monster Bone+		1	5%	Body Carve
+Raw Meat		1	15%	Body Carve
+Slagtoth Hide+		1	40%	Body Carve
+Slagtoth Oil		1	40%	Body Carve
+
+☆ Slagtoth - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Large Herbivore Bone	1	20%	Body Carve
+Raw Meat		1	10%	Body Carve
+Slagtoth Hide+		1	30%	Body Carve
+Slagtoth Oil		1	40%	Body Carve

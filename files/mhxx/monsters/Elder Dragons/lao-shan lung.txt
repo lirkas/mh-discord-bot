@@ -1,0 +1,20 @@
+﻿☆ Lao-Shan Lung - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Lao-Shan Cortex		1	37%	Body Carve
+Lao-Shan Shard		1	55%	Body Carve
+Lao-Shan Megaclaw	1	5%	Body Carve
+Lao-Shan Mantle		1	3%	Body Carve
+Lrg ElderDragon Bone	1	35%	Back Carve
+Lao-Shan Shard		1	28%	Back Carve
+Lao-Shan Cortex		1	12%	Back Carve
+Dragon Healing Crystal	1	25%	Back Carve
+Lao-Shan Hardhorn	1	97%	Break Horn
+Lao-Shan Mantle		1	3%	Break Horn
+Lao-Shan Cortex		1	80%	Wound Head
+Pure Dragon Blood	2	20%	Wound Head
+Lao-Shan Cortex		1	78%	Wound Back
+Elder Dragon Bone	2	20%	Wound Back
+Lao-Shan Mantle		1	2%	Wound Back
+Lao-Shan Cortex		1	56%	Wound Shouder
+Lao-Shan Shard		1	42%	Wound Shouder
+Lao-Shan Mantle		1	2%	Wound Shouder

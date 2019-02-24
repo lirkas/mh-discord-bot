@@ -1,0 +1,38 @@
+﻿☆ Seltas - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Seltas Carapace		1	65%	Body Carve
+Seltas Innerwing	1	25%	Body Carve
+Torrent Sac		1	10%	Body Carve
+Drone Substance		1	50%	Shiny Drops
+Queen Substance		1	25%	Shiny Drops
+Monster Broth		1	20%	Shiny Drops
+Torrent Sac		1	5%	Shiny Drops
+Seltas Carapace		1	20%	Capture
+Seltas Innerwing	1	30%	Capture
+Seltas Horn+		1	20%	Capture
+Torrent Sac		1	5%	Capture
+Monster Broth		1	10%	Capture
+Monster Broth		2	5%	Capture
+Monster Fluid		2	10%	Capture
+Seltas Horn+		1	70%	Break Horn
+Seltas Carapace		1	30%	Break Horn
+
+☆ Seltas - MHXX G Rank
+Item			Qty	Prob.	How to obtain
+Seltas Cortex		1	55%	Body Carve
+Seltas Carapace		1	10%	Body Carve
+Seltas Razorwing	1	25%	Body Carve
+Flood Sac		1	10%	Body Carve
+Queen Substance		1	75%	Shiny Drops
+Monster Essence		1	20%	Shiny Drops
+Flood Sac		1	5%	Shiny Drops
+Seltas Cortex		1	20%	Capture
+Seltas Razorwing	1	30%	Capture
+Seltas Hardhorn		1	20%	Capture
+Flood Sac		1	5%	Capture
+Monster Essence		1	10%	Capture
+Monster Essence		2	5%	Capture
+Monster Broth		2	10%	Capture
+Seltas Hardhorn		1	65%	Break Horn
+Seltas Horn+		1	10%	Break Horn
+Seltas Cortex		1	25%	Break Horn

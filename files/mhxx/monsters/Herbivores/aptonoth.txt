@@ -1,0 +1,14 @@
+﻿☆ Aptonoth - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Monster Bone S		1	25%	Body Carve
+Raw Meat		1	75%	Body Carve
+
+☆ Aptonoth - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Monster Bone S		1	25%	Body Carve
+Raw Meat		1	75%	Body Carve
+
+☆ Aptonoth - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Monster Bone S		1	25%	Body Carve
+Raw Meat		1	75%	Body Carve

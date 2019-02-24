@@ -1,0 +1,21 @@
+﻿☆ Apceros - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Raw Meat		1	28%	Body Carve
+Monster Bone S		1	25%	Body Carve
+Monster Bone M		1	2%	Body Carve
+Apceros Liver		1	45%	Body Carve
+
+☆ Apceros - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Raw Meat		1	28%	Body Carve
+Monster Bone S		1	20%	Body Carve
+Monster Bone M		1	10%	Body Carve
+Monster Bone+		1	2%	Body Carve
+Apceros Liver		1	40%	Body Carve
+
+☆ Apceros - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Raw Meat		1	28%	Body Carve
+Large Herbivore Bone	1	30%	Body Carve
+Monster Bone+		1	2%	Body Carve
+Apceros Liver		1	40%	Body Carve

@@ -1,0 +1,244 @@
+﻿☆ Thunderlord Zinogre - MHXX Lv 1~4
+Item			Qty	Prob.	How to obtain
+Thunderlord Shell	1	40%	Body Carve
+Thunderlord Shockfur	1	22%	Body Carve
+Zinogre Claw+		1	15%	Body Carve
+Zinogre Shocker+	1	20%	Body Carve
+Zinogre Jasper		1	3%	Body Carve
+Zinogre Tail		1	70%	Tail Carve
+Thunderlord Shell	1	20%	Tail Carve
+Thunderlord Shockfur	1	8%	Tail Carve
+Zinogre Jasper		1	2%	Tail Carve
+Wyvern Tear		1	38%	Shiny Drops
+Large Wyvern Tear	1	37%	Shiny Drops
+Thunderlord Shell	1	15%	Shiny Drops
+Fulgurbug		1	8%	Shiny Drops
+Zinogre Jasper		1	2%	Shiny Drops
+Fulgurbug		1	90%	Bug-Catching Back
+Thunderlord Shockfur	1	10%	Bug-Catching Back
+Thunderlord Shell	2	10%	Capture
+Thunderlord Shockfur	1	26%	Capture
+Zinogre Claw+		1	18%	Capture
+Zinogre Shocker+	1	26%	Capture
+Zinogre Jasper		1	2%	Capture
+Zinogre Plate		1	6%	Capture
+Fulgurbug		4	12%	Capture
+Thunderlord Horn	1	80%	Wound Head
+Thunderlord Shell	1	17%	Wound Head
+Zinogre Jasper		1	3%	Wound Head
+Thunderlord Shell	2	10%	Wound Back
+Thunderlord Shockfur	1	25%	Wound Back
+Zinogre Shocker+	1	55%	Wound Back
+Zinogre Shocker		2	10%	Wound Back
+Zinogre Claw+		2	17%	Wound Front Leg
+Zinogre Claw+		1	65%	Wound Front Leg
+Zinogre Claw		3	8%	Wound Front Leg
+Zinogre Shocker+	1	10%	Wound Front Leg
+
+☆ Thunderlord Zinogre - MHXX Lv 5~8
+Item			Qty	Prob.	How to obtain
+Thunderlord Carapace	1	20%	Body Carve
+Thunderlord Shell	1	28%	Body Carve
+Thunderlord Electrofur	1	10%	Body Carve
+Thunderlord Shockfur	1	10%	Body Carve
+Zinogre Claw+		1	14%	Body Carve
+Zinogre Shocker+	1	13%	Body Carve
+Zinogre Jasper		1	5%	Body Carve
+Zinogre Tail		1	70%	Tail Carve
+Thunderlord Carapace	1	8%	Tail Carve
+Thunderlord Shell	1	12%	Tail Carve
+Thunderlord Electrofur	1	8%	Tail Carve
+Zinogre Jasper		1	2%	Tail Carve
+Wyvern Tear		1	38%	Shiny Drops
+Large Wyvern Tear	1	37%	Shiny Drops
+Thunderlord Carapace	1	5%	Shiny Drops
+Thunderlord Shell	1	10%	Shiny Drops
+Fulgurbug		1	8%	Shiny Drops
+Zinogre Jasper		1	2%	Shiny Drops
+Fulgurbug		1	82%	Bug-Catching Back
+Thunderlord Electrofur	1	8%	Bug-Catching Back
+Thunderlord Shockfur	1	10%	Bug-Catching Back
+Thunderlord Carapace	2	10%	Capture
+Thunderlord Electrofur	1	10%	Capture
+Thunderlord Shockfur	1	16%	Capture
+Zinogre Claw+		1	18%	Capture
+Zinogre Shocker+	1	26%	Capture
+Zinogre Jasper		1	2%	Capture
+Zinogre Plate		1	6%	Capture
+Fulgurbug		4	12%	Capture
+Thunderlord Horn+	1	35%	Wound Head
+Thunderlord Horn	1	45%	Wound Head
+Thunderlord Carapace	1	7%	Wound Head
+Thunderlord Shell	1	10%	Wound Head
+Zinogre Jasper		1	3%	Wound Head
+Thunderlord Shell	2	10%	Wound Back
+Thunderlord Electrofur	1	10%	Wound Back
+Thunderlord Shockfur	1	15%	Wound Back
+Zinogre Shocker+	1	55%	Wound Back
+Zinogre Shocker		2	10%	Wound Back
+Zinogre Claw+		2	17%	Wound Front Leg
+Zinogre Claw+		1	65%	Wound Front Leg
+Zinogre Claw		3	8%	Wound Front Leg
+Zinogre Shocker+	1	10%	Wound Front Leg
+
+☆ Thunderlord Zinogre - MHXX Lv 9~10	
+Item			Qty	Prob.	How to obtain
+Thunderlord Carapace	1	40%	Body Carve
+Thunderlord Electrofur	1	25%	Body Carve
+Zinogre Claw+		1	14%	Body Carve
+Zinogre Shocker+	1	13%	Body Carve
+Zinogre Jasper		1	8%	Body Carve
+Zinogre Tail		1	70%	Tail Carve
+Thunderlord Carapace	1	20%	Tail Carve
+Thunderlord Electrofur	1	8%	Tail Carve
+Zinogre Jasper		1	2%	Tail Carve
+Wyvern Tear		1	38%	Shiny Drops
+Large Wyvern Tear	1	37%	Shiny Drops
+Thunderlord Carapace	1	15%	Shiny Drops
+Fulgurbug		1	8%	Shiny Drops
+Zinogre Jasper		1	2%	Shiny Drops
+Fulgurbug		1	82%	Bug-Catching Back
+Thunderlord Electrofur	1	18%	Bug-Catching Back
+Thunderlord Carapace	2	10%	Capture
+Thunderlord Electrofur	1	26%	Capture
+Zinogre Claw+		1	18%	Capture
+Zinogre Shocker+	1	26%	Capture
+Zinogre Jasper		1	2%	Capture
+Zinogre Plate		1	6%	Capture
+Fulgurbug		4	12%	Capture
+Thunderlord Horn+	1	70%	Wound Head
+Thunderlord Horn	2	10%	Wound Head
+Thunderlord Carapace	1	17%	Wound Head
+Zinogre Jasper		1	3%	Wound Head
+Thunderlord Carapace	2	10%	Wound Back
+Thunderlord Electrofur	1	25%	Wound Back
+Zinogre Shocker+	1	55%	Wound Back
+Zinogre Shocker		2	10%	Wound Back
+Zinogre Claw+		2	17%	Wound Front Leg
+Zinogre Claw+		1	65%	Wound Front Leg
+Zinogre Claw		3	8%	Wound Front Leg
+Zinogre Shocker+	1	10%	Wound Front Leg
+
+☆ Thunderlord Zinogre - MHXX Lv 11~12	
+Item			Qty	Prob.	How to obtain
+Thunderlord Cortex	1	20%	Body Carve
+Thunderlord Carapace	1	28%	Body Carve
+Thunderlord Electrofur	1	22%	Body Carve
+Zinogre Hardclaw	1	14%	Body Carve
+Zinogre D-Shocker	1	13%	Body Carve
+Zinogre Skymerald	1	3%	Body Carve
+Zinogre Lash		1	70%	Tail Carve
+Thunderlord Cortex	1	8%	Tail Carve
+Thunderlord Carapace	1	12%	Tail Carve
+Thunderlord Electrofur	1	8%	Tail Carve
+Zinogre Skymerald	1	2%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Thunderlord Cortex	1	5%	Shiny Drops
+Thunderlord Carapace	1	10%	Shiny Drops
+Fulgurbug		1	8%	Shiny Drops
+Zinogre Skymerald	1	2%	Shiny Drops
+Fulgurbug		1	90%	Bug-Catching Back
+Thunderlord Electrofur	1	10%	Bug-Catching Back
+Thunderlord Cortex	2	10%	Capture
+Thunderlord Carapace	2	10%	Capture
+Thunderlord Electrofur	1	16%	Capture
+Zinogre Hardclaw	1	18%	Capture
+Zinogre D-Shocker	1	26%	Capture
+Zinogre Skymerald	1	2%	Capture
+Zinogre Jasper		1	6%	Capture
+Fulgurbug		4	12%	Capture
+Thunderlord Gleamhorn	1	35%	Wound Head
+Thunderlord Horn+	1	45%	Wound Head
+Thunderlord Cortex	1	7%	Wound Head
+Thunderlord Carapace	1	10%	Wound Head
+Zinogre Skymerald	1	3%	Wound Head
+Thunderlord Carapace	2	10%	Wound Back
+Thunderlord Electrofur	1	25%	Wound Back
+Zinogre D-Shocker	1	55%	Wound Back
+Zinogre Shocker+	2	10%	Wound Back
+Zinogre Hardclaw	2	17%	Wound Front Leg
+Zinogre Hardclaw	1	65%	Wound Front Leg
+Zinogre Claw+		2	8%	Wound Front Leg
+Zinogre D-Shocker	1	10%	Wound Front Leg
+
+☆ Thunderlord Zinogre - MHXX Lv 13~15	
+Item			Qty	Prob.	How to obtain
+Thunderlord Cortex	1	20%	Body Carve
+Thunderlord Carapace	1	28%	Body Carve
+Thunderlord Boltfur	1	10%	Body Carve
+Thunderlord Electrofur	1	10%	Body Carve
+Zinogre Hardclaw	1	14%	Body Carve
+Zinogre D-Shocker	1	13%	Body Carve
+Zinogre Skymerald	1	5%	Body Carve
+Zinogre Lash		1	70%	Tail Carve
+Thunderlord Cortex	1	8%	Tail Carve
+Thunderlord Carapace	1	12%	Tail Carve
+Thunderlord Boltfur	1	8%	Tail Carve
+Zinogre Skymerald	1	2%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Thunderlord Cortex	1	5%	Shiny Drops
+Thunderlord Carapace	1	10%	Shiny Drops
+Fulgurbug		1	8%	Shiny Drops
+Zinogre Skymerald	1	2%	Shiny Drops
+Fulgurbug		1	82%	Bug-Catching Back
+Thunderlord Boltfur	1	8%	Bug-Catching Back
+Thunderlord Electrofur	1	10%	Bug-Catching Back
+Thunderlord Cortex	2	10%	Capture
+Thunderlord Boltfur	1	10%	Capture
+Thunderlord Electrofur	1	16%	Capture
+Zinogre Hardclaw	1	18%	Capture
+Zinogre D-Shocker	1	26%	Capture
+Zinogre Skymerald	1	2%	Capture
+Zinogre Jasper		1	6%	Capture
+Fulgurbug		4	12%	Capture
+Thunderlord Gleamhorn	1	35%	Wound Head
+Thunderlord Horn+	1	45%	Wound Head
+Thunderlord Cortex	1	7%	Wound Head
+Thunderlord Carapace	1	10%	Wound Head
+Zinogre Skymerald	1	3%	Wound Head
+Thunderlord Carapace	2	10%	Wound Back
+Thunderlord Boltfur	1	10%	Wound Back
+Thunderlord Electrofur	1	15%	Wound Back
+Zinogre D-Shocker	1	56%	Wound Back
+Zinogre Shocker+	2	10%	Wound Back
+Zinogre Hardclaw	2	17%	Wound Front Leg
+Zinogre Hardclaw	1	64%	Wound Front Leg
+Zinogre Claw+		2	8%	Wound Front Leg
+Zinogre D-Shocker	1	10%	Wound Front Leg
+
+☆ Thunderlord Zinogre - MHXX Lv Ex
+Item			Qty	Prob.	How to obtain
+Thunderlord Cortex	1	40%	Body Carve
+Thunderlord Boltfur	1	25%	Body Carve
+Zinogre Hardclaw	1	14%	Body Carve
+Zinogre D-Shocker	1	13%	Body Carve
+Zinogre Skymerald	1	8%	Body Carve
+Zinogre Lash		1	70%	Tail Carve
+Thunderlord Cortex	1	20%	Tail Carve
+Thunderlord Boltfur	1	8%	Tail Carve
+Zinogre Skymerald	1	2%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Thunderlord Cortex	1	15%	Shiny Drops
+Fulgurbug		1	8%	Shiny Drops
+Zinogre Skymerald	1	2%	Shiny Drops
+Fulgurbug		1	82%	Bug-Catching Back
+Thunderlord Boltfur	1	18%	Bug-Catching Back
+Thunderlord Cortex	2	10%	Capture
+Thunderlord Boltfur	1	26%	Capture
+Zinogre Hardclaw	1	18%	Capture
+Zinogre D-Shocker	1	26%	Capture
+Zinogre Skymerald	1	2%	Capture
+Zinogre Jasper		1	6%	Capture
+Fulgurbug		4	12%	Capture
+Thunderlord Gleamhorn	1	70%	Wound Head
+Thunderlord Horn+	2	10%	Wound Head
+Thunderlord Cortex	1	17%	Wound Head
+Zinogre Skymerald	1	3%	Wound Head
+Thunderlord Cortex	2	10%	Wound Back
+Thunderlord Boltfur	1	25%	Wound Back
+Zinogre D-Shocker	1	55%	Wound Back
+Zinogre Shocker+	2	10%	Wound Back
+Zinogre Hardclaw	2	17%	Wound Front Leg
+Zinogre Hardclaw	1	65%	Wound Front Leg
+Zinogre Claw+		2	8%	Wound Front Leg
+Zinogre D-Shocker	1	10%	Wound Front Leg

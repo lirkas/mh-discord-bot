@@ -1,0 +1,66 @@
+﻿☆ Chameleos - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Chameleos Hide		1	40%	Body Carve
+Chameleos Claw		1	20%	Body Carve
+Chameleos Webbing	1	25%	Body Carve
+Elder Dragon Blood	1	15%	Body Carve
+Chameleos Tail		1	75%	Tail Carve
+Dragonite Ore		1	5%	Tail Carve
+Elder Dragon Bone	1	20%	Tail Carve
+Dragon Treasure		1	75%	Shiny Drops
+Elder Dragon Blood	1	20%	Shiny Drops
+Dragonite Ore		1	5%	Shiny Drops
+Chameleos Horn		1	90%	Break Horn
+Elder Dragon Blood	1	10%	Break Horn
+Chameleos Hide		1	40%	Wound Wing
+Chameleos Webbing	1	60%	Wound Wing
+
+☆ Chameleos - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Chameleos Hide+		1	37%	Body Carve
+Chameleos Claw+		1	20%	Body Carve
+Chameleos Webbing	1	18%	Body Carve
+Elder Dragon Blood	1	12%	Body Carve
+Pure Dragon Blood	1	8%	Body Carve
+Chameleos Gem		1	5%	Body Carve
+Chameleos Tail		1	72%	Tail Carve
+Chameleos Gem		1	8%	Tail Carve
+Fucium Ore		1	5%	Tail Carve
+Elder Dragon Bone	1	15%	Tail Carve
+Dragon Treasure		1	50%	Shiny Drops
+Old Dragon Treasure	1	25%	Shiny Drops
+Elder Dragon Blood	1	12%	Shiny Drops
+Pure Dragon Blood	1	8%	Shiny Drops
+Fucium Ore		1	5%	Shiny Drops
+Chameleos Spike		1	75%	Break Horn
+Chameleos Horn		1	10%	Break Horn
+Elder Dragon Blood	2	10%	Break Horn
+Pure Dragon Blood	1	5%	Break Horn
+Chameleos Hide+		1	40%	Wound Wing
+Chameleos Webbing	1	60%	Wound Wing
+
+☆ Chameleos - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Chameleos Finehide	1	37%	Body Carve
+Chameleos Hardclaw	1	20%	Body Carve
+Chameleos Fellwing	1	18%	Body Carve
+Pure Dragon Blood	1	10%	Body Carve
+Viscous Dragon Blood	1	8%	Body Carve
+Chameleos Gem		1	5%	Body Carve
+Lrg Elder Dragon Gem	1	2%	Body Carve
+Chameleos Lash		1	72%	Tail Carve
+Chameleos Gem		1	8%	Tail Carve
+Meldspar Ore		1	5%	Tail Carve
+Lrg ElderDragon Bone	1	12%	Tail Carve
+Lrg Elder Dragon Gem	1	3%	Tail Carve
+Old Dragon Treasure	1	75%	Shiny Drops
+Pure Dragon Blood	1	12%	Shiny Drops
+Viscous Dragon Blood	1	8%	Shiny Drops
+Meldspar Ore		1	5%	Shiny Drops
+Chameleos Hardhorn	1	75%	Break Horn
+Chameleos Spike		1	10%	Break Horn
+Pure Dragon Blood	2	10%	Break Horn
+Viscous Dragon Blood	1	5%	Break Horn
+Chameleos Finehide	1	36%	Wound Wing
+Chameleos Hide+		2	8%	Wound Wing
+Chameleos Fellwing	1	56%	Wound Wing

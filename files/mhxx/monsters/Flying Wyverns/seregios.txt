@@ -1,0 +1,102 @@
+﻿☆ Seregios - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Seregios Bladescale	1	47%	Body Carve
+Airblade Shard		1	24%	Body Carve
+Seregios Talon		1	15%	Body Carve
+Seregios Wingtalon	1	14%	Body Carve
+Seregios Impaler	1	75%	Tail Carve
+Seregios Bladescale	1	15%	Tail Carve
+Airblade Shard		1	10%	Tail Carve
+Wyvern Tear		1	55%	Shiny Drops
+Airblade Shard		1	45%	Shiny Drops
+Seregios Bladescale	2	10%	Capture
+Airblade Shard		1	25%	Capture
+Seregios Talon		1	15%	Capture
+Seregios Wingtalon	1	28%	Capture
+Seregios Impaler	1	10%	Capture
+Monster Bone+		1	12%	Capture
+Seregios Sunderer	1	80%	Break Horn
+Seregios Bladescale	1	20%	Break Horn
+Seregios Bladescale	1	10%	Break Wingtalon
+Airblade Shard		1	30%	Break Wingtalon
+Seregios Wingtalon	1	40%	Break Wingtalon
+Seregios Wingtalon	2	20%	Break Wingtalon
+Seregios Talon		2	20%	Break Leg Claw
+Seregios Talon		1	80%	Break Leg Claw
+
+☆ Seregios - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Seregios Slavescale	1	40%	Body Carve
+Seregios Bladescale	1	10%	Body Carve
+Seregios Airblade	1	20%	Body Carve
+Seregios Carver		1	15%	Body Carve
+Seregios Scraper	1	12%	Body Carve
+Seregios Dissenter	1	3%	Body Carve
+Seregios Impaler	1	69%	Tail Carve
+Seregios Slavescale	1	20%	Tail Carve
+Seregios Airblade	1	9%	Tail Carve
+Seregios Dissenter	1	2%	Tail Carve
+Wyvern Tear		1	20%	Shiny Drops
+Large Wyvern Tear	1	34%	Shiny Drops
+Seregios Airblade	1	45%	Shiny Drops
+Seregios Dissenter	1	1%	Shiny Drops
+Seregios Slavescale	2	10%	Capture
+Seregios Airblade	1	28%	Capture
+Airblade Shard		2	5%	Capture
+Seregios Carver		1	15%	Capture
+Seregios Scraper	1	28%	Capture
+Seregios Dissenter	1	2%	Capture
+Monster Hardbone	1	12%	Capture
+Seregios Breacher	1	70%	Break Horn
+Seregios Sunderer	1	10%	Break Horn
+Seregios Slavescale	1	17%	Break Horn
+Seregios Dissenter	1	3%	Break Horn
+Seregios Slavescale	1	10%	Break Wingtalon
+Seregios Airblade	1	25%	Break Wingtalon
+Seregios Scraper	1	37%	Break Wingtalon
+Seregios Scraper	2	20%	Break Wingtalon
+Seregios Wingtalon	2	8%	Break Wingtalon
+Seregios Carver		2	20%	Break Leg Claw
+Seregios Carver		1	70%	Break Leg Claw
+Seregios Talon		2	10%	Break Leg Claw
+
+☆ Seregios - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Seregios Slavescale+	1	40%	Body Carve
+Seregios Slavescale	1	8%	Body Carve
+Seregios Airblade+	1	18%	Body Carve
+Seregios Carver+	1	15%	Body Carve
+Seregios Scraper+	1	12%	Body Carve
+Seregios Lens		1	3%	Body Carve
+Seregios Dissenter	1	4%	Body Carve
+Seregios Impaler+	1	75%	Tail Carve
+Seregios Slavescale+	1	11%	Tail Carve
+Seregios Airblade+	1	9%	Tail Carve
+Seregios Lens		1	2%	Tail Carve
+Seregios Dissenter	1	3%	Tail Carve
+Large Wyvern Tear	1	53%	Shiny Drops
+Seregios Airblade+	1	45%	Shiny Drops
+Seregios Lens		1	1%	Shiny Drops
+Seregios Dissenter	1	1%	Shiny Drops
+Seregios Slavescale+	2	10%	Capture
+Seregios Airblade+	1	20%	Capture
+Seregios Airblade	2	5%	Capture
+Seregios Carver+	1	15%	Capture
+Seregios Scraper+	1	22%	Capture
+Seregios Lens		1	2%	Capture
+Seregios Dissenter	1	3%	Capture
+Monster Slogbone	1	8%	Capture
+Seregios Impaler+	1	15%	Capture
+Seregios Breacher+	1	70%	Break Horn
+Seregios Breacher	1	8%	Break Horn
+Seregios Slavescale+	1	16%	Break Horn
+Seregios Lens		1	3%	Break Horn
+Seregios Dissenter	1	3%	Break Horn
+Seregios Slavescale+	1	10%	Break Wingtalon
+Seregios Airblade+	1	25%	Break Wingtalon
+Seregios Scraper+	1	37%	Break Wingtalon
+Seregios Scraper+	2	20%	Break Wingtalon
+Seregios Scraper	2	8%	Break Wingtalon
+Seregios Carver+	2	20%	Break Leg Claw
+Seregios Carver+	1	70%	Break Leg Claw
+Seregios Carver		2	10%	Break Leg Claw

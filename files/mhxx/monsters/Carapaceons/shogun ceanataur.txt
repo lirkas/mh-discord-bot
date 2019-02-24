@@ -1,0 +1,74 @@
+﻿☆ Shogun Ceanataur - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Ceanataur Shell		1	60%	Body Carve
+Ceanataur Leg		1	30%	Body Carve
+Black Pearl		1	10%	Body Carve
+Crab Pearl		1	75%	Shiny Drops
+Black Pearl		1	25%	Shiny Drops
+Ceanataur Shell		2	20%	Capture
+Ceanataur Leg		1	50%	Capture
+Ceanataur Claw		1	12%	Capture
+Monster Bone L		1	18%	Capture
+Ceanataur Shell		1	20%	Break Shell(1)
+Wyvern Scalp		1	30%	Break Shell(1)
+Wyvern Scalp		2	50%	Break Shell(1)
+Ceanataur Shell		1	25%	Break Shell(2)
+Wyvern Scalp		1	50%	Break Shell(2)
+Monster Bone L		2	25%	Break Shell(2)
+Ceanataur Shell		1	50%	Break Shell(3)
+Jumbo Bone		1	50%	Break Shell(3)
+Ceanataur Claw		1	90%	Break Claw
+Ceanataur Claw		2	10%	Break Claw
+
+☆ Shogun Ceanataur - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Ceanataur Carapace	1	50%	Body Carve
+Ceanataur Shell		1	5%	Body Carve
+Ceanataur Leg+		1	30%	Body Carve
+Ceanataur Claw+		1	5%	Body Carve
+Black Pearl		1	10%	Body Carve
+Crab Pearl		1	38%	Shiny Drops
+Crab Pearl+		1	37%	Shiny Drops
+Black Pearl		1	25%	Shiny Drops
+Ceanataur Carapace	2	20%	Capture
+Ceanataur Leg+		1	40%	Capture
+Ceanataur Leg		1	12%	Capture
+Ceanataur Claw+		1	13%	Capture
+Monster Keenbone	1	15%	Capture
+Ceanataur Carapace	1	20%	Break Shell(1)
+Wyvern Scalp		1	30%	Break Shell(1)
+Wyvern Scalp		2	50%	Break Shell(1)
+Ceanataur Carapace	1	30%	Break Shell(2)
+Wyvern Scalp		1	55%	Break Shell(2)
+Monster Keenbone	2	15%	Break Shell(2)
+Ceanataur Carapace	1	50%	Break Shell(3)
+Jumbo Bone		1	50%	Break Shell(3)
+Ceanataur Claw+		1	75%	Break Claw
+Ceanataur Claw+		2	10%	Break Claw
+Ceanataur Claw		2	15%	Break Claw
+
+☆ Shogun Ceanataur - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Ceanataur Cortex	1	50%	Body Carve
+Ceanataur Carapace	1	5%	Body Carve
+Heavy Ceanataur Leg	1	30%	Body Carve
+Ceanataur Hardclaw	1	5%	Body Carve
+Fine Black Pearl	1	10%	Body Carve
+Crab Pearl+		1	75%	Shiny Drops
+Fine Black Pearl	1	25%	Shiny Drops
+Ceanataur Cortex	1	20%	Capture
+Heavy Ceanataur Leg	1	40%	Capture
+Ceanataur Leg+		1	12%	Capture
+Ceanataur Hardclaw	1	13%	Capture
+Monster Toughbone	1	15%	Capture
+Ceanataur Cortex	1	20%	Break Shell(1)
+Heavy Wyvern Scalp	1	50%	Break Shell(1)
+Gravios Scalp		1	30%	Break Shell(1)
+Ceanataur Cortex	1	20%	Break Shell(2)
+Heavy Wyvern Scalp	1	70%	Break Shell(2)
+Monster Toughbone	2	10%	Break Shell(2)
+Ceanataur Cortex	1	50%	Break Shell(3)
+Stoutbone		1	50%	Break Shell(3)
+Ceanataur Hardclaw	1	75%	Break Claw
+Ceanataur Hardclaw	2	10%	Break Claw
+Ceanataur Claw+		2	15%	Break Claw

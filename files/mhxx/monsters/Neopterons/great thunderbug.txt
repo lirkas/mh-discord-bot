@@ -1,0 +1,17 @@
+﻿☆ Great Thunderbug - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Shocking Extract	1	50%	Shiny Drops
+Thunderbug		1	30%	Shiny Drops
+Monster Fluid		1	20%	Shiny Drops
+
+☆ Great Thunderbug - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Shocking Extract	1	70%	Shiny Drops
+Thunderbug		1	10%	Shiny Drops
+Monster Broth		1	20%	Shiny Drops
+
+☆ Great Thunderbug - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Shocking Extract	1	10%	Shiny Drops
+Shocking Jelly		1	70%	Shiny Drops
+Monster Essence		1	20%	Shiny Drops

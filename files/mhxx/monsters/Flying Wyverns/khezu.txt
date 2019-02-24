@@ -1,0 +1,66 @@
+﻿☆ Khezu - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Flabby Hide		1	50%	Body Carve
+Pale Extract		1	35%	Body Carve
+Electro Sac		1	15%	Body Carve
+Wyvern Tear		1	75%	Shiny Drops
+Pale Extract		1	20%	Shiny Drops
+Pale Bone		1	5%	Shiny Drops
+Flabby Hide		1	32%	Capture
+Pale Extract		2	40%	Capture
+Electro Sac		2	20%	Capture
+Pale Bone		1	8%	Capture
+Pale Extract		1	25%	Wound Head
+Flabby Hide		1	67%	Wound Head
+Pale Bone		1	8%	Wound Head
+Pale Extract		1	25%	Wound Body
+Flabby Hide		1	45%	Wound Body
+Electro Sac		1	30%	Wound Body
+
+☆ Khezu - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Pearl Hide		1	54%	Body Carve
+Pale Extract		1	27%	Body Carve
+Thunder Sac		1	15%	Body Carve
+Wyvern Gem		1	4%	Body Carve
+Wyvern Tear		1	37%	Shiny Drops
+Large Wyvern Tear	1	38%	Shiny Drops
+Pale Extract		1	20%	Shiny Drops
+Pale Steak		1	5%	Shiny Drops
+Pearl Hide		1	28%	Capture
+Pale Extract		2	40%	Capture
+Thunder Sac		2	18%	Capture
+Electro Sac		2	6%	Capture
+Pale Steak		1	8%	Capture
+Pale Extract		1	25%	Wound Head
+Pearl Hide		1	54%	Wound Head
+Pale Bone		1	15%	Wound Head
+Pale Steak		1	6%	Wound Head
+Pale Extract		1	25%	Wound Body
+Pearl Hide		1	40%	Wound Body
+Flabby Hide		2	8%	Wound Body
+Thunder Sac		1	27%	Wound Body
+
+☆ Khezu - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Pearl Glosshide		1	50%	Body Carve
+Pale Extract		1	26%	Body Carve
+Lightning Sac		1	15%	Body Carve
+Lrg Wyvern Gem		1	4%	Body Carve
+Wyvern Gem		1	5%	Body Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Pale Extract		1	20%	Shiny Drops
+Khezu Special Cut	1	5%	Shiny Drops
+Pearl Glosshide		1	28%	Capture
+Pale Extract		3	40%	Capture
+Lightning Sac		2	18%	Capture
+Thunder Sac		2	6%	Capture
+Khezu Special Cut	1	8%	Capture
+Pale Extract		2	25%	Wound Head
+Pearl Glosshide		1	54%	Wound Head
+Pale Steak		1	15%	Wound Head
+Khezu Special Cut	1	6%	Wound Head
+Pale Extract		2	25%	Wound Body
+Pearl Glosshide		1	40%	Wound Body
+Pearl Hide		2	8%	Wound Body
+Lightning Sac		1	27%	Wound Body

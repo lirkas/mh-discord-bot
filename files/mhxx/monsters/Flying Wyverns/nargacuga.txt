@@ -1,0 +1,95 @@
+﻿☆ Nargacuga - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Nargacuga Scale		1	45%	Body Carve
+Nargacuga Blackfur	1	25%	Body Carve
+Nargacuga Tail		1	5%	Body Carve
+Nargacuga Cutwing	1	10%	Body Carve
+Nargacuga Fang		1	15%	Body Carve
+Nargacuga Tail		1	80%	Tail Carve
+Narga Tailspike		1	8%	Tail Carve
+Nargacuga Marrow	1	12%	Tail Carve
+Wyvern Tear		1	75%	Shiny Drops
+Nargacuga Scale		1	25%	Shiny Drops
+Nargacuga Blackfur	1	40%	Capture
+Nargacuga Scale		1	18%	Capture
+Nargacuga Fang		1	23%	Capture
+Nargacuga Tail		1	15%	Capture
+Nargacuga Marrow	1	4%	Capture
+Nargacuga Cutwing	2	60%	Wound Wing
+Nargacuga Cutwing	1	25%	Wound Wing
+Nargacuga Blackfur	2	15%	Wound Wing
+Nargacuga Scale		2	30%	Wound Head
+Nargacuga Fang		2	50%	Wound Head
+Nargacuga Fang		1	20%	Wound Head
+Narga Tailspike		2	75%	Wound Tail
+Nargacuga Blackfur	1	13%	Wound Tail
+Nargacuga Marrow	1	12%	Wound Tail
+
+☆ Nargacuga - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Nargacuga Scale+	1	40%	Body Carve
+Nargacuga Scale		1	10%	Body Carve
+Nargacuga Pelt+		1	28%	Body Carve
+Narga Razor		1	8%	Body Carve
+Nargacuga Fang+		1	12%	Body Carve
+Narga Medulla		1	2%	Body Carve
+Nargacuga Tail		1	70%	Tail Carve
+Narga Tailspike		1	5%	Tail Carve
+Narga Medulla		1	12%	Tail Carve
+Nargacuga Marrow	1	13%	Tail Carve
+Wyvern Tear		1	38%	Shiny Drops
+Large Wyvern Tear	1	37%	Shiny Drops
+Nargacuga Scale+	1	25%	Shiny Drops
+Nargacuga Pelt+		1	35%	Capture
+Nargacuga Blackfur	2	10%	Capture
+Nargacuga Scale+	1	18%	Capture
+Nargacuga Fang+		1	21%	Capture
+Nargacuga Tail		1	12%	Capture
+Narga Medulla		1	4%	Capture
+Narga Razor		2	60%	Wound Wing
+Narga Razor		1	20%	Wound Wing
+Nargacuga Cutwing	3	8%	Wound Wing
+Nargacuga Pelt+		2	12%	Wound Wing
+Nargacuga Scale+	2	20%	Wound Head
+Nargacuga Fang+		2	50%	Wound Head
+Nargacuga Fang+		1	15%	Wound Head
+Nargacuga Fang		4	7%	Wound Head
+Narga Medulla		1	8%	Wound Head
+Narga Tailspike		2	65%	Wound Tail
+Nargacuga Pelt+		1	10%	Wound Tail
+Narga Medulla		1	12%	Wound Tail
+Nargacuga Marrow	1	13%	Wound Tail
+
+☆ Nargacuga - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Nargacuga Shard		1	40%	Body Carve
+Nargacuga Blackfur+	1	28%	Body Carve
+Nargacuga Cutwing+	1	9%	Body Carve
+Nargacuga Hardfang	1	13%	Body Carve
+Narga Medulla		1	8%	Body Carve
+Nargacuga Mantle	1	2%	Body Carve
+Nargacuga Lash		1	78%	Tail Carve
+Narga Tailspear		1	10%	Tail Carve
+Narga Medulla		1	12%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Nargacuga Shard		1	24%	Shiny Drops
+Nargacuga Mantle	1	1%	Shiny Drops
+Nargacuga Blackfur+	1	33%	Capture
+Nargacuga Shard		1	22%	Capture
+Nargacuga Hardfang	1	21%	Capture
+Nargacuga Lash		1	12%	Capture
+Narga Medulla		1	8%	Capture
+Nargacuga Mantle	1	4%	Capture
+Nargacuga Cutwing+	2	60%	Wound Wing
+Nargacuga Cutwing+	1	20%	Wound Wing
+Narga Razor		2	8%	Wound Wing
+Nargacuga Blackfur+	2	12%	Wound Wing
+Nargacuga Shard		2	20%	Wound Head
+Nargacuga Hardfang	2	49%	Wound Head
+Nargacuga Hardfang	1	14%	Wound Head
+Nargacuga Fang+		2	5%	Wound Head
+Narga Medulla		1	8%	Wound Head
+Nargacuga Mantle	1	4%	Wound Head
+Narga Tailspear		2	75%	Wound Tail
+Nargacuga Blackfur+	1	13%	Wound Tail
+Narga Medulla		1	12%	Wound Tail

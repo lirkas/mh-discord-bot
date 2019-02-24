@@ -1,0 +1,51 @@
+﻿☆ Deviljho - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Deviljho Scale		1	39%	Body Carve
+Deviljho Hide		1	28%	Body Carve
+Deviljho Tallfang	1	11%	Body Carve
+Deviljho Talon		1	20%	Body Carve
+Deviljho Gem		1	2%	Body Carve
+Deviljho Scale		1	32%	Tail Carve
+Deviljho Tail		1	65%	Tail Carve
+Deviljho Gem		1	3%	Tail Carve
+Wyvern Tear		1	30%	Shiny Drops
+Large Wyvern Tear	1	35%	Shiny Drops
+Deviljho Talon		1	34%	Shiny Drops
+Deviljho Gem		1	1%	Shiny Drops
+Deviljho Hide		1	28%	Capture
+Deviljho Talon		1	20%	Capture
+Deviljho Scalp		1	40%	Capture
+Deviljho Tail		1	8%	Capture
+Deviljho Gem		1	4%	Capture
+Deviljho Scalp		1	35%	Wound Head
+Deviljho Tallfang	1	35%	Wound Head
+Deviljho Tallfang	2	30%	Wound Head
+
+☆ Deviljho - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Deviljho Shard		1	37%	Body Carve
+Deviljho Blackpiel	1	27%	Body Carve
+Deviljho Hardfang	1	11%	Body Carve
+Deviljho Ripper		1	20%	Body Carve
+Deviljho Gem		1	3%	Body Carve
+Deviljho Crook		1	2%	Body Carve
+Deviljho Shard		1	20%	Tail Carve
+Deviljho Flail		1	65%	Tail Carve
+Deviljho Tail		1	8%	Tail Carve
+Deviljho Gem		1	4%	Tail Carve
+Deviljho Crook		1	3%	Tail Carve
+Large Wyvern Tear	1	64%	Shiny Drops
+Deviljho Ripper		1	33%	Shiny Drops
+Deviljho Gem		1	2%	Shiny Drops
+Deviljho Crook		1	1%	Shiny Drops
+Deviljho Blackpiel	1	27%	Capture
+Deviljho Ripper		1	20%	Capture
+Deviljho Talon		2	10%	Capture
+Deviljho Scalp		1	26%	Capture
+Deviljho Flail		1	8%	Capture
+Deviljho Gem		1	5%	Capture
+Deviljho Crook		1	4%	Capture
+Deviljho Scalp		1	35%	Wound Head
+Deviljho Hardfang	1	32%	Wound Head
+Deviljho Hardfang	2	25%	Wound Head
+Deviljho Tallfang	2	8%	Wound Head

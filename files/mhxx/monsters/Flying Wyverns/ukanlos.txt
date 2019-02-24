@@ -1,0 +1,66 @@
+﻿☆ Ukanlos - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Ukanlos Carapace	1	40%	Body Carve
+Ukanlos Underscale	1	28%	Body Carve
+Ukanlos Tail		1	10%	Body Carve
+Ukanlos Fin+		1	12%	Body Carve
+Ukanlos Shoveljaw	1	8%	Body Carve
+Ukanlos Gem		1	2%	Body Carve
+Ukanlos Tail		1	90%	Tail Carve
+Ukanlos Carapace	1	10%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Ukanlos Fin+		1	5%	Shiny Drops
+Ukanlos Carapace	1	12%	Shiny Drops
+Wyvern Crystal		1	8%	Shiny Drops
+Ukanlos Shoveljaw	1	85%	Wound Head
+Ukanlos Underscale	1	11%	Wound Head
+Ukanlos Gem		1	4%	Wound Head
+Ukanlos Underscale	1	60%	Wound Belly
+Ukanlos Carapace	1	22%	Wound Belly
+Ukanlos Gem		1	6%	Wound Belly
+Wyvern Crystal		2	12%	Wound Belly
+Ukanlos Fin+		2	40%	Wound Back
+Ukanlos Fin+		1	30%	Wound Back
+Ukanlos Carapace	1	10%	Wound Back
+Wyvern Crystal		2	20%	Wound Back
+Ukanlos Digger		1	80%	Wound Front Leg
+Ukanlos Digger		2	10%	Wound Front Leg
+Ukanlos Carapace	1	10%	Wound Front Leg
+
+☆ Ukanlos - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Ukanlos Cortex		1	38%	Body Carve
+Ukanlos Underscale+	1	28%	Body Carve
+Ukanlos Flail		1	10%	Body Carve
+Ukanlos Strongfin	1	12%	Body Carve
+Ukanlos Shoveljaw+	1	8%	Body Carve
+Ukanlos Stone		1	2%	Body Carve
+Ukanlos Gem		1	2%	Body Carve
+Ukanlos Flail		1	75%	Tail Carve
+Ukanlos Tail		1	10%	Tail Carve
+Ukanlos Cortex		1	10%	Tail Carve
+Ukanlos Carapace	1	5%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Ukanlos Strongfin	1	5%	Shiny Drops
+Ukanlos Cortex		1	12%	Shiny Drops
+Great Wyvern Crystal	1	8%	Shiny Drops
+Ukanlos Shoveljaw+	1	75%	Wound Head
+Ukanlos Shoveljaw	1	8%	Wound Head
+Ukanlos Underscale+	1	11%	Wound Head
+Ukanlos Stone		1	4%	Wound Head
+Ukanlos Gem		1	2%	Wound Head
+Ukanlos Underscale+	1	50%	Wound Belly
+Ukanlos Underscale	2	10%	Wound Belly
+Ukanlos Cortex		1	22%	Wound Belly
+Ukanlos Stone		1	6%	Wound Belly
+Ukanlos Gem		1	3%	Wound Belly
+Great Wyvern Crystal	2	9%	Wound Belly
+Ukanlos Strongfin	2	40%	Wound Back
+Ukanlos Strongfin	1	20%	Wound Back
+Ukanlos Fin+		2	10%	Wound Back
+Ukanlos Cortex		1	10%	Wound Back
+Great Wyvern Crystal	2	20%	Wound Back
+Ukanlos Digger+		1	70%	Wound Front Leg
+Ukanlos Digger+		2	10%	Wound Front Leg
+Ukanlos Digger		2	10%	Wound Front Leg
+Ukanlos Cortex		1	10%	Wound Front Leg

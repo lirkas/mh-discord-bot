@@ -1,0 +1,61 @@
+﻿☆ Daimyo Hermitaur - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Hermitaur Shell		1	60%	Body Carve
+Hermitaur Claw		1	10%	Body Carve
+Black Pearl		1	10%	Body Carve
+Monster Bone L		1	19%	Body Carve
+Carapaceon Brains	1	1%	Body Carve
+Crab Pearl		1	75%	Shiny Drops
+Black Pearl		1	25%	Shiny Drops
+Hermitaur Shell		1	25%	Capture
+Hermitaur Claw		1	35%	Capture
+Black Pearl		2	30%	Capture
+Decayed Crimson Horn	1	10%	Capture
+Hermitaur Shell		1	15%	Break Shell
+Decayed Crimson Horn	1	60%	Break Shell
+Monster Bone L		1	25%	Break Shell
+Hermitaur Claw		1	85%	Break Claw
+Hermitaur Claw		2	15%	Break Claw
+
+☆ Daimyo Hermitaur - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Hermitaur Carapace	1	60%	Body Carve
+Hermitaur Claw+		1	10%	Body Carve
+Black Pearl		1	10%	Body Carve
+Monster Bone+		1	19%	Body Carve
+Carapaceon Brains+	1	1%	Body Carve
+Crab Pearl		1	38%	Shiny Drops
+Crab Pearl+		1	37%	Shiny Drops
+Black Pearl		1	25%	Shiny Drops
+Hermitaur Carapace	1	20%	Capture
+Hermitaur Shell		2	10%	Capture
+Hermitaur Claw+		1	35%	Capture
+Black Pearl		2	25%	Capture
+Decayed Crimson Horn	1	10%	Capture
+Hermitaur Carapace	1	15%	Break Shell
+Decayed Crimson Horn	1	70%	Break Shell
+Monster Bone+		1	15%	Break Shell
+Hermitaur Claw+		1	70%	Break Claw
+Hermitaur Claw+		2	15%	Break Claw
+Hermitaur Claw		2	15%	Break Claw
+
+☆ Daimyo Hermitaur - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Hermitaur Cortex	1	60%	Body Carve
+Hermitaur Hardclaw	1	10%	Body Carve
+Fine Black Pearl	1	10%	Body Carve
+Monster Toughbone	1	19%	Body Carve
+Carapaceon Brains+	1	1%	Body Carve
+Crab Pearl+		1	75%	Shiny Drops
+Fine Black Pearl	1	25%	Shiny Drops
+Hermitaur Cortex	1	20%	Capture
+Hermitaur Carapace	2	10%	Capture
+Hermitaur Hardclaw	1	35%	Capture
+Fine Black Pearl	2	25%	Capture
+Timeworn Crimson Horn	1	10%	Capture
+Hermitaur Cortex	1	15%	Break Shell
+Timeworn Crimson Horn	1	70%	Break Shell
+Monster Hardbone	1	15%	Break Shell
+Hermitaur Hardclaw	1	70%	Break Claw
+Hermitaur Hardclaw	2	15%	Break Claw
+Hermitaur Claw+		2	15%	Break Claw

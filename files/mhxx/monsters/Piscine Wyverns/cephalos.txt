@@ -1,0 +1,21 @@
+﻿☆ Cephalos - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Cephalos Scale		1	23%	Body Carve
+Cephalos Fin		1	2%	Body Carve
+Monster Bone M		1	15%	Body Carve
+Piscine Liver		1	60%	Body Carve
+
+☆ Cephalos - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Cephalos Scale+		1	25%	Body Carve
+Cephalos Fin+		1	5%	Body Carve
+Monster Bone L		1	20%	Body Carve
+Piscine Liver		1	50%	Body Carve
+
+☆ Cephalos - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Cephalos Shard		1	22%	Body Carve
+Cephalos Grandfin	1	5%	Body Carve
+Crushing Fang		1	20%	Body Carve
+Monster Bone L		1	10%	Body Carve
+Piscine Liver		1	43%	Body Carve

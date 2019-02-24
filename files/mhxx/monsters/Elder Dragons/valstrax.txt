@@ -1,0 +1,56 @@
+﻿☆ Valstrax - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Valstrax Scale+		1	45%	Body Carve
+Valstrax Carapace	1	37%	Body Carve
+Valstrax Claw+		1	18%	Body Carve
+Valstrax Scale+		1	17%	Tail Carve
+Valstrax Tail		1	80%	Tail Carve
+Red Dragon Mindstone	1	3%	Tail Carve
+Dragon Treasure		1	15%	Shiny Drops (Special)
+Old Dragon Treasure	1	15%	Shiny Drops (Special)
+Burned Husk		1	40%	Shiny Drops (Special)
+Valstrax Scale+		1	30%	Shiny Drops (Special)
+Valstrax Scale+		1	65%	Wound Head
+Valstrax Carapace	1	33%	Wound Head
+Red Dragon Mindstone	1	2%	Wound Head
+Valstrax Spineshell	1	97%	Wound Back
+Red Dragon Mindstone	1	3%	Wound Back
+Valstrax Lancewing	1	70%	Wound Wing
+Valstrax Lancewing	2	15%	Wound Wing
+Valstrax Claw+		1	15%	Wound Wing
+Valstrax Claw+		1	70%	Break Claw
+Valstrax Claw+		2	10%	Break Claw
+Valstrax Scale+		1	8%	Break Claw
+Valstrax Carapace	1	12%	Break Claw
+
+☆ Valstrax - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Valstrax Shard		1	45%	Body Carve
+Valstrax Cortex		1	37%	Body Carve
+Valstrax Hardclaw	1	18%	Body Carve
+Valstrax Shard		1	10%	Tail Carve
+Valstrax Helixtail	1	75%	Tail Carve
+Valstrax Tail		1	8%	Tail Carve
+Ruby Dragon Mindstone	1	3%	Tail Carve
+Red Dragon Mindstone	1	4%	Tail Carve
+Old Dragon Treasure	1	30%	Shiny Drops (Special)
+Valstrax Shard		1	30%	Shiny Drops (Special)
+Shimmering Dragonfluid	1	40%	Shiny Drops (Special)
+Valstrax Shard		1	36%	Wound Head
+Valstrax Scale+		2	8%	Wound Head
+Valstrax Cortex		1	33%	Wound Head
+Ruby Dragon Mindstone	1	2%	Wound Head
+Red Dragon Mindstone	1	3%	Wound Head
+Shimmering Dragonfluid	2	18%	Wound Head
+Valstrax Spineshell+	1	80%	Wound Back
+Valstrax Spineshell	2	13%	Wound Back
+Ruby Dragon Mindstone	1	3%	Wound Back
+Red Dragon Mindstone	1	4%	Wound Back
+Valstrax Lancewing+	1	67%	Wound Wing
+Valstrax Lancewing+	2	15%	Wound Wing
+Valstrax Lancewing	2	8%	Wound Wing
+Valstrax Hardclaw	1	10%	Wound Wing
+Valstrax Hardclaw	1	70%	Break Claw
+Valstrax Hardclaw	2	10%	Break Claw
+Valstrax Shard		1	8%	Break Claw
+Valstrax Cortex		1	12%	Break Claw

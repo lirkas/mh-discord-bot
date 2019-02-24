@@ -1,0 +1,20 @@
+﻿☆ Felyne - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+First-aid Med		1	54%	Shiny Drops
+EZ Flash Bomb		1	8%	Shiny Drops
+Round Acorn		1	26%	Shiny Drops
+Pawprint Stamp		1	12%	Shiny Drops
+
+☆ Felyne - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+First-aid Med		1	54%	Shiny Drops
+EZ Flash Bomb		1	8%	Shiny Drops
+Round Acorn		1	26%	Shiny Drops
+Pawprint Stamp		1	12%	Shiny Drops
+
+☆ Felyne - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+First-aid Med		1	39%	Shiny Drops
+EZ Flash Bomb		1	8%	Shiny Drops
+Round Acorn		1	26%	Shiny Drops
+Pawprint Ticket		1	27%	Shiny Drops

@@ -1,0 +1,108 @@
+﻿☆ Glavenus - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Glavenus Scale		1	43%	Body Carve
+Glavenus Shell		1	18%	Body Carve
+Glavenus Pyroshell	1	15%	Body Carve
+Glavenus Fang		1	20%	Body Carve
+Glavenus Plate		1	4%	Body Carve
+Glavenus Tail		1	73%	Tail Carve
+Glavenus Tailpiece	1	25%	Tail Carve
+Glavenus Plate		1	2%	Tail Carve
+Wyvern Tear		1	75%	Shiny Drops
+Flaming Bursa		1	23%	Shiny Drops
+Glavenus Plate		1	2%	Shiny Drops
+Glavenus Shell		1	20%	Capture
+Glavenus Pyroshell	1	30%	Capture
+Glavenus Tail		1	15%	Capture
+Glavenus Tailpiece	2	10%	Capture
+Flaming Bursa		1	25%	Capture
+Glavenus Fang		1	20%	Wound Head
+Glavenus Fang		2	35%	Wound Head
+Glavenus Pyroshell	1	15%	Wound Head
+Flaming Bursa		1	28%	Wound Head
+Glavenus Plate		1	2%	Wound Head
+Glavenus Pyroshell	1	75%	Wound Back
+Glavenus Shell		1	25%	Wound Back
+Glavenus Scale		1	70%	Wound Front Leg
+Glavenus Shell		1	30%	Wound Front Leg
+Glavenus Tailpiece	3	15%	Wound Tail
+Glavenus Tailpiece	2	50%	Wound Tail
+Glavenus Pyroshell	1	25%	Wound Tail
+Glavenus Scale		1	10%	Wound Tail
+
+☆ Glavenus - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Glavenus Scale+		1	40%	Body Carve
+Glavenus Carapace	1	16%	Body Carve
+Glavenus Pyroshell+	1	15%	Body Carve
+Glavenus Fang+		1	20%	Body Carve
+Glavenus Fire Orb	1	3%	Body Carve
+Glavenus Plate		1	6%	Body Carve
+Glavenus Tail		1	76%	Tail Carve
+Glavenus Tailpiece	1	20%	Tail Carve
+Glavenus Fire Orb	1	4%	Tail Carve
+Wyvern Tear		1	38%	Shiny Drops
+Large Wyvern Tear	1	37%	Shiny Drops
+Solar Bursa		1	18%	Shiny Drops
+Glavenus Fire Orb	1	2%	Shiny Drops
+Glavenus Plate		1	5%	Shiny Drops
+Glavenus Carapace	1	20%	Capture
+Glavenus Pyroshell+	1	28%	Capture
+Glavenus Tail		1	12%	Capture
+Glavenus Tailpiece	4	8%	Capture
+Solar Bursa		1	22%	Capture
+Flaming Bursa		2	10%	Capture
+Glavenus Fang+		1	15%	Wound Head
+Glavenus Fang+		2	35%	Wound Head
+Glavenus Fang		2	10%	Wound Head
+Glavenus Pyroshell+	1	10%	Wound Head
+Solar Bursa		1	28%	Wound Head
+Glavenus Fire Orb	1	2%	Wound Head
+Glavenus Pyroshell+	1	65%	Wound Back
+Glavenus Pyroshell	2	15%	Wound Back
+Glavenus Carapace	1	20%	Wound Back
+Glavenus Scale+		1	60%	Wound Front Leg
+Glavenus Carapace	1	25%	Wound Front Leg
+Glavenus Shell		1	15%	Wound Front Leg
+Glavenus Tailpiece	4	25%	Wound Tail
+Glavenus Tailpiece	2	30%	Wound Tail
+Glavenus Pyroshell+	1	25%	Wound Tail
+Glavenus Scale+		1	10%	Wound Tail
+Glavenus Scale		2	10%	Wound Tail
+
+☆ Glavenus - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Glavenus Shard		1	40%	Body Carve
+Glavenus Cortex		1	16%	Body Carve
+Glavenus Hellshell	1	15%	Body Carve
+Glavenus Hardfang	1	20%	Body Carve
+Glavenus Pallium	1	3%	Body Carve
+Glavenus Fire Orb	1	6%	Body Carve
+Glavenus Tailedge	1	96%	Tail Carve
+Glavenus Pallium	1	4%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Molten Bursa		1	18%	Shiny Drops
+Glavenus Pallium	1	2%	Shiny Drops
+Glavenus Fire Orb	1	5%	Shiny Drops
+Glavenus Cortex		1	22%	Capture
+Glavenus Hellshell	1	30%	Capture
+Glavenus Tailedge	1	14%	Capture
+Molten Bursa		1	24%	Capture
+Solar Bursa		2	10%	Capture
+Glavenus Hardfang	1	15%	Wound Head
+Glavenus Hardfang	2	35%	Wound Head
+Glavenus Fang+		2	10%	Wound Head
+Glavenus Hellshell	1	10%	Wound Head
+Molten Bursa		1	28%	Wound Head
+Glavenus Pallium	1	2%	Wound Head
+Glavenus Hellshell	1	65%	Wound Back
+Glavenus Pyroshell+	2	15%	Wound Back
+Glavenus Cortex		1	20%	Wound Back
+Glavenus Shard		1	60%	Wound Front Leg
+Glavenus Cortex		1	25%	Wound Front Leg
+Glavenus Carapace	1	15%	Wound Front Leg
+Glavenus Tailpiece	4	25%	Wound Tail
+Glavenus Tailpiece	2	30%	Wound Tail
+Glavenus Hellshell	1	25%	Wound Tail
+Glavenus Shard		1	10%	Wound Tail
+Glavenus Scale+		2	10%	Wound Tail

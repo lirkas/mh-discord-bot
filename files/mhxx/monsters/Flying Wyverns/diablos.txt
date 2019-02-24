@@ -1,0 +1,49 @@
+﻿☆ Diablos - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Diablos Fang		1	30%	Body Carve
+Diablos Carapace	1	63%	Body Carve
+Diablos Ridge+		1	7%	Body Carve
+Diablos Carapace	1	30%	Tail Carve
+Diablos Tailcase	1	60%	Tail Carve
+Blos Medulla		1	6%	Tail Carve
+Wyvern Gem		1	4%	Tail Carve
+Wyvern Tear		1	38%	Shiny Drops
+Large Wyvern Tear	1	37%	Shiny Drops
+Diablos Ridge+		1	25%	Shiny Drops
+Diablos Ridge+		1	13%	Capture
+Diablos Carapace	1	28%	Capture
+Diablos Tailcase	1	15%	Capture
+Diablos Fang		2	30%	Capture
+Blos Medulla		1	10%	Capture
+Wyvern Gem		1	4%	Capture
+Twisted Horn		1	80%	Break Horn
+Majestic Horn		1	20%	Break Horn
+Diablos Carapace	2	30%	Wound Back
+Diablos Ridge+		1	70%	Wound Back
+
+☆ Diablos - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Diablos Cortex		1	42%	Body Carve
+Diablos Carapace	1	18%	Body Carve
+Diablos Chine		1	25%	Body Carve
+Blos Medulla		1	10%	Body Carve
+Lrg Wyvern Gem		1	5%	Body Carve
+Diablos Cortex		1	20%	Tail Carve
+Diablos Tailcase+	1	55%	Tail Carve
+Diablos Tailcase	1	15%	Tail Carve
+Blos Medulla		1	6%	Tail Carve
+Lrg Wyvern Gem		1	4%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Diablos Chine		1	23%	Shiny Drops
+Lrg Wyvern Gem		1	2%	Shiny Drops
+Diablos Chine		1	20%	Capture
+Diablos Cortex		1	34%	Capture
+Diablos Tailcase+	1	22%	Capture
+Diablos Fang		4	10%	Capture
+Blos Medulla		1	10%	Capture
+Lrg Wyvern Gem		1	4%	Capture
+Majestic Horn		1	88%	Break Horn
+Diablos Hardhorn	1	12%	Break Horn
+Diablos Cortex		1	30%	Wound Back
+Diablos Chine		1	50%	Wound Back
+Diablos Ridge+		2	20%	Wound Back

@@ -1,0 +1,95 @@
+﻿☆ Nightcloak Malfestio - MHXX Lv 11~12
+Item			Qty	Prob.	How to obtain
+Nightcloak Plume	1	35%	Body Carve
+Malfestio Grandwing	1	15%	Body Carve
+Malfestio Wing		1	8%	Body Carve
+Malfestio Hrd Wingtalon	1	17%	Body Carve
+Torpor Sac		1	15%	Body Carve
+Malfestio Goldfeather+	1	5%	Body Carve
+Nightcloak Clearscale	1	5%	Body Carve
+Large Wyvern Tear	1	70%	Shiny Drops
+Malfestio Hrd Wingtalon	1	20%	Shiny Drops
+Malfestio Goldfeather+	1	5%	Shiny Drops
+Malfestio Goldfeather	1	5%	Shiny Drops
+Nightcloak Clearscale	1	100%	Shiny Drops (Appears)
+Nightcloak Plume	1	12%	Capture
+Azurefeather+		2	8%	Capture
+Malfestio Grandwing	1	30%	Capture
+Malfestio Luckear	1	15%	Capture
+Torpor Sac		1	25%	Capture
+Coma Sac		1	10%	Capture
+Malfestio Luckear	1	70%	Wound Head
+Nightcloak Plume	1	15%	Wound Head
+Malfestio Goldfeather+	1	10%	Wound Head
+Malfestio Goldfeather	1	5%	Wound Head
+Malfestio Hrd Wingtalon	2	15%	Wound Wing
+Malfestio Hrd Wingtalon	1	40%	Wound Wing
+Malfestio Wingtalon+	2	15%	Wound Wing
+Malfestio Grandwing	1	30%	Wound Wing
+Malfestio Tailblade	2	20%	Wound Tail
+Malfestio Tailblade	1	65%	Wound Tail
+Nightcloak Plume	1	15%	Wound Tail
+
+☆ Nightcloak Malfestio - MHXX Lv 13~15
+Item			Qty	Prob.	How to obtain
+Nightcloak Plume	1	35%	Body Carve
+Nightcloak Grandwing	1	15%	Body Carve
+Malfestio Wing		1	8%	Body Carve
+Malfestio Hrd Wingtalon	1	17%	Body Carve
+Torpor Sac		1	15%	Body Carve
+Malfestio Goldfeather+	1	5%	Body Carve
+Nightcloak Clearscale	1	5%	Body Carve
+Large Wyvern Tear	1	70%	Shiny Drops
+Malfestio Hrd Wingtalon	1	18%	Shiny Drops
+Malfestio Goldfeather+	1	7%	Shiny Drops
+Malfestio Goldfeather	1	5%	Shiny Drops
+Nightcloak Clearscale	1	100%	Shiny Drops (Appears)
+Nightcloak Plume	1	12%	Capture
+Azurefeather+		2	8%	Capture
+Nightcloak Grandwing	1	32%	Capture
+Malfestio Luckear	1	15%	Capture
+Torpor Sac		1	23%	Capture
+Coma Sac		1	10%	Capture
+Malfestio Luckear	1	70%	Wound Head
+Nightcloak Plume	1	12%	Wound Head
+Malfestio Goldfeather+	1	12%	Wound Head
+Malfestio Goldfeather	1	6%	Wound Head
+Malfestio Hrd Wingtalon	2	15%	Wound Wing
+Malfestio Hrd Wingtalon	1	40%	Wound Wing
+Malfestio Wingtalon+	2	15%	Wound Wing
+Nightcloak Grandwing	1	30%	Wound Wing
+Malfestio Tailblade	2	20%	Wound Tail
+Malfestio Tailblade	1	65%	Wound Tail
+Nightcloak Plume	1	15%	Wound Tail
+
+☆ Nightcloak Malfestio - MHXX Lv Ex	
+Item			Qty	Prob.	How to obtain
+Nightcloak Plume	1	35%	Body Carve
+Nightcloak Grandwing	1	15%	Body Carve
+Malfestio Wing		1	8%	Body Carve
+Malfestio Hrd Wingtalon	1	17%	Body Carve
+Torpor Sac		1	15%	Body Carve
+Malfestio Goldfeather+	1	5%	Body Carve
+Nightcloak Clearscale	1	5%	Body Carve
+Large Wyvern Tear	1	70%	Shiny Drops
+Malfestio Hrd Wingtalon	1	16%	Shiny Drops
+Malfestio Goldfeather+	1	9%	Shiny Drops
+Malfestio Goldfeather	1	5%	Shiny Drops
+Nightcloak Clearscale	1	100%	Shiny Drops (Appears)
+Nightcloak Plume	1	14%	Capture
+Azurefeather+		2	6%	Capture
+Nightcloak Grandwing	1	30%	Capture
+Malfestio Luckear	1	15%	Capture
+Torpor Sac		1	29%	Capture
+Coma Sac		1	6%	Capture
+Malfestio Luckear	1	70%	Wound Head
+Nightcloak Plume	1	12%	Wound Head
+Malfestio Goldfeather+	1	15%	Wound Head
+Malfestio Goldfeather	1	3%	Wound Head
+Malfestio Hrd Wingtalon	2	25%	Wound Wing
+Malfestio Hrd Wingtalon	1	30%	Wound Wing
+Malfestio Wingtalon+	2	10%	Wound Wing
+Nightcloak Grandwing	1	35%	Wound Wing
+Malfestio Tailblade	2	20%	Wound Tail
+Malfestio Tailblade	1	55%	Wound Tail
+Nightcloak Plume	1	25%	Wound Tail

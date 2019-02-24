@@ -1,0 +1,57 @@
+﻿☆ Lagombi - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Lagombi Pelt		1	50%	Body Carve
+Lagombi Plastron	1	30%	Body Carve
+Lagombi Iceclaw		1	15%	Body Carve
+Jumbo Bone		1	5%	Body Carve
+Beast Tear		1	75%	Shiny Drops
+Lagombi Pelt		1	15%	Shiny Drops
+Lagombi Plastron	1	10%	Shiny Drops
+Lagombi Pelt		2	15%	Capture
+Lagombi Plastron	1	40%	Capture
+Lagombi Iceclaw		1	25%	Capture
+Jumbo Bone		2	20%	Capture
+Lagombi Ear		1	85%	Wound Head
+Lagombi Pelt		2	15%	Wound Head
+
+☆ Lagombi - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Lagombi Pelt+		1	45%	Body Carve
+Lagombi Pelt		1	10%	Body Carve
+Lagombi Plastron+	1	28%	Body Carve
+Lagombi Frozenclaw	1	12%	Body Carve
+Stoutbone		1	5%	Body Carve
+Beast Tear		1	38%	Shiny Drops
+Large Beast Tear	1	37%	Shiny Drops
+Lagombi Pelt+		1	15%	Shiny Drops
+Lagombi Plastron+	1	10%	Shiny Drops
+Lagombi Pelt+		2	10%	Capture
+Lagombi Plastron+	1	35%	Capture
+Lagombi Plastron	2	8%	Capture
+Lagombi Frozenclaw	1	25%	Capture
+Lagombi Iceclaw		2	5%	Capture
+Stoutbone		2	17%	Capture
+Lagombi Ear+		1	75%	Wound Head
+Lagombi Ear		2	10%	Wound Head
+Lagombi Pelt+		2	15%	Wound Head
+
+☆ Lagombi - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Lagombi Fur		1	45%	Body Carve
+Lagombi Pelt+		1	10%	Body Carve
+Lagombi Cuirass		1	28%	Body Carve
+Lagombi Frigidclaw	1	12%	Body Carve
+Massive Bone		1	5%	Body Carve
+Large Beast Tear	1	75%	Shiny Drops
+Lagombi Fur		1	15%	Shiny Drops
+Lagombi Cuirass		1	10%	Shiny Drops
+Lagombi Fur		2	10%	Capture
+Lagombi Cuirass		1	35%	Capture
+Lagombi Plastron+	2	8%	Capture
+Lagombi Frigidclaw	1	25%	Capture
+Lagombi Frozenclaw	2	5%	Capture
+Massive Bone		2	17%	Capture
+Lagombi Ear+		1	50%	Wound Head
+Lagombi Ear+		2	25%	Wound Head
+Lagombi Ear		2	10%	Wound Head
+Lagombi Fur		2	15%	Wound Head

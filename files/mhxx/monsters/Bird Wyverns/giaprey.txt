@@ -1,0 +1,17 @@
+﻿☆ Giaprey - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Giaprey Scale		1	52%	Body Carve
+Giaprey Hide		1	30%	Body Carve
+Monster Bone S		1	18%	Body Carve
+
+☆ Giaprey - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Giaprey Scale+		1	50%	Body Carve
+Giaprey Hide+		1	40%	Body Carve
+Avian Finebone		1	10%	Body Carve
+
+☆ Giaprey - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Giaprey Shard		1	50%	Body Carve
+Giaprey Hide+		1	40%	Body Carve
+Avian Stoutbone		1	10%	Body Carve

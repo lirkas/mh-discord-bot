@@ -1,0 +1,25 @@
+﻿☆ Kelbi - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Kelbi Horn		1	45%	Body Carve
+Warm Pelt		1	30%	Body Carve
+Raw Meat		1	10%	Body Carve
+White Liver		1	15%	Body Carve
+Kelbi Horn		1	100%	Body Carve (KO'd)
+
+☆ Kelbi - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Kelbi Horn		1	45%	Body Carve
+High-quality Pelt	1	30%	Body Carve
+Raw Meat		1	5%	Body Carve
+White Liver		1	15%	Body Carve
+Warm Pelt		1	5%	Body Carve
+Kelbi Horn		1	100%	Body Carve (KO'd)
+
+☆ Kelbi - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Kelbi Horn		1	45%	Body Carve
+Prized Pelt		1	30%	Body Carve
+Raw Meat		1	5%	Body Carve
+White Liver		1	15%	Body Carve
+High-quality Pelt	1	5%	Body Carve
+Kelbi Horn		1	100%	Body Carve (KO'd)

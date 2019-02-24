@@ -1,0 +1,93 @@
+﻿☆ Najarala - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Najarala Shell		1	45%	Body Carve
+Najarala Hide		1	20%	Body Carve
+Najarala Fang		1	30%	Body Carve
+Chilling Beak		1	5%	Body Carve
+Wyvern Tear		1	65%	Shiny Drops
+Najarala Sounder	1	25%	Shiny Drops
+Chilling Beak		1	5%	Shiny Drops
+Najarala Marrow		1	5%	Shiny Drops
+Najarala Shell		1	24%	Capture
+Najarala Hide		1	13%	Capture
+Najarala Sounder	1	15%	Capture
+Najarala Fang		2	28%	Capture
+Najarala Marrow		1	10%	Capture
+Paralysis Sac		2	10%	Capture
+Najarala Fang		2	80%	Wound Head
+Chilling Beak		1	20%	Wound Head
+Najarala Shell		1	50%	Wound Hind Leg
+Najarala Hide		1	30%	Wound Hind Leg
+Monster Bone L		2	20%	Wound Hind Leg
+Najarala Shell		1	39%	Wound Back
+Najarala Sounder	1	58%	Wound Back
+Chilling Beak		1	3%	Wound Back
+Najarala Hide		1	37%	Wound Tail
+Najarala Sounder	1	58%	Wound Tail
+Najarala Marrow		1	5%	Wound Tail
+
+☆ Najarala - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Najarala Carapace	1	45%	Body Carve
+Najarala Hide+		1	25%	Body Carve
+Najarala Fang		1	20%	Body Carve
+Chilling Beak		1	10%	Body Carve
+Wyvern Tear		1	32%	Shiny Drops
+Large Wyvern Tear	1	48%	Shiny Drops
+Chilling Beak		1	15%	Shiny Drops
+Najarala Medulla	1	5%	Shiny Drops
+Najarala Carapace	1	24%	Capture
+Najarala Hide+		1	14%	Capture
+Najarala Sounder+	1	20%	Capture
+Najarala Fang		2	10%	Capture
+Najarala Marrow		1	10%	Capture
+Najarala Medulla	1	8%	Capture
+Paralysis Sac		2	10%	Capture
+Wyvern Gem		1	4%	Capture
+Najarala Fang		2	60%	Wound Head
+Najarala Fang		3	10%	Wound Head
+Chilling Beak		1	30%	Wound Head
+Najarala Carapace	1	48%	Wound Hind Leg
+Najarala Shell		2	8%	Wound Hind Leg
+Najarala Hide+		1	28%	Wound Hind Leg
+Monster Keenbone	2	16%	Wound Hind Leg
+Najarala Carapace	1	28%	Wound Back
+Najarala Sounder+	1	56%	Wound Back
+Najarala Sounder	2	8%	Wound Back
+Chilling Beak		1	8%	Wound Back
+Najarala Hide+		1	35%	Wound Tail
+Najarala Hide		1	8%	Wound Tail
+Najarala Sounder+	1	52%	Wound Tail
+Najarala Medulla	1	5%	Wound Tail
+
+☆ Najarala - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Najarala Cortex		1	50%	Body Carve
+Najarala Piel		1	25%	Body Carve
+Heart-stopping Beak	1	5%	Body Carve
+Ultraplegia Sac		1	20%	Body Carve
+Large Wyvern Tear	1	80%	Shiny Drops
+Heart-stopping Beak	1	5%	Shiny Drops
+Najarala Medulla	1	15%	Shiny Drops
+Najarala Cortex		1	28%	Capture
+Najarala Piel		1	16%	Capture
+Najarala Ampsounder	1	20%	Capture
+Najarala Medulla	1	12%	Capture
+Ultraplegia Sac		1	14%	Capture
+Lrg Wyvern Gem		1	4%	Capture
+Wyvern Gem		1	6%	Capture
+Ultraplegia Sac		1	50%	Wound Head
+Chilling Beak		1	20%	Wound Head
+Heart-stopping Beak	1	30%	Wound Head
+Najarala Cortex		1	48%	Wound Hind Leg
+Najarala Carapace	2	8%	Wound Hind Leg
+Najarala Piel		1	28%	Wound Hind Leg
+Monster Toughbone	2	16%	Wound Hind Leg
+Najarala Cortex		1	33%	Wound Back
+Najarala Ampsounder	1	56%	Wound Back
+Najarala Sounder+	2	8%	Wound Back
+Heart-stopping Beak	1	3%	Wound Back
+Najarala Piel		1	35%	Wound Tail
+Najarala Hide+		1	8%	Wound Tail
+Najarala Ampsounder	1	52%	Wound Tail
+Najarala Medulla	1	5%	Wound Tail

@@ -1,0 +1,62 @@
+﻿☆ Plesioth - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Plesioth Scale+		1	59%	Body Carve
+Plesioth Fin+		1	12%	Body Carve
+Plesioth Head		1	6%	Body Carve
+Plesioth Fang+		1	18%	Body Carve
+Wyvern Gem		1	5%	Body Carve
+Wyvern Tear		1	38%	Shiny Drops
+Large Wyvern Tear	1	37%	Shiny Drops
+Plesioth Fin+		1	10%	Shiny Drops
+Large Lobstershell	1	15%	Shiny Drops
+Plesioth Scale+		1	25%	Capture
+Plesioth Fin+		1	20%	Capture
+Plesioth Webbing	1	15%	Capture
+Plesioth Head		1	12%	Capture
+Large Lobstershell	1	10%	Capture
+Small Lobstershell	1	15%	Capture
+Wyvern Gem		1	3%	Capture
+Plesioth Webbing	1	65%	Wound Wing
+Plesioth Fin+		1	15%	Wound Wing
+Plesioth Scale+		1	20%	Wound Wing
+Plesioth Fin+		1	8%	Wound Head
+Plesioth Scale+		1	6%	Wound Head
+Plesioth Fang+		1	48%	Wound Head
+Plesioth Head		1	28%	Wound Head
+Large Lobstershell	1	10%	Wound Head
+Plesioth Fin+		1	75%	Wound Top Fin
+Plesioth Scale+		1	25%	Wound Top Fin
+
+☆ Plesioth - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Plesioth Shard		1	45%	Body Carve
+Plesioth Scale+		1	10%	Body Carve
+Plesioth Grandfin	1	12%	Body Carve
+Uber Plesio Head	1	6%	Body Carve
+Plesioth Hardfang	1	16%	Body Carve
+Lrg Wyvern Gem		1	5%	Body Carve
+Wyvern Gem		1	6%	Body Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Plesioth Grandfin	1	10%	Shiny Drops
+Giant Lobstershell	1	15%	Shiny Drops
+Plesioth Shard		1	25%	Capture
+Plesioth Grandfin	1	20%	Capture
+Hrd Ples Webbing	1	15%	Capture
+Uber Plesio Head	1	12%	Capture
+Giant Lobstershell	1	10%	Capture
+Large Lobstershell	1	15%	Capture
+Lrg Wyvern Gem		1	3%	Capture
+Hrd Ples Webbing	1	60%	Wound Wing
+Plesioth Webbing	1	8%	Wound Wing
+Plesioth Grandfin	1	15%	Wound Wing
+Plesioth Shard		1	17%	Wound Wing
+Plesioth Grandfin	1	8%	Wound Head
+Plesioth Shard		1	6%	Wound Head
+Plesioth Hardfang	1	42%	Wound Head
+Plesioth Fang+		2	6%	Wound Head
+Uber Plesio Head	1	24%	Wound Head
+Plesioth Head		1	6%	Wound Head
+Giant Lobstershell	1	8%	Wound Head
+Plesioth Grandfin	1	67%	Wound Top Fin
+Plesioth Fin+		1	8%	Wound Top Fin
+Plesioth Shard		1	25%	Wound Top Fin

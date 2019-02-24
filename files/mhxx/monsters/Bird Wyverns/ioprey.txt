@@ -1,0 +1,17 @@
+﻿☆ Ioprey - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Ioprey Fang		1	47%	Body Carve
+Ioprey Scale		1	38%	Body Carve
+Ioprey Hide		1	15%	Body Carve
+
+☆ Ioprey - MHXX High Rank	
+Item	Qty	Prob.	How to obtain
+Ioprey Fang		1	25%	Body Carve
+Ioprey Scale+		1	40%	Body Carve
+Ioprey Hide+		1	35%	Body Carve
+
+☆ Ioprey - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Ioprey Fang		1	25%	Body Carve
+Ioprey Shard		1	40%	Body Carve
+Ioprey Hide+		1	35%	Body Carve

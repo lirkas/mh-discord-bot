@@ -1,0 +1,44 @@
+﻿☆ Giadrome - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Giaprey Scale+		1	10%	Body Carve
+Giadrome Hide+		1	25%	Body Carve
+Giaprey Hide+		1	8%	Body Carve
+Giadrome Claw+		1	45%	Body Carve
+Giadrome Head		1	7%	Body Carve
+Bird Wyvern Gem		1	5%	Body Carve
+Wyvern Tear		1	50%	Shiny Drops
+Large Wyvern Tear	1	25%	Shiny Drops
+Bird Wyvern Gem		1	2%	Shiny Drops
+Giadrome Claw+		1	23%	Shiny Drops
+Giadrome Hide+		1	50%	Capture
+Screamer Sac		2	35%	Capture
+Giadrome Head		1	12%	Capture
+Bird Wyvern Gem		1	3%	Capture
+Screamer Sac		2	45%	Wound Head
+Giadrome Hide+		1	30%	Wound Head
+Giadrome Head		1	15%	Wound Head
+Bird Wyvern Gem		1	10%	Wound Head
+
+☆ Giadrome - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Giaprey Shard		1	10%	Body Carve
+Giadrome Piel		1	25%	Body Carve
+Giadrome Talon		1	40%	Body Carve
+Giadrome Claw+		1	8%	Body Carve
+Giadrome Head		1	7%	Body Carve
+Fey Wyvern Gem		1	5%	Body Carve
+Bird Wyvern Gem		1	5%	Body Carve
+Large Wyvern Tear	1	73%	Shiny Drops
+Fey Wyvern Gem		1	2%	Shiny Drops
+Bird Wyvern Gem		1	2%	Shiny Drops
+Giadrome Talon		1	23%	Shiny Drops
+Giadrome Piel		1	50%	Capture
+Screamer Sac		2	32%	Capture
+Giadrome Head		1	12%	Capture
+Fey Wyvern Gem		1	3%	Capture
+Bird Wyvern Gem		1	3%	Capture
+Screamer Sac		2	35%	Wound Head
+Giadrome Piel		1	30%	Wound Head
+Giadrome Head		1	15%	Wound Head
+Fey Wyvern Gem		1	10%	Wound Head
+Bird Wyvern Gem		1	10%	Wound Head

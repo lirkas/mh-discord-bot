@@ -1,0 +1,75 @@
+﻿☆ Gypceros - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Dash Extract		1	20%	Body Carve
+Rubbery Hide		1	61%	Body Carve
+Poison Sac		1	10%	Body Carve
+Lightcrystal		1	8%	Body Carve
+Gypceros Head		1	1%	Body Carve
+Wyvern Tear		1	74%	Shiny Drops
+Dash Extract		1	20%	Shiny Drops
+Lightcrystal		1	6%	Shiny Drops
+Wyvern Tear		1	20%	Body Carve (Apparent Death)
+Dash Extract		1	30%	Body Carve (Apparent Death)
+Rubbery Hide		1	25%	Body Carve (Apparent Death)
+Gypceros Webbing	1	15%	Body Carve (Apparent Death)
+Poison Sac		1	10%	Body Carve (Apparent Death)
+Rubbery Hide		1	16%	Capture
+Gypceros Webbing	1	30%	Capture
+Poison Sac		2	20%	Capture
+Dash Extract		2	34%	Capture
+Lightcrystal		1	50%	Wound Head
+Iron Ore		2	20%	Wound Head
+Gypceros Head		1	30%	Wound Head
+
+☆ Gypceros - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Dash Extract		1	23%	Body Carve
+Rubbery Hide+		1	46%	Body Carve
+Toxin Sac		1	15%	Body Carve
+Novacrystal		1	8%	Body Carve
+Lightcrystal		1	3%	Body Carve
+Gypceros Head		1	5%	Body Carve
+Wyvern Tear		1	35%	Shiny Drops
+Large Wyvern Tear	1	35%	Shiny Drops
+Dash Extract		1	25%	Shiny Drops
+Novacrystal		1	5%	Shiny Drops
+Wyvern Tear		1	20%	Body Carve (Apparent Death)
+Dash Extract		1	30%	Body Carve (Apparent Death)
+Rubbery Hide		1	23%	Body Carve (Apparent Death)
+Gypceros Wing		1	15%	Body Carve (Apparent Death)
+Toxin Sac		1	12%	Body Carve (Apparent Death)
+Rubbery Hide		2	5%	Capture
+Rubbery Hide+		1	15%	Capture
+Gypceros Wing		1	28%	Capture
+Toxin Sac		2	22%	Capture
+Dash Extract		2	30%	Capture
+Lightcrystal		1	50%	Wound Head
+Novacrystal		1	12%	Wound Head
+Dragonite Ore		2	6%	Wound Head
+Gypceros Head		1	32%	Wound Head
+
+☆ Gypceros - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Dash Extract		1	23%	Body Carve
+Rubbery Finehide	1	49%	Body Carve
+Deadly Poison Sac	1	15%	Body Carve
+Purecrystal		1	8%	Body Carve
+Novacrystal		1	3%	Body Carve
+Gypceros Hardhead	1	2%	Body Carve
+Large Wyvern Tear	1	70%	Shiny Drops
+Dash Extract		1	25%	Shiny Drops
+Purecrystal		1	5%	Shiny Drops
+Large Wyvern Tear	1	20%	Body Carve (Apparent Death)
+Dash Extract		1	30%	Body Carve (Apparent Death)
+Rubbery Finehide	1	23%	Body Carve (Apparent Death)
+Gypceros Weave		1	15%	Body Carve (Apparent Death)
+Deadly Poison Sac	1	12%	Body Carve (Apparent Death)
+Rubbery Hide+		2	5%	Capture
+Rubbery Finehide	1	15%	Capture
+Gypceros Weave		1	28%	Capture
+Deadly Poison Sac	2	22%	Capture
+Dash Extract		3	30%	Capture
+Novacrystal		1	50%	Wound Head
+Purecrystal		1	14%	Wound Head
+Carbalite Ore		2	6%	Wound Head
+Gypceros Hardhead	1	30%	Wound Head

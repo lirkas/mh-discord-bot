@@ -1,0 +1,111 @@
+﻿☆ Zinogre - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Zinogre Shell		1	40%	Body Carve
+Zinogre Shockfur	1	20%	Body Carve
+Zinogre Claw		1	15%	Body Carve
+Zinogre Shocker		1	20%	Body Carve
+Zinogre Plate		1	5%	Body Carve
+Zinogre Tail		1	70%	Tail Carve
+Zinogre Shell		1	20%	Tail Carve
+Zinogre Shockfur	1	8%	Tail Carve
+Zinogre Plate		1	2%	Tail Carve
+Wyvern Tear		1	75%	Shiny Drops
+Zinogre Shell		1	8%	Shiny Drops
+Fulgurbug		1	15%	Shiny Drops
+Zinogre Plate		1	2%	Shiny Drops
+Fulgurbug		1	90%	Bug-Catching Back
+Zinogre Shockfur	1	10%	Bug-Catching Back
+Zinogre Shell		2	10%	Capture
+Zinogre Shockfur	1	30%	Capture
+Zinogre Claw		1	20%	Capture
+Zinogre Shocker		1	30%	Capture
+Zinogre Plate		1	2%	Capture
+Fulgurbug		2	8%	Capture
+Zinogre Horn		1	80%	Wound Head
+Zinogre Shell		1	17%	Wound Head
+Zinogre Plate		1	3%	Wound Head
+Zinogre Shell		1	10%	Wound Back
+Zinogre Shockfur	1	30%	Wound Back
+Zinogre Shocker		1	60%	Wound Back
+Zinogre Claw		2	20%	Wound Front Leg
+Zinogre Claw		1	70%	Wound Front Leg
+Zinogre Shocker		1	10%	Wound Front Leg
+
+☆ Zinogre - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Zinogre Carapace	1	40%	Body Carve
+Zinogre Shell		1	8%	Body Carve
+Zinogre Electrofur	1	22%	Body Carve
+Zinogre Claw+		1	14%	Body Carve
+Zinogre Shocker+	1	13%	Body Carve
+Zinogre Jasper		1	3%	Body Carve
+Zinogre Tail		1	70%	Tail Carve
+Zinogre Carapace	1	20%	Tail Carve
+Zinogre Electrofur	1	8%	Tail Carve
+Zinogre Jasper		1	2%	Tail Carve
+Wyvern Tear		1	38%	Shiny Drops
+Large Wyvern Tear	1	37%	Shiny Drops
+Zinogre Carapace	1	15%	Shiny Drops
+Fulgurbug		1	8%	Shiny Drops
+Zinogre Jasper		1	2%	Shiny Drops
+Fulgurbug		1	82%	Bug-Catching Back
+Zinogre Electrofur	1	10%	Bug-Catching Back
+Zinogre Shockfur	1	8%	Bug-Catching Back
+Zinogre Carapace	2	10%	Capture
+Zinogre Electrofur	1	26%	Capture
+Zinogre Claw+		1	18%	Capture
+Zinogre Shocker+	1	26%	Capture
+Zinogre Jasper		1	2%	Capture
+Zinogre Plate		1	6%	Capture
+Fulgurbug		4	12%	Capture
+Zinogre Horn+		1	70%	Wound Head
+Zinogre Horn		2	10%	Wound Head
+Zinogre Carapace	1	17%	Wound Head
+Zinogre Jasper		1	3%	Wound Head
+Zinogre Carapace	2	10%	Wound Back
+Zinogre Electrofur	1	25%	Wound Back
+Zinogre Shocker+	1	55%	Wound Back
+Zinogre Shocker		2	10%	Wound Back
+Zinogre Claw+		2	17%	Wound Front Leg
+Zinogre Claw+		1	65%	Wound Front Leg
+Zinogre Claw		3	8%	Wound Front Leg
+Zinogre Shocker+	1	10%	Wound Front Leg
+
+☆ Zinogre - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Zinogre Cortex		1	40%	Body Carve
+Zinogre Carapace	1	8%	Body Carve
+Zinogre Electrofur+	1	22%	Body Carve
+Zinogre Hardclaw	1	14%	Body Carve
+Zinogre D-Shocker	1	13%	Body Carve
+Zinogre Skymerald	1	3%	Body Carve
+Zinogre Lash		1	70%	Tail Carve
+Zinogre Cortex		1	20%	Tail Carve
+Zinogre Electrofur+	1	8%	Tail Carve
+Zinogre Skymerald	1	2%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Zinogre Cortex		1	15%	Shiny Drops
+Fulgurbug		1	8%	Shiny Drops
+Zinogre Skymerald	1	2%	Shiny Drops
+Fulgurbug		1	82%	Bug-Catching Back
+Zinogre Electrofur+	1	10%	Bug-Catching Back
+Zinogre Electrofur	1	8%	Bug-Catching Back
+Zinogre Cortex		2	10%	Capture
+Zinogre Electrofur+	1	26%	Capture
+Zinogre Hardclaw	1	18%	Capture
+Zinogre D-Shocker	1	26%	Capture
+Zinogre Skymerald	1	2%	Capture
+Zinogre Jasper		1	6%	Capture
+Fulgurbug		4	12%	Capture
+Zinogre Hardhorn	1	70%	Wound Head
+Zinogre Horn+		1	10%	Wound Head
+Zinogre Cortex		1	17%	Wound Head
+Zinogre Skymerald	1	3%	Wound Head
+Zinogre Cortex		1	10%	Wound Back
+Zinogre Electrofur+	1	25%	Wound Back
+Zinogre D-Shocker	1	55%	Wound Back
+Zinogre Shocker+	2	10%	Wound Back
+Zinogre Hardclaw	2	17%	Wound Front Leg
+Zinogre Hardclaw	1	65%	Wound Front Leg
+Zinogre Claw+		3	8%	Wound Front Leg
+Zinogre D-Shocker	1	10%	Wound Front Leg

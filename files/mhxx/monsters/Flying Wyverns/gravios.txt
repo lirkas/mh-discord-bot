@@ -1,0 +1,72 @@
+﻿☆ Gravios - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Gravios Carapace	1	58%	Body Carve
+Coma Sac		1	20%	Body Carve
+Inferno Sac		1	10%	Body Carve
+Gravios Scalp		1	5%	Body Carve
+Wyvern Gem		1	7%	Body Carve
+Gravios Carapace	1	66%	Tail Carve
+Monster Hardbone	1	20%	Tail Carve
+Firecell Stone		1	2%	Tail Carve
+Gravios Medulla		1	12%	Tail Carve
+Wyvern Tear		1	47%	Shiny Drops
+Large Wyvern Tear	1	47%	Shiny Drops
+Firecell Stone		1	6%	Shiny Drops
+Gravios Carapace	1	32%	Capture
+Coma Sac		1	16%	Capture
+Inferno Sac		1	34%	Capture
+Firecell Stone		1	6%	Capture
+Gravios Wing		1	12%	Capture
+Gravios Scalp		1	40%	Wound Head
+Gravios Carapace	1	50%	Wound Head
+Firecell Stone		1	10%	Wound Head
+Gravios Wing		1	30%	Wound Back
+Gravios Carapace	1	40%	Wound Back
+Monster Hardbone	1	30%	Wound Back
+Gravios Carapace	1	90%	Wound Belly
+Coma Sac		2	10%	Wound Belly
+Gravios Wing		1	52%	Wound Wing
+Gravios Wing		2	18%	Wound Wing
+Monster Hardbone	1	30%	Wound Wing
+
+☆ Gravios - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Gravios Cortex		1	56%	Body Carve
+Torpor Sac		1	8%	Body Carve
+Conflagrant Sac		1	8%	Body Carve
+Gravios Crown		1	5%	Body Carve
+Gravios Medulla		1	6%	Body Carve
+Gravios Pallium		1	2%	Body Carve
+Lrg Wyvern Gem		1	7%	Body Carve
+Wyvern Gem		1	8%	Body Carve
+Gravios Cortex		1	64%	Tail Carve
+Monster Slogbone	1	20%	Tail Carve
+Allfire Stone		1	2%	Tail Carve
+Gravios Medulla		1	12%	Tail Carve
+Gravios Pallium		1	2%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Allfire Stone		1	15%	Shiny Drops
+Firecell Stone		1	10%	Shiny Drops
+Gravios Cortex		1	32%	Capture
+Torpor Sac		1	14%	Capture
+Conflagrant Sac		1	27%	Capture
+Allfire Stone		1	6%	Capture
+Firecell Stone		1	6%	Capture
+Gravios Fellwing	1	12%	Capture
+Gravios Pallium		1	3%	Capture
+Gravios Crown		1	40%	Wound Head
+Gravios Scalp		1	8%	Wound Head
+Gravios Cortex		1	40%	Wound Head
+Gravios Pallium		1	2%	Wound Head
+Allfire Stone		1	10%	Wound Head
+Gravios Fellwing	1	30%	Wound Back
+Gravios Cortex		1	40%	Wound Back
+Gravios Carapace	2	10%	Wound Back
+Monster Slogbone	1	20%	Wound Back
+Gravios Cortex		1	80%	Wound Belly
+Torpor Sac		2	10%	Wound Belly
+Coma Sac		2	10%	Wound Belly
+Gravios Fellwing	1	49%	Wound Wing
+Gravios Fellwing	2	18%	Wound Wing
+Gravios Wing		2	8%	Wound Wing
+Monster Slogbone	1	25%	Wound Wing

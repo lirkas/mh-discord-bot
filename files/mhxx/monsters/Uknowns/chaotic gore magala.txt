@@ -1,0 +1,29 @@
+﻿☆ Chaotic Gore Magala - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Chaos Scale		1	29%	Body Carve
+Gore Magala Shard	1	37%	Body Carve
+Gore Magala Shredder	1	18%	Body Carve
+Antinomic Wing		1	10%	Body Carve
+Contrary Scale		1	3%	Body Carve
+Gore Magala Mantle	1	3%	Body Carve
+Gore Magala Lash	1	65%	Tail Carve
+Contrary Scale		1	2%	Tail Carve
+Chaos Scale		1	31%	Tail Carve
+Gore Magala Mantle	1	2%	Tail Carve
+Chaos Scale		1	24%	Shiny Drops
+Contrary Scale		1	2%	Shiny Drops
+Gore Magala Shard	1	24%	Shiny Drops
+Large Wyvern Tear	1	48%	Shiny Drops
+Gore Magala Mantle	1	2%	Shiny Drops
+Gore Magala Shard	1	37%	Capture
+Antinomic Wing		1	28%	Capture
+Diametrical Horn	1	15%	Capture
+Chaos Scale		1	20%	Capture
+Diametrical Horn	1	100%	Wound Feelers
+Antinomic Wing		1	65%	Wound Head
+Chaos Scale		1	35%	Wound Head
+S.Magala Purifier	1	75%	Wound Wingarm
+Chaos Scale		1	25%	Wound Wingarm
+Gore Magala Shredder	1	60%	Wound Wing
+Gore Magala Shard	1	25%	Wound Wing
+Chaos Scale		1	15%	Wound Wing

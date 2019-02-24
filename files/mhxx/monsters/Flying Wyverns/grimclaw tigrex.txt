@@ -1,0 +1,175 @@
+﻿☆ Grimclaw Tigrex - MHXX Lv 1~4
+Item			Qty	Prob.	How to obtain
+Grimclaw Scale		1	40%	Body Carve
+Grimclaw Shell		1	20%	Body Carve
+Tigrex Claw+		1	30%	Body Carve
+Tigrex Maw		1	3%	Body Carve
+Tigrex Scalp		1	7%	Body Carve
+Tigrex Tail		1	80%	Tail Carve
+Grimclaw Scale		1	20%	Tail Carve
+Wyvern Tear		1	38%	Shiny Drops
+Large Wyvern Tear	1	37%	Shiny Drops
+Grimclaw Scale		1	20%	Shiny Drops
+Tigrex Claw+		1	5%	Shiny Drops
+Grimclaw Shell		1	40%	Capture
+Tigrex Fang+		1	25%	Capture
+Grimclaw Scale		2	18%	Capture
+Tigrex Tail		1	10%	Capture
+Tigrex Maw		1	7%	Capture
+Tigrex Fang+		1	52%	Wound Head
+Tigrex Fang		3	8%	Wound Head
+Tigrex Maw		1	8%	Wound Head
+Tigrex Scalp		1	15%	Wound Head
+Grimclaw Shell		1	17%	Wound Head
+Grimclaw Talon		2	60%	Break Claw
+Grimclaw Talon		1	40%	Break Claw
+
+☆ Grimclaw Tigrex - MHXX Lv 5~8
+Item			Qty	Prob.	How to obtain
+Grimclaw Scale+		1	20%	Body Carve
+Grimclaw Scale		1	23%	Body Carve
+Grimclaw Carapace	1	7%	Body Carve
+Grimclaw Shell		1	10%	Body Carve
+Tigrex Claw+		1	30%	Body Carve
+Tigrex Maw		1	3%	Body Carve
+Tigrex Scalp		1	7%	Body Carve
+Tigrex Tail		1	80%	Tail Carve
+Grimclaw Scale+		1	8%	Tail Carve
+Grimclaw Scale		1	12%	Tail Carve
+Wyvern Tear		1	38%	Shiny Drops
+Large Wyvern Tear	1	37%	Shiny Drops
+Grimclaw Scale+		1	8%	Shiny Drops
+Grimclaw Scale		1	12%	Shiny Drops
+Tigrex Claw+		1	5%	Shiny Drops
+Grimclaw Carapace	1	18%	Capture
+Grimclaw Shell		1	22%	Capture
+Tigrex Fang+		1	25%	Capture
+Grimclaw Scale+		1	8%	Capture
+Grimclaw Scale		1	10%	Capture
+Tigrex Tail		1	10%	Capture
+Tigrex Maw		1	7%	Capture
+Tigrex Fang+		1	52%	Wound Head
+Tigrex Fang		3	8%	Wound Head
+Tigrex Maw		1	8%	Wound Head
+Tigrex Scalp		1	15%	Wound Head
+Grimclaw Carapace	1	7%	Wound Head
+Grimclaw Shell		1	10%	Wound Head
+Grimclaw Talon+		1	80%	Break Claw
+Grimclaw Talon		2	20%	Break Claw
+
+☆ Grimclaw Tigrex - MHXX Lv 9~10	
+Item			Qty	Prob.	How to obtain
+Grimclaw Scale+		1	40%	Body Carve
+Grimclaw Carapace	1	20%	Body Carve
+Tigrex Claw+		1	30%	Body Carve
+Tigrex Maw		1	3%	Body Carve
+Tigrex Scalp		1	7%	Body Carve
+Tigrex Tail		1	80%	Tail Carve
+Grimclaw Scale+		1	20%	Tail Carve
+Wyvern Tear		1	38%	Shiny Drops
+Large Wyvern Tear	1	37%	Shiny Drops
+Grimclaw Scale+		1	20%	Shiny Drops
+Tigrex Claw+		1	5%	Shiny Drops
+Grimclaw Carapace	1	30%	Capture
+Grimclaw Shell		2	10%	Capture
+Tigrex Fang+		1	25%	Capture
+Grimclaw Scale+		2	18%	Capture
+Tigrex Tail		1	10%	Capture
+Tigrex Maw		1	7%	Capture
+Tigrex Fang+		1	52%	Wound Head
+Tigrex Fang		3	8%	Wound Head
+Tigrex Maw		1	8%	Wound Head
+Tigrex Scalp		1	15%	Wound Head
+Grimclaw Carapace	1	17%	Wound Head
+Grimclaw Talon+		2	60%	Break Claw
+Grimclaw Talon+		1	40%	Break Claw
+
+☆ Grimclaw Tigrex - MHXX Lv 11~12	
+Item			Qty	Prob.	How to obtain
+Grimclaw Shard		1	20%	Body Carve
+Grimclaw Scale+		1	23%	Body Carve
+Grimclaw Carapace	1	17%	Body Carve
+Tigrex Hardclaw		1	30%	Body Carve
+Tigrex Mantle		1	3%	Body Carve
+Tigrex Maw		1	7%	Body Carve
+Tigrex Lash		1	80%	Tail Carve
+Grimclaw Shard		1	8%	Tail Carve
+Grimclaw Scale+		1	10%	Tail Carve
+Tigrex Mantle		1	2%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Grimclaw Shard		1	8%	Shiny Drops
+Grimclaw Scale+		1	12%	Shiny Drops
+Tigrex Hardclaw		1	5%	Shiny Drops
+Grimclaw Carapace	1	42%	Capture
+Tigrex Hardfang		1	27%	Capture
+Grimclaw Shard		1	8%	Capture
+Grimclaw Scale+		2	10%	Capture
+Tigrex Lash		1	10%	Capture
+Tigrex Mantle		1	3%	Capture
+Tigrex Hardfang		1	57%	Wound Head
+Tigrex Fang+		2	8%	Wound Head
+Tigrex Mantle		1	3%	Wound Head
+Tigrex Maw		1	15%	Wound Head
+Grimclaw Carapace	1	17%	Wound Head
+Grimclaw Hardclaw	1	80%	Break Claw
+Grimclaw Talon+		2	20%	Break Claw
+
+☆ Grimclaw Tigrex - MHXX Lv 13~15	
+Item			Qty	Prob.	How to obtain
+Grimclaw Shard		1	20%	Body Carve
+Grimclaw Scale+		1	23%	Body Carve
+Grimclaw Cortex		1	7%	Body Carve
+Grimclaw Carapace	1	10%	Body Carve
+Tigrex Hardclaw		1	30%	Body Carve
+Tigrex Mantle		1	3%	Body Carve
+Tigrex Maw		1	7%	Body Carve
+Tigrex Lash		1	80%	Tail Carve
+Grimclaw Shard		1	8%	Tail Carve
+Grimclaw Scale+		1	10%	Tail Carve
+Tigrex Mantle		1	2%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Grimclaw Shard		1	8%	Shiny Drops
+Grimclaw Scale+		1	12%	Shiny Drops
+Tigrex Hardclaw		1	5%	Shiny Drops
+Grimclaw Cortex		1	20%	Capture
+Grimclaw Carapace	1	22%	Capture
+Tigrex Hardfang		1	27%	Capture
+Grimclaw Shard		1	8%	Capture
+Grimclaw Scale+		1	10%	Capture
+Tigrex Lash		1	10%	Capture
+Tigrex Mantle		1	3%	Capture
+Tigrex Hardfang		1	56%	Wound Head
+Tigrex Fang+		2	6%	Wound Head
+Tigrex Mantle		1	4%	Wound Head
+Tigrex Maw		1	17%	Wound Head
+Grimclaw Cortex		1	7%	Wound Head
+Grimclaw Carapace	1	10%	Wound Head
+Grimclaw Hardclaw	1	80%	Break Claw
+Grimclaw Talon+		2	20%	Break Claw
+
+☆ Grimclaw Tigrex - MHXX Lv Ex
+Item			Qty	Prob.	How to obtain
+Grimclaw Shard		1	40%	Body Carve
+Grimclaw Cortex		1	20%	Body Carve
+Tigrex Hardclaw		1	30%	Body Carve
+Tigrex Mantle		1	3%	Body Carve
+Tigrex Maw		1	7%	Body Carve
+Tigrex Lash		1	80%	Tail Carve
+Grimclaw Shard		1	18%	Tail Carve
+Tigrex Mantle		1	2%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Grimclaw Shard		1	20%	Shiny Drops
+Tigrex Hardclaw		1	5%	Shiny Drops
+Grimclaw Cortex		1	32%	Capture
+Grimclaw Carapace	2	10%	Capture
+Tigrex Hardfang		1	27%	Capture
+Grimclaw Shard		2	18%	Capture
+Tigrex Lash		1	10%	Capture
+Tigrex Mantle		1	3%	Capture
+Tigrex Hardfang		1	55%	Wound Head
+Tigrex Fang+		2	5%	Wound Head
+Tigrex Mantle		1	5%	Wound Head
+Tigrex Maw		1	18%	Wound Head
+Grimclaw Cortex		1	17%	Wound Head
+Grimclaw Hardclaw	2	60%	Break Claw
+Grimclaw Hardclaw	1	40%	Break Claw

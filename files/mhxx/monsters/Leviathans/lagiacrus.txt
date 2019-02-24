@@ -1,0 +1,112 @@
+﻿☆ Lagiacrus - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Lagiacrus Hide		1	40%	Body Carve
+Lagiacrus Scale		1	25%	Body Carve
+Lagiacrus Claw		1	20%	Body Carve
+Shell Shocker		1	10%	Body Carve
+Small Lobstershell	1	5%	Body Carve
+Lagiacrus Tail		1	63%	Tail Carve
+Lagiacrus Plate		1	4%	Tail Carve
+Lagiacrus Scale		1	33%	Tail Carve
+Wyvern Tear		1	70%	Shiny Drops
+Lagiacrus Scale		1	20%	Shiny Drops
+Lagiacrus Plate		1	2%	Shiny Drops
+Small Lobstershell	1	8%	Shiny Drops
+Lagiacrus Hide		1	40%	Capture
+Shell Shocker		1	30%	Capture
+Lagiacrus Plate		1	6%	Capture
+Lagiacrus Tail		1	16%	Capture
+Small Lobstershell	1	8%	Capture
+Lagiacrus Horn		1	75%	Wound Head
+Lagiacrus Scale		1	14%	Wound Head
+Lagiacrus Plate		1	3%	Wound Head
+Small Lobstershell	1	8%	Wound Head
+Lagiacrus Claw		1	43%	Wound Front Leg
+Lagiacrus Scale		1	32%	Wound Front Leg
+Wyvern Claw		4	25%	Wound Front Leg
+Lagiacrus Hide		1	70%	Wound Chest
+Lagiacrus Scale		1	30%	Wound Chest
+Shell Shocker		1	65%	Wound Back
+Lagiacrus Scale		1	35%	Wound Back
+
+☆ Lagiacrus - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Lagiacrus Hide+		1	38%	Body Carve
+Lagiacrus Scale+	1	27%	Body Carve
+Lagiacrus Claw+		1	14%	Body Carve
+Shell Shocker+		1	10%	Body Carve
+Shell Shocker		1	6%	Body Carve
+Large Lobstershell	1	5%	Body Carve
+Lagiacrus Tail		1	68%	Tail Carve
+Lagiacrus Plate		1	6%	Tail Carve
+Lagiacrus Sapphire	1	2%	Tail Carve
+Lagiacrus Scale+	1	24%	Tail Carve
+Wyvern Tear		1	32%	Shiny Drops
+Large Wyvern Tear	1	32%	Shiny Drops
+Lagiacrus Scale+	1	20%	Shiny Drops
+Lagiacrus Sapphire	1	1%	Shiny Drops
+Large Lobstershell	1	5%	Shiny Drops
+Small Lobstershell	1	10%	Shiny Drops
+Lagiacrus Hide+		1	32%	Capture
+Shell Shocker+		1	28%	Capture
+Lagiacrus Plate		1	8%	Capture
+Lagiacrus Sapphire	1	4%	Capture
+Lagiacrus Tail		1	14%	Capture
+Large Lobstershell	1	6%	Capture
+Small Lobstershell	2	8%	Capture
+Lagiacrus Horn+		1	55%	Wound Head
+Lagiacrus Horn		1	17%	Wound Head
+Lagiacrus Scale+	1	15%	Wound Head
+Lagiacrus Plate		1	5%	Wound Head
+Large Lobstershell	1	8%	Wound Head
+Lagiacrus Claw+		1	40%	Wound Front Leg
+Lagiacrus Claw		2	12%	Wound Front Leg
+Wyvern Claw		8	10%	Wound Front Leg
+Lagiacrus Scale+	1	28%	Wound Front Leg
+Lagiacrus Scale		2	10%	Wound Front Leg
+Lagiacrus Hide+		1	50%	Wound Chest
+Lagiacrus Hide		2	22%	Wound Chest
+Lagiacrus Scale+	1	28%	Wound Chest
+Shell Shocker+		1	48%	Wound Back
+Shell Shocker		2	30%	Wound Back
+Lagiacrus Scale+	1	22%	Wound Back
+
+☆ Lagiacrus - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Lagiacrus Piel		1	38%	Body Carve
+Lagiacrus Shard		1	27%	Body Carve
+Lagiacrus Talon		1	14%	Body Carve
+Deathly Shocker		1	10%	Body Carve
+Shell Shocker+		1	6%	Body Carve
+Giant Lobstershell	1	5%	Body Carve
+Lagiacrus Flail		1	68%	Tail Carve
+Lagiacrus Sapphire	1	6%	Tail Carve
+Lagiacrus Mantle	1	2%	Tail Carve
+Lagiacrus Shard		1	24%	Tail Carve
+Large Wyvern Tear	1	64%	Shiny Drops
+Lagiacrus Shard		1	20%	Shiny Drops
+Lagiacrus Mantle	1	1%	Shiny Drops
+Giant Lobstershell	1	5%	Shiny Drops
+Large Lobstershell	1	10%	Shiny Drops
+Lagiacrus Piel		1	32%	Capture
+Deathly Shocker		1	28%	Capture
+Lagiacrus Sapphire	1	8%	Capture
+Lagiacrus Mantle	1	4%	Capture
+Lagiacrus Flail		1	14%	Capture
+Giant Lobstershell	1	6%	Capture
+Large Lobstershell	2	8%	Capture
+Lagia Hardhorn		1	55%	Wound Head
+Lagiacrus Horn+		1	17%	Wound Head
+Lagiacrus Shard		1	15%	Wound Head
+Lagiacrus Sapphire	1	5%	Wound Head
+Giant Lobstershell	1	8%	Wound Head
+Lagiacrus Talon		1	45%	Wound Front Leg
+Lagiacrus Claw+		2	13%	Wound Front Leg
+Lagiacrus Shard		1	30%	Wound Front Leg
+Lagiacrus Scale+	2	12%	Wound Front Leg
+Lagiacrus Piel		1	50%	Wound Chest
+Lagiacrus Hide+		2	22%	Wound Chest
+Lagiacrus Shard		1	28%	Wound Chest
+Deathly Shocker		1	48%	Wound Back
+Shell Shocker+		2	30%	Wound Back
+Lagiacrus Shard		1	22%	Wound Back

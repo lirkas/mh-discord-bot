@@ -1,0 +1,104 @@
+﻿☆ Rathian - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Rathian Scale		1	40%	Body Carve
+Rathian Shell		1	30%	Body Carve
+Rathian Webbing		1	15%	Body Carve
+Flame Sac		1	10%	Body Carve
+Rathian Spike		1	5%	Body Carve
+Rathian Scale		1	62%	Tail Carve
+Rathian Spike		1	20%	Tail Carve
+Rath Marrow		1	15%	Tail Carve
+Rathian Plate		1	3%	Tail Carve
+Wyvern Tear		1	74%	Shiny Drops
+Rathian Scale		1	15%	Shiny Drops
+Rathian Spike		1	10%	Shiny Drops
+Rathian Plate		1	1%	Shiny Drops
+Rathian Shell		1	30%	Capture
+Rathian Scale		2	25%	Capture
+Rath Marrow		1	23%	Capture
+Flame Sac		1	20%	Capture
+Rathian Plate		1	2%	Capture
+Rathian Shell		1	71%	Wound Head
+Rathian Scale		1	25%	Wound Head
+Rathian Plate		1	4%	Wound Head
+Rath Wingtalon		1	40%	Wound Wing
+Rath Wingtalon		2	35%	Wound Wing
+Wyvern Claw		4	10%	Wound Wing
+Rathian Webbing		1	15%	Wound Wing
+Rathian Shell		1	69%	Wound Back
+Rathian Spike		1	30%	Wound Back
+Rathian Plate		1	1%	Wound Back
+
+☆ Rathian - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Rathian Scale+		1	38%	Body Carve
+Rathian Carapace	1	25%	Body Carve
+Rathian Webbing		1	12%	Body Carve
+Inferno Sac		1	12%	Body Carve
+Rathian Spike+		1	5%	Body Carve
+Rathian Spike		1	8%	Body Carve
+Rathian Scale+		1	55%	Tail Carve
+Rathian Spike+		1	15%	Tail Carve
+Rathian Scale		1	7%	Tail Carve
+Rath Medulla		1	10%	Tail Carve
+Rathian Ruby		1	3%	Tail Carve
+Rathian Plate		1	10%	Tail Carve
+Wyvern Tear		1	38%	Shiny Drops
+Large Wyvern Tear	1	37%	Shiny Drops
+Rathian Scale+		1	15%	Shiny Drops
+Rathian Ruby		1	2%	Shiny Drops
+Rathian Spike+		1	8%	Shiny Drops
+Rathian Carapace	1	30%	Capture
+Rathian Scale+		2	22%	Capture
+Rath Marrow		1	13%	Capture
+Rath Medulla		1	13%	Capture
+Inferno Sac		1	15%	Capture
+Rathian Plate		1	4%	Capture
+Rathian Ruby		1	3%	Capture
+Rathian Carapace	1	68%	Wound Head
+Rathian Shell		2	8%	Wound Head
+Rathian Scale+		1	20%	Wound Head
+Rathian Ruby		1	4%	Wound Head
+Rath Wingtalon		2	70%	Wound Wing
+Wyvern Claw		5	10%	Wound Wing
+Rathian Scale+		1	12%	Wound Wing
+Rathian Webbing		2	8%	Wound Wing
+Rathian Carapace	1	69%	Wound Back
+Rathian Spike+		1	30%	Wound Back
+Rathian Ruby		1	1%	Wound Back
+
+☆ Rathian - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Rathian Shard		1	38%	Body Carve
+Rathian Cortex		1	25%	Body Carve
+Rathian Weave		1	15%	Body Carve
+Conflagrant Sac		1	9%	Body Carve
+Rathian Surspike	1	5%	Body Carve
+Rathian Spike+		1	8%	Body Carve
+Rathian Shard		1	55%	Tail Carve
+Rathian Surspike	1	15%	Tail Carve
+Rathian Scale+		1	7%	Tail Carve
+Rath Medulla		1	10%	Tail Carve
+Rathian Mantle		1	3%	Tail Carve
+Rathian Ruby		1	10%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Rathian Shard		1	15%	Shiny Drops
+Rathian Mantle		1	2%	Shiny Drops
+Rathian Surspike	1	8%	Shiny Drops
+Rathian Cortex		1	38%	Capture
+Rathian Shard		2	25%	Capture
+Rath Medulla		1	15%	Capture
+Conflagrant Sac		1	15%	Capture
+Rathian Ruby		1	4%	Capture
+Rathian Mantle		1	3%	Capture
+Rathian Cortex		1	68%	Wound Head
+Rathian Carapace	2	8%	Wound Head
+Rathian Shard		1	20%	Wound Head
+Rathian Mantle		1	4%	Wound Head
+Rath Wingtalon+		1	40%	Wound Wing
+Rath Wingtalon+		2	30%	Wound Wing
+Rathian Shard		1	15%	Wound Wing
+Rathian Weave		1	15%	Wound Wing
+Rathian Cortex		1	69%	Wound Back
+Rathian Surspike	1	30%	Wound Back
+Rathian Mantle		1	1%	Wound Back

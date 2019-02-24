@@ -1,0 +1,19 @@
+﻿☆ Blango - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Blango Pelt		1	50%	Body Carve
+Sharp Claw		1	28%	Body Carve
+Brute Bone		1	22%	Body Carve
+
+☆ Blango - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Blango Pelt+		1	50%	Body Carve
+Blango Pelt		1	5%	Body Carve
+Sharp Claw		1	23%	Body Carve
+Brute Bone		1	22%	Body Carve
+
+☆ Blango - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Blango Fur		1	50%	Body Carve
+Blango Pelt+		1	5%	Body Carve
+Piercing Claw		1	23%	Body Carve
+Jumbo Bone		1	22%	Body Carve

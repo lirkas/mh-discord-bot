@@ -1,0 +1,33 @@
+﻿☆ Gargwa - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Monster Bone S		1	15%	Body Carve
+Raw Meat		1	70%	Body Carve
+Gargwa Feather		1	15%	Body Carve
+Gargwa Guano		1	60%	Shiny Drops
+Herb			1	30%	Shiny Drops
+Insect Husk		1	10%	Shiny Drops
+Gargwa Egg		1	100%	Shiny Drops (Egg)
+Gold Gargwa Egg		1	100%	Shiny Drops (Gold Egg)
+
+☆ Gargwa - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Monster Bone S		1	5%	Body Carve
+Raw Meat		1	70%	Body Carve
+Gargwa Feather		1	25%	Body Carve
+Gargwa Guano		1	60%	Shiny Drops
+Herb			1	30%	Shiny Drops
+Insect Husk		1	10%	Shiny Drops
+Gargwa Egg		1	100%	Shiny Drops (Egg)
+Gold Gargwa Egg		1	100%	Shiny Drops (Gold Egg)
+
+☆ Gargwa - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Monster Bone S		1	5%	Body Carve
+Raw Meat		1	40%	Body Carve
+Gargwa Finefeather	1	40%	Body Carve
+Gargwa Feather		1	15%	Body Carve
+Gargwa Guano		1	60%	Shiny Drops
+Herb			1	30%	Shiny Drops
+Insect Husk		1	10%	Shiny Drops
+Gargwa Egg		1	100%	Shiny Drops (Egg)
+Gold Gargwa Egg		1	100%	Shiny Drops (Gold Egg)

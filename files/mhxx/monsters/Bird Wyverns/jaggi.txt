@@ -1,0 +1,20 @@
+﻿☆ Jaggi - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Bird Wyvern Fang	1	40%	Body Carve
+Jaggi Hide		1	29%	Body Carve
+Jaggi Scale		1	23%	Body Carve
+Monster Bone S		1	8%	Body Carve
+
+☆ Jaggi - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Bird Wyvern Fang	1	35%	Body Carve
+Jaggi Hide		1	10%	Body Carve
+Jaggi Scale+		1	18%	Body Carve
+Avian Finebone		1	37%	Body Carve
+
+☆ Jaggi - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Bird Wyvern Fang	1	35%	Body Carve
+Jaggi Piel		1	10%	Body Carve
+Jaggi Shard		1	18%	Body Carve
+Avian Stoutbone		1	37%	Body Carve

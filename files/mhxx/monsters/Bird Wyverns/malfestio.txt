@@ -1,0 +1,81 @@
+﻿☆ Malfestio - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Azurefeather		1	40%	Body Carve
+Malfestio Webbing	1	15%	Body Carve
+Malfestio Wingtalon	1	25%	Body Carve
+Sleep Sac		1	20%	Body Carve
+Wyvern Tear		1	75%	Shiny Drops
+Azurefeather		1	18%	Shiny Drops
+Malfestio Wingtalon	1	7%	Shiny Drops
+Azurefeather		1	15%	Capture
+Malfestio Webbing	1	35%	Capture
+Malfestio Ear		1	20%	Capture
+Sleep Sac		1	30%	Capture
+Malfestio Ear		1	70%	Wound Head
+Azurefeather		1	30%	Wound Head
+Malfestio Wingtalon	2	20%	Wound Wing
+Malfestio Wingtalon	1	40%	Wound Wing
+Malfestio Webbing	1	40%	Wound Wing
+Malfestio Tailfeather	2	15%	Wound Tail
+Malfestio Tailfeather	1	70%	Wound Tail
+Azurefeather		1	15%	Wound Tail
+
+☆ Malfestio - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Azurefeather+		1	35%	Body Carve
+Malfestio Wing		1	15%	Body Carve
+Malfestio Webbing	1	8%	Body Carve
+Malfestio Wingtalon+	1	17%	Body Carve
+Coma Sac		1	20%	Body Carve
+Malfestio Goldfeather	1	5%	Body Carve
+Wyvern Tear		1	37%	Shiny Drops
+Large Wyvern Tear	1	38%	Shiny Drops
+Malfestio Wingtalon+	1	20%	Shiny Drops
+Malfestio Goldfeather	1	5%	Shiny Drops
+Azurefeather+		1	12%	Capture
+Azurefeather		2	8%	Capture
+Malfestio Wing		1	30%	Capture
+Malfestio Ear		1	15%	Capture
+Coma Sac		1	25%	Capture
+Sleep Sac		1	10%	Capture
+Malfestio Ear		1	75%	Wound Head
+Azurefeather+		1	15%	Wound Head
+Malfestio Goldfeather	1	10%	Wound Head
+Malfestio Wingtalon+	2	15%	Wound Wing
+Malfestio Wingtalon+	1	40%	Wound Wing
+Malfestio Wingtalon	2	15%	Wound Wing
+Malfestio Wing		1	30%	Wound Wing
+Malfestio Tailfeather	2	20%	Wound Tail
+Malfestio Tailfeather	1	65%	Wound Tail
+Azurefeather+		1	15%	Wound Tail
+
+☆ Malfestio - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Azure Plume		1	35%	Body Carve
+Malfestio Grandwing	1	15%	Body Carve
+Malfestio Wing		1	8%	Body Carve
+Malfestio Hrd Wingtalon	1	17%	Body Carve
+Torpor Sac		1	15%	Body Carve
+Malfestio Goldfeather+	1	5%	Body Carve
+Malfestio Goldfeather	1	5%	Body Carve
+Large Wyvern Tear	1	65%	Shiny Drops
+Malfestio Hrd Wingtalon	1	20%	Shiny Drops
+Malfestio Goldfeather+	1	5%	Shiny Drops
+Malfestio Goldfeather	1	10%	Shiny Drops
+Azure Plume		1	12%	Capture
+Azurefeather+		2	8%	Capture
+Malfestio Grandwing	1	30%	Capture
+Malfestio Luckear	1	15%	Capture
+Torpor Sac		1	25%	Capture
+Coma Sac		1	10%	Capture
+Malfestio Luckear	1	70%	Wound Head
+Azure Plume		1	15%	Wound Head
+Malfestio Goldfeather+	1	10%	Wound Head
+Malfestio Goldfeather	1	5%	Wound Head
+Malfestio Hrd Wingtalon	2	15%	Wound Wing
+Malfestio Hrd Wingtalon	1	40%	Wound Wing
+Malfestio Wingtalon+	2	15%	Wound Wing
+Malfestio Grandwing	1	30%	Wound Wing
+Malfestio Tailblade	2	20%	Wound Tail
+Malfestio Tailblade	1	65%	Wound Tail
+Azure Plume		1	15%	Wound Tail

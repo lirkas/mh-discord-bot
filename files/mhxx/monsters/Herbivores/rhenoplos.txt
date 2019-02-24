@@ -1,0 +1,21 @@
+﻿☆ Rhenoplos - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Monster Bone M		1	20%	Body Carve
+Raw Meat		1	35%	Body Carve
+Rhenoplos Shell		1	35%	Body Carve
+Rhenoplos Scalp		1	10%	Body Carve
+
+☆ Rhenoplos - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Monster Bone M		1	15%	Body Carve
+Raw Meat		1	20%	Body Carve
+Rhenoplos Carapace	1	35%	Body Carve
+Rhenoplos Shell		1	15%	Body Carve
+Rhenoplos Scalp		1	15%	Body Carve
+
+☆ Rhenoplos - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Large Herbivore Bone	1	30%	Body Carve
+Raw Meat		1	20%	Body Carve
+Rhenoplos Carapace	1	37%	Body Carve
+Rhenoplos Scalp		1	13%	Body Carve

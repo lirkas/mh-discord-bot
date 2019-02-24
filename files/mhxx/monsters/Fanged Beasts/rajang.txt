@@ -1,0 +1,37 @@
+﻿☆ Rajang - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Rajang Blackfur		1	23%	Body Carve
+Rajang Fang+		1	46%	Body Carve
+Rajang Claw+		1	25%	Body Carve
+Gold Rajang Pelt	1	6%	Body Carve
+Large Beast Tear	1	70%	Shiny Drops
+Rajang Blackfur		1	21%	Shiny Drops
+Gold Rajang Pelt	1	9%	Shiny Drops
+Rajang Blackfur		1	44%	Capture
+Rajang Fang+		1	28%	Capture
+Rajang Claw+		1	16%	Capture
+Gold Rajang Pelt	1	12%	Capture
+Rajang Horn+		1	100%	Break Horns
+Rajang Tail		1	91%	Wound Tail
+Gold Rajang Pelt	1	9%	Wound Tail
+
+☆ Rajang - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Rajang Wildpelt		1	23%	Body Carve
+Rajang Hardfang		1	40%	Body Carve
+Rajang Fang+		1	8%	Body Carve
+Rajang Hardclaw		1	23%	Body Carve
+Gold Rajang Pelt+	1	6%	Body Carve
+Large Beast Tear	1	70%	Shiny Drops
+Rajang Wildpelt		1	21%	Shiny Drops
+Gold Rajang Pelt+	1	9%	Shiny Drops
+Rajang Wildpelt		1	38%	Capture
+Rajang Blackfur		2	6%	Capture
+Rajang Hardfang		1	28%	Capture
+Rajang Hardclaw		1	16%	Capture
+Gold Rajang Pelt+	1	12%	Capture
+Rajang Hardhorn		1	90%	Break Horns
+Rajang Horn+		1	10%	Break Horns
+Rajang Tail		1	79%	Wound Tail
+Gold Rajang Pelt+	1	9%	Wound Tail
+Gold Rajang Pelt	2	12%	Wound Tail

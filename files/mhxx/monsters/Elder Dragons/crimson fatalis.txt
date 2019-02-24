@@ -1,0 +1,10 @@
+﻿☆ Crimson Fatalis - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Crimson Fatalis Scale	1	30%	Body Carve
+Crimson Fatalis Shell	1	62%	Body Carve
+Crimson Fatalis Horn	1	8%	Body Carve
+Crimson Fatalis Horn	1	100%	Break Horn
+Fatalis Devileye+	1	100%	Wound Eye
+Crimson Fatalis Wing	1	100%	Wound Wing
+Crimson Fatalis Shell	1	70%	Wound Breast
+Crimson Fatalis Scale	1	30%	Wound Breast

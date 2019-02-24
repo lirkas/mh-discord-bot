@@ -1,0 +1,10 @@
+﻿☆ Old Fatalis - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Old Fatalis Shard	1	30%	Body Carve
+Old Fatalis Cortex	1	62%	Body Carve
+Old Fatalis Hardhorn	1	8%	Body Carve
+Old Fatalis Hardhorn	1	100%	Break Horn
+Old Fatalis Souleye	1	100%	Wound Eye
+Old Fatalis Fellwing	1	100%	Wound Wing
+Old Fatalis Cortex	1	70%	Wound Breast
+Old Fatalis Shard	1	30%	Wound Breast

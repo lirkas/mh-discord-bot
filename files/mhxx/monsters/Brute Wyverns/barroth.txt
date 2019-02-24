@@ -1,0 +1,53 @@
+﻿☆ Barroth - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Barroth Carapace	1	42%	Body Carve
+Barroth Ridge+		1	30%	Body Carve
+Barroth Claw+		1	18%	Body Carve
+Barroth Scalp		1	10%	Body Carve
+Barroth Tail		1	70%	Tail Carve
+Barroth Ridge+		1	27%	Tail Carve
+Wyvern Gem		1	3%	Tail Carve
+Wyvern Tear		1	38%	Shiny Drops
+Large Wyvern Tear	1	37%	Shiny Drops
+Barroth Ridge+		1	5%	Shiny Drops
+Fertile Mud		1	20%	Shiny Drops
+Barroth Ridge+		1	17%	Scalp Carve
+Barroth Scalp		1	80%	Scalp Carve
+Wyvern Gem		1	3%	Scalp Carve
+Barroth Carapace	1	25%	Capture
+Barroth Ridge+		1	25%	Capture
+Barroth Scalp		1	23%	Capture
+Barroth Tail		1	14%	Capture
+Fertile Mud		2	10%	Capture
+Wyvern Gem		1	3%	Capture
+Barroth Carapace	1	28%	Wound Front Leg
+Barroth Claw+		1	72%	Wound Front Leg
+
+☆ Barroth - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Barroth Cortex		1	40%	Body Carve
+Barroth Carapace	1	8%	Body Carve
+Barroth Chine		1	24%	Body Carve
+Barroth Talon		1	18%	Body Carve
+Barroth Crown		1	10%	Body Carve
+Barroth Lash		1	70%	Tail Carve
+Barroth Tail		1	7%	Tail Carve
+Barroth Chine		1	20%	Tail Carve
+Lrg Wyvern Gem		1	3%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Barroth Chine		1	5%	Shiny Drops
+Fertile Mud		1	20%	Shiny Drops
+Barroth Chine		1	12%	Scalp Carve
+Barroth Crown		1	75%	Scalp Carve
+Barroth Scalp		1	10%	Scalp Carve
+Lrg Wyvern Gem		1	3%	Scalp Carve
+Barroth Cortex		1	23%	Capture
+Barroth Chine		1	25%	Capture
+Barroth Crown		1	23%	Capture
+Barroth Lash		1	14%	Capture
+Fertile Mud		4	8%	Capture
+Lrg Wyvern Gem		1	3%	Capture
+Wyvern Gem		1	4%	Capture
+Barroth Cortex		1	23%	Wound Front Leg
+Barroth Talon		1	67%	Wound Front Leg
+Barroth Claw+		2	10%	Wound Front Leg

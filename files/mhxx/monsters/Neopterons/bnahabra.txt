@@ -1,0 +1,20 @@
+﻿☆ Bnahabra - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Bnahabra Shell		1	42%	Body Carve
+Bnahabra Wing		1	35%	Body Carve
+Monster Fluid		1	23%	Body Carve
+
+☆ Bnahabra - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Bnahabra Carapace	1	38%	Body Carve
+Bnahabra Wing		1	24%	Body Carve
+Monster Fluid		1	8%	Body Carve
+Monster Broth		1	22%	Body Carve
+Bnahabra Shell		1	8%	Body Carve
+
+☆ Bnahabra - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Bnahabra Carapace	1	23%	Body Carve
+Bnahabra Razorwing	1	40%	Body Carve
+Monster Broth		1	13%	Body Carve
+Monster Essence		1	24%	Body Carve

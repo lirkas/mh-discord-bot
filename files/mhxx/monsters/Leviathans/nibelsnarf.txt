@@ -1,0 +1,64 @@
+﻿☆ Nibelsnarf - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Nibelsnarf Shell	1	50%	Body Carve
+Nibelsnarf Hide		1	30%	Body Carve
+Nibelsnarf Scalp	1	5%	Body Carve
+Vivid Fluid		1	15%	Body Carve
+Wyvern Tear		1	75%	Shiny Drops
+Vivid Fluid		1	25%	Shiny Drops
+Nibelsnarf Hide		1	45%	Capture
+Nibelsnarf Claw		1	23%	Capture
+Nibelsnarf Scalp	1	7%	Capture
+Vivid Fluid		1	25%	Capture
+Nibelsnarf Claw		1	70%	Wound Front Leg
+Nibelsnarf Hide		1	30%	Wound Front Leg
+Nibelsnarf Shell	2	30%	Wound Gills
+Nibelsnarf Scalp	1	10%	Wound Gills
+Vivid Fluid		1	60%	Wound Gills
+
+☆ Nibelsnarf - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Nibel Carapace		1	48%	Body Carve
+Nibelsnarf Hide+	1	25%	Body Carve
+Nibelsnarf Hide		1	5%	Body Carve
+Nibelsnarf Scalp	1	10%	Body Carve
+Brilliant Fluid		1	12%	Body Carve
+Wyvern Tear		1	38%	Shiny Drops
+Large Wyvern Tear	1	37%	Shiny Drops
+Brilliant Fluid		1	20%	Shiny Drops
+Vivid Fluid		1	5%	Shiny Drops
+Nibelsnarf Hide+	1	42%	Capture
+Nibelsnarf Claw+	1	23%	Capture
+Nibelsnarf Scalp	1	10%	Capture
+Brilliant Fluid		1	20%	Capture
+Vivid Fluid		2	5%	Capture
+Nibelsnarf Claw+	1	65%	Wound Front Leg
+Nibelsnarf Claw		2	10%	Wound Front Leg
+Nibelsnarf Hide+	1	25%	Wound Front Leg
+Nibel Carapace		2	15%	Wound Gills
+Nibelsnarf Shell	2	5%	Wound Gills
+Nibelsnarf Scalp	1	15%	Wound Gills
+Brilliant Fluid		1	65%	Wound Gills
+
+☆ Nibelsnarf - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Nibelsnarf Cortex	1	50%	Body Carve
+Nibelsnarf Piel		1	25%	Body Carve
+Nibelsnarf Hide+	1	5%	Body Carve
+Nibelsnarf Crown	1	5%	Body Carve
+Dazzling Fluid		1	15%	Body Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Dazzling Fluid		1	20%	Shiny Drops
+Brilliant Fluid		1	5%	Shiny Drops
+Nibelsnarf Piel		1	45%	Capture
+Nibelsnarf Talon	1	23%	Capture
+Nibelsnarf Crown	1	7%	Capture
+Dazzling Fluid		1	20%	Capture
+Brilliant Fluid		2	5%	Capture
+Nibelsnarf Talon	1	65%	Wound Front Leg
+Nibelsnarf Claw+	2	10%	Wound Front Leg
+Nibelsnarf Piel		1	25%	Wound Front Leg
+Nibelsnarf Cortex	2	20%	Wound Gills
+Nibel Carapace		2	5%	Wound Gills
+Nibelsnarf Crown	1	10%	Wound Gills
+Dazzling Fluid		1	65%	Wound Gills

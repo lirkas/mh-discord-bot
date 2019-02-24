@@ -1,0 +1,50 @@
+﻿☆ Amatsu - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Amatsu Carapace		1	35%	Body Carve
+Amatsu Webbing		1	12%	Body Carve
+Amatsu Claw+		1	5%	Body Carve
+Amatsu Pleura		1	30%	Body Carve
+Storm Vesicle		1	16%	Body Carve
+Heavenly Dragongem	1	2%	Body Carve
+Amatsu Tail		1	75%	Tail Carve
+Amatsu Carapace		1	10%	Tail Carve
+Amatsu Webbing		1	15%	Tail Carve
+Amatsu Horn		1	80%	Wound Head
+Storm Vesicle		1	16%	Wound Head
+Heavenly Dragongem	1	4%	Wound Head
+Amatsu Claw+		1	70%	Wound Front Leg
+Amatsu Carapace		1	5%	Wound Front Leg
+Amatsu Webbing		1	25%	Wound Front Leg
+Amatsu Webbing		1	80%	Wound Back
+Amatsu Webbing		2	5%	Wound Back
+Storm Vesicle		1	13%	Wound Back
+Heavenly Dragongem	1	2%	Wound Back
+
+☆ Amatsu - MHXX G Rank
+Item			Qty	Prob.	How to obtain
+Amatsu Cortex		1	32%	Body Carve
+Amatsu Membrane		1	12%	Body Carve
+Amatsu Hardclaw		1	5%	Body Carve
+Amatsu Heavypleura	1	30%	Body Carve
+Storm Vesicle Clump	1	16%	Body Carve
+Heavenly Dragonsphire	1	2%	Body Carve
+Heavenly Dragongem	1	3%	Body Carve
+Amatsu Stormtail	1	65%	Tail Carve
+Amatsu Tail		1	10%	Tail Carve
+Amatsu Cortex		1	10%	Tail Carve
+Amatsu Membrane		1	15%	Tail Carve
+Amatsu Hardhorn		1	70%	Wound Head
+Amatsu Horn		1	10%	Wound Head
+Storm Vesicle Clump	1	11%	Wound Head
+Heavenly Dragonsphire	1	4%	Wound Head
+Heavenly Dragongem	1	5%	Wound Head
+Amatsu Hardclaw		1	65%	Wound Front Leg
+Amatsu Claw+		2	5%	Wound Front Leg
+Amatsu Cortex		1	5%	Wound Front Leg
+Amatsu Membrane		1	25%	Wound Front Leg
+Amatsu Membrane		1	70%	Wound Back
+Amatsu Membrane		2	5%	Wound Back
+Amatsu Webbing		2	7%	Wound Back
+Storm Vesicle Clump	1	13%	Wound Back
+Heavenly Dragonsphire	1	2%	Wound Back
+Heavenly Dragongem	1	3%	Wound Back

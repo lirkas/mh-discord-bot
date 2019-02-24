@@ -1,0 +1,25 @@
+﻿☆ Larinoth - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Larinoth Hide		1	25%	Body Carve
+Raw Meat		1	75%	Body Carve
+Ancient Berry		1	100%	Shiny Drops (Eating)
+Water Lily Root		1	90%	Shiny Drops (Drinking)
+Water Lily Tuber	1	10%	Shiny Drops (Drinking)
+
+☆ Larinoth - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Larinoth Hide		1	20%	Body Carve
+Raw Meat		1	65%	Body Carve
+Monster Bone L		1	15%	Body Carve
+Ancient Berry		1	100%	Shiny Drops (Eating)
+Water Lily Root		1	90%	Shiny Drops (Drinking)
+Water Lily Tuber	1	10%	Shiny Drops (Drinking)
+
+☆ Larinoth - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Larinoth Finehide	1	40%	Body Carve
+Raw Meat		1	45%	Body Carve
+Monster Bone L		1	15%	Body Carve
+Ancient Berry		1	100%	Shiny Drops (Eating)
+Water Lily Root		1	80%	Shiny Drops (Drinking)
+Water Lily Tuber	1	20%	Shiny Drops (Drinking)

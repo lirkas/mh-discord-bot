@@ -1,0 +1,65 @@
+﻿☆ Bloodbath Diablos - MHXX Lv 11~12
+Item			Qty	Prob.	How to obtain
+Bloodbath Cortex	1	60%	Body Carve
+Diablos Chine		1	25%	Body Carve
+Blos Medulla		1	10%	Body Carve
+Lrg Wyvern Gem		1	5%	Body Carve
+Bloodbath Cortex	1	35%	Tail Carve
+Diablos Tailcase+	1	55%	Tail Carve
+Blos Medulla		1	6%	Tail Carve
+Lrg Wyvern Gem		1	4%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Diablos Chine		1	23%	Shiny Drops
+Lrg Wyvern Gem		1	2%	Shiny Drops
+Bloodbath Grimhorn	1	100%	Horn Carve
+Diablos Chine		1	23%	Capture
+Bloodbath Cortex	1	38%	Capture
+Diablos Tailcase+	1	25%	Capture
+Blos Medulla		1	10%	Capture
+Lrg Wyvern Gem		1	4%	Capture
+Bloodbath Cortex	1	30%	Wound Back
+Diablos Chine		1	70%	Wound Back
+
+☆ Bloodbath Diablos - MHXX Lv 13~15
+Item			Qty	Prob.	How to obtain
+Bloodbath Cortex	1	60%	Body Carve
+Bloodbath Chine		1	25%	Body Carve
+Blos Medulla		1	10%	Body Carve
+Lrg Wyvern Gem		1	5%	Body Carve
+Bloodbath Cortex	1	35%	Tail Carve
+Diablos Tailcase+	1	55%	Tail Carve
+Blos Medulla		1	6%	Tail Carve
+Lrg Wyvern Gem		1	4%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Bloodbath Chine		1	23%	Shiny Drops
+Lrg Wyvern Gem		1	2%	Shiny Drops
+Bloodbath Grimhorn	1	100%	Horn Carve
+Bloodbath Chine		1	23%	Capture
+Bloodbath Cortex	1	38%	Capture
+Diablos Tailcase+	1	25%	Capture
+Blos Medulla		1	10%	Capture
+Lrg Wyvern Gem		1	4%	Capture
+Bloodbath Cortex	1	30%	Wound Back
+Bloodbath Chine		1	70%	Wound Back
+
+☆ Bloodbath Diablos - MHXX Lv Ex	
+Item			Qty	Prob.	How to obtain
+Bloodbath Cortex	1	60%	Body Carve
+Bloodbath Chine		1	25%	Body Carve
+Blos Medulla		1	10%	Body Carve
+Lrg Wyvern Gem		1	5%	Body Carve
+Bloodbath Cortex	1	35%	Tail Carve
+Diablos Tailcase+	1	55%	Tail Carve
+Blos Medulla		1	6%	Tail Carve
+Lrg Wyvern Gem		1	4%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Bloodbath Chine		1	23%	Shiny Drops
+Lrg Wyvern Gem		1	2%	Shiny Drops
+Bloodbath Grimhorn	1	100%	Horn Carve
+Bloodbath Chine		1	42%	Capture
+Bloodbath Cortex	2	19%	Capture
+Diablos Tailcase+	1	25%	Capture
+Blos Medulla		1	10%	Capture
+Lrg Wyvern Gem		1	4%	Capture
+Bloodbath Cortex	1	30%	Wound Back
+Bloodbath Chine		1	70%	Wound Back

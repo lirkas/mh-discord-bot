@@ -1,0 +1,19 @@
+﻿☆ Uroktor - MHXX Low Rank		
+Item			Qty	Prob.	How to obtain
+Uroktor Scale		1	60%	Body Carve
+Dragonfell Berry	1	10%	Body Carve
+Monster Bone M		1	30%	Body Carve
+
+☆ Uroktor - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Uroktor Scale+		1	55%	Body Carve
+Uroktor Scale		1	10%	Body Carve
+Dragonfell Berry	1	15%	Body Carve
+Monster Bone M		1	20%	Body Carve
+
+☆ Uroktor - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Uroktor Shard		1	55%	Body Carve
+Supple Piel		1	10%	Body Carve
+Dragonfell Berry	1	15%	Body Carve
+Monster Bone M		1	20%	Body Carve

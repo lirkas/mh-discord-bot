@@ -1,0 +1,84 @@
+﻿☆ Nakarkos - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Nakarkos Husk		1	55%	Body Carve
+Nakarkos Shell		1	35%	Body Carve
+Radiant Mucus		1	10%	Body Carve
+Timeworn Ballista Shot	1	100%	Shiny Drops
+Timeworn Ballista Shot	1	90%	Shiny Drops (Special)
+One-shot Binder		1	10%	Shiny Drops (Special)
+Nakarkos Husk		1	65%	Wound Blowhole
+Nakarkos Vertebra	1	20%	Wound Blowhole
+Radiant Mucus		2	15%	Wound Blowhole
+Nakarkos Husk		2	10%	Wound Back
+Nakarkos Shell		1	60%	Wound Back
+Radiant Mucus		1	30%	Wound Back
+Nakarkos Husk		1	20%	Break Shell
+Nakarkos Shell		1	80%	Break Shell
+
+☆ Nakarkos - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Nakarkos Hide		1	43%	Body Carve
+Nakarkos Arm Brace	1	30%	Body Carve
+Nakarkos Fang		1	10%	Body Carve
+Nakarkos Cuttlebone	1	15%	Body Carve
+Nakarkos Soul Orb	1	2%	Body Carve
+Timeworn Ballista Shot	1	100%	Shiny Drops
+Nakarkos Hide		1	15%	Mining Back
+Nakarkos Cuttlebone	1	20%	Mining Back
+Radiant Mucus+		1	50%	Mining Back
+Nakarkos Soul Orb	1	15%	Mining Back
+Timeworn Ballista Shot	1	90%	Shiny Drops (Special)
+One-shot Binder		1	10%	Shiny Drops (Special)
+Nakarkos Husk+		1	60%	Wound Blowhole
+Nakarkos Husk		1	10%	Wound Blowhole
+Nakarkos Vertebra	2	15%	Wound Blowhole
+Radiant Mucus+		2	15%	Wound Blowhole
+Nakarkos Husk+		2	10%	Wound Back
+Nakarkos Shell+		1	55%	Wound Back
+Radiant Mucus+		1	25%	Wound Back
+Radiant Mucus		2	10%	Wound Back
+Nakarkos Husk+		1	15%	Break Shell
+Nakarkos Shell+		1	74%	Break Shell
+Nakarkos Shell		2	10%	Break Shell
+Nakarkos Soul Orb	1	1%	Break Shell
+Nakarkos Hide		1	40%	Wound Head
+Nakarkos Arm Brace	1	30%	Wound Head
+Nakarkos Fang		2	25%	Wound Head
+Nakarkos Soul Orb	1	5%	Wound Head
+
+☆ Nakarkos - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Nakarkos Azurehide	1	38%	Body Carve
+Nakarkos Hide		1	8%	Body Carve
+Scary Nakarkos ArmBrce	1	28%	Body Carve
+Nakarkos Fang		1	6%	Body Carve
+Lrg Nakarkos Cuttlebone	1	15%	Body Carve
+Nakarkos SecretSoulOrb	1	2%	Body Carve
+Nakarkos Soul Orb	1	3%	Body Carve
+Timeworn Ballista Shot	1	100%	Shiny Drops
+Nakarkos Azurehide	1	12%	Mining Back
+Lrg Nakarkos Cuttlebone	1	17%	Mining Back
+Viscous Radiant Mucus	1	40%	Mining Back
+Nakarkos SecretSoulOrb	1	15%	Mining Back
+Nakarkos Soul Orb	1	16%	Mining Back
+Timeworn Ballista Shot	1	90%	Shiny Drops (Special)
+One-shot Binder		1	10%	Shiny Drops (Special)
+Heavy Nakarkos Husk	1	60%	Wound Blowhole
+Nakarkos Husk+		1	10%	Wound Blowhole
+Nakarkos Hardvertebra	2	15%	Wound Blowhole
+Viscous Radiant Mucus	2	15%	Wound Blowhole
+Heavy Nakarkos Husk	2	10%	Wound Back
+Nakarkos Hardshell	1	55%	Wound Back
+Viscous Radiant Mucus	1	25%	Wound Back
+Radiant Mucus+		2	10%	Wound Back
+Heavy Nakarkos Husk	1	15%	Break Shell
+Nakarkos Hardshell	1	72%	Break Shell
+Nakarkos Shell+		2	10%	Break Shell
+Nakarkos SecretSoulOrb	1	1%	Break Shell
+Nakarkos Soul Orb	1	2%	Break Shell
+Nakarkos Azurehide	1	40%	Wound Head
+Scary Nakarkos ArmBrce	1	25%	Wound Head
+Nakarkos Arm Brace	2	5%	Wound Head
+Nakarkos Fang		2	19%	Wound Head
+Nakarkos SecretSoulOrb	1	5%	Wound Head
+Nakarkos Soul Orb	1	6%	Wound Head

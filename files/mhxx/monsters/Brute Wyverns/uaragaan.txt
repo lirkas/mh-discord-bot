@@ -1,0 +1,110 @@
+﻿☆ Uragaan - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Uragaan Scale		1	46%	Body Carve
+Uragaan Shell		1	34%	Body Carve
+Uragaan Jaw		1	12%	Body Carve
+Uragaan Scute		1	8%	Body Carve
+Uragaan Scale		1	58%	Tail Carve
+Uragaan Marrow		1	10%	Tail Carve
+Uragaan Scute		1	32%	Tail Carve
+Wyvern Tear		1	74%	Shiny Drops
+Uragaan Marrow		1	8%	Shiny Drops
+Lava Nugget		1	18%	Shiny Drops
+Lava Nugget		1	43%	Mining Body
+Coal			1	50%	Mining Body
+Firestone		1	7%	Mining Body
+Uragaan Scale		1	20%	Capture
+Uragaan Shell		1	28%	Capture
+Uragaan Jaw		1	15%	Capture
+Uragaan Scute		1	14%	Capture
+Uragaan Marrow		1	8%	Capture
+Lava Nugget		2	15%	Capture
+Uragaan Jaw		1	74%	Wound Jaw
+Uragaan Scute		1	10%	Wound Jaw
+Uragaan Shell		1	16%	Wound Jaw
+Uragaan Scale		2	60%	Wound Tail
+Uragaan Marrow		1	5%	Wound Tail
+Uragaan Scute		1	10%	Wound Tail
+Lava Nugget		2	25%	Wound Tail
+Uragaan Scute		1	80%	Wound Back
+Uragaan Shell		1	20%	Wound Back
+
+☆ Uragaan - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Uragaan Scale+		1	42%	Body Carve
+Uragaan Carapace	1	28%	Body Carve
+Uragaan Jaw		1	10%	Body Carve
+Uragaan Scute		1	12%	Body Carve
+Uragaan Marrow		1	8%	Body Carve
+Uragaan Scale+		1	58%	Tail Carve
+Uragaan Marrow		1	14%	Tail Carve
+Uragaan Scute		1	23%	Tail Carve
+Uragaan Ruby		1	5%	Tail Carve
+Wyvern Tear		1	38%	Shiny Drops
+Large Wyvern Tear	1	37%	Shiny Drops
+Uragaan Marrow		1	8%	Shiny Drops
+Uragaan Ruby		1	4%	Shiny Drops
+Lava Nugget		1	13%	Shiny Drops
+Lava Nugget		1	35%	Mining Body
+Volatile Coal		1	40%	Mining Body
+Coal			1	10%	Mining Body
+Firecell Stone		1	5%	Mining Body
+Firestone		1	10%	Mining Body
+Uragaan Scale+		1	18%	Capture
+Uragaan Carapace	1	25%	Capture
+Uragaan Jaw		1	20%	Capture
+Uragaan Scute		2	10%	Capture
+Uragaan Marrow		1	12%	Capture
+Uragaan Ruby		1	3%	Capture
+Lava Nugget		4	12%	Capture
+Uragaan Jaw		1	68%	Wound Jaw
+Uragaan Scute		2	5%	Wound Jaw
+Uragaan Carapace	1	16%	Wound Jaw
+Uragaan Shell		2	8%	Wound Jaw
+Uragaan Ruby		1	3%	Wound Jaw
+Uragaan Scale+		2	58%	Wound Tail
+Uragaan Scale		3	8%	Wound Tail
+Uragaan Marrow		1	10%	Wound Tail
+Uragaan Scute		1	16%	Wound Tail
+Lava Nugget		4	8%	Wound Tail
+Uragaan Scute		1	80%	Wound Back
+Uragaan Carapace	1	20%	Wound Back
+
+☆ Uragaan - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Uragaan Shard		1	46%	Body Carve
+Uragaan Cortex		1	34%	Body Carve
+Uragaan Jaw+		1	12%	Body Carve
+Uragaan Scute+		1	8%	Body Carve
+Uragaan Shard		1	58%	Tail Carve
+Uragaan Scute+		1	35%	Tail Carve
+Uragaan Ruby		1	5%	Tail Carve
+Uragaan Pallium		1	2%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Uragaan Cortex		1	19%	Shiny Drops
+Uragaan Ruby		1	4%	Shiny Drops
+Uragaan Pallium		1	2%	Shiny Drops
+Lava Nugget		1	30%	Mining Body
+Volatile Coal		1	20%	Mining Body
+Firecell Stone		1	35%	Mining Body
+Allfire Stone		1	15%	Mining Body
+Uragaan Carapace	1	12%	Capture
+Uragaan Shard		1	20%	Capture
+Uragaan Cortex		1	28%	Capture
+Uragaan Jaw+		1	21%	Capture
+Uragaan Scute+		1	12%	Capture
+Uragaan Ruby		1	5%	Capture
+Uragaan Pallium		1	2%	Capture
+Uragaan Jaw+		1	68%	Wound Jaw
+Uragaan Scute+		1	5%	Wound Jaw
+Uragaan Cortex		1	14%	Wound Jaw
+Uragaan Carapace	2	6%	Wound Jaw
+Uragaan Ruby		1	4%	Wound Jaw
+Uragaan Pallium		1	3%	Wound Jaw
+Uragaan Shard		1	58%	Wound Tail
+Uragaan Scale+		2	8%	Wound Tail
+Uragaan Scute+		1	16%	Wound Tail
+Uragaan Cortex		1	10%	Wound Tail
+Uragaan Carapace	2	8%	Wound Tail
+Uragaan Scute+		1	80%	Wound Back
+Uragaan Cortex		1	20%	Wound Back

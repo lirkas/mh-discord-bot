@@ -1,0 +1,52 @@
+﻿☆ Altaroth - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Altaroth Stomach	1	50%	Body Carve
+Altaroth Jaw		1	25%	Body Carve
+Monster Fluid		1	25%	Body Carve
+Ripened Mushroom	1	90%	Shiny Drops (Blue)
+Monster Fluid		1	10%	Shiny Drops (Blue)
+Honey			1	90%	Shiny Drops (Orange)
+Monster Fluid		1	10%	Shiny Drops (Orange)
+Nulberry		1	90%	Shiny Drops (Green)
+Monster Fluid		1	10%	Shiny Drops (Green)
+Fine Stomach		1	75%	Shiny Drops (Gold)
+Luminous Stomach	1	25%	Shiny Drops (Gold)
+Insect Husk		1	48%	Shiny Drops (Gray)
+Altaroth Stomach	1	32%	Shiny Drops (Gray)
+Monster Fluid		1	20%	Shiny Drops (Gray)
+
+☆ Altaroth - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Quality Stomach		1	60%	Body Carve
+Altaroth Jaw		1	15%	Body Carve
+Monster Broth		1	15%	Body Carve
+Altaroth Stomach	1	10%	Body Carve
+Ripened Mushroom	1	90%	Shiny Drops (Blue)
+Monster Broth		1	10%	Shiny Drops (Blue)
+Honey			1	90%	Shiny Drops (Orange)
+Monster Broth		1	10%	Shiny Drops (Orange)
+Nulberry		1	90%	Shiny Drops (Green)
+Monster Broth		1	10%	Shiny Drops (Green)
+Fine Stomach		1	75%	Shiny Drops (Gold)
+Luminous Stomach	1	25%	Shiny Drops (Gold)
+Insect Husk		1	48%	Shiny Drops (Gray)
+Altaroth Stomach	1	32%	Shiny Drops (Gray)
+Monster Broth		1	20%	Shiny Drops (Gray)
+
+☆ Altaroth - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Premium Stomach		1	60%	Body Carve
+Altaroth Jaw		1	15%	Body Carve
+Monster Essence		1	15%	Body Carve
+Quality Stomach		1	10%	Body Carve
+Ripened Mushroom	1	90%	Shiny Drops (Blue)
+Monster Essence		1	10%	Shiny Drops (Blue)
+Honey			1	90%	Shiny Drops (Orange)
+Monster Essence		1	10%	Shiny Drops (Orange)
+Nulberry		1	90%	Shiny Drops (Green)
+Monster Essence		1	10%	Shiny Drops (Green)
+Fine Stomach		1	75%	Shiny Drops (Gold)
+Luminous Stomach	1	25%	Shiny Drops (Gold)
+Insect Husk		1	48%	Shiny Drops (Gray)
+Quality Stomach		1	32%	Shiny Drops (Gray)
+Monster Essence		1	20%	Shiny Drops (Gray)

@@ -1,0 +1,47 @@
+﻿☆ Lavasioth - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Lavasioth Scale+	1	43%	Body Carve
+Lavasioth Carapace	1	30%	Body Carve
+Lavasioth Fang+		1	8%	Body Carve
+Lavasioth Fin+		1	6%	Body Carve
+Wyvern Gem		1	5%	Body Carve
+Lava Nugget		1	8%	Body Carve
+Wyvern Tear		1	25%	Shiny Drops
+Large Wyvern Tear	1	55%	Shiny Drops
+Lavasioth Scale+	1	16%	Shiny Drops
+Lava Nugget		1	4%	Shiny Drops
+Lavasioth Scale+	2	33%	Capture
+Lavasioth Carapace	1	27%	Capture
+Lavasioth Fin+		1	24%	Capture
+Lavasioth Fang+		1	16%	Capture
+Lavasioth Carapace	1	21%	Wound Head
+Lavasioth Fang+		1	50%	Wound Head
+Lavasioth Fang+		2	23%	Wound Head
+Lava Nugget		2	6%	Wound Head
+Lavasioth Fin+		1	92%	Wound Top Fin
+Lavasioth Scale+	2	8%	Wound Top Fin
+
+☆ Lavasioth - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Lavasioth Shard		1	33%	Body Carve
+Lavasioth Scale+	1	12%	Body Carve
+Lavasioth Cortex	1	20%	Body Carve
+Lavasioth Carapace	1	12%	Body Carve
+Lavasioth Hardfang	1	10%	Body Carve
+Lavasioth Grandfin	1	8%	Body Carve
+Lrg Wyvern Gem		1	5%	Body Carve
+Large Wyvern Tear	1	80%	Shiny Drops
+Lavasioth Shard		1	16%	Shiny Drops
+Lava Nugget		1	4%	Shiny Drops
+Lavasioth Shard		2	30%	Capture
+Lavasioth Cortex	1	22%	Capture
+Lavasioth Grandfin	1	20%	Capture
+Lavasioth Fin+		1	12%	Capture
+Lavasioth Hardfang	1	16%	Capture
+Lavasioth Cortex	1	21%	Wound Head
+Lavasioth Hardfang	1	50%	Wound Head
+Lavasioth Hardfang	2	23%	Wound Head
+Lavasioth Fang+		2	6%	Wound Head
+Lavasioth Grandfin	1	86%	Wound Top Fin
+Lavasioth Fin+		1	6%	Wound Top Fin
+Lavasioth Shard		2	8%	Wound Top Fin

@@ -1,0 +1,83 @@
+﻿☆ Yian Garuga - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Garuga Scale		1	50%	Body Carve
+Garuga Shell		1	27%	Body Carve
+Garuga Mane		1	15%	Body Carve
+Garuga Wing		1	8%	Body Carve
+Garuga Tail		1	80%	Tail Carve
+Garuga Scale		1	20%	Tail Carve
+Wyvern Tear		1	74%	Shiny Drops
+Garuga Scale		1	25%	Shiny Drops
+Garuga Wing		1	1%	Shiny Drops
+Garuga Shell		2	12%	Capture
+Garuga Shell		1	50%	Capture
+Sharpened Beak		1	15%	Capture
+Garuga Ear		1	15%	Capture
+Garuga Tail		1	8%	Capture
+Sharpened Beak		1	80%	Wound Beak
+Garuga Scale		1	20%	Wound Beak
+Garuga Ear		1	80%	Wound Ears
+Garuga Mane		1	20%	Wound Ears
+Garuga Wing		1	80%	Break Wingtalon
+Garuga Shell		1	20%	Break Wingtalon
+Garuga Mane		1	80%	Wound Back
+Garuga Shell		1	20%	Wound Back
+
+☆ Yian Garuga - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Garuga Scale+		1	48%	Body Carve
+Garuga Carapace		1	25%	Body Carve
+Garuga Mane		1	16%	Body Carve
+Garuga Wing		1	11%	Body Carve
+Garuga Tail		1	70%	Tail Carve
+Garuga Scale		1	10%	Tail Carve
+Garuga Scale+		1	20%	Tail Carve
+Wyvern Tear		1	37%	Shiny Drops
+Large Wyvern Tear	1	37%	Shiny Drops
+Garuga Scale+		1	25%	Shiny Drops
+Garuga Wing		1	1%	Shiny Drops
+Garuga Carapace		2	12%	Capture
+Garuga Carapace		1	50%	Capture
+Rejuvenated Beak	1	15%	Capture
+Garuga Auricle		1	15%	Capture
+Garuga Tail		1	8%	Capture
+Rejuvenated Beak	1	70%	Wound Beak
+Sharpened Beak		1	15%	Wound Beak
+Garuga Scale+		1	15%	Wound Beak
+Garuga Auricle		1	75%	Wound Ears
+Garuga Ear		2	10%	Wound Ears
+Garuga Mane		2	15%	Wound Ears
+Garuga Wing		1	50%	Break Wingtalon
+Garuga Wing		2	35%	Break Wingtalon
+Garuga Carapace		1	15%	Break Wingtalon
+Garuga Mane		1	70%	Wound Back
+Garuga Shell		2	10%	Wound Back
+Garuga Carapace		1	20%	Wound Back
+
+☆ Yian Garuga - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Garuga Shard		1	48%	Body Carve
+Garuga Cortex		1	25%	Body Carve
+Garuga Silverpelt	1	16%	Body Carve
+Garuga Fellwing		1	11%	Body Carve
+Garuga Lash		1	70%	Tail Carve
+Garuga Scale+		1	10%	Tail Carve
+Garuga Shard		1	20%	Tail Carve
+Large Wyvern Tear	1	74%	Shiny Drops
+Garuga Shard		1	25%	Shiny Drops
+Garuga Fellwing		1	1%	Shiny Drops
+Garuga Cortex		1	50%	Capture
+Garuga Carapace		2	12%	Capture
+Rejuvenated Beak	1	12%	Capture
+Garuga Auricle		2	8%	Capture
+Garuga Lash		1	18%	Capture
+Rejuvenated Beak	1	70%	Wound Beak
+Garuga Shard		1	30%	Wound Beak
+Garuga Auricle		1	53%	Wound Ears
+Garuga Auricle		2	22%	Wound Ears
+Garuga Silverpelt	1	25%	Wound Ears
+Garuga Fellwing		1	85%	Break Wingtalon
+Garuga Cortex		1	15%	Break Wingtalon
+Garuga Silverpelt	1	70%	Wound Back
+Garuga Carapace		2	10%	Wound Back
+Garuga Cortex		1	20%	Wound Back

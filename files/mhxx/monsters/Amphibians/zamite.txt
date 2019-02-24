@@ -1,0 +1,20 @@
+﻿☆ Zamite - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Meaty Hide+		1	35%	Body Carve
+Sharqskin Scale		1	10%	Body Carve
+Sharp Fang		1	35%	Body Carve
+Monster Guts		1	20%	Body Carve
+
+☆ Zamite - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Sharqskin Scale		1	15%	Body Carve
+Meaty Hide+		1	40%	Body Carve
+Sharp Fang		1	25%	Body Carve
+Monster Guts		1	20%	Body Carve
+
+☆ Zamite - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Sharqskin Scale		1	15%	Body Carve
+Meaty Hide+		1	40%	Body Carve
+Crushing Fang		1	25%	Body Carve
+Monster Guts		1	20%	Body Carve

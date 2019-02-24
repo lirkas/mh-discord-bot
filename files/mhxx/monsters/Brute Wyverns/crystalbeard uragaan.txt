@@ -1,0 +1,227 @@
+﻿☆ Crystalbeard Uragaan - MHXX Lv 1~4
+Item			Qty	Prob.	How to obtain
+Crystalbeard Scale	1	42%	Body Carve
+Uragaan Carapace	1	28%	Body Carve
+Crystalbeard Jaw	1	10%	Body Carve
+Uragaan Scute		1	12%	Body Carve
+Uragaan Marrow		1	8%	Body Carve
+Crystalbeard Scale	1	58%	Tail Carve
+Uragaan Marrow		1	14%	Tail Carve
+Uragaan Scute		1	23%	Tail Carve
+Uragaan Ruby		1	5%	Tail Carve
+Wyvern Tear		1	38%	Shiny Drops
+Large Wyvern Tear	1	37%	Shiny Drops
+Uragaan Marrow		1	8%	Shiny Drops
+Uragaan Ruby		1	4%	Shiny Drops
+Lava Nugget		1	13%	Shiny Drops
+Treasure Nugget		1	35%	Mining Body
+Volatile Coal		1	50%	Mining Body
+Firecell Stone		1	15%	Mining Body
+Crystalbeard Jaw	1	65%	Jaw Carve
+Treasure Nugget		1	27%	Jaw Carve
+Wyvern Gem		1	5%	Jaw Carve
+Uragaan Ruby		1	3%	Jaw Carve
+Crystalbeard Scale	1	18%	Capture
+Uragaan Carapace	1	25%	Capture
+Crystalbeard Jaw	1	20%	Capture
+Uragaan Scute		2	10%	Capture
+Uragaan Marrow		1	12%	Capture
+Uragaan Ruby		1	3%	Capture
+Lava Nugget		4	12%	Capture
+Crystalbeard Scale	2	60%	Wound Tail
+Uragaan Marrow		1	10%	Wound Tail
+Uragaan Scute		1	16%	Wound Tail
+Lava Nugget		4	14%	Wound Tail
+Uragaan Scute		1	80%	Wound Back
+Uragaan Carapace	1	20%	Wound Back
+
+☆ Crystalbeard Uragaan - MHXX Lv 5~8
+Item			Qty	Prob.	How to obtain
+Crystalbeard Scale+	1	17%	Body Carve
+Crystalbeard Scale	1	25%	Body Carve
+Uragaan Carapace	1	28%	Body Carve
+Crystalbeard Jaw	1	10%	Body Carve
+Uragaan Scute		1	12%	Body Carve
+Uragaan Marrow		1	8%	Body Carve
+Crystalbeard Scale+	1	28%	Tail Carve
+Crystalbeard Scale	1	30%	Tail Carve
+Uragaan Marrow		1	14%	Tail Carve
+Uragaan Scute		1	23%	Tail Carve
+Uragaan Ruby		1	5%	Tail Carve
+Wyvern Tear		1	38%	Shiny Drops
+Large Wyvern Tear	1	37%	Shiny Drops
+Uragaan Marrow		1	8%	Shiny Drops
+Uragaan Ruby		1	4%	Shiny Drops
+Lava Nugget		1	13%	Shiny Drops
+Treasure Nugget		1	45%	Mining Body
+Volatile Coal		1	40%	Mining Body
+Firecell Stone		1	15%	Mining Body
+Crystalbeard Maw	1	20%	Jaw Carve
+Crystalbeard Jaw	1	36%	Jaw Carve
+Treasure Nugget		1	34%	Jaw Carve
+Wyvern Gem		1	5%	Jaw Carve
+Uragaan Ruby		1	5%	Jaw Carve
+Crystalbeard Scale+	1	8%	Capture
+Crystalbeard Scale	1	10%	Capture
+Uragaan Carapace	1	25%	Capture
+Crystalbeard Maw	1	8%	Capture
+Crystalbeard Jaw	1	12%	Capture
+Uragaan Scute		2	10%	Capture
+Uragaan Marrow		1	12%	Capture
+Uragaan Ruby		1	3%	Capture
+Lava Nugget		4	12%	Capture
+Crystalbeard Scale+	2	40%	Wound Tail
+Crystalbeard Scale	3	20%	Wound Tail
+Uragaan Marrow		1	12%	Wound Tail
+Uragaan Scute		1	18%	Wound Tail
+Lava Nugget		4	10%	Wound Tail
+Uragaan Scute		1	80%	Wound Back
+Uragaan Carapace	1	20%	Wound Back
+
+☆ Crystalbeard Uragaan - MHXX Lv 9~10	
+Item			Qty	Prob.	How to obtain
+Crystalbeard Scale+	1	42%	Body Carve
+Uragaan Carapace	1	28%	Body Carve
+Crystalbeard Maw	1	10%	Body Carve
+Uragaan Scute		1	12%	Body Carve
+Uragaan Marrow		1	8%	Body Carve
+Crystalbeard Scale+	1	58%	Tail Carve
+Uragaan Marrow		1	14%	Tail Carve
+Uragaan Scute		1	23%	Tail Carve
+Uragaan Ruby		1	5%	Tail Carve
+Wyvern Tear		1	38%	Shiny Drops
+Large Wyvern Tear	1	37%	Shiny Drops
+Uragaan Marrow		1	8%	Shiny Drops
+Uragaan Ruby		1	4%	Shiny Drops
+Lava Nugget		1	13%	Shiny Drops
+Treasure Nugget		1	45%	Mining Body
+Volatile Coal		1	40%	Mining Body
+Firecell Stone		1	15%	Mining Body
+Crystalbeard Maw	1	50%	Jaw Carve
+Treasure Nugget		1	36%	Jaw Carve
+Wyvern Gem		1	8%	Jaw Carve
+Uragaan Ruby		1	6%	Jaw Carve
+Crystalbeard Scale+	1	18%	Capture
+Uragaan Carapace	1	25%	Capture
+Crystalbeard Maw	1	20%	Capture
+Uragaan Scute		2	10%	Capture
+Uragaan Marrow		1	12%	Capture
+Uragaan Ruby		1	3%	Capture
+Lava Nugget		4	12%	Capture
+Crystalbeard Scale+	2	60%	Wound Tail
+Uragaan Marrow		1	14%	Wound Tail
+Uragaan Scute		1	18%	Wound Tail
+Lava Nugget		4	8%	Wound Tail
+Uragaan Scute		1	80%	Wound Back
+Uragaan Carapace	1	20%	Wound Back
+
+☆ Crystalbeard Uragaan - MHXX Lv 11~12	
+Item			Qty	Prob.	How to obtain
+Crystalbeard Shard	1	17%	Body Carve
+Crystalbeard Scale+	1	27%	Body Carve
+Uragaan Cortex		1	30%	Body Carve
+Crystalbeard Maw	1	12%	Body Carve
+Uragaan Scute+		1	14%	Body Carve
+Crystalbeard Shard	1	35%	Tail Carve
+Crystalbeard Scale+	1	33%	Tail Carve
+Uragaan Scute+		1	25%	Tail Carve
+Uragaan Ruby		1	5%	Tail Carve
+Uragaan Pallium		1	2%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Uragaan Cortex		1	19%	Shiny Drops
+Uragaan Ruby		1	4%	Shiny Drops
+Uragaan Pallium		1	2%	Shiny Drops
+Large Treasure Nugget	1	35%	Mining Body
+Volatile Coal		1	50%	Mining Body
+Allfire Stone		1	15%	Mining Body
+Crystalbeard Maw	1	65%	Jaw Carve
+Large Treasure Nugget	1	27%	Jaw Carve
+Lrg Wyvern Gem		1	5%	Jaw Carve
+Uragaan Pallium		1	3%	Jaw Carve
+Crystalbeard Shard	1	16%	Capture
+Crystalbeard Scale+	1	22%	Capture
+Uragaan Cortex		1	25%	Capture
+Crystalbeard Maw	1	20%	Capture
+Uragaan Scute+		2	10%	Capture
+Uragaan Ruby		1	3%	Capture
+Uragaan Pallium		1	4%	Capture
+Crystalbeard Shard	1	42%	Wound Tail
+Crystalbeard Scale+	2	20%	Wound Tail
+Uragaan Cortex		1	10%	Wound Tail
+Uragaan Scute+		1	20%	Wound Tail
+Uragaan Carapace	2	8%	Wound Tail
+Uragaan Scute+		1	80%	Wound Back
+Uragaan Cortex		1	20%	Wound Back
+
+☆ Crystalbeard Uragaan - MHXX Lv 13~15	
+Item			Qty	Prob.	How to obtain
+Crystalbeard Shard	1	17%	Body Carve
+Crystalbeard Scale+	1	27%	Body Carve
+Uragaan Cortex		1	30%	Body Carve
+Crystalbeard Maw	1	12%	Body Carve
+Uragaan Scute+		1	14%	Body Carve
+Crystalbeard Shard	1	35%	Tail Carve
+Crystalbeard Scale+	1	32%	Tail Carve
+Uragaan Scute+		1	25%	Tail Carve
+Uragaan Ruby		1	5%	Tail Carve
+Uragaan Pallium		1	3%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Uragaan Cortex		1	18%	Shiny Drops
+Uragaan Ruby		1	4%	Shiny Drops
+Uragaan Pallium		1	3%	Shiny Drops
+Large Treasure Nugget	1	45%	Mining Body
+Volatile Coal		1	40%	Mining Body
+Allfire Stone		1	15%	Mining Body
+Crystalbeard Mandible	1	20%	Jaw Carve
+Crystalbeard Maw	1	36%	Jaw Carve
+Large Treasure Nugget	1	34%	Jaw Carve
+Lrg Wyvern Gem		1	5%	Jaw Carve
+Uragaan Pallium		1	5%	Jaw Carve
+Crystalbeard Shard	1	16%	Capture
+Crystalbeard Scale+	1	22%	Capture
+Uragaan Cortex		1	24%	Capture
+Crystalbeard Mandible	1	8%	Capture
+Crystalbeard Maw	1	12%	Capture
+Uragaan Scute+		2	10%	Capture
+Uragaan Ruby		1	3%	Capture
+Uragaan Pallium		1	5%	Capture
+Crystalbeard Shard	1	42%	Wound Tail
+Crystalbeard Scale+	2	20%	Wound Tail
+Uragaan Cortex		1	10%	Wound Tail
+Uragaan Scute+		1	20%	Wound Tail
+Uragaan Carapace	2	8%	Wound Tail
+Uragaan Scute+		1	80%	Wound Back
+Uragaan Cortex		1	20%	Wound Back
+
+☆ Crystalbeard Uragaan - MHXX Lv Ex
+Item			Qty	Prob.	How to obtain
+Crystalbeard Shard	1	44%	Body Carve
+Uragaan Cortex		1	30%	Body Carve
+Crystalbeard Mandible	1	12%	Body Carve
+Uragaan Scute+		1	14%	Body Carve
+Crystalbeard Shard	1	65%	Tail Carve
+Uragaan Scute+		1	25%	Tail Carve
+Uragaan Ruby		1	5%	Tail Carve
+Uragaan Pallium		1	5%	Tail Carve
+Large Wyvern Tear	1	75%	Shiny Drops
+Uragaan Cortex		1	16%	Shiny Drops
+Uragaan Ruby		1	4%	Shiny Drops
+Uragaan Pallium		1	5%	Shiny Drops
+Large Treasure Nugget	1	45%	Mining Body
+Volatile Coal		1	40%	Mining Body
+Allfire Stone		1	15%	Mining Body
+Crystalbeard Mandible	1	50%	Jaw Carve
+Large Treasure Nugget	1	36%	Jaw Carve
+Lrg Wyvern Gem		1	8%	Jaw Carve
+Uragaan Pallium		1	6%	Jaw Carve
+Crystalbeard Shard	1	35%	Capture
+Uragaan Cortex		1	25%	Capture
+Crystalbeard Mandible	1	20%	Capture
+Uragaan Scute+		2	10%	Capture
+Uragaan Ruby		1	3%	Capture
+Uragaan Pallium		1	7%	Capture
+Crystalbeard Shard	2	68%	Wound Tail
+Uragaan Cortex		1	12%	Wound Tail
+Uragaan Scute+		1	20%	Wound Tail
+Uragaan Scute+		1	80%	Wound Back
+Uragaan Cortex		1	20%	Wound Back

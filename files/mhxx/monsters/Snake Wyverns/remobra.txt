@@ -1,0 +1,19 @@
+﻿☆ Remobra - MHXX Low Rank		
+Item			Qty	Prob.	How to obtain
+Remobra Head		1	4%	Body Carve
+Remobra Hide		1	56%	Body Carve
+Striped Skin		1	40%	Body Carve
+
+☆ Remobra - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Remobra Head		1	15%	Body Carve
+Remobra Hide		1	5%	Body Carve
+Striped Skin		1	30%	Body Carve
+Remobra Hide+		1	50%	Body Carve
+
+☆ Remobra - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Mighty Remobra Head	1	15%	Body Carve
+Remobra Hide+		1	5%	Body Carve
+Striped Finehide	1	30%	Body Carve
+Remobra Finehide	1	50%	Body Carve

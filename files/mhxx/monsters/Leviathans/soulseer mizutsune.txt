@@ -1,0 +1,123 @@
+﻿☆ Soulseer Mizutsune - MHXX Lv 11~12
+Item			Qty	Prob.	How to obtain
+Soulseer Shard		1	40%	Body Carve
+Mizutsune Scale+	1	10%	Body Carve
+Mizutsune Purplefell	1	10%	Body Carve
+Mizutsune Hardclaw	1	18%	Body Carve
+Distilled Bubblefoam	1	15%	Body Carve
+Mizutsune Pallium	1	2%	Body Carve
+Mizutsune Water Orb	1	5%	Body Carve
+Purple Mizutsune Tail	1	28%	Tail Carve
+Mizutsune Purplefell	1	7%	Tail Carve
+Soulseer Shard		1	5%	Tail Carve
+Soulseer Tail		1	60%	Tail Carve
+Large Wyvern Tear	1	70%	Shiny Drops
+Soulseer Shard		1	5%	Shiny Drops
+Distilled Bubblefoam	1	20%	Shiny Drops
+Mizutsune Pallium	1	5%	Shiny Drops
+Soulseer Shard		1	16%	Capture
+Mizutsune Purplefell	1	29%	Capture
+Mizutsune Silkfin	1	15%	Capture
+Purple Mizutsune Tail	1	30%	Capture
+Distilled Bubblefoam	1	10%	Capture
+Mizutsune Silkfin	1	46%	Wound Head
+Soulseer Shard		1	15%	Wound Head
+Distilled Bubblefoam	1	28%	Wound Head
+Bubblefoam+		2	8%	Wound Head
+Mizutsune Pallium	1	3%	Wound Head
+Mizutsune Hardclaw	1	71%	Break Claw
+Mizutsune Claw+		2	4%	Break Claw
+Mizutsune Purplefell	1	20%	Break Claw
+Soulseer Shard		1	5%	Break Claw
+Mizutsune Purplefell	1	65%	Wound Tail
+Mizutsune Purplefur+	2	8%	Wound Tail
+Distilled Bubblefoam	1	21%	Wound Tail
+Mizutsune Pallium	1	2%	Wound Tail
+Mizutsune Water Orb	1	4%	Wound Tail
+Mizutsune Silkfin	1	62%	Wound Top Fin
+Mizutsune Fin+		2	10%	Wound Top Fin
+Mizutsune Purplefell	1	28%	Wound Top Fin
+
+☆ Soulseer Mizutsune - MHXX Lv 13~15
+Item			Qty	Prob.	How to obtain
+Soulseer Shard		1	40%	Body Carve
+Mizutsune Scale+	1	10%	Body Carve
+Soulseer Purplehide	1	10%	Body Carve
+Mizutsune Hardclaw	1	18%	Body Carve
+Distilled Bubblefoam	1	15%	Body Carve
+Mizutsune Pallium	1	2%	Body Carve
+Mizutsune Water Orb	1	5%	Body Carve
+Purple Mizutsune Tail	1	28%	Tail Carve
+Soulseer Purplehide	1	7%	Tail Carve
+Soulseer Shard		1	5%	Tail Carve
+Soulseer Tail		1	60%	Tail Carve
+Large Wyvern Tear	1	70%	Shiny Drops
+Soulseer Shard		1	5%	Shiny Drops
+Distilled Bubblefoam	1	19%	Shiny Drops
+Mizutsune Pallium	1	6%	Shiny Drops
+Soulseer Shard		1	16%	Capture
+Soulseer Purplehide	1	29%	Capture
+Mizutsune Silkfin	1	15%	Capture
+Purple Mizutsune Tail	1	10%	Capture
+Distilled Bubblefoam	1	10%	Capture
+Soulseer Tail		1	20%	Capture
+Mizutsune Silkfin	1	46%	Wound Head
+Soulseer Shard		1	15%	Wound Head
+Distilled Bubblefoam	1	28%	Wound Head
+Bubblefoam+		2	7%	Wound Head
+Mizutsune Pallium	1	4%	Wound Head
+Mizutsune Hardclaw	1	71%	Break Claw
+Mizutsune Claw+		2	4%	Break Claw
+Soulseer Purplehide	1	20%	Break Claw
+Soulseer Shard		1	5%	Break Claw
+Soulseer Purplehide	1	65%	Wound Tail
+Mizutsune Purplefur+	2	8%	Wound Tail
+Distilled Bubblefoam	1	19%	Wound Tail
+Mizutsune Pallium	1	3%	Wound Tail
+Mizutsune Water Orb	1	5%	Wound Tail
+Mizutsune Silkfin	1	62%	Wound Top Fin
+Mizutsune Fin+		2	10%	Wound Top Fin
+Soulseer Purplehide	1	28%	Wound Top Fin
+
+☆ Soulseer Mizutsune - MHXX Lv Ex	
+Item			Qty	Prob.	How to obtain
+Soulseer Shard		1	40%	Body Carve
+Mizutsune Scale+	1	10%	Body Carve
+Soulseer Purplehide	1	10%	Body Carve
+Mizutsune Hardclaw	1	18%	Body Carve
+Distilled Bubblefoam	1	15%	Body Carve
+Mizutsune Pallium	1	2%	Body Carve
+Mizutsune Water Orb	1	5%	Body Carve
+Purple Mizutsune Tail	1	28%	Tail Carve
+Soulseer Purplehide	1	7%	Tail Carve
+Soulseer Shard		1	5%	Tail Carve
+Soulseer Tail		1	60%	Tail Carve
+Large Wyvern Tear	1	70%	Shiny Drops
+Soulseer Shard		1	5%	Shiny Drops
+Distilled Bubblefoam	1	18%	Shiny Drops
+Mizutsune Pallium	1	7%	Shiny Drops
+Soulseer Shard		1	16%	Capture
+Soulseer Purplehide	1	29%	Capture
+Mizutsune Silkfin	1	15%	Capture
+Purple Mizutsune Tail	1	5%	Capture
+Distilled Bubblefoam	2	10%	Capture
+Soulseer Tail		1	25%	Capture
+Mizutsune Silkfin	1	46%	Wound Head
+Soulseer Shard		1	15%	Wound Head
+Distilled Bubblefoam	1	28%	Wound Head
+Bubblefoam+		2	6%	Wound Head
+Mizutsune Pallium	1	5%	Wound Head
+Mizutsune Hardclaw	1	71%	Break Claw
+Mizutsune Claw+		2	4%	Break Claw
+Soulseer Purplehide	1	20%	Break Claw
+Soulseer Shard		1	5%	Break Claw
+Soulseer Purplehide	2	15%	Wound Tail
+Soulseer Purplehide	1	50%	Wound Tail
+Mizutsune Purplefur+	2	6%	Wound Tail
+Distilled Bubblefoam	1	19%	Wound Tail
+Mizutsune Pallium	1	4%	Wound Tail
+Mizutsune Water Orb	1	6%	Wound Tail
+Mizutsune Silkfin	2	10%	Wound Top Fin
+Mizutsune Silkfin	1	52%	Wound Top Fin
+Mizutsune Fin+		2	10%	Wound Top Fin
+Soulseer Purplehide	1	28%	Wound Top Fin

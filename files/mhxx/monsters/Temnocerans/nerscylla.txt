@@ -1,0 +1,46 @@
+﻿☆ Nerscylla - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Nerscylla Carapace	1	42%	Body Carve
+Nerscylla Shear		1	21%	Body Carve
+Nerscylla Sharpclaw	1	15%	Body Carve
+Nerscylla Spike+	1	8%	Body Carve
+Coma Sac		1	14%	Body Carve
+Drone Substance		1	38%	Shiny Drops
+Queen Substance		1	37%	Shiny Drops
+Monster Fluid		1	10%	Shiny Drops
+Monster Broth		1	15%	Shiny Drops
+Nerscylla Carapace	1	20%	Capture
+Nerscylla Shear		1	35%	Capture
+Nerscylla Spike+	1	25%	Capture
+Coma Sac		1	20%	Capture
+Nerscylla Carapace	1	28%	Break Claw
+Nerscylla Sharpclaw	1	72%	Break Claw
+Nerscylla Spike+	1	72%	Break Poison Spikes
+Nerscylla Carapace	1	28%	Break Poison Spikes
+Nerscylla Carapace	1	75%	Wound Outer Hide
+Rubbery Hide+		1	25%	Wound Outer Hide
+
+☆ Nerscylla - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Nerscylla Cortex	1	42%	Body Carve
+Nerscylla Scishorn	1	21%	Body Carve
+Nerscylla Hardclaw	1	15%	Body Carve
+Nerscylla Surspike	1	8%	Body Carve
+Torpor Sac		1	14%	Body Carve
+Queen Substance		1	75%	Shiny Drops
+Monster Broth		1	10%	Shiny Drops
+Monster Essence		1	15%	Shiny Drops
+Nerscylla Cortex	1	20%	Capture
+Nerscylla Scishorn	1	34%	Capture
+Nerscylla Shear		2	6%	Capture
+Nerscylla Surspike	1	20%	Capture
+Torpor Sac		1	20%	Capture
+Nerscylla Cortex	1	25%	Break Claw
+Nerscylla Hardclaw	1	65%	Break Claw
+Nerscylla Sharpclaw	2	10%	Break Claw
+Nerscylla Surspike	1	70%	Break Poison Spikes
+Nerscylla Spike+	2	10%	Break Poison Spikes
+Nerscylla Cortex	1	20%	Break Poison Spikes
+Nerscylla Cortex	1	70%	Wound Outer Hide
+Rubbery Finehide	1	20%	Wound Outer Hide
+Rubbery Hide+		2	10%	Wound Outer Hide

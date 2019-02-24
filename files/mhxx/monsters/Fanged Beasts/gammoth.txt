@@ -1,0 +1,86 @@
+﻿☆ Gammoth - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Gammoth Pelt		1	38%	Body Carve
+Gammoth Shell		1	27%	Body Carve
+Gammoth Redfur		1	18%	Body Carve
+Gammoth Fang		1	15%	Body Carve
+Gammoth Scalp		1	2%	Body Carve
+Beast Tear		1	70%	Shiny Drops
+Gammoth Redfur		1	10%	Shiny Drops
+Snowclod		1	20%	Shiny Drops
+Gammoth Shell		2	18%	Capture
+Gammoth Redfur		1	25%	Capture
+Trunkspine		1	22%	Capture
+Snowclod		1	30%	Capture
+Gammoth Scalp		1	5%	Capture
+Gammoth Fang		1	50%	Wound Head
+Gammoth Shell		1	25%	Wound Head
+Gammoth Pelt		1	15%	Wound Head
+Gammoth Scalp		1	10%	Wound Head
+Trunkspine		1	90%	Wound Trunk
+Gammoth Redfur		2	10%	Wound Trunk
+Gammoth Shell		1	65%	Wound Leg
+Snowclod		2	35%	Wound Leg
+
+☆ Gammoth - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Gammoth Pelt+		1	32%	Body Carve
+Gammoth Pelt		1	12%	Body Carve
+Gammoth Carapace	1	23%	Body Carve
+Gammoth Redfur		1	12%	Body Carve
+Gammoth Fang+		1	15%	Body Carve
+Gammoth Ice Orb		1	2%	Body Carve
+Gammoth Scalp		1	4%	Body Carve
+Beast Tear		1	35%	Shiny Drops
+Large Beast Tear	1	35%	Shiny Drops
+Gammoth Redfur		1	10%	Shiny Drops
+Large Snowclod		1	20%	Shiny Drops
+Gammoth Carapace	2	16%	Capture
+Gammoth Redfur		1	22%	Capture
+Trunkspine		1	20%	Capture
+Large Snowclod		1	28%	Capture
+Gammoth Ice Orb		1	5%	Capture
+Gammoth Scalp		1	9%	Capture
+Gammoth Fang+		1	50%	Wound Head
+Gammoth Fang		2	6%	Wound Head
+Gammoth Carapace	1	17%	Wound Head
+Gammoth Pelt+		1	10%	Wound Head
+Gammoth Ice Orb		1	5%	Wound Head
+Gammoth Scalp		1	12%	Wound Head
+Trunkspine		2	20%	Wound Trunk
+Trunkspine		1	65%	Wound Trunk
+Gammoth Redfur		2	15%	Wound Trunk
+Gammoth Carapace	1	50%	Wound Leg
+Gammoth Shell		2	10%	Wound Leg
+Large Snowclod		2	30%	Wound Leg
+Snowclod		2	10%	Wound Leg
+
+☆ Gammoth - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Gammoth Fur		1	38%	Body Carve
+Gammoth Pelt+		1	18%	Body Carve
+Gammoth Cortex		1	23%	Body Carve
+Gammoth Hardfang	1	15%	Body Carve
+Gammoth Pallium		1	2%	Body Carve
+Gammoth Ice Orb		1	4%	Body Carve
+Large Beast Tear	1	70%	Shiny Drops
+Gammoth Redfur		1	10%	Shiny Drops
+Giant Snowclod		1	20%	Shiny Drops
+Gammoth Cortex		1	22%	Capture
+Gammoth Redfur		2	22%	Capture
+Trunkspine+		1	20%	Capture
+Giant Snowclod		1	28%	Capture
+Gammoth Pallium		1	3%	Capture
+Gammoth Ice Orb		1	5%	Capture
+Gammoth Hardfang	1	50%	Wound Head
+Gammoth Fang+		2	6%	Wound Head
+Gammoth Cortex		1	19%	Wound Head
+Gammoth Fur		1	15%	Wound Head
+Gammoth Pallium		1	5%	Wound Head
+Gammoth Ice Orb		1	5%	Wound Head
+Trunkspine+		1	85%	Wound Trunk
+Gammoth Redfur		2	15%	Wound Trunk
+Gammoth Cortex		1	50%	Wound Leg
+Gammoth Carapace	2	10%	Wound Leg
+Giant Snowclod		2	30%	Wound Leg
+Large Snowclod		2	10%	Wound Leg

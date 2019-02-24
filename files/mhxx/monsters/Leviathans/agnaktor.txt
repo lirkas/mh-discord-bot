@@ -1,0 +1,74 @@
+﻿☆ Agnaktor - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Agnaktor Carapace	1	37%	Body Carve
+Agnaktor Hide+		1	25%	Body Carve
+Agnaktor Scale		1	5%	Body Carve
+Agnaktor Claw+		1	8%	Body Carve
+Scalding Pleura+	1	20%	Body Carve
+Firecell Stone		1	5%	Body Carve
+Agnaktor Tail		1	75%	Tail Carve
+Agnaktor Fin+		1	25%	Tail Carve
+Wyvern Tear		1	37%	Shiny Drops
+Large Wyvern Tear	1	35%	Shiny Drops
+Agnaktor Scale		1	20%	Shiny Drops
+Firecell Stone		1	8%	Shiny Drops
+Agnaktor Hide+		1	30%	Capture
+Agnaktor Fin+		1	23%	Capture
+Agnaktor Scale		2	16%	Capture
+Agnaktor Tail		1	15%	Capture
+Scalding Pleura+	1	13%	Capture
+Wyvern Gem		1	3%	Capture
+Agnaktor Beak		1	68%	Wound Head
+Agnaktor Carapace	2	20%	Wound Head
+Lava Nugget		2	6%	Wound Head
+Wyvern Gem		1	6%	Wound Head
+Agnaktor Claw+		2	25%	Wound Leg
+Agnaktor Claw+		1	65%	Wound Leg
+Agnaktor Scale		2	10%	Wound Leg
+Scalding Pleura+	1	50%	Wound Chest
+Agnaktor Hide+		1	35%	Wound Chest
+Firecell Stone		1	15%	Wound Chest
+Agnaktor Fin+		1	65%	Wound Top Fin
+Agnaktor Scale		1	16%	Wound Top Fin
+Agnaktor Hide+		1	15%	Wound Top Fin
+Wyvern Gem		1	4%	Wound Top Fin
+
+☆ Agnaktor - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Agnaktor Cortex		1	35%	Body Carve
+Agnaktor Carapace	1	8%	Body Carve
+Agnaktor Piel		1	23%	Body Carve
+Agnaktor Scale		1	5%	Body Carve
+Agnaktor Talon		1	6%	Body Carve
+Scorching Pleura	1	18%	Body Carve
+Allfire Stone		1	5%	Body Carve
+Agnaktor Tail		1	75%	Tail Carve
+Agnaktor Grandfin	1	25%	Tail Carve
+Large Wyvern Tear	1	72%	Shiny Drops
+Agnaktor Scale		1	20%	Shiny Drops
+Allfire Stone		1	8%	Shiny Drops
+Agnaktor Piel		1	28%	Capture
+Agnaktor Hide+		2	8%	Capture
+Agnaktor Grandfin	1	21%	Capture
+Agnaktor Scale		2	14%	Capture
+Agnaktor Tail		1	13%	Capture
+Scorching Pleura	1	13%	Capture
+Lrg Wyvern Gem		1	3%	Capture
+Agnaktor Beak		1	65%	Wound Head
+Agnaktor Cortex		2	18%	Wound Head
+Agnaktor Carapace	2	5%	Wound Head
+Lrg Wyvern Gem		1	6%	Wound Head
+Wyvern Gem		1	6%	Wound Head
+Agnaktor Talon		2	25%	Wound Leg
+Agnaktor Talon		1	57%	Wound Leg
+Agnaktor Claw+		2	8%	Wound Leg
+Agnaktor Scale		2	10%	Wound Leg
+Scorching Pleura	1	48%	Wound Chest
+Scalding Pleura+	1	5%	Wound Chest
+Agnaktor Piel		1	32%	Wound Chest
+Allfire Stone		1	15%	Wound Chest
+Agnaktor Grandfin	1	65%	Wound Top Fin
+Agnaktor Fin+		2	6%	Wound Top Fin
+Agnaktor Scale		1	10%	Wound Top Fin
+Agnaktor Piel		1	15%	Wound Top Fin
+Lrg Wyvern Gem		1	4%	Wound Top Fin

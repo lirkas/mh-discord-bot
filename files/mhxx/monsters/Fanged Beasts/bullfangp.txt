@@ -1,0 +1,22 @@
+﻿☆ Bullfango - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Raw Meat		1	26%	Body Carve
+Bullfango Pelt		1	59%	Body Carve
+Bullfango Head		1	5%	Body Carve
+Brute Bone		1	10%	Body Carve
+
+☆ Bullfango - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Raw Meat		1	20%	Body Carve
+Bullfango Pelt+		1	40%	Body Carve
+Bullfango Pelt		1	15%	Body Carve
+Bullfango Head		1	15%	Body Carve
+Jumbo Bone		1	10%	Body Carve
+
+☆ Bullfango - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Raw Meat		1	20%	Body Carve
+Bullfango Thickfur	1	40%	Body Carve
+Bullfango Pelt+		1	15%	Body Carve
+Bullfango Head		1	15%	Body Carve
+Jumbo Bone		1	10%	Body Carve

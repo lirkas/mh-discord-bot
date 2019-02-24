@@ -1,0 +1,22 @@
+﻿☆ Konchu - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Konchu Shell		1	60%	Body Carve
+Sharp Fang		1	23%	Body Carve
+Monster Fluid		1	10%	Body Carve
+Armor Sphere		1	7%	Body Carve
+
+☆ Konchu - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Konchu Carapace		1	45%	Body Carve
+Konchu Shell		1	15%	Body Carve
+Sharp Fang		1	18%	Body Carve
+Monster Broth		1	15%	Body Carve
+Armor Sphere+		1	7%	Body Carve
+
+☆ Konchu - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Konchu Cortex		1	45%	Body Carve
+Konchu Carapace		1	15%	Body Carve
+Crushing Fang		1	18%	Body Carve
+Monster Essence		1	15%	Body Carve
+Adv Armor Sphere	1	7%	Body Carve

@@ -1,0 +1,23 @@
+﻿☆ Ceanataur - MHXX Low Rank	
+Item			Qty	Prob.	How to obtain
+Small Ceanataur Shell	1	42%	Body Carve
+Sharp Claw		1	25%	Body Carve
+Jumbo Bone		1	8%	Body Carve
+Carapaceon Brains	1	25%	Body Carve
+
+☆ Ceanataur - MHXX High Rank	
+Item			Qty	Prob.	How to obtain
+Small Ceanataur Shell	1	35%	Body Carve
+Ceanataur Shell		1	25%	Body Carve
+Jumbo Bone		1	10%	Body Carve
+Carapaceon Brains	1	20%	Body Carve
+Carapaceon Brains+	1	10%	Body Carve
+
+☆ Ceanataur - MHXX G Rank	
+Item			Qty	Prob.	How to obtain
+Small Ceanataur Shell	1	12%	Body Carve
+Ceanataur Shell		1	20%	Body Carve
+Jumbo Bone		1	8%	Body Carve
+Carapaceon Brains	1	10%	Body Carve
+Carapaceon Brains+	1	15%	Body Carve
+Piercing Claw		1	35%	Body Carve
