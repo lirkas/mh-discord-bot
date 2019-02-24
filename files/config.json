@@ -13,5 +13,7 @@
 	"MHFU_MONSTER_PATH": "../files/mhfu/monsters/",
 	
 	"MHP3_SM_MONSTER_PATH": "../files/mhp3/small_monsters/",
-	"MHP3_MONSTER_PATH": "../files/mhp3/monsters/"
+	"MHP3_MONSTER_PATH": "../files/mhp3/monsters/",
+	
+	"MHXX_MONSTER_PATH": "../files/mhxx/monsters/"
 }
