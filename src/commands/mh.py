@@ -17,6 +17,7 @@ mhfu_sm_monster_path = utils.get('MHFU_SM_MONSTER_PATH')
 mhfu_monster_path = utils.get('MHFU_MONSTER_PATH')
 mhp3_sm_monster_path = utils.get('MHP3_SM_MONSTER_PATH')
 mhp3_monster_path = utils.get('MHP3_MONSTER_PATH')
+mhxx_monster_path = utils.get('MHXX_MONSTER_PATH')
 
 class Mh:
 
@@ -98,6 +99,28 @@ class Mh:
         
         return True
     
+    #=============# 
+    ## ITEM MHXX ##
+    #=============#
+    name='itemxx'
+    aliases=['ixx']
+    description='Find the possible ways to obtain an item (MHXX)'
+    @cmds.command(cls=cls, name=name, args=args, args_infos=args_infos, description=description, aliases=aliases)
+    async def find_item_xx(ctx):
+        
+        args = ctx.message.content.split()
+        args.pop(0)
+        item = ' '.join(args)
+
+        monsters = mhutils.files_to_list(mhxx_monster_path)
+        
+        result = mhutils.search_item(item, monsters)
+        
+        for r in result:
+            await ctx.send("```\n"+r+"```")
+        
+        return True
+    
 
     #================#
     ## MONSTER MHP3 ##
@@ -170,8 +193,25 @@ class Mh:
             await ctx.send("```\n"+r+"```")
 
         return True
+    
+    #================#
+    ## MONSTER MHXX ##
+    #================#
+    name='monsterxx'
+    aliases=['mxx']
+    args_infos=['The monster to look for', 'Rank: [LR][HR][G][?-?]']
+    description='Display obtainable items from a specific monster (MHXX)'
+    @cmds.command(cls=cls, name=name, args=args, args_infos=args_infos, description=description, aliases=aliases)
+    async def find_monster_xx(ctx):
+        
+        args = ctx.message.content.split()
+        args.pop(0)
+        name = ' '.join(args)
 
+        monsters = mhutils.files_to_list(mhxx_monster_path)
+        result = mhutils.search_monster(name, monsters)
+    
+        for r in result:
+            await ctx.send("```\n"+r+"```")
 
-
-
-
+        return True

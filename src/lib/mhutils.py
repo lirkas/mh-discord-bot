@@ -14,17 +14,38 @@ low_rank = "Low-Rank"
 high_rank = "High-Rank"
 g_rank = "G-Rank"
 
+lv_1_3 = 'Lv 1~3'
+lv_1_4 = 'Lv 1~4'
+lv_4_5 = 'Lv 4~5'
+lv_5_8 = 'Lv 5~8'
+lv_6_8 = 'Lv 6~8'
+lv_9_10 = 'Lv 9~10'
+lv_11_12 = 'Lv 11~12'
+lv_13_15 = 'Lv 13~15'
+lv_ex = 'Lv Ex'
 
 mhp3 = "MHP3"
 mhfu = "MHFU"
 mhf1 = 'MHF1'
+mhxx = 'MHXX'
 
 rank_suffix = {
-    '1-2': star_1_2,
-    'LR' : low_rank,
-    'HR' : high_rank,
-    'G'  : g_rank,
+    '1-2'   : star_1_2,
+    'LR'    : low_rank,
+    'HR'    : high_rank,
+    'G'     : g_rank,
+    
+    '1-3'   : lv_1_3,
+    '1-4'   : lv_1_4,
+    '4-5'   : lv_4_5,
+    '5-8'   : lv_5_8,
+    '6-8'   : lv_6_8,
+    '9-10'  : lv_9_10,
+    '11-12' : lv_11_12,
+    '13-15' : lv_13_15,
+    'EX'    : lv_ex,
 }
+
 _rank_suffix = ['1-2','LR','HR','G']
 
 
@@ -32,22 +53,35 @@ wordlist_12 = ["1-2","1/2", '1-2 star']
 wordlist_lr = ["village","village/low","village/low-rank","low","low-rank","lr"]
 wordlist_hr = ["high","hr","high-rank"]
 wordlist_g = ["g","g-rank",'g-class']
+
+wordlist_1_3 = ['1~3']
+wordlist_1_4 = ['1~4']
+wordlist_4_5 = ['4~5']
+wordlist_5_8 = ['5~8']
+wordlist_6_8 = ['6~8']
+wordlist_9_10 = ['9~10']
+wordlist_11_12 = ['11~12']
+wordlist_13_15 = ['13~15']
+wordlist_ex = ['ex']
+
 wordlist_p3 = ["p3","mhp3"]
 wordlist_fu = ["fu","mhfu"]
 wordlist_f1 = ['f1','mhf1']
+wordlist_xx = ['xx','mhxx']
 
 
-wordlist_rank = wordlist_12+wordlist_lr+wordlist_hr+wordlist_g
-wordlist_game = wordlist_fu+wordlist_p3+wordlist_f1
+wordlist_rank = wordlist_12+wordlist_lr+wordlist_hr+wordlist_g+wordlist_1_4+wordlist_5_8+wordlist_9_10+wordlist_11_12+wordlist_13_15+wordlist_ex
+wordlist_game = wordlist_fu+wordlist_p3+wordlist_f1+wordlist_xx
 
 log.basicConfig(level='ERROR')
+
 
 # check the term and return the rank if it does match any
 def check_rank(terms): 
     
     log.info('checking rank: '+str(terms))
     if terms == None:
-        return
+        return None
     rank = terms.lower()
 
     # check if the word is one of em - if true - skip
@@ -59,7 +93,12 @@ def check_rank(terms):
         return high_rank
     elif rank in wordlist_g:
         return g_rank
+    elif '~' in rank:
+        return 'Lv '+rank
+    elif rank in wordlist_ex:
+        return lv_ex
     else:
+        log.debug(rank+' is not a valid rank')
         return None
 
 class Drop:
@@ -212,6 +251,7 @@ class Monster:
 def text_to_obj(path):
 
     log.info("processing file "+path)
+    errors = []
 
     file = open(path)
     file.readlines()
@@ -240,11 +280,92 @@ def text_to_obj(path):
     current_cat = ""
     current_drop = ""
 
-
+    
     file.seek(0)
 
     while file.tell() < size:
         
+        #=======================#
+        ## MHXX MONSTER SYNTAX ##
+        #=======================#
+        if infos['game'] == mhxx:
+
+            log.debug('using mhxx layout')
+
+            # skip empty lines
+            while line == '\n':
+                line = file.readline()
+
+            #check the rank for the next batch of items
+            if star in line:
+                infos = find_infos(line)
+                log.debug("Rank: "+infos['rank'])
+
+            current_rank = infos['rank']
+            # check if the rank exists
+            check_rank(current_rank)
+
+            #look if there is a line that contains infos about layout
+            while line.startswith('Item') == False:
+                line = file.readline()
+            
+            # we can extract infos about the layout here
+            log.debug('layout: '+line)
+            
+            # the next line 'should' contains the items for the current rank
+            line = file.readline()
+            
+            # process and add all rewards for the current category
+            while len(line) > 2:
+                
+                # extract infos from the line
+                # item - qty - prob - cat 
+                
+                # removes the '\n' if any
+                line = line.strip('\n')
+
+                # attempts to split the objects
+                values = line.split('\t')
+
+                # removes any empty values
+                while '' in values:
+                    values.remove('')
+
+                log.debug(str(values))
+                                    
+                # create a drop object
+                drop = Drop(values[0], values[2].strip('%'), values[1])
+                log.debug(drop)
+
+                # set the drop category
+                try:
+                    category = values[3]
+                except IndexError:
+                    log.error('can not add '+values[0]+' for '+monster.name)
+                    errors.append(current_rank+' : '+values[0])
+                    line = file.readline()
+                    continue
+
+                # add to the monster's rewards
+                monster.add_drop(current_rank, category, drop)
+
+
+                # if EOF returns the monster
+                if file.tell() == size:
+                    file.close()
+                
+                    # export errors into a file
+                    if len(errors) > 0:
+                        utils.export_list(errors, '../files/mhxx/'+monster.name+'.txt')
+                 
+                    return monster
+                
+                line = file.readline()
+            continue
+        
+        #=========================#
+        ## MHFU/MHP3/MHF1 SYNTAX ##
+        #=========================#
         drops = []
         
         # skip until we find the line that contains rank
@@ -263,7 +384,7 @@ def text_to_obj(path):
                 line[0]
             except IndexError:
                 log.error('cannot process this file')
-                return
+                return None
 
         line = line.split( )
         line.remove(line[0])
@@ -309,6 +430,7 @@ def files_to_list(path):
     log.info("Found "+str(len(files))+" files")
 
     monsters = {}
+    errors = []
 
     # process each file
     for f in files:
@@ -318,8 +440,12 @@ def files_to_list(path):
         # if the monster is valid - add it
         if monster != None:
             monsters[monster.name] = monster
+        else:
+            errors.append('Could not process '+f)
 
     log.info(str(len(monsters))+' elements have been added')
+    utils.export_list(errors, '../files/errors.txt')
+
 
     return monsters
 
@@ -343,7 +469,10 @@ def find_drop_infos(line):
     drop_rate = 0
 
     line = line.split( )
-    line.remove(line[0])
+    
+    # removes the '-' if there is one
+    if line[0] == '-':
+        line.remove(line[0])
 
     # we must find how many words the name has
     for word in line:
@@ -381,9 +510,14 @@ def find_infos(line):
     log.debug(l)
     i = 0
     name = ""
-    rank = ""
+    rank = None
     game = ""
     is_name = True
+
+    # removes any leading special characters
+    if '\ufeff' in l[0]:
+        log.debug('removed special character')
+        l = l[1:]
 
     # check each word in the line
     while i < len(l):
@@ -397,18 +531,8 @@ def find_infos(line):
             
             word = l[i].lower()
             # determine the rank
-            if rank == "":
-                # check if the word is one of em - if true - skip
-                if word in wordlist_12:
-                    rank = star_1_2
-                elif word in wordlist_lr:
-                    rank = low_rank
-                elif word in wordlist_hr:
-                    rank = high_rank
-                elif word in wordlist_g:
-                    rank = g_rank
-                if rank != "":
-                    log.debug("rank: "+rank)
+            if rank == None:
+                rank = check_rank(word)
 
             # determine the game
             if game == "":
@@ -417,16 +541,25 @@ def find_infos(line):
                     game = mhfu
                 elif word in wordlist_p3:
                     game = mhp3
+                elif word in wordlist_f1:
+                    game = mhf1
+                elif word in wordlist_xx:
+                    game = mhxx
                 if game != "":
                     log.debug("game: "+game)
 
-            if is_name and (len(rank) > 0 or len(game) > 0):
+            if is_name and (rank != None or len(game) > 0):
                 is_name = False
                     
             if is_name:
                 name = name+" "+l[i]
         i = i+1
-
+    if rank == None:
+        log.warning('no rank found for '+name)
+        log.warning(line)
+        rank = 'undefined'
+        
+    log.debug('name: '+name)
     log.info('\t'+name[1:]+' - '+game+' '+rank)
     return {"monster": name[1:], "game": game, "rank": rank}
 
