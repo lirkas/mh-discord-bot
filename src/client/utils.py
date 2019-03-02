@@ -1,3 +1,4 @@
+import os
 import json
 
 import discord
@@ -26,8 +27,12 @@ def get_uid(string):
 
 # fetch a value with the given ID from a file
 def get(id):
+    
+    if os.path.exists('../files/config_.json'):
+        f = open('../files/config_.json', 'r')
+    else:
+        f = open('../files/config.json', 'r')
 
-    f = open('../files/config.json', 'r')
     config = ''.join(f.readlines())
     j = json.loads(config)
 
