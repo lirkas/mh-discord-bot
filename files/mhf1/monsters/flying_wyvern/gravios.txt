@@ -1,0 +1,44 @@
+☆ Gravios Village/Low-Rank F1
+
+1. Body Carves (x4)
+-  Gravios Shell (75%)
+-  Sleep Sac (15%)
+-  Flame Sac (10%)
+
+2. Tail Carves (x2)
+-  Gravios Shell (80%)
+-  Large Bone Monster (20%)
+
+
+
+☆ Gravios High-Rank F1
+
+1. Body Carves (x4)
+-  Gravios Carapace (45%)
+-  Sleep Sac (20%)
+-  Gravios Shell (18%)
+-  Flame Sac (9%)
+-  Gravios Head (6%)
+-  Gravios Wing (2%)
+
+2. Tail Carves (x2)
+-  Gravios Carapace (63%)
+-  Gravios Shell (35%)
+-  Firestone (2%)
+
+
+
+☆ Gravios G-Rank F1
+
+1. Body Carves (x4)
+-  Gravios Heavy Shell (39%)
+-  Gravios Carapace (20%)
+-  Coma Sac (20%)
+-  Inferno Sac (9%)
+-  Strong Gravios Wing (8%)
+-  Gravios Head (4%)
+
+2. Tail Carves (x2)
+-  Gravios Carapace (63%)
+-  Gravios Heavy Shell (35%)
+-  Firecell Stone (2%)

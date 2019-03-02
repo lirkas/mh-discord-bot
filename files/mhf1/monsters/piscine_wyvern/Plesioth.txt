@@ -1,15 +1,24 @@
- ☆Plesioth Village/Low Rank Guild
-  1.Body Carves
+☆ Plesioth Village/Low-Rank F1
+
+1. Body Carves (x3)
 -  Plesioth Scale (58%)
 -  Plesioth Fin (40%)
 -  Small Lobstershell (2%)
- ☆Plesioth High Rank Guild
-  1.Body Carves
--  Plesioth Scale (48%)
--  Plesioth Fin (45%)
+
+
+
+☆ Plesioth High-Rank F1
+
+1. Body Carves (x3)
+-  Plesioth Scale (45%)
+-  Plesioth Fin (48%)
 -  Large Lobstershell (7%)
- ☆Plesioth G Class
-  1.Body Carves
+
+
+
+☆ Plesioth G-Rank F1
+
+1. Body Carves (x3)
 -  Plesioth Top Fin (48%)
 -  Plesioth Scale+ (45%)
 -  Great Lobstershell (7%)

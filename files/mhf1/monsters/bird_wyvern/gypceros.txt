@@ -1,17 +1,26 @@
- ☆Gypceros Village/Low Rank Guild
-  1.Body Carves
+☆ Gypceros Village/Low-Rank F1
+
+1. Body Carves (x3)
 -  Rubbery Hide (62%)
 -  Power Extract (20%)
 -  Poison Sac (10%)
 -  Light Crystal (8%)
- ☆Gypceros High Rank Guild
-  1.Body Carves
--  Rubbery Hide (50%)
--  Power Extract (35%)
+
+
+
+☆ Gypceros High-Rank F1
+
+1. Body Carves (x3)
+-  Rubbery Hide (35%)
+-  Power Extract (50%)
 -  Poison Sac (9%)
 -  Nova Crystal (6%)
- ☆Gypceros G Class
-  1.Body Carves
+
+
+
+☆ Gypceros G-Rank F1
+
+1. Body Carves (x3)
 -  Rubbery Hide+ (50%)
 -  Power Extract (30%)
 -  Toxin Sac (9%)

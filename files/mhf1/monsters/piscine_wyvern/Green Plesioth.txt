@@ -1,16 +1,25 @@
- ☆Green Plesioth Village/Low Rank Guild
-  1.Body Carves
--  Green Plesioth Scale (50%)
+☆ Green Plesioth Village/Low-Rank F1
+
+1. Body Carves (x3)
+-  Green Plesioth Scale Piece (50%)
 -  Green Plesioth Fin Piece (40%)
 -  Small Lobstershell (10%)
- ☆Green Plesioth High Rank
-  1.Body Carves
--  Green Plesioth Fin (40%)
+
+
+
+☆ Green Plesioth High-Rank F1
+
+1. Body Carves (x3)
+-  Green Plesioth Fin Piece (40%)
 -  Green Plesioth Scale Piece (37%)
 -  Small Lobstershell (13%)
 -  Large Lobstershell (10%)
- ☆Green Plesioth G Class
-  1.Body Carves
+
+
+
+☆ Green Plesioth G-Rank F1
+
+1. Body Carves (x3)
 -  Green Plesioth Fin (60%)
 -  Green Plesioth Scale (17%)
 -  Large Lobstershell (13%)

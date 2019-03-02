@@ -1,0 +1,37 @@
+☆ Diablos Village/Low-Rank F1
+
+1. Body Carves (x3)
+-  Diablos Shell (70%)
+-  Blos Fang (30%)
+
+2. Tail Carves (x1)
+-  Diablos Shell (70%)
+-  Diablos Tail (30%)
+
+
+
+☆ Diablos High-Rank F1
+
+1. Body Carves (x3)
+-  Diablos Spine (45%)
+-  Diablos Shell (40%)
+-  Blos Fang (15%)
+
+2. Tail Carves (x1)
+-  Diablos Tail (60%)
+-  Diablos Shell (40%)
+
+
+
+☆ Diablos G-Rank F1
+
+1. Body Carves (x3)
+-  Diablos Carapace (43%)
+-  Diablos Shell (27%)
+-  Diablos Thoracic (20%)
+-  Blos Fang (10%)
+
+2. Tail Carves (x1)
+-  Diablos Tail (48%)
+-  Diablos Thoracic (34%)
+-  Diablos Shell (18%)

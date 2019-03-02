@@ -1,0 +1,28 @@
+☆ Hornetaur Village/Low-Rank F1
+
+1. Body Carves (x1)
+-  Monster Fluid (17%)
+-  Hornetaur Wing (68%)
+-  Hornetaur Shell (15%)
+
+
+
+☆ Hornetaur High-Rank F1
+
+1. Body Carves (x1)
+-  Monster Fluid (30%)
+-  Hornetaur Wing (20%)
+-  Hornetaur Shell (30%)
+-  Hornetaur Head (18%)
+-  Hornetaur Bladefin (2%)
+
+
+
+☆ Hornetaur G-Rank F1
+
+1. Body Carves (x1)
+-  Monster Broth (24%)
+-  Hornetaur Bladefin (20%)
+-  Hornetaur Carapace (28%)
+-  Hornetaur Head (18%)
+-  Hornetaur Razorwing (10%)

@@ -1,0 +1,28 @@
+☆ Mosswine Village/Low-Rank F1
+
+1. Body Carves (x1)
+-  Blue Mushroom (45%)
+-  Raw Meat (38%)
+-  Special Mushroom (17%)
+
+
+
+☆ Mosswine High-Rank F1
+
+1. Body Carves (x1)
+-  Blue Mushroom (50%)
+-  Raw Meat (30%)
+-  Special Mushroom (15%)
+-  Mosswine Hide (4%)
+-  Mosswine Head (1%)
+
+
+
+☆ Mosswine G-Rank F1
+
+1. Body Carves (x1)
+-  Blue Mushroom (40%)
+-  Raw Meat (30%)
+-  Special Mushroom (15%)
+-  Mosswine Hide (10%)
+-  Mosswine Head (5%)

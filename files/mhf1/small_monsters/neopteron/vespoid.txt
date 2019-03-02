@@ -1,0 +1,26 @@
+☆ Vespoid Village/Low-Rank F1
+
+1. Body Carves (x1)
+-  Monster Fluid (17%)
+-  Vespoid Wings (53%)
+-  Vespoid Shell (30%)
+
+
+
+☆ Vespoid High-Rank F1
+
+1. Body Carves (x1)
+-  Monster Fluid (30%)
+-  Vespoid Wings (30%)
+-  Vespoid Shell (30%)
+-  Vespoid Bladefin (10%)
+
+
+
+☆ Vespoid G-Rank F1
+
+1. Body Carves (x1)
+-  Monster Broth (30%)
+-  Vespoid Bladefin (30%)
+-  Vespoid Carapace (30%)
+-  Vespoid Razorwing (10%)
