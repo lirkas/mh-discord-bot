@@ -8,11 +8,11 @@
 
 2. Tail Carves (x2)
 -  Wht Monoblos Shl (80%)
--  Large Monster Bone (20%)
+-  Lg Monster Bone (20%)
 
 3. Capture Rewards
--  WhteMonoblosShl x1 (67%)
--  WhteMonoblosSpn x1 (29%)
+-  Wht Monoblos Shl x1 (67%)
+-  Wht Monoblos Spn x1 (29%)
 -  Monoblos Heart x1 (4%)
 
 4. Shiny Drops

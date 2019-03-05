@@ -3,7 +3,7 @@
 1. Body Carves (x1)
 
 -  Anteka Antlers (45%)
--  Anteka Hide (2%)
+-  Anteka Pelt (2%)
 -  Raw Meat (18%)
 -  White Liver (12%)
 
@@ -14,8 +14,8 @@
 1. Body Carves (x1)
 
 -  Anteka Antlers (35%)
--  High Quality Pelt (28%)
--  Anteka Hide (15%)
+-  High Qualty Pelt (28%)
+-  Anteka Pelt (15%)
 -  White Liver (12%)
 -  Raw Meat (10%)
 
@@ -25,7 +25,7 @@
 
 1. Body Carves (x1)
 
--  High Quality Pelt (50%)
+-  High Qualty Pelt (50%)
 -  Anteka Pelt (23%)
 -  Raw Meat (10%)
 -  White Liver (10%)

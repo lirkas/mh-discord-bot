@@ -1,26 +1,26 @@
 ☆ Black Diablos - MHFU Low-Rank
   
 1. Body Carves (x3)
--  Black Diablos Shell (63%)
+-  Black Blos Shell (63%)
 -  Blos Fang (30%)
--  Black Diablos Spine (7%)
+-  Black Blos Spine (7%)
  
 2. Tail Carves (x1)
--  Black Diablos Shell (60%)
--  Black Diablos Tail (40%)
+-  Black Blos Shell (60%)
+-  Black Blos Tail (40%)
  
 3. Capture Rewards
--  Black Diablos Shell x1 (40%)
+-  Black Blos Shell x1 (40%)
 -  Blos Fang x3 (39%)
--  Black Diablos Spine x1 (11%)
--  Black Diablos x1 (10%)
+-  Black Blos Spine x1 (11%)
+-  Black Blos Tail x1 (10%)
  
 4. Shiny Drops
 -  Wyvern Tears (95%)
 -  Diablos Spine (5%)
  
 5. Break Horns
--  Twisted Black Horn x1 (69%)
+-  TwstBlkBlosHrn x1 (69%)
 -  Twisted Horn x2 (16%)
 -  Majestic Horn x1 (15%)
 
@@ -29,26 +29,26 @@
 ☆ Black Diablos - MHFU High-Rank
  
 1. Body Carves (x3)
--  Black Diablos Shell (63%)
+-  Black Blos Shell (63%)
 -  Blos Fang (30%)
--  Black Diablos Spine (7%)
+-  Black Blos Spine (7%)
 
 2. Tail Carves (x1)
--  Black Diablos Tail (60%)
--  Black Diablos Shell (40%)
+-  Black Blos Tail (60%)
+-  Black Blos Shell (40%)
  
 3. Capture Rewards
--  Black Diablos Shell x1 (40%)
+-  Black Blos Shell x1 (40%)
 -  Blos Fang x3 (39%)
--  Black Diablos Spine x1 (11%)
--  Black Diablos Tail x1 (10%)
+-  Black Blos Spine x1 (11%)
+-  Black Blos Tail x1 (10%)
 
 4. Shiny Drops
 -  Wyvern Tears (95%)
--  Black Diablos Spine (5%)
+-  Black Blos Spine (5%)
 
 5. Break Horns
--  Twisted Black Horn x1 (69%)
+-  TwstBlkBlosHrn x1 (69%)
 -  Twisted Horn x2 (16%)
 -  Majestic Horn x1 (15%)
 
@@ -67,7 +67,7 @@
 -  LthrBlkBlosTail (64%)
 -  HvyBlkBlosShell (26%)
 -  Big Wyvern Stone (6%)
--  Blk Blos Cpc (4%)
+-  Black Blos Cpc (4%)
  
 3. Capture Rewards
 -  HvyBlkBlosShell x1 (60%)
@@ -81,6 +81,6 @@
 -  HvyBlkBlosSpine (5%)
  
 5. Break Horns
--  StoutBlkTwstHrn x1 (40%)
+-  StoutBlkTwstdHrn x1 (40%)
 -  Twisted Horn x2 (40%)
 -  Majestic Horn x1 (20%)

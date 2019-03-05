@@ -6,14 +6,14 @@
 - Gaoren Spine (17%)
         
 2. Live Carving : Inside Shell (x3)
-- Elder Dragon Bone (50%)
-- Lao-Shan Scale (35%)
-- Lao Shen Shell (15%)
+- Eldr Dragon Bone (50%)
+- Lao-Shan's Scale (35%)
+- Lao-Shan's Shell (15%)
         
 2. Break Shell
-- Elder Dragon Bone x2 (50%)
-- Lao-Shan Shell x1 (35%)
-- Lao-Shan Horn x1 (15%)
+- Eldr Dragon Bone x2 (50%)
+- Lao-Shan's Shell x1 (35%)
+- Lao-Shan's Horn x1 (15%)
         
 3. Break Legs
 - Gaoren Claw x1 (93%)
@@ -30,17 +30,17 @@
 - Gaoren Shell (17%)
         
 2. Live Carving : Inside Shell (x3)
-- Elder Dragon Bone (50%)
+- Eldr Dragon Bone (50%)
 - Lao-Shan Scale+ (35%)
-- Lao-Shan Carapace (15%)
+- Lao-ShanCarapace (15%)
         
 2. Break Shell
-- Elder Dragon Bone x2 (50%)
-- Lao-Shan Carapace x1 (26%)
-- Lao-Shan Horn x1 (24%)
+- Eldr Dragon Bone x2 (50%)
+- Lao-ShanCarapace x1 (26%)
+- Lao-Shan's Horn x1 (24%)
         
 3. Break Legs
-- Gaoren Claw+ x1 (93%)
+- Gaoren Claw x1 (93%)
 - Gaoren Pincer x1 (7%)
 
 

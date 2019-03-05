@@ -6,18 +6,16 @@
 -  Sharp Claw (20%)
 -  Med Monster Bone (10%)
 
-2. Break Shell
-
-a. Gravios Skull
+2. Break Shell - Gravios Skull
 -  Ceanataur Shell x1 (40%)
 -  Med Monster Bone x2 (40%)
 -  Lg Monster Bone x1 (20%)
 
-b. Brown Skull
+2. Break Shell - Brown Skull
 -  Ceanataur Shell x1 (50%)
 -  Med Monster Bone x2 (50%)
 
-c. White Skull
+2. Break Shell - White Skull
 -  Ceanataur Shell x1 (40%)
 -  Giant Bone x2 (60%)
 
@@ -43,18 +41,17 @@ c. White Skull
 - Ceanataur Leg (28%)
 - Black Pearl (10%)
 - Ceanataur Pincer (2%)
-        
-2. Break Shell
-a. Gravios Skull
-- Gravios Skull Shl x1 (70%)
+
+2. Break Shell - Gravios Skull
+- Gravios Skl Shl x1 (70%)
 - Ceanataur Shell x1 (22%)
 - Wyvern Skull Shl x1 (8%)
 
-b. Brown Skull
+2. Break Shell - Brown Skull
 - Ceanataur Shell x1 (50%)
 - Wyvern Skull Shl x1 (50%)
 
-c. White Skull
+2. Break Shell - White Skull
 - Wyvern Skull Shl x1 (97%)
 - Ceanataur Shell x1 (3%)
         
@@ -76,24 +73,25 @@ c. White Skull
 ☆ Shogun Ceanataur - MHFU High Rank
 
 1. Body Carves (x3)
-- Ceanataur Carapace (50%)
+- Ceanataur Carpce (50%)
 - Ceanataur Leg (15%)
 - Ceanataur Pincer (15%)
 - Black Pearl (10%)
 - Ceanataur Shell (5%)
 - Ceanataur Claw+ (5%)
-        
-2. Break Shell
-a. Gravios Skull
-- Gravios Skull Shl x1 (70%)
-- Ceanataur Carapace x1 (22%)
+
+2. Break Shell - Gravios Skull
+- Gravios Skl Shl x1 (70%)
+- Ceanataur Carpce x1 (22%)
 - Wyvern Skull Shl x1 (8%)
-b. Brown Skull
-- Ceanataur Carapace x1 (70%)
+
+2. Break Shell - Brown Skull
+- Ceanataur Carpce x1 (70%)
 - Wyvern Skull Shl x1 (30%)
-c. White Skull
+
+2. Break Shell - White Skull
 - Wyvern Skull Shl x1 (63%)
-- Ceanataur Carapace x1 (37%)
+- Ceanataur Carpce x1 (37%)
         
 3. Break Claw
 - Ceanataur Claw+ x1 (70%)
@@ -106,7 +104,7 @@ c. White Skull
 - Black Pearl (25%)
         
 5. Capture
-- Ceanataur Carapace x2 (60%)
+- Ceanataur Carpce x2 (60%)
 - Ceanataur Leg x1 (22%)
 - Ceanataur Pincer x1 (18%)
 
@@ -123,15 +121,17 @@ c. White Skull
 - Ceanataur Pincer (5%)
 - Ceanataur Carpce (5%)
         
-2. Break Shell
-a. Gravios Skull
+
+2. Break Shell - Gravios Skull
 - Gravios Skl Shl x1 (70%)
 - HvyCeanataurShl x1 (22%)
 - Wyvern Skull Shl x1 (8%)
-b. Brown Skull
+
+2. Break Shell - Brown Skull
 - HvyCeanataurShl x1 (70%)
 - Wyvern Skull Shl x1 (30%)
-c. White Skull
+
+2. Break Shell - White Skull
 - Wyvern Skull Shl x1 (63%)
 - HvyCeanataurShl x1 (37%)
         

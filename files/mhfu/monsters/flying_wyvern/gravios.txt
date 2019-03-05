@@ -66,7 +66,7 @@
 ☆ Gravios - MHFU G-Rank
 
 1. Body Carves (x4)
--  HvyGraviosShl (50%)
+-  HvyGraviosShell (50%)
 -  Coma Sac (17%)
 -  Gravios Carapace (10%)
 -  Blazing Fire Sac (10%)
@@ -74,13 +74,13 @@
 -  HvnlyGraviosShl (6%)
 
 2. Tail Carves (x2)
--  HvyGraviosShl (66%)
+-  HvyGraviosShell (66%)
 -  Hvy Monster Bone (20%)
 -  Gravios BrainStm (8%)
 -  Firecell Stone (6%)
 
 3. Capture Rewards
--  HvyGraviosShl x1 (40%)
+-  HvyGraviosShell x1 (40%)
 -  Coma Sac x1 (30%)
 -  Blazing Fire Sac x1 (16%)
 -  Firecell Stone x1 (14%)
@@ -91,7 +91,7 @@
 -  Firecell Stone (10%)
 
 5. Break Stomach
--  HvyGraviosShl x1 (57%)
+-  HvyGraviosShell x1 (57%)
 -  Gravios Carapace x1 (18%)
 -  Coma Sac x2 (15%)
--  HvyGraviosShl x1 (10%)
+-  HvyGraviosShell x1 (10%)

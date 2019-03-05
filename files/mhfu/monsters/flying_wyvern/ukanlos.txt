@@ -23,7 +23,7 @@
 
 5. Break Chest - Requires fire element
 -  UkanlosUnderscl (70%)
--  HvyUkanlosshell (24%)
+-  HvyUkanlosShell (24%)
 -  Ukanlos Stone (6%)
 
 6. Break Claws

@@ -101,7 +101,7 @@
 4. Capture
 - ThckPlesiothScl x1 (32%)
 - SpecPlesiothFin+ x1 (23%)
-- Piscine Fang+ x2 (20%)
+- HvyPiscineFang x2 (20%)
 - Lg Lobstershell x1 (12%)
 - Gt Lobstershell x1 (8%)
 - Plesioth Scale+ x2 (5%)

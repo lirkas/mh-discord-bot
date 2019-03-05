@@ -53,7 +53,7 @@
 - Str Garuga Wing (1%)
 
 2. Tail Carve (x1)
-- Garuga Tail+ (80%)
+- LethrGarugaTail (80%)
 - ThickGarugaScale (10%)
 - Garuga Scale+ (10%)
 

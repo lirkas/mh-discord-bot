@@ -4,7 +4,7 @@
 
 -  Giaprey Scale (52%)
 -  Giaprey Hide (30%)
--  Small Monster Bone (18%)
+-  Sm Monster Bone (18%)
 
 
 
@@ -14,7 +14,7 @@
 
 -  Giaprey Scale+ (50%)
 -  Giaprey Hide+ (40%)
--  Small Monster Bone (10%)
+-  Sm Monster Bone (10%)
 
 
 
@@ -24,4 +24,4 @@
 
 -  RobustWyvernBone (50%)
 -  Giaprey Scale+ (30%)
--  Giaprety Hide+ (20%)
+-  Giaprey Hide+ (20%)

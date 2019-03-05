@@ -38,7 +38,7 @@
 - Rathalos Scale (30%)
 - Rathalos Shell (24%)
 - Rathalos Webbing (24%)
-- Fire Wyvern Fluid (10%)
+- FireWyvern Fluid (10%)
 - Flame Sac (8%)
 - FireWyvrn Marrow (4%)
         
@@ -78,23 +78,23 @@
 
 1. Body Carves (x3)
 - Rathalos Scale+ (38%)
-- Rathalos Carapace (24%)
+- Rathalos Carpace (24%)
 - Inferno Sac (15%)
 - Rathalos Webbing (14%)
 - Rathalos Wing (5%)
-- Fire Wyvern BrainStem (4%)
+- FireWyvrn BrnStm (4%)
         
 2. Tail Carves (x1)
 - Rathalos Scale+ (35%)
 - Rathalos Tail (25%)
-- Rathalos Carapace (22%)
+- Rathalos Carpace (22%)
 - Rathalos Plate (12%)
-- Fire Wyvern BrainStem (4%)
+- FireWyvrn BrnStm (4%)
 - Rathalos Ruby (2%)
         
 3. Break Head
 - Rathalos Scale+ x1 (65%)
-- Rathalos Carapace x1 (31%)
+- Rathalos Carpace x1 (31%)
 - Rathalos Ruby x1 (4%)
         
 4. Break Wing
@@ -108,7 +108,7 @@
 - Rathalos Ruby (5%)
         
 6. Capture
-- Rathalos Carapace x1 (60%)
+- Rathalos Carpace x1 (60%)
 - Rathalos Scale+ x2 (24%)
 - Rathalos Wing x2 (8%)
 - Rathalos Plate x1 (6%)

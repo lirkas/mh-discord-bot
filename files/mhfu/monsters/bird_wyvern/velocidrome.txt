@@ -31,13 +31,13 @@
 ☆ Velocidrome - MHFU High Rank
 
 1. Body Carves (x2)
-- Velocidrome Claw+ (40%)
-- Velociprey Scale+ (23%)
-- Velocidrome Hide+ (20%)
+- Velocidrome Clw+ (40%)
+- Velociprey Scle+ (23%)
+- Velociprey Hide+ (20%)
 - Velocidrome Hide (10%)
 - Velocidrome Head (7%)
         
 2. Capture
-- Velocidrome Hide+ x2 (40%)
+- Velociprey Hide+ x2 (40%)
 - Screamer x2 (36%)
-- Velociprey Scale+ x2 (24%)
+- Velociprey Scle+ x2 (24%)

@@ -4,7 +4,7 @@
 - Basarios Shell (37%)
 - Machalite Ore (34%)
 - Poison Sac (18%)
-- Large Monster Bone (8%)
+- Lg Monster Bone (8%)
 - Basarios Wing (3%)
         
 2. Tail Carves (x1)
@@ -31,16 +31,16 @@
 ☆ Basarios - MHFU High Rank
 
 1. Body Carves (x3)
-- Basarios Carapace (33%)
+- Basarios Carpace (33%)
 - Carbalite Ore (25%)
 - Toxin Sac (15%)
-- Hard Monster Bone (12%)
+- Hrd Monster Bone (12%)
 - Basarios Wing (7%)
-- Basarios Tear (5%)
+- Basarios Tears (5%)
 - Wyvern Stone (3%)
         
 2. Tail Carves (x1)
-- Basarios Carapace (40%)
+- Basarios Carpace (40%)
 - Carbalite Ore (40%)
 - Dragonite Ore (20%)
         
@@ -56,10 +56,10 @@
         
 5. Capture
 - Carbalite Ore x1 (35%)
-- Basarios Carapace x1 (34%)
+- Basarios Carpace x1 (34%)
 - Dragonite Ore x1 (16%)
 - Basarios Wing x1 (10%)
-- Basarios Tear x1 (5%)
+- Basarios Tears x1 (5%)
 
 
 

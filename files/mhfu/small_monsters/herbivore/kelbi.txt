@@ -14,7 +14,7 @@
 1. Body Carves (x1)
 
 -  Kelbi Horn (35%)
--  High Quality Pelt (25%)
+-  High Qualty Pelt (25%)
 -  Kelbi Hide (22%)
 -  White Liver (15%)
 -  Raw Meat (3%)
@@ -26,7 +26,7 @@
 1. Body Carves (x1)
 
 -  Kelbi Horn (35%)
--  High Quality Pelt (35%)
+-  High Qualty Pelt (35%)
 -  Kelbi Hide (17%)
 -  White Liver (10%)
 -  Raw Meat (3%)

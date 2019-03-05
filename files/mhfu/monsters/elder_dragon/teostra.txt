@@ -3,27 +3,27 @@
 1. Body Carves (x4)
 - Teostra Shell (30%)
 - Fire Dragon Claw (24%)
-- Fire Dragon Scale (20%)
+- Fire Dragon Scl (20%)
 - Teostra Mane (10%)
-- Fire Dragon Webbing (10%)
-- Elder Dragon Blood (6%)
+- Fire Drgn Webbng (10%)
+- ElderDragonBlood (6%)
         
 2. Tail Carves (x1)
 - Teostra Tail (59%)
-- Elder Dragon Bone (23%)
+- Eldr Dragon Bone (23%)
 - Teostra Shell (18%)
         
 3. Break Horn
 - Teostra Horn x1 (100%)
 
 4. Break Wings
-- Fire Dragon Webbing x1 (77%)
+- Fire Drgn Webbng x1 (77%)
 - Fire Dragon Claw x1 (23%)
         
 5. Shiny Drop : force it into rage mode or reactivating fire aura
 - Dragon Treasure (75%)
-- Elder Dragon Blood (15%)
-- Fire Dragon Scale (10%)
+- ElderDragonBlood (15%)
+- Fire Dragon Scl (10%)
 
 
 
@@ -32,36 +32,36 @@
 ☆ Teostra - MHFU High Rank
 
 1. Body Carves (x4)
-- Fire Dragon Scale+ (30%)
+- Fire Drgn Scl+ (30%)
 - Fire Dragon Claw (22%)
 - Teostra Carapace (18%)
 - Teostra Mane (14%)
-- Elder Dragon Blood (6%)
+- ElderDragonBlood (6%)
 - Teostra Shell (5%)
-- Fire Dragon Jewel (5%)
+- Fire Drgn Jwl (5%)
         
 2. Tail Carves (x1)
 - Teostra Tail (34%)
-- Elder Dragon Bone (32%)
+- Eldr Dragon Bone (32%)
 - Teostra Shell (20%)
 - Teostra Carapace (12%)
-- Fire Dragon Jewel (2%)
+- Fire Drgn Jwl (2%)
         
 3. Break Horn
 - Teostra Horn+ x1 (61%)
 - Teostra Horn x1 (39%)
 
 4. Break Wings
-- Teostra Powder x1 (40%)
-- Fire Dragon Webbing x1 (37%)
+- Fire Dragon Pwdr x1 (40%)
+- Fire Drgn Webbng x1 (37%)
 - Fire Dragon Claw x1 (23%)
         
 5. Shiny Drop : force it into rage mode or reactivating fire aura
 - Dragon Treasure (38%)
-- Dragon Treasure+ (37%)
-- Fire Dragon Scale+ (12%)
-- Elder Dragon Blood (10%)
-- Fire Dragon Jewel (3%)
+- Anc Drgn Treasre (37%)
+- Fire Drgn Scl+ (12%)
+- ElderDragonBlood (10%)
+- Fire Drgn Jwl (3%)
 
 
 

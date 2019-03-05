@@ -38,7 +38,7 @@
 
 4. Capture
 -  Cephalos Fin x1 (65%)
--  Large Monster Bone x1 (25%)
+-  Lg Monster Bone x1 (25%)
 -  Piscine Fang x1 (10%)
 
 
@@ -47,7 +47,7 @@
 ☆ Cephadrome - MHFU High-Rank
 
 1. Body Carves (x3)
--  Coral Cephalos Scale (50%)
+-  Coral Cphlos Scl (50%)
 -  Cephalos Scale (20%)
 -  Cephalos Fin+ (14%)
 -  Piscine Fang (13%)
@@ -55,18 +55,18 @@
 
 2. Break Back Fin
 -  Cephalos Fin+ x1 (85%)
--  Coral Cephalos Fin x1 (15%)
+-  Coral Cphlos Fin x1 (15%)
 
 3. Shiny Drop
 -  Wyvern Tears (35%)
 -  Wyvern Sobs (35%)
--  Coral Cephalos Scale (15%)
+-  Coral Cphlos Scl (15%)
 -  Piscine Liver (10%)
 -  Cephalos Scale (5%)
 
 4. Capture
 -  Cephalos Fin+ x1 (55%)
--  Coral Cephalos Fin x1 (15%)
+-  Coral Cphlos Fin x1 (15%)
 -  Monster Bone+ x1 (15%)
 -  Piscine Fang x2 (10%)
--  Hard Monster Bone x1 (5%)
+-  Hrd Monster Bone x1 (5%)

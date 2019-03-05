@@ -2,28 +2,28 @@
 
 1. Body Carves (x4)
 - Lunastra Shell (28%)
-- Fire Dragon Scale (24%)
+- Fire Dragon Scl (24%)
 - Fire Dragon Claw (21%)
 - Lunastra Mane (12%)
-- Fire Dragon Webbing (10%)
-- Elder Dragon Blood (5%)
+- Fire Drgn Webbng (10%)
+- ElderDragonBlood (5%)
         
 2. Tail Carves (x1)
 - Lunastra Tail (59%)
-- Elder Dragon Bone (23%)
+- Eldr Dragon Bone (23%)
 - Lunastra Shell (18%)
         
 3. Break Horn
 - Lunastra Horn x1 (100%)
 
 4. Break Wings
-- Fire Dragon Webbing x1 (72%)
+- Fire Drgn Webbng x1 (72%)
 - Fire Dragon Claw x1 (28%)
         
 5. Shiny Drop : force it into rage mode or reactivating fire aura
 - Dragon Treasure (75%)
-- Fire Dragon Scale (15%)
-- Elder Dragon Blood (10%)
+- Fire Dragon Scl (15%)
+- ElderDragonBlood (10%)
 
 
 

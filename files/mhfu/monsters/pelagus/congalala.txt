@@ -57,7 +57,7 @@
 - Exciteshroom (5%)
 4. Shiny Drop : Stagger the tail [Mineral Stone]
 - Territorial Dung (60%)
-- Machilite Ore (39%)
+- Machalite Ore (39%)
 - Lightcrystal (1%)
         
 5. Capture

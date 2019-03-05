@@ -1,22 +1,22 @@
 ☆ Blue Yian Kut-Ku - MHFU Low Rank
 
 1. Body Carves (x3)
-- Blue Kut-Ku Scale (47%)
-- Blue Kut-Ku Shell (35%)
+- Blue Kut-Ku Scl (47%)
+- Blue Kut-Ku Shl (35%)
 - Kut-Ku Webbing (15%)
 - Giant Beak (5%)
 
 2. Break Ears
 - Kut-Ku Ear x1 (50%)
-- Blue Kut-Ku Scale x3 (50%)
+- Blue Kut-Ku Scl x3 (50%)
 
 3. Shiny Drop : sonic, doesn't work when rage
 - Wyvern Tears (74%)
-- Blue Kut-Ku Scale (16%)
+- Blue Kut-Ku Scl (16%)
 - Kut-Ku Ear (10%)
 
 4. Capture
-- Blue Kut-Ku Shell x1 (36%)
+- Blue Kut-Ku Shl x1 (36%)
 - Med Monster Bone x2 (27%)
 - Screamer x2 (24%)
 - Flame Sac x1 (10%)
@@ -29,25 +29,25 @@
 ☆ Blue Yian Kut-Ku - MHFU High Rank
 
 1. Body Carves (x3)
-- Blue Kut-Ku Scale+ (50%)
-- Blue Kut-Ku Carapace (25%)
+- Blue Kut-Ku Scl+ (50%)
+- Blue Kut-Ku Cpc (25%)
 - Kut-Ku Webbing (10%)
 - Giant Beak (10%)
 - Splendid Beak (5%)
 
 2. Break Ears
-- Kut-Ku Ear X1 (50%)
-- Long Kut-Ku Ear X1 (25%)
-- Blue Kut-Ku Scale+ (25%)
+- Kut-Ku Ear x1 (50%)
+- Long Kut-Ku Ear x1 (25%)
+- Blue Kut-Ku Scl+ (25%)
 
 3. Shiny Drop : sonic, doesn't work when rage
 - Wyvern Tears (37%)
 - Wyvern Sobs (37%)
-- Blue Kut-Ku Scale+ (16%)
+- Blue Kut-Ku Scl+ (16%)
 - Long Kut-Ku Ear (10%)
 
 4. Capture
-- Blue Kut Ku Carapace (43%)
+- Blue Kut-Ku Cpc (43%)
 - Monster Bone+ x1 (27%)
 - Screamer x2 (17%)
 - Flame Sac x1 (10%)
@@ -76,7 +76,7 @@
 - Lucky Kut-Ku Ear (10%)
 
 4. Capture
-- HvyBluKut-KuShl x1 (47%)
+- HvyBlueKut-KuShl x1 (47%)
 - Hvy Monster Bone x1 (23%)
 - Blazing Fire Sac x1 (15%)
 - Screamer x4 (10%)

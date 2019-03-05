@@ -69,7 +69,7 @@
 -  Master's Skull (7%)
 -  Firecell Stone (4%)
 -  Expand Pickaxe (4%)
--  CommendationG (4%)
+-  Commendation G (4%)
 -  Golden Egg (3%)
 -  Gourmet BBQ Spit (2%)
 -  Hvy Armor Sphere (2%)

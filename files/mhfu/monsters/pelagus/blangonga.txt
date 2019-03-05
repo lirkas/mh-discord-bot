@@ -28,7 +28,7 @@
 
 1. Body Carves (x3)
 - Blangonga Pelt (63%)
-- Blangonga Whiskers (21%)
+- Blangonga Whiskr (21%)
 - Giant Bone (8%)
 - Blangonga Fang (8%)
 
@@ -45,7 +45,7 @@
 - Dung (5%)
 
 5. Capture
-- Blangonga Whiskers x1 (40%)
+- Blangonga Whiskr x1 (40%)
 - Blangonga Pelt x1 (35%)
 - Giant Bone x2 (15%)
 - Blangonga Tail x1 (10%)
@@ -58,7 +58,7 @@
 1. Body Carves (x3)
 - Blangonga Pelt+ (60%)
 - Stout Bone (15%)
-- Blangonga Whiskers (10%)
+- Blangonga Whiskr (10%)
 - Blangonga Fang (10%)
 - Blangonga Pelt (5%)
 
@@ -78,7 +78,7 @@
 
 5. Capture
 - Blangonga Pelt+ x1 (40%)
-- Blangonga Whiskers x2 (30%)
+- Blangonga Whiskr x2 (30%)
 - Stout Bone x4 (25%)
 - Blangonga Tail x1 (5%)
 
@@ -107,7 +107,7 @@
 4. Shiny Drop : Finishes eating without noticing hunter
 - TerritorialDung+ (50%)
 - Territorial Dung (25%)
-- HrdBlangongaPelt+ (20%)
+- HrdBlangongaPlt+ (20%)
 - Dung (5%)
 
 5. Capture

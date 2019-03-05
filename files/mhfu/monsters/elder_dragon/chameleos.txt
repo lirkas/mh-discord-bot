@@ -2,15 +2,15 @@
 
 1. Body Carves (x4)
 - Chameleos Hide (39%)
-- Chameleos Webbing (24%)
+- ChameleosWebbing (24%)
 - Chameleos Claw (19%)
 - Dragonite Ore (13%)
-- Elder Dragon Blood (5%)
+- ElderDragonBlood (5%)
         
 2. Tail Carves (x1)
 - Chameleos Tail (60%)
 - Dragonite Ore (22%)
-- Elder Dragon Blood (18%)
+- ElderDragonBlood (18%)
         
 3. Break Horn
 - Chameleos Horn x1 (90%)
@@ -28,26 +28,26 @@
 
 1. Body Carves (x4)
 - Chameleos Hide (35%)
-- Chameleos Webbing (24%)
+- ChameleosWebbing (24%)
 - Chameleos Hide+ (20%)
 - Union Ore (10%)
-- Elder Dragon Blood (6%)
+- ElderDragonBlood (6%)
 - Chameleos Jewel (5%)
         
 2. Tail Carves (x1)
 - Chameleos Tail (60%)
 - Union Ore (17%)
-- Elder Dragon Blood (15%)
+- ElderDragonBlood (15%)
 - Chameleos Jewel (8%)
         
 3. Break Horn
-- Chameleos Horn X1 (50%)
-- Chameleos Horn+ X1 (40%)
+- Chameleos Horn x1 (50%)
+- Chameleos Spike x1 (40%)
 - Union Ore x1 (10%)
         
 4. Shiny Drop : sonic during its attacks
 - Dragon Treasure (43%)
-- Dragon Treasure+ (42%)
+- Anc Drgn Treasre (42%)
 - Union Ore (15%)
 
 

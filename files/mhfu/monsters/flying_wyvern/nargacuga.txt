@@ -5,7 +5,7 @@
 -  Black Narga Pelt (25%)
 -  Nargacuga Fang+ (15%)
 -  NargaCuttingWing (10%)
--  Narga Tail (5%)
+-  Nargacuga Tail (5%)
 
 2. Body Carves (x1)
 -  Nargacuga Tail (82%)
@@ -15,7 +15,7 @@
 3. Capture Rewards
 -  Black Narga Pelt x1 (40%)
 -  Nargacuga Fang+ x2 (20%)
--  Narga Tail x1 (20%)
+-  Nargacuga Tail x1 (20%)
 -  Narga Scale+ x2 (16%)
 -  Narga Brain Stem x1 (4%)
 
@@ -43,7 +43,7 @@
 
 1. Body Carves (x3)
 -  ThickNargaScale (40%)
--  BlkNargaPelt+ (20%)
+-  BlackNargaPelt+ (20%)
 -  Narga Scale+ (13%)
 -  HvyNargacugaFang (12%)
 -  StrNargaCttngWng (8%)
@@ -53,8 +53,8 @@
 2. Tail Carves (x1)
 -  LeatherNargaTail (75%)
 -  Narga Brain Stem (10%)
--  HvyNargaTailSpk (8%)
--  Narga Tail (7%)
+-  HvyNargaTailSpik (8%)
+-  Nargacuga Tail (7%)
 
 3. Capture Rewards
 
@@ -63,7 +63,7 @@
 -  ThickNargaScale x2 (16%)
 -  LeatherNargaTail x1 (15%)
 -  Black Narga Pelt x2 (10%)
--  Narga BrainStem x1 (6%)
+-  Narga Brain Stem x1 (6%)
 
 4. Shiny Drops
 
@@ -88,7 +88,7 @@
 
 7. Break Tail
 
--  HvyNargaTaikSpk x2 (70%)
+-  HvyNargaTailSpik x2 (70%)
 -  Narga Tail Spike x4 (12%)
--  Narga BrainStem x1 (10%)
+-  Narga Brain Stem x1 (10%)
 -  BlackNargaPelt+ x1 (8%)

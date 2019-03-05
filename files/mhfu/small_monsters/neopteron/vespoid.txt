@@ -15,7 +15,7 @@
 -  Vespoid Carapace (40%)
 -  Vespoid Wing (20%)
 -  Monster Fluid (15%)
--  Vespoid Inner Wing (15%)
+-  Vespoid InnrWng (15%)
 -  Monster Broth (10%)
 
 
@@ -26,6 +26,6 @@
 
 -  Vespoid Carapace (25%)
 -  Vespoid InnrWng (20%)
--  Vespoid RazrWng (20%)
+-  Vspoid Razorwing (20%)
 -  Monster Essence (18%)
 -  Monster Broth (17%)

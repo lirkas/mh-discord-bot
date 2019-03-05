@@ -15,7 +15,7 @@
 
 -  Piscine Liver (50%)
 -  Cephalos Scale+ (25%)
--  Coral Cephalos Scale (15%)
+-  Coral Cphlos Scl (15%)
 -  Piscine Fang (8%)
 -  Cephalos Fin (2%)
 
@@ -25,7 +25,7 @@
 
 1. Body Carves (x1)
 
--  Piscine Fang+ (40%)
+-  HvyPiscineFang (40%)
 -  Coral Cphlos Scl (20%)
 -  Coral Cphlos Fin (20%)
 -  Piscine Liver (15%)

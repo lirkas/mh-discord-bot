@@ -5,7 +5,7 @@
 -  Velociprey Fang (40%)
 -  Velociprey Scale (29%)
 -  Velociprey Hide (23%)
--  Small Monster Bone (8%)
+-  Sm Monster Bone (8%)
 
 
 
@@ -14,7 +14,7 @@
 1. Body Carves (x1)
 
 -  Velociprey Fang (35%)
--  Velociprey Scale+ (35%)
+-  Velociprey Scle+ (35%)
 -  Velociprey Hide+ (30%)
 
 
@@ -24,6 +24,6 @@
 1. Body Carves (x1)
 
 -  RobustWyvernBone (50%)
--  Velociprey Scale+ (25%)
+-  Velociprey Scle+ (25%)
 -  Velociprey Hide+ (20%)
 -  Velociprey Fang (5%)

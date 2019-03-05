@@ -31,10 +31,10 @@
 
 1. Body Carves (x3)
 - Hermitaur Shell (60%)
-- Large Monster Bone (19%)
+- Lg Monster Bone (19%)
 - Hermitaur Claw (10%)
 - Black Pearl (10%)
-- Carapaceon Brains (1%)
+- CarapaceonBrains (1%)
         
 2. Break Shell
 - Blood Red Horn x1 (50%)
@@ -60,23 +60,23 @@
 ☆ Daimyo Hermitaur - MHFU High Rank
 
 1. Body Carves (x3)
-- Hermitaur Carapace (55%)
+- Hermitaur Carpce (55%)
 - Monster Bone+ (19%)
 - Hermitaur Claw+ (10%)
 - Black Pearl (10%)
 - Hermitaur Shell (5%)
-- Carapaceon Brains+ (1%)
+- CarapaceonBrain+ (1%)
         
 2. Break Shell
 - Blood Red Horn x1 (50%)
-- Hermitaur Carapace x1 (25%)
-- Hard Monster Bone x1 (15%)
+- Hermitaur Carpce x1 (25%)
+- Hrd Monster Bone x1 (15%)
 - Wyvern Skull Shl x1 (5%)
 - Monoblos Heart x1 (5%)
         
 3. Break Claw
 - Hermitaur Claw+ x1 (78%)
-- Hermitaur Carapace x1 (22%)
+- Hermitaur Carpce x1 (22%)
 
 4. Shiny Drop : finishes eating without noticing hunter
 - Crab Pearl (38%)
@@ -85,7 +85,7 @@
         
 5. Capture
 - Hermitaur Claw+ x1 (45%)
-- Hermitaur Carapace x1 (35%)
+- Hermitaur Carpce x1 (35%)
 - Black Pearl x2 (20%)
 
 

@@ -1,7 +1,7 @@
 ☆ Purple Gypceros - MHFU Low Rank
 
 1. Body Carve (x3)
-- Purple Rubbery Hide (61%)
+- Pur Rubbery Hide (61%)
 - Power Extract (20%)
 - Poison Sac (10%)
 - Lightcrystal (8%)
@@ -20,7 +20,7 @@
 4. Capture
 - Poison Sac x2 (46%)
 - Power Extract x2 (34%)
-- Purple Rubbery Hide x1 (20%)
+- Pur Rubbery Hide x1 (20%)
 
 
 
@@ -28,15 +28,15 @@
 ☆ Purple Gypceros - MHFU High Rank
 
 1. Body Carve (x3)
-- Purple Gypceros Wing (43%)
+- Pur Gypceros Wng (43%)
 - Power Extract (23%)
 - Toxin Sac (18%)
 - Lightcrystal (8%)
-- Purple Gypceros Hide (5%)
+- Pur Rubbery Hide (5%)
 - Novacrystal (3%)
 
 2. Live Carving : When playing dead (x3)
-- Gypceros Wing (60%)
+- Pur Gypceros Wng (60%)
 - Wyvern Sobs (30%)
 - Toxin Sac (10%)
 
@@ -49,8 +49,8 @@
 4. Capture
 - Toxin Sac x2 (42%)
 - Power Extract x2 (30%)
-- Gypceros Wing x1 (18%)
-- Purple Gypceros Hide x1 (10%)
+- Pur Gypceros Wng x1 (18%)
+- Pur Rubbery Hide x1 (10%)
 
 
 

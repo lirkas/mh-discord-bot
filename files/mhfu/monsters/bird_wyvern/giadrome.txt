@@ -18,12 +18,12 @@
 - Giadrome Claw (53%)
 - Giadrome Hide (30%)
 - Giaprey Scale (15%)
-- Giadrome Head (2%)
+- Giadrome Skull (2%)
         
 2. Capture
 - Giadrome Hide x1 (56%)
 - Screamer x2 (39%)
-- Giadrome Head x1 (5%)
+- Giadrome Skull x1 (5%)
 
 
 
@@ -33,11 +33,11 @@
 1. Body Carves (x2)
 - Giadrome Claw+ (40%)
 - Giaprey Scale+ (23%)
-- Giadrome Hide+ (20%)
+- Giaprey Hide+ (20%)
 - Giadrome Hide (10%)
-- Giadrome Head (7%)
+- Giadrome Skull (7%)
         
 2. Capture
-- Giadrome Hide+ x2 (40%)
+- Giaprey Hide+ x2 (40%)
 - Screamer x2 (36%)
 - Giaprey Scale+ (24%)

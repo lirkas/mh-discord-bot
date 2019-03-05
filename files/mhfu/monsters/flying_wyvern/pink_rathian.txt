@@ -1,24 +1,24 @@
 ☆ Pink Rathian - MHFU Low Rank
 
 1. Body Carves (x3)
-- Pink Rathian Scale (49%)
-- Pink Rathian Shell (30%)
-- Fire Wyvern Fluid (10%)
+- Pnk Rathian Scl (49%)
+- Pnk Rathian Shl (30%)
+- FireWyvern Fluid (10%)
 - Flame Sac (6%)
 - FireWyvrn Marrow (3%)
 - Rathian Spike (2%)
         
 2. Tail Carves (x1)
-- Pink Rathian Scale (56%)
-- Pink Rathian Shell (22%)
+- Pnk Rathian Scl (56%)
+- Pnk Rathian Shl (22%)
 - Rathian Spike (8%)
 - FireWyvrn Marrow (7%)
 - Monster Bone+ (6%)
 - Rathian Plate (1%)
         
 3. Break Head
-- Pink Rathian Shell x1 (73%)
-- Pink Rathian Scale x1 (25%)
+- Pnk Rathian Shl x1 (73%)
+- Pnk Rathian Scl x1 (25%)
 - Rathian Plate x1 (2%)
         
 4. Break Wing
@@ -27,12 +27,12 @@
         
 5. Shiny Drop : awoken from sleep or got trapped
 - Wyvern Tears (74%)
-- Pink Rathian Scale (25%)
+- Pnk Rathian Scl (25%)
 - Rathian Plate (1%)
         
 6. Capture
-- Pink Rathian Scale x2 (50%)
-- Pink Rathian Shell x1 (36%)
+- Pnk Rathian Scl x2 (50%)
+- Pnk Rathian Shl x1 (36%)
 - FireWyvrn Marrow x1 (10%)
 - Rathian Plate x1 (4%)
 
@@ -42,24 +42,24 @@
 ☆ Pink Rathian - MHFU High Rank
 
 1. Body Carves (x3)
-- Pink Rathian Scale+ (45%)
-- Pink Rathian Carapace (26%)
+- Pnk Rathian Scl+ (45%)
+- Pnk Rathian Cpc (26%)
 - Inferno Sac (11%)
 - Rathian Spike (8%)
-- Fire Wyvern BrainStem (8%)
+- FireWyvrn BrnStm (8%)
 - Rathian Spike+ (2%)
         
 2. Tail Carves (x1)
-- Pink Rathian Scale+ (42%)
-- Pink Rathian Carapace (28%)
+- Pnk Rathian Scl+ (42%)
+- Pnk Rathian Cpc (28%)
 - Rathian Spike+ (12%)
-- Fire Wyvern BrainStem (10%)
+- FireWyvrn BrnStm (10%)
 - Rathian Plate (7%)
 - Rathian Ruby (1%)
         
 3. Break Head
-- Pink Rathian Scale+ x1 (66%)
-- Pink Rathian Carapace x1 (32%)
+- Pnk Rathian Scl+ x1 (66%)
+- Pnk Rathian Cpc x1 (32%)
 - Rathian Ruby x1 (2%)
         
 4. Break Wing
@@ -69,12 +69,12 @@
 5. Shiny Drop : awoken from sleep or got trapped
 - Wyvern Tears (37%)
 - Wyvern Sobs (37%)
-- Pink Rathian Scale+ (25%)
+- Pnk Rathian Scl+ (25%)
 - Rathian Ruby (1%)
         
 6. Capture
-- Pink Rathian Carapace x1 (52%)
-- Pink Rathian Scale+ x2 (24%)
+- Pnk Rathian Cpc x1 (52%)
+- Pnk Rathian Scl+ x2 (24%)
 - FireWyvrn Marrow x2 (15%)
 - Rathian Spike+ x1 (8%)
 - Rathian Ruby x1 (1%)

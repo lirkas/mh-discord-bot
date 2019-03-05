@@ -3,23 +3,23 @@
 1. Body Carves (x9)
 - Azure LaoS Shell (38%)
 - Lao-Shan Scale+ (29%)
-- Lao-Shan Claw (16%)
-- Lao-Shan Shell (9%)
-- Lao-Shan Carapace (5%)
-- Lao-Shan Ruby (3%)
+- Lao-Shan's Claw (16%)
+- Lao-Shan's Shell (9%)
+- Lao-ShanCarapace (5%)
+- Lao-Shan's Ruby (3%)
         
 2. Live Carving : jump to its back (x3)
-- Elder Dragon Bone (35%)
+- Eldr Dragon Bone (35%)
 - Lao-Shan Scale+ (28%)
-- Dragon Stone (25%)
+- Dragon Herb (25%)
 - Azure LaoS Shell (12%)
         
 3. Break Horn
 - Azure LaoS Horn x1 (97%)
-- Lao-Shan Ruby x1 (3%)
+- Lao-Shan's Ruby x1 (3%)
 
 4. Break Head
-- Lao-Shan Carapace x1 (57%)
+- Lao-ShanCarapace x1 (57%)
 - Azure LaoS Shell x1 (18%)
 - Lg Ancient Stone x1 (6%)
 - Ancient Stone x1 (6%)
@@ -28,24 +28,24 @@
 - Sm Ancient Stone x1 (3%)
         
 5. Break Back
-- Lao-Shan Carapace x1 (48%)
+- Lao-ShanCarapace x1 (48%)
 - Azure LaoS Shell x1 (25%)
 - Ancient Stone x1 (7%)
 - AncientFlatstone x1 (6%)
 - Sm Ancient Stone x1 (5%)
 - Lg Ancient Stone x1 (4%)
 - Ancient StoneRod x1 (3%)
-- Lao-Shan Ruby x1 (2%)
+- Lao-Shan's Ruby x1 (2%)
         
 6. Break Left Shoulder
 - Azure LaoS Shell x1 (57%)
 - Lao-Shan Scale+ x2 (41%)
-- Lao-Shan Ruby x1 (2%)
+- Lao-Shan's Ruby x1 (2%)
         
 7. Break Right Shoulder
 - Azure LaoS Shell x1 (57%)
 - Lao-Shan Scale+ x2 (41%)
-- Lao-Shan Ruby x1 (2%)
+- Lao-Shan's Ruby x1 (2%)
 
 
 

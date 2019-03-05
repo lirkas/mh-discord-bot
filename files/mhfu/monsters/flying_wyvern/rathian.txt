@@ -36,10 +36,10 @@
 1. Body Carves (x3)
 - Rathian Scale (49%)
 - Rathian Shell (30%)
-- Fire Wyvern Fluid (10%)
+- FireWyvern Fluid (10%)
 - Flame Sac (8%)
 - Rathian Spike (2%)
-- Fire Wyvern Marrow (1%)
+- FireWyvrn Marrow (1%)
         
 2. Tail Carves (x1)
 - Rathian Scale (59%)
@@ -47,7 +47,7 @@
 - Rathian Spike (8%)
 - Monster Bone+ (6%)
 - Rathian Plate (3%)
-- Fire Wyvern Marrow (2%)
+- FireWyvrn Marrow (2%)
         
 3. Break Head
 - Rathian Shell x1 (71%)
@@ -66,7 +66,7 @@
 6. Capture
 - Rathian Scale x2 (52%)
 - Rathian Shell x1 (36%)
-- Fire Wyvern Marrow x1 (10%)
+- FireWyvrn Marrow x1 (10%)
 - Rathian Plate x1 (2%)
 
 
@@ -79,7 +79,7 @@
 - Rathian Carapace (26%)
 - Inferno Sac (15%)
 - Rathian Spike (8%)
-- Fire Wyvern BrainStem (4%)
+- FireWyvrn BrnStm (4%)
 - Rathian Spike+ (2%)
         
 2. Tail Carves (x1)
@@ -87,7 +87,7 @@
 - Rathian Carapace (26%)
 - Rathian Plate (12%)
 - Rathian Spike+ (8%)
-- Fire Wyvern BrainStem (4%)
+- FireWyvrn BrnStm (4%)
 - Rathian Ruby (2%)
         
 3. Break Head
@@ -109,7 +109,7 @@
 - Rathian Carapace x1 (58%)
 - Rathian Scale+ x2 (30%)
 - Rathian Plate x1 (6%)
-- Fire Wyvern BrainStem x1 (3%)
+- FireWyvrn BrnStm x1 (3%)
 - Rathian Ruby x1 (3%)
 
 

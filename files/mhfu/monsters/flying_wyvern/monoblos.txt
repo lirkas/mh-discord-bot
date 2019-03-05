@@ -8,7 +8,7 @@
 
 2. Tail Carves (x2)
 -  Monoblos Shell (80%)
--  Lrg Monster Bone (20%)
+-  Lg Monster Bone (20%)
 
 3. Capture Rewards
 -  Monoblos Shell x1 (67%)

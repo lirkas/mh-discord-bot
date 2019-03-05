@@ -1,23 +1,23 @@
 ☆ Gold Rathian - MHFU High Rank
 
 1. Body Carves (x3)
-- Gold Rathian Scale+ (43%)
-- Gold Rathian Carapace (30%)
+- Gld Rathian Scl+ (43%)
+- Gld Rathian Cpc (30%)
 - Rathian Spike (10%)
 - Rathian Spike+ (10%)
 - Inferno Sac (5%)
-- Fire Wyvern BrainStem (3%)
+- FireWyvrn BrnStm (3%)
         
 2. Tail Carves (x1)
-- Gold Rathian Scale+ (45%)
-- Gold Rathian Carapace (30%)
+- Gld Rathian Scl+ (45%)
+- Gld Rathian Cpc (30%)
 - Rathian Spike+ (10%)
 - Rathian Plate (10%)
 - Rathian Ruby (5%)
         
 3. Break Head
-- Gold Rathian Carapace x1 (61%)
-- Gold Rathian Scale+ x1 (35%)
+- Gld Rathian Cpc x1 (61%)
+- Gld Rathian Scl+ x1 (35%)
 - Rathian Ruby x1 (4%)
         
 4. Break Wing
@@ -27,14 +27,14 @@
 5. Shiny Drop : awoken from sleep or flashed while flying
 - Wyvern Tears (36%)
 - Wyvern Sobs (35%)
-- Gold Rathian Scale (25%)
+- Gld Rathian Scl+ (25%)
 - Rathian Ruby (4%)
         
 6. Capture
-- Gold Rathian Carapace x1 (48%)
-- Gold Rathian Scale+ x2 (30%)
+- Gld Rathian Cpc x1 (48%)
+- Gld Rathian Scl+ x2 (30%)
 - FireWyvrn Marrow x3 (8%)
-- Fire Wyvern BrainStem x2 (7%)
+- FireWyvrn BrnStm x2 (7%)
 - Rathian Ruby x1 (7%)
 
 

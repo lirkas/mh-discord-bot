@@ -19,11 +19,11 @@
 1. Body Carves (x2)
 - Toxin Sac (30%)
 - Ioprey Scale+ (28%)
-- Iodrome Hide+ (25%)
+- Ioprey Hide+ (25%)
 - Iodrome Hide (10%)
 - Iodrome Skull (7%)
         
 2. Carves
-- Iodrome Hide+ x2 (40%)
+- Ioprey Hide+ x2 (40%)
 - Toxin Sac x2 (36%)
 - Ioprey Scale+ x2 (24%)

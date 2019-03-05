@@ -113,7 +113,7 @@
 
 3. Capture Rewards
 -  Hvy Tigrex Shell x1 (30%)
--  Hvy Tigrex Claw x1 (25%)
+-  Hvy Tigrex Fang x1 (25%)
 -  ThickTigrexScale x2 (20%)
 -  LeathrTigrexTail x1 (10%)
 -  HvnlyTigrexScale x1 (5%)
@@ -122,7 +122,7 @@
 -  Wyvern Sobs (50%)
 -  Wyvern Tears (25%)
 -  ThickTigrexScale (15%)
--  HardTigrecClaw (10%)
+-  Hard Tigrex Claw (10%)
 
 5. Break Head
 -  Hvy Tigrex Fang x1 (30%)

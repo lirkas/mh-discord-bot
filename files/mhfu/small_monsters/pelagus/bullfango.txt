@@ -25,7 +25,7 @@
 
 1. Body Carves (x1)
 
--  Bullfango Pelt+ (30%)
+-  ThkBullfangoPelt (30%)
 -  Raw Meat (25%)
 -  Bullfango Head (20%)
 -  Giant Bone (15%)

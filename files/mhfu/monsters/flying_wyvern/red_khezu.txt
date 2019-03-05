@@ -62,7 +62,7 @@
 - Thunder Sac (14%)
 - Wyvern Stone (8%)
 - Alluring Webbing (4%)
-- Large Wyvern Stone (4%)
+- Big Wyvern Stone (4%)
         
 2. Break Head/Back
 - StrAlluringWing x1 (50%)
