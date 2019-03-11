@@ -62,7 +62,7 @@ class UI:
             role_name = args[0]
             perms_id = args[1]
             await create_role(ui, role_name, perms_id)
-   
+
         elif request.startswith("dm"):
             args = request.split( )
             uid = args[1]
@@ -78,23 +78,6 @@ class UI:
                 channel = user.dm_channel
 
             await channel.send(msg)
-
-        elif request.startswith("get_invite"):
-            args = request.split( )
-            chan_id = args[1]
-            chan = server.get_channel(int(chan_id))
-        
-            invite = await chan.create_invite(max_uses=1)
-
-            print("invite link :\n  "+str(invite))
-
-        elif request.startswith("create_guild"):
-            args = request.split( )
-            name = ' '.join(args[1:])
-            region = discord.VoiceRegion.eu_west
-            icon = values.get_icon('dark')
-
-            await client.create_guild(name, region=region, icon=icon)
 
         elif request.startswith('-'):
             await self.channel.send(request[1:])
@@ -150,7 +133,6 @@ async def set_channel(ui, id=None, index=None):
         ui.channel = ui.channels[int(index)]
 
     print('channel set to '+str(ui.channel))
-
 
 async def get_roles(client):
 
@@ -216,4 +198,3 @@ async def create_role(client, role_name, perms_id):
     permissions = discord.Permissions(int(perms_id))
     role = await server.create_role(name=role_name,permissions=permissions)
     print('created role '+role.name)
- 

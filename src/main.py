@@ -15,12 +15,6 @@ import client.uinput as uinput
 import client.utils as utils
 
 
-# Logs discord events into a file
-logger = log.getLogger('discord')
-handler = log.FileHandler(filename='discord.log', encoding='utf-8', mode='w') 
-handler.setFormatter(log.Formatter('%(asctime)s:%(levelname)s:%(name)s: %(message)s')) 
-logger.addHandler(handler)
-
 # initialize bot and add commands
 client = cbot.Bot()
 client.add_cog(_util.Util)
