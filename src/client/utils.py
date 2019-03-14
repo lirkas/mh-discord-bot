@@ -28,6 +28,11 @@ def get_uid(string):
 # fetch a value with the given ID from a file
 def get(id):
     
+    # get the token from env - heroku compat
+    if id == 'BOT_TOKEN':
+        if id in os.environ.keys():
+            return os.environ.get(id)
+
     if os.path.exists('../files/config_.json'):
         f = open('../files/config_.json', 'r')
     else:
