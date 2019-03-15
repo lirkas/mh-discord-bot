@@ -2,24 +2,26 @@
 Files used in this application are made from / with the help of
 the following people :
 
-MHF1 Files :
-  EvelestaMin
-  Ruumi
+**MHF1 Files**
+* EvelestaMin
+* Ruumi
 
-MHFU files :
-  Aino
-  Jely
+**MHFU files**
+* Aino
+* Jely
 
-MHP3 Files :
-  EvelestaMin
-  Denka
+**MHP3 Files**
+* EvelestaMin
+* Denka
 
-MHXX Files :
-  Rommel
-  NateRN
+**MHXX Files**
+* Rommel
+* NateRN
 
+----
 ## SOURCES FOR MONSTERS DATA
 Sources used to gather infos (unsorted) :
-  -soon-
+> -soon-
 
-Sorry in advance if some people/sources are not mentioned here
+----
+*Sorry in advance if some people/sources are not mentioned here*
