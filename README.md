@@ -1,4 +1,4 @@
-#**MH Discord Bot**
+# MH Discord Bot
 
 Discord bot that shows obtainable items from monsters
 in Monster Hunter games.
