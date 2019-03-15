@@ -9,7 +9,7 @@ class Bot(cmds.Bot):
         super().__init__(utils.get('PREFIX'), case_insensitive=True, **options)
         self.self_bot = False
         self.formatter = HelpFormatter
-        self.activity = discord.Activity(type=1, name='Universe')
+        self.activity = discord.Activity(type=1, name='Monster Hunter')
         self.owner_id = utils.get('OWNER_ID')
         self.remove_command('help')
         self.command_not_found = 'Command not found\nCheck the available commands with `'+self.command_prefix+'help`'
