@@ -30,4 +30,4 @@ python run.py
 ```
 ----
 ## Contributions - Monsters Data :
-* [README.txt](https://github.com/lirkas/mh-discord-bot/blob/master/files/README.md)
+* [HERE](https://github.com/lirkas/mh-discord-bot/blob/master/files/README.md)
