@@ -4,7 +4,7 @@
 -  Genprey Scale (40%)
 -  Gendrome Hide (30%)
 -  Paralysis Sac (30%)
-        
+
 2. Capture
 -  Gendrome Hide x1 (45%)
 -  Paralysis Sac x1 (35%)
@@ -36,7 +36,7 @@
 - Genprey Hide+ (15%)
 - Gendrome Skull (7%)
 - Gendrome Hide (5%)
-        
+
 2. Capture
 - Genprey Hide+ x2 (40%)
 - Paralysis Sac x2 (36%)
