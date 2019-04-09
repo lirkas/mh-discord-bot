@@ -245,6 +245,32 @@ class Monster:
 
         return result
 
+    # output valid json format
+    def __str__(self): 
+        
+        s = '{\n\tname : \'+self.name+\' '
+        result = []
+
+        for _rank in self.ranks:
+            s += '{\n\trank :'+_rank+'\n'
+
+            for cat in self.categories:
+                s += "\n\t"+cat+"\n\n"
+
+                # if the category does not exist for this rank
+                try:
+                    self.drops[_rank][cat]
+                except KeyError:
+                    log.warning('no ('+cat+') for '+self.name+' '+_rank+'')
+                    s+= "\t\tNo data for this category\n"
+                    continue
+                        
+
+                for drop in self.drops[_rank][cat]:
+                    s+= "\t\t"+str(drop)+"\n"
+
+        return s
+
 # parse a text file to extract all values and
 # create a monster object from it
 

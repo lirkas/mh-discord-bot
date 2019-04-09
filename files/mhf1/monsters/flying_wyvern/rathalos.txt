@@ -50,4 +50,4 @@
 -  Rathalos Scale+ (35%)
 -  Rathalos Plate (12%)
 -  Rathalos BrainStem (6%)
--  Rarhalos Ruby (2%)
+-  Rathalos Ruby (2%)
