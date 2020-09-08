@@ -19,10 +19,10 @@ mhp3_sm_monster_path = utils.get('MHP3_SM_MONSTER_PATH')
 mhp3_monster_path = utils.get('MHP3_MONSTER_PATH')
 mhxx_monster_path = utils.get('MHXX_MONSTER_PATH')
 
-class Mh:
+class Mh(cmds.Cog):
 
     def __init__(self,bot):
-        #self.bot = bot
+        self.bot = bot
         self.monsters = {}
 
     # defines the class used to create commands
@@ -37,7 +37,7 @@ class Mh:
     args_infos=['The item to search for']
     description='Find the possible ways to obtain an item (MHP3)'
     @cmds.command(cls=cls, name=name, args=args, args_infos=args_infos, description=description, aliases=aliases)
-    async def find_item_p3(ctx):
+    async def find_item_p3(self,ctx):
         
         args = ctx.message.content.split()
         args.pop(0)
@@ -60,7 +60,7 @@ class Mh:
     aliases=['ifu']
     description='Find the possible ways to obtain an item (MHFU)'
     @cmds.command(cls=cls, name=name, args=args, args_infos=args_infos, description=description, aliases=aliases)
-    async def find_item_fu(ctx):
+    async def find_item_fu(self,ctx):
         
         args = ctx.message.content.split()
         args.pop(0)
@@ -83,7 +83,7 @@ class Mh:
     aliases=['if1']
     description='Find the possible ways to obtain an item (MHF1)'
     @cmds.command(cls=cls, name=name, args=args, args_infos=args_infos, description=description, aliases=aliases)
-    async def find_item_f1(ctx):
+    async def find_item_f1(self,ctx):
         
         args = ctx.message.content.split()
         args.pop(0)
@@ -106,7 +106,7 @@ class Mh:
     aliases=['ixx']
     description='Find the possible ways to obtain an item (MHXX)'
     @cmds.command(cls=cls, name=name, args=args, args_infos=args_infos, description=description, aliases=aliases)
-    async def find_item_xx(ctx):
+    async def find_item_xx(self,ctx):
         
         args = ctx.message.content.split()
         args.pop(0)
@@ -131,7 +131,7 @@ class Mh:
     args_infos=['The monster to look for', 'Rank: [1-2][LR][HR]']
     description='Display obtainable items from a specific monster (MHP3)'
     @cmds.command(cls=cls, name=name, args=args, args_infos=args_infos, description=description, aliases=aliases)
-    async def find_monster_p3(ctx):
+    async def find_monster_p3(self,ctx):
         
         args = ctx.message.content.split()
         args.pop(0)
@@ -154,7 +154,7 @@ class Mh:
     args_infos=['The monster to look for', 'Rank: [1-2][LR][HR][G]']
     description='Display obtainable items from a specific monster (MHFU)'
     @cmds.command(cls=cls, name=name, args=args, args_infos=args_infos, description=description, aliases=aliases)
-    async def find_monster_fu(ctx):
+    async def find_monster_fu(self,ctx):
         
         args = ctx.message.content.split()
         args.pop(0)
@@ -179,7 +179,7 @@ class Mh:
     args_infos=['The monster to look for', 'Rank: [LR][HR][G]']
     description='Display obtainable items from a specific monster (MHF1)'
     @cmds.command(cls=cls, name=name, args=args, args_infos=args_infos, description=description, aliases=aliases)
-    async def find_monster_f1(ctx):
+    async def find_monster_f1(self,ctx):
         
         args = ctx.message.content.split()
         args.pop(0)
@@ -202,7 +202,7 @@ class Mh:
     args_infos=['The monster to look for', 'Rank: [LR][HR][G][?-?]']
     description='Display obtainable items from a specific monster (MHXX)'
     @cmds.command(cls=cls, name=name, args=args, args_infos=args_infos, description=description, aliases=aliases)
-    async def find_monster_xx(ctx):
+    async def find_monster_xx(self,ctx):
         
         args = ctx.message.content.split()
         args.pop(0)

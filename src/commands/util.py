@@ -1,5 +1,3 @@
-
-
 from operator import attrgetter
 
 import discord
@@ -8,7 +6,7 @@ import discord.ext.commands as cmds
 import client.bot as bot
 
 
-class Util:
+class Util(cmds.Cog):
 
     def __init__(self, bot):
         self.bot = bot
@@ -22,7 +20,7 @@ class Util:
     name='cmds'
     description='Display all the available commands'
     @cmds.command(cls=cls, name=name, description=description)
-    async def show_commands(ctx):
+    async def show_commands(self,ctx):
         cmds = ctx.bot.commands
         prefix = ctx.bot.command_prefix
         await ctx.send('```'+get_commands(list(cmds),prefix=prefix)+'```')
@@ -37,7 +35,7 @@ class Util:
     args_infos=['The command to get help from']
     description='Display help for a specific command'
     @cmds.command(cls=cls, name=name, args=args, args_infos=args_infos, description=description)
-    async def help(ctx):
+    async def help(self,ctx):
      
         msg = ctx.message
         cmds = ctx.bot.commands

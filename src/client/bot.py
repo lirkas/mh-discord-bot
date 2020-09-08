@@ -32,13 +32,13 @@ class Bot(cmds.Bot):
 
 class Command(cmds.Command):
 
-    def __init__(self, name, callback, **kwargs):
-        super().__init__(name, callback, **kwargs)
+    def __init__(self, callback, **kwargs):
+        super().__init__(callback, **kwargs)
         self.args = kwargs.get('args',[])
         self.args_infos = kwargs.get('args_infos',[])
 
 
-class HelpFormatter(cmds.HelpFormatter):
+class HelpFormatter(cmds.DefaultHelpCommand):
 
     def __init__(self, **kwargs):
         super().__init__(**kwargs)

@@ -7,6 +7,8 @@ from aioconsole import ainput
 from threading import Thread
 import discord
 
+from discord.ext import commands as cmds
+
 import commands.mh as _mh
 import commands.util as _util
 
@@ -17,8 +19,8 @@ import client.utils as utils
 
 # initialize bot and add commands
 client = cbot.Bot()
-client.add_cog(_util.Util)
-client.add_cog(_mh.Mh)
+client.add_cog(_util.Util(client))
+client.add_cog(_mh.Mh(client))
 
 # initialize UI
 ui = uinput.UI(client)
@@ -64,4 +66,4 @@ async def on_ready():
 
     asyncio.ensure_future(read_input(), loop=client.loop)
 
-client.run(utils.get('BOT_TOKEN'))
+client.run(utils.get('BOT_TOKEN')
