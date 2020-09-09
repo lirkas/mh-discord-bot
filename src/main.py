@@ -66,4 +66,4 @@ async def on_ready():
 
     asyncio.ensure_future(read_input(), loop=client.loop)
 
-client.run(utils.get('BOT_TOKEN')
+client.run(utils.get('BOT_TOKEN'));
