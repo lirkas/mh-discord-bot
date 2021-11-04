@@ -591,23 +591,30 @@ def find_infos(line):
 
 
 # method to search a specific item into the given list
-def find_item(monster_list, item_name):
+def find_item(monster_list, item_name, as_list=False):
 
     ml = monster_list
     name = item_name
 
     results = ""
+    results_list = []
     for m in ml.values():
 
         found = m.find_item(name)
 
         if len(found) > 0:
+            results_list += ["\n\n"+m.name+found]
             results = results+"\n\n"+m.name
             results = results+found
+
     if len(results) == 0:
         results = "No result found."
+        results_list += [results]
 
-    return results
+    if as_list == True:
+        return results_list
+    else:
+        return results
 
 def find_files(path):
 
@@ -682,7 +689,7 @@ def search_item(name, monster_list):
     # find all the possible items first
     item_list = find_items(monster_list)
 
-    results = ""
+    results = []
     # if name is the ID - check and return the item
     try:
         item_id = int(name)
@@ -691,8 +698,13 @@ def search_item(name, monster_list):
     else:
         # if the ID does exist
         try:
-            results = ['['+str(item_id)+'] '+item_list[item_id]]
-            results.append(find_item(monster_list,item_list[item_id]))
+            results += ['['+str(item_id)+'] '+item_list[item_id]]
+            result = find_item(monster_list,item_list[item_id])
+            # if the message will be too long - split it
+            if len(result) > 1800:
+                results += find_item(monster_list,item_list[item_id],as_list=True)
+            else:
+                results += [result]
             return results
         except IndexError:
             return ["Incorrect Item ID"]
@@ -707,8 +719,13 @@ def search_item(name, monster_list):
 
     # if exaclty 1 match is found
     if matches_s == 1:
-        results = ['['+str(item_list.index(matches[0]))+'] '+matches[0]]
-        results.append(find_item(monster_list,matches[0]))
+        results += ['['+str(item_list.index(matches[0]))+'] '+matches[0]]
+        result = find_item(monster_list,matches[0])
+        # if the message will be too long - split it
+        if len(result) > 1800:
+            results += find_item(monster_list,matches[0],as_list=True)
+        else:
+            results += [result]
         return results
 
     # if multiples match are found
