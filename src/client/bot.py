@@ -6,7 +6,13 @@ import client.utils as utils
 class Bot(cmds.Bot):
     
     def __init__(self, **options):
-        super().__init__(utils.get('PREFIX'), case_insensitive=True, **options)
+        intents = discord.Intents.default()
+        intents.message_content = True
+        super().__init__(
+            utils.get('PREFIX'), 
+            case_insensitive=True, 
+            intents=intents, 
+            **options)
         self.self_bot = False
         self.formatter = HelpFormatter
         self.activity = discord.Activity(type=1, name='Monster Hunter')
