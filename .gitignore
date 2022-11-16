@@ -1,0 +1,6 @@
+.*
+__pycache__
+!.gitignore
+files/config_.json
+files/errors.txt
+test.py
