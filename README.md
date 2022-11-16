@@ -11,7 +11,7 @@ Infos available for :
 
 ----
 ## Requirements :
-- python 3
+- python3
 - pip
 
 Any system that can run both should be able to host and run the bot.
@@ -19,9 +19,15 @@ Any system that can run both should be able to host and run the bot.
 ----
 ## Install required modules using pip :
 ```sh
-pip install -m files/modules.list
+pip install -r files/modules.list
 ```
-Open 'files/config.json' and set your own bot authentication token in it
+
+----
+## Configure the Bot :
+Open `files/config.json` and set your own bot authentication token in it.
+<br>
+If `files/config_.json` is present, it will be used as config file instead of
+`files/config.json`
 
 ----
 ## Run the bot :
