@@ -19,12 +19,13 @@ import client.utils as utils
 
 # initialize bot and add commands
 client = cbot.Bot()
-client.add_cog(_util.Util(client))
-client.add_cog(_mh.Mh(client))
 
 # initialize UI
 ui = uinput.UI(client)
 
+async def setupBot(client):
+    await client.add_cog(_util.Util(client))
+    await client.add_cog(_mh.Mh(client))
 
 async def restart():
     os.execv("main.py",[''])
@@ -51,6 +52,7 @@ async def read_input():
 
 @client.event
 async def on_ready():
+    await setupBot(client)
     print('Logged in as '+client.user.name+' ['+str(client.user.id)+']')
     print('__')
     print('setting up server/channel')
@@ -66,4 +68,5 @@ async def on_ready():
 
     asyncio.ensure_future(read_input(), loop=client.loop)
 
+#asyncio.run(setupBot(client))
 client.run(utils.get('BOT_TOKEN'))

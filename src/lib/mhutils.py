@@ -279,7 +279,7 @@ def text_to_obj(path):
     log.info("processing file "+path)
     errors = []
 
-    file = open(path)
+    file = open(path, encoding="utf_8")
     file.readlines()
     size = file.tell()
     file.seek(0)
