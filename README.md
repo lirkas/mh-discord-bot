@@ -34,6 +34,15 @@ If `files/config_.json` is present, it will be used as config file instead of
 ```sh
 python run.py
 ```
+
+## Run the bot in background :
+```sh
+nohup python -u run.py > output.log &
+```
+and check the logs in realtime with :
+```sh
+tail -f output.log
+```
 ----
 ## Contributions - Monsters Data :
 * [HERE](https://github.com/lirkas/mh-discord-bot/blob/master/files/README.md)
