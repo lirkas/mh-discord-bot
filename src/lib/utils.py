@@ -91,3 +91,34 @@ def export_list(_list, path):
     for e in _list:
         f.write(str(e)+'\n')
     f.close()
+
+def filetype_exists_for_file(filename: str, other_filenames: list, 
+                            filetype_src: str = None, filetype_dst: str = None):
+    '''
+    check if the file has another file available for the specific filetype\n
+    requires a `filename` for the source file
+    and `other_filenames` list that contain filenames of the type to look for\n
+    example :
+    using file `filename=rathalos.txt` we can check if there is a 
+    `rathalos.hitzone.json` file available in `other_filenames`
+
+    Returns:
+        `True` if a matching filename is found
+    '''
+    # nothing to search in
+    if len(other_filenames) == 0:
+        log.debug('no filenames list to search in')
+        return False
+    
+    if filetype_src == None:
+        filetype_src = '.'+filename.split('.')[-1]
+    
+    if filetype_dst == None:
+        filetype_dst = '.'+other_filenames[0].split('.')[-1]
+    
+    other_filename = filename.replace(filetype_src, filetype_dst)
+
+    log.debug('searching for '+other_filename)
+    if other_filename in other_filenames:
+        return True
+    return False
