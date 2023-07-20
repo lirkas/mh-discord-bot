@@ -103,12 +103,12 @@ def filetype_exists_for_file(filename: str, other_filenames: list,
     `rathalos.hitzone.json` file available in `other_filenames`
 
     Returns:
-        `True` if a matching filename is found
+        the value of the matching filename if found
     '''
     # nothing to search in
     if len(other_filenames) == 0:
         log.debug('no filenames list to search in')
-        return False
+        return ''
     
     if filetype_src == None:
         filetype_src = '.'+filename.split('.')[-1]
@@ -120,5 +120,5 @@ def filetype_exists_for_file(filename: str, other_filenames: list,
 
     log.debug('searching for '+other_filename)
     if other_filename in other_filenames:
-        return True
-    return False
+        return other_filename
+    return ''
