@@ -3,6 +3,7 @@ import json
 import logging as log
 
 import lib.utils as utils
+import lib.textutils as txtutils
 
 files_path = '../files'
 mhfu_path = files_path+'/mhfu'
@@ -69,9 +70,20 @@ wordlist_fu = ["fu","mhfu"]
 wordlist_f1 = ['f1','mhf1']
 wordlist_xx = ['xx','mhxx']
 
+dmg_type_cut = 'CUT'
+dmg_type_impact = 'IMPC'
+dmg_type_shot = 'SHOT'
+
+dmg_type_fire = 'FIR'
+dmg_type_water = 'WTR'
+dmg_type_thunder = 'THN'
+dmg_type_dragon = 'DRG'
+dmg_type_ice = 'ICE'
+dmg_stagger = 'STAGR'
 
 wordlist_rank = wordlist_12+wordlist_lr+wordlist_hr+wordlist_g+wordlist_1_4+wordlist_5_8+wordlist_9_10+wordlist_11_12+wordlist_13_15+wordlist_ex
 wordlist_game = wordlist_fu+wordlist_p3+wordlist_f1+wordlist_xx
+
 
 log.basicConfig(level='ERROR')
 
@@ -121,11 +133,41 @@ class Drop:
     def show(self):
         return ''+self.name+' x'+str(self.qty)+' ('+str(self.rate)+'%)'
 
+class Stats:
+    'Stats or related monster combat infos'
+
+    def __init__(self):
+        self.parts: list[Part] = []
+        self.modes: list[str] = []
+        self.notes: dict[str,str] = {}
+        self.rage_multiplier = 1.0
+
+class Part:
+
+    def __init__(self, name):
+        self.name = name
+        self.hitzone_values: list[HitzoneValues] = []
+        self.stagger = -1
+        
+class HitzoneValues:
+
+    def __init__(self, mode):
+        self.mode: str = mode
+
+        self.impact = -1
+        self.cut = -1
+        self.shot = -1
+        self.fire = -1
+        self.water = -1
+        self.thunder = -1
+        self.ice = -1
+        self.dragon = -1
 
 class Monster:
     'Defines monster structure'
 
-    def __init__(self, name, game):
+    def __init__(self, name, game, tid = -1):
+        self.tid = tid
         self.name = name
         self.game = game
 
@@ -135,7 +177,8 @@ class Monster:
         self.categories = []
         # contains all drops for a category
         self.drops = {}
-
+        # contains various stats such as hitzone values
+        self.stats : Stats = None
         # structure :
         # categores['shiny-drop'] = drops
         # ranks['low-rank'] = categories['shiny-drop']
@@ -271,9 +314,22 @@ class Monster:
 
         return s
 
+# volatile database
+# will hold all the monster data - must be populated first
+global_monsters = dict[str, dict[str, Monster]]
+mhf1_monsters = dict[str, Monster]
+mhfu_monsters = dict[str, Monster]
+mhp3_monsters = dict[str, Monster]
+mhxx_monsters = dict[str, Monster]
+
+global_monster_names = dict[str, list[str]]
+mhf1_monsters_names = [str]
+mhfu_monsters_names = [str]
+mhp3_monsters_names = [str]
+mhxx_monsters_names = [str]
+
 # parse a text file to extract all values and
 # create a monster object from it
-
 def text_to_obj(path):
 
     log.info("processing file "+path)
@@ -450,36 +506,134 @@ def text_to_obj(path):
 def files_to_list(path):
 
     # Looking for monster files
-    files = []
-    
-    files = find_files(path)
-    log.info("Found "+str(len(files))+" files")
+    drop_files = []
+    drop_file_type = '.txt'
+    drop_files = find_files(path, drop_file_type)
+    log.info("Found "+str(len(drop_files))+" drop files")
+
+    # Looking for hitzone files
+    hitzone_files = []
+    hitzone_file_type = '.stats.json'
+    hitzone_files = find_files(path, hitzone_file_type)
+    log.info("Found "+str(len(hitzone_files))+" hitzone files")
 
     monsters = {}
     errors = []
+    warnings = []
 
-    # process each file
-    for f in files:
-
+    # process each drop file
+    for f in drop_files:
+        
+        # check if there is a hitzone file for this monster
+        hitzone_file = utils.filetype_exists_for_file(
+            f, hitzone_files, drop_file_type, hitzone_file_type)
+        
         monster = text_to_obj(f)
 
         # if the monster is valid - add it
         if monster != None:
             monsters[monster.name] = monster
+            # if there is a hitzone file for this monster - add the infos
+            if len(hitzone_file) != 0:
+                log.debug('hitzone file found for '+monster.game+' '+monster.name)
+                monster.stats = parse_monster_stats(hitzone_file)
+            else:
+                warnings.append('no hitzone file for '
+                                +monster.game+' '+monster.name)
+                log.warning('no hitzone file for '
+                                +monster.game+' '+monster.name)
         else:
             errors.append('Could not process '+f)
+            log.error('Could not process '+f)
 
     log.info(str(len(monsters))+' elements have been added')
-    utils.export_list(errors, '../files/errors.txt')
-
+    utils.export_list(errors, '../files/.errors.txt')
+    utils.export_list(warnings, '../files/.warnings.txt')
 
     return monsters
+
+def parse_monster_stats(stats_file: str):
+    'parse all the hitzone values and other stats from a .json file'
+
+    file = open(stats_file, encoding="UTF_8")
+
+    json_data: dict = json.loads(file.read())
+    _parts = json_data['hitzone']
+
+    stats = Stats()
+
+    # parts creation
+    for part_name in _parts:
+        _part = _parts[part_name]
+
+        part = Part(part_name.lower().replace('_',' '))
+        part.stagger = _part['stagger']
+        
+        # loop through each 'mode' the monster has for this part
+        for mode_name in _part:
+            _values = _part[mode_name]
+            
+            # skip non array values such as stagger value
+            if type(_values) is not list:
+                continue
+            
+            if mode_name not in stats.modes:
+                stats.modes.append(mode_name)
+            
+            hitzone_values = HitzoneValues(mode_name)
+
+            # if not enough values for each type of damange
+            if len(_values) < 8:
+                log.warning('hitzone ' + 'MONSTER ' + mode_name + part_name)
+                log.warning('   one or more damage type value missing')
+                
+                # add dummy values
+                while len(_values) < 8:
+                    _values.append('ERR')
+
+            hitzone_values.cut      = _values[0]
+            hitzone_values.impact   = _values[1]
+            hitzone_values.shot     = _values[2]
+            hitzone_values.fire     = _values[3]
+            hitzone_values.water    = _values[4]
+            hitzone_values.thunder  = _values[5]
+            hitzone_values.dragon   = _values[6]
+            hitzone_values.ice      = _values[7]
+
+            part.hitzone_values.append(hitzone_values)
+
+        stats.parts.append(part)
+
+    # rage mode defense multiplier
+    if 'rage_m' in json_data.keys():
+        stats.rage_multiplier = json_data['rage_m']
+    else:
+        stats.rage_multiplier = 0.0
+
+    # get notes
+    for mode in stats.modes:
+        key = 'notes_'+mode
+        if key in json_data.keys():
+            stats.notes[mode] = json_data[key]
+
+    if 'notes' in json_data.keys():
+        stats.notes['all'] = json_data['notes']
+    
+    return stats
 
 def obj_to_json(monster):
 
     # pretty printing
     return json.dumps(monster.drops, sort_keys=True, indent=4)
 
+def create_monster_list(monsters):
+
+    name_list = []
+    # retreive monster names 
+    for key in monsters.keys():
+        name_list.append(key)
+
+    return name_list
 
 # string related functions
 
@@ -616,20 +770,18 @@ def find_item(monster_list, item_name, as_list=False):
     else:
         return results
 
-def find_files(path):
+def find_files(path, filetype=''):
 
     files = []
-    log.info('looking for files into '+path)
+    log.debug('looking for '+filetype+' files into '+path)
     for f in os.scandir(path):
-        if f.is_file():
+        if f.is_file() and f.name.endswith(filetype):
             files.append(f.path)
-            log.info('FOUND: '+f.path)
+            log.debug('FILE FOUND: '+f.path)
         elif f.is_dir(): 
-            files = files + find_files(f.path)
+            files = files + find_files(f.path, filetype)
 
     return files
-
-    print("Results for "+item+" : "+results)
 
 
 # find all existing items from the monsterlist
@@ -734,6 +886,136 @@ def search_item(name, monster_list):
         for match in matches:
             r += '['+str(item_list.index(match))+'] '+match+'\n'
         return [r]
+
+# search for a monster in a list
+# return list containing matching names if any
+def search_monster_2(name, monsters):
+    # if name is empty
+    if name.strip() == '' or name == None:
+        return -2
+
+    name_list = []
+    results = []
+
+    # retreive monster names 
+    for key in monsters.keys():
+        name_list.append(key)
+    
+    args = name.split()
+    last_arg = args.pop().upper()
+    rank = None
+    # check if there is a rank suffix inside the name
+    if last_arg in rank_suffix.keys():
+        rank = rank_suffix[last_arg]
+        print('found rank '+rank)
+    else:
+        args.append(last_arg)
+    
+    name = ' '.join(args)
+    log.debug('now searching for '+name)
+
+    # if name is the ID - check and return the monster
+    try:
+        name_id = int(name)
+    except ValueError:
+        log.debug(name+' is not an ID')
+    else:
+        # if the ID does exist
+        try:
+            results.append(name_list[name_id])
+            #results += ['['+str(name_id)+'] '+name_list[name_id]]
+            #results += monster_list[name_list[name_id]].show(rank=rank)
+            return results
+        except IndexError:
+            # incorrect ID
+            return -1
+
+    # search if the name matches with any item
+    matches = utils.search(name, name_list) 
+    matches_s = len(matches)
+
+    # if nothing match
+    if matches_s == 0:
+        return results
+
+    # if exaclty 1 match is found
+    if matches_s == 1:
+        #results += ['['+str(name_list.index(matches[0]))+'] '+matches[0]]
+        #results += monster_list[matches[0]].show(rank=rank)
+        results.append(matches[0])
+        return results
+
+    # if multiples match are found
+    if matches_s > 1:
+        for match in matches:
+            #results.append(match)
+            results.append('['+str(name_list.index(match))+'] '+match)
+        return results
+    
+def show_hitzones(monster_name, monsters, monster_list: list):
+
+    result = []
+    search_result = search_monster_2(monster_name, monsters)
+
+    # if the result is an error
+    if type(search_result) is int:
+
+        if search_result == -1:
+            result = ['Incorrect monster ID']
+        elif search_result == -2:
+            result = ['Missing monster name or ID']
+        elif search_result < 0:
+            result = ['undefined error']
+
+        return result
+
+    # if the result contain no error
+    if type(search_result) is list:
+
+        # nothing found
+        if len(search_result) == 0:
+            result = ['No monster found']
+            return result
+        # multiple results
+        elif len(search_result) > 1:
+            #result = ['Multiple monsters found']
+            result_str = ''
+            for element in search_result:
+                result_str += str(element) + '\n'
+            result.append(result_str)
+            return result
+        
+        
+        log.debug('Found 1 monster')
+        monster: Monster = monsters.get(search_result[0])
+        result = ['['+str(monster_list.index(monster.name))+'] '+monster.name]
+
+        if monster.stats == None:
+            result.append(monster.name)
+            result = ['No hitzone data for this monster']
+        else:
+            # generate hitzone text data for each mode
+            for mode in monster.stats.modes:
+                text_data = ''
+
+                mode_id = monster.stats.modes.index(mode)
+
+                hitzone_td = build_hitzone_table_data(monster.stats, mode_id)
+                hitzone_t = build_hitzone_table(hitzone_td)
+
+                text_data += ' Hitzone Data : '+monster.game+' : '+monster.name + ' : ' +mode+'\n'
+                text_data += hitzone_t
+
+                if monster.stats.notes.get('all'):
+                    text_data += ' '+monster.stats.notes['all']+'\n'
+                if monster.stats.notes.get(mode):
+                    text_data += ' '+monster.stats.notes[mode]+'\n'
+
+                result.append(text_data)
+
+        return result
+
+    return result
 
 # returns a list
 def search_monster(name, monster_list, rank=None):
@@ -880,3 +1162,66 @@ def check_monsters(monsters, items=None):
                 issues.append('\t'+item+' : '+m_items[item])
 
     return issues
+
+
+def build_hitzone_table_data(stats, monster_mode=0):
+    'monster mode refers to normal, rage, etc'
+
+    default_value = ''
+
+    headers = []
+    headers.append('PART')
+    headers.append(' ')
+    headers.append(dmg_type_cut)
+    headers.append(dmg_type_impact)
+    headers.append(dmg_type_shot)
+    headers.append('')
+    headers.append(dmg_type_fire)
+    headers.append(dmg_type_water)
+    headers.append(dmg_type_thunder)
+    headers.append(dmg_type_ice)
+    headers.append(dmg_type_dragon)
+    headers.append('')
+    headers.append(dmg_stagger)
+
+    columns = len(headers)
+    rows = len(stats.parts) + 1
+
+    table_data = [[default_value] * columns for i in range(rows)]
+    table_data = []
+
+    table_data.append(headers)
+
+    part: Part
+    for part in stats.parts:
+
+        values: HitzoneValues = part.hitzone_values[monster_mode]
+        line = []
+        line.append(part.name.title())
+        line.append('')
+        line.append(values.cut)
+        line.append(values.impact)
+        line.append(values.shot)
+        line.append('')
+        line.append(values.fire)
+        line.append(values.water)
+        line.append(values.thunder)
+        line.append(values.dragon)
+        line.append(values.ice)
+        line.append('')
+        line.append(part.stagger)
+
+        table_data.append(line)
+
+    return table_data
+
+def build_hitzone_table(table_data):
+    tbl_d = txtutils.slim_tbl_d
+    col_sizes = [8, 0, 4, 4, 4, 0, 3, 3, 3, 3, 3, 0, 5]
+    hitzone_table = txtutils.text_table(
+        table_data, column_sizes=col_sizes, table_delimiters=tbl_d)
+    return hitzone_table
+
+def get_hitzone_text(monster):
+    text = monster.name + ' hitzone text'
+    return text
