@@ -70,28 +70,28 @@ def text_table(content: list[list], row_height = 1, min_column_size = 0, column_
 
     row_blocks = len(content)
     column_blocks = len(content[0])
+    log.debug('table_size: '+str(row_blocks)+'x'+str(column_blocks)+' blocks')
 
     # exact amount of 'characters rows'
     rows = (row_blocks * (1 + row_height)) + 1 
 
-    # automatically defining the max width for each column
-    # based on each cell content if the sizes are not provided
+    # automatically verify the max width for each column
+    # based on each cell content
     if column_sizes == None:
-        log.info('automatically defining columns sizes')
-    
+        log.info('verifying columns sizes')
         column_sizes = [min_column_size] * column_blocks
 
-        while r < row_blocks:
-
-            while c < column_blocks:
-                if column_sizes[c] < len(content[r][c]):
-                    column_sizes[c] = len(content[r][c])
-                
-                c += 1
-            r += 1
-
-        log.info('columns sizes have been defined')
-        log.debug('  column_sizes = '+str(column_sizes))
+    while r < row_blocks:
+        c = 0
+        while c < column_blocks:
+            content_size = len(str(content[r][c]))
+            if column_sizes[c] < content_size:
+                log.debug(str(column_sizes[c]) +'<'+ str(content_size))
+                column_sizes[c] = content_size
+            c += 1
+        r += 1
+    log.info('columns sizes have been defined')
+    log.debug('  column_sizes = '+str(column_sizes))
 
     columns = 0
     for size in column_sizes:
