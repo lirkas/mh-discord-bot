@@ -208,7 +208,7 @@ class Monster:
 
     def add_drops(self, rank, category, drop_list):
        for drop in drop_list:
-           add_drop(self, rank, category, drop)
+           self.add_drop(self, rank, category, drop)
 
     def find_item(self, item_name):
 
@@ -231,7 +231,7 @@ class Monster:
         return results
   
     # return a dict with the drops for each rank
-    def get_drops(rank):
+    def get_drops(self, rank):
         
         if rank not in self.ranks:
             return rank+" does not exist"
