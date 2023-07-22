@@ -6,6 +6,9 @@
 	"DEFAULT_SERVER": 0,
 	"DEFAULT_CHANNEL": 0,
 	
+	"DEFAULT_FONT": "../files/common/fonts/UbuntuMono-Bold.ttf",
+	"IMG_PATH": "../files/common/img/",
+
 	"MHF1_SM_MONSTER_PATH": "../files/mhf1/small_monsters/",
 	"MHF1_MONSTER_PATH": "../files/mhf1/monsters/",
 	

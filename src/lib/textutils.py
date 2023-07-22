@@ -249,6 +249,8 @@ def text_table(content: list[list], row_height = 1, min_column_size = 0, column_
     log.info('text table created')
     return table_text
 
+default_font = None
+default_image_path = None
 
 def text_to_image(text, image_path: str, font_path: str, 
                   font_size: int = 30, padding: int = 30, 

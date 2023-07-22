@@ -4,6 +4,7 @@ import discord.ext.commands as cmds
 import client.utils as utils
 import client.bot as bot
 import lib.mhutils as mhutils
+import lib.textutils as txtutils
 
 
 #===============================#
@@ -15,6 +16,7 @@ class Mh(cmds.Cog):
     def __init__(self,bot):
         self.bot = bot
         self.monsters = {}
+        self.setup()
         self.setup_monster_data()
 
     cls=bot.Command
@@ -253,4 +255,13 @@ class Mh(cmds.Cog):
         mhutils.mhp3_monsters.update(mhutils.files_to_list(mhp3_monster_path))
 
         mhutils.mhxx_monsters = mhutils.files_to_list(mhxx_monster_path)
+
+    def setup(self):
+        '''Initializes various stuffs used in commands'''
+
+        default_font = utils.get('DEFAULT_FONT')
+        image_path = utils.get('IMG_PATH')
+
+        txtutils.default_font = default_font
+        txtutils.default_image_path = image_path
 

@@ -1283,12 +1283,13 @@ def build_hitzone_table(table_data):
 
 def get_hitzone_image(hitzone_data: HitzoneContent) -> str:
 
-    root_path = '../.tests/'
-    img_path = root_path+'/img/test.png'
-    fnt_path = root_path+'fonts/UbuntuMono-Bold.ttf'
+    img_path = txtutils.default_image_path+'/hz_data.png'
+    fnt_path = txtutils.default_font
+
     text_data = ''
     text_data += hitzone_data.header+'\n'
     text_data += hitzone_data.table
     # text_data += hitzone_data.footer
+    
     txtutils.text_to_image(text_data, image_path=img_path, font_path=fnt_path, padding=15)
     return img_path
