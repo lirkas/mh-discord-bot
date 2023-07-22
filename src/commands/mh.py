@@ -205,15 +205,30 @@ class Mh(cmds.Cog):
         args.pop(0)
         name = ' '.join(args)
 
-        result = mhutils.show_hitzones(
+        result = mhutils.search_hitzone_data(
                 name, mhutils.mhfu_monsters, mhutils.mhfu_monsters_names)
-  
-        # sends a message for each result
-        for r in result:
-            await ctx.send("```\n"+r+"```")
+        
+        if result.code == mhutils.ResultCode.FOUND_DATA:
+            for data in result.content:
+                image_path = mhutils.get_hitzone_image(data)
+                file = discord.File(image_path, filename='hitzone.png')
+                embed = discord.Embed(type='image')
+                embed.title = data.header
+                embed.set_image(url='attachment://hitzone.png')
+                embed.color = 16777215
+                embed.set_footer(text=data.footer)
 
+                await ctx.send(files=[file], embeds=[embed])
+            return True
+        elif result.code == mhutils.ResultCode.FOUND_MANY:
+            await ctx.send('```'+result.content+'```')
+            return True
+        
+        else:
+            await ctx.send('```'+result.message+'```')
+        
         return True
-    
+            
 
     def setup_monster_data(self):
         '''Initializes monster data used for all commands'''

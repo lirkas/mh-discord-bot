@@ -1,5 +1,8 @@
 import logging as log
 
+from PIL import Image
+from PIL import Image, ImageFont, ImageDraw
+
 
 class TableSegments:
     'Defines which characters are used for specific segments of the table'
@@ -45,11 +48,19 @@ thick_tbl_d = TableSegments (
     u'\u2550',u'\u2551'
 )
 
-# creates a text table and populates it with content
-#       content : 2D matrix that hold each cell's value
-#       column_sizes : array of int that defines each column max width
-def text_table(content: list[list], row_height = 1, min_column_size = 0, column_sizes: list = None, 
+
+def text_table(content: list[list], row_height = 1, min_column_size = 0, column_sizes: list[int] = None,
+               padding: int = 0,
                table_delimiters: TableSegments = default_tbl_d):
+    '''
+    Creates an ASCII-style text table and populates it with content\n
+    `content`           : 2D matrix that hold each cell's value\n
+    `row_height`        : !! NOT FULLY WORKING !!\n
+    `min_column_size`   : minimum width each column shoud have\n
+    `column_sizes`      : array of int that defines each column max width\n
+    `padding`           : left and right padding for columns\n
+    `table_delimiters`  : TableSegments object containing characters used to write the table\n
+    '''
     
     log.info('creating text table')
     # positions for content's cells
@@ -75,8 +86,15 @@ def text_table(content: list[list], row_height = 1, min_column_size = 0, column_
     # exact amount of 'characters rows'
     rows = (row_blocks * (1 + row_height)) + 1 
 
+    # update column sizes based on padding
+    for c in range(0,len(column_sizes)):
+        # only for text
+        if content[0][c].strip() != '':
+            column_sizes[c] += padding*2
+
     # automatically verify the max width for each column
     # based on each cell content
+    # adds paddings if required
     if column_sizes == None:
         log.info('verifying columns sizes')
         column_sizes = [min_column_size] * column_blocks
@@ -84,8 +102,16 @@ def text_table(content: list[list], row_height = 1, min_column_size = 0, column_
     while r < row_blocks:
         c = 0
         while c < column_blocks:
-            content_size = len(str(content[r][c]))
-            if column_sizes[c] < content_size:
+            # stringify content
+            content[r][c] = str(content[r][c])
+            # only pad text
+            if content[r][c].strip() != '':
+                text_size = len(content[r][c])
+                content[r][c] = '{: ^{padding}}'.format(
+                     content[r][c], padding=text_size + padding*2)
+            content_size = len(content[r][c])
+            #             5 > 4 +2    
+            if content_size > column_sizes[c]:
                 log.debug(str(column_sizes[c]) +'<'+ str(content_size))
                 column_sizes[c] = content_size
             c += 1
@@ -222,3 +248,40 @@ def text_table(content: list[list], row_height = 1, min_column_size = 0, column_
 
     log.info('text table created')
     return table_text
+
+
+def text_to_image(text, image_path: str, font_path: str, 
+                  font_size: int = 30, padding: int = 30, 
+                  format: str = 'png',
+                  text_rgb: tuple[int,int,int] = (255, 255, 255), 
+                  background_rgb: tuple[int,int,int] = (0, 0, 0)):
+    ''' 
+    Converts text into png image.
+    White text on grey backgound\n
+
+        `text_rbg` and `background_rgb` color values order is (red, green, blue)\n
+        `format`: valid values: png, bmp, jpeg\n
+        `font_size`: font size in pixels\n
+        `padding`: left and right padding in pixels, for the whole image\n
+    '''
+
+
+    # Loading Font
+    fnt: ImageFont.FreeTypeFont = ImageFont.truetype(font_path, font_size)
+
+    # Determining text size in pixels
+    dummy_img = Image.new('RGB', (0, 0), color = (0,0,0,0))
+    dummy_imgdraw = ImageDraw.Draw(dummy_img, 'RGB')
+    text_bb = dummy_imgdraw.multiline_textbbox((0, 0), text, font=fnt)
+
+    text_h = text_bb[3]
+    text_w = text_bb[2]
+
+    img_h = text_h + padding*2
+    img_w = text_w + padding*2
+
+    # Generating Image
+    img = Image.new('RGB', (img_w, img_h), color=background_rgb+(255,))
+    imgdraw = ImageDraw.Draw(img, 'RGB')
+    imgdraw.text((padding, padding), text, font=fnt, fill=text_rgb+(255,))
+    img.save(image_path, format=format)

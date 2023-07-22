@@ -71,7 +71,7 @@ wordlist_f1 = ['f1','mhf1']
 wordlist_xx = ['xx','mhxx']
 
 dmg_type_cut = 'CUT'
-dmg_type_impact = 'IMPC'
+dmg_type_impact = 'IMP'
 dmg_type_shot = 'SHOT'
 
 dmg_type_fire = 'FIR'
@@ -79,7 +79,7 @@ dmg_type_water = 'WTR'
 dmg_type_thunder = 'THN'
 dmg_type_dragon = 'DRG'
 dmg_type_ice = 'ICE'
-dmg_stagger = 'STAGR'
+dmg_stagger = 'STAGGER'
 
 wordlist_rank = wordlist_12+wordlist_lr+wordlist_hr+wordlist_g+wordlist_1_4+wordlist_5_8+wordlist_9_10+wordlist_11_12+wordlist_13_15+wordlist_ex
 wordlist_game = wordlist_fu+wordlist_p3+wordlist_f1+wordlist_xx
@@ -952,21 +952,65 @@ def search_monster_2(name, monsters):
             results.append('['+str(name_list.index(match))+'] '+match)
         return results
     
-def show_hitzones(monster_name, monsters, monster_list: list):
 
-    result = []
+
+class ResultCode:
+
+    UNDEFINED = -1
+    NO_SUCH_ID = 10
+    NOTHING_FOUND = 11
+    MISSING_ARG = 12
+    FOUND_MANY = 13
+    FOUND_DATA = 14
+    NO_DATA = 15
+
+class SearchResult:
+
+    def __init__(self, code: int = ResultCode.UNDEFINED) -> None:
+        self.code: int = code
+        self.message: str
+        self.description: str
+        self.content: any
+
+class HitzoneContent:
+        
+    def __init__(self) -> None:
+        self.mode: str
+        self.header: str
+        self.table: str
+        self.footer: str
+        self.notes: str
+
+class HitzoneSearchResult(SearchResult):
+
+    def __init__(self, code: int = ResultCode.UNDEFINED) -> None:
+        super().__init__(code)
+        self.monster: Monster
+        self.content: list[HitzoneContent] = []
+
+def search_hitzone_data(monster_name: str, 
+                  monsters: dict[str, Monster], 
+                  monster_list: list) -> HitzoneSearchResult:
+    '''
+    Searches into an exisiting monster list for hitzone data.
+    Requires a monster and a monster names list
+    '''
+
+    result = HitzoneSearchResult()
     search_result = search_monster_2(monster_name, monsters)
 
     # if the result is an error
     if type(search_result) is int:
 
         if search_result == -1:
-            result = ['Incorrect monster ID']
+            result.code = ResultCode.NO_SUCH_ID
+            result.message = 'Incorrect monster ID'
         elif search_result == -2:
-            result = ['Missing monster name or ID']
+            result.code = ResultCode.MISSING_ARG
+            result.message = 'Missing monster name or ID'
         elif search_result < 0:
-            result = ['undefined error']
-
+            result.code = ResultCode.UNDEFINED
+            result.message = 'Undefined Error '+str(search_result)
         return result
 
     # if the result contain no error
@@ -974,44 +1018,58 @@ def show_hitzones(monster_name, monsters, monster_list: list):
 
         # nothing found
         if len(search_result) == 0:
-            result = ['No monster found']
+            result.code = ResultCode.NOTHING_FOUND
+            result.message = 'No monster found'
             return result
         # multiple results
         elif len(search_result) > 1:
-            #result = ['Multiple monsters found']
-            result_str = ''
+            result.code = ResultCode.FOUND_MANY
+            result.message = 'Multiple monsters found'
+            result.content = ''
             for element in search_result:
-                result_str += str(element) + '\n'
-            result.append(result_str)
+                result.content += str(element)+'\n'
             return result
         
         
         log.debug('Found 1 monster')
         monster: Monster = monsters.get(search_result[0])
-        result = ['['+str(monster_list.index(monster.name))+'] '+monster.name]
+        result.monster = monster
+        message = '['+str(monster_list.index(monster.name))+'] '+monster.name
 
         if monster.stats == None:
-            result.append(monster.name)
-            result = ['No hitzone data for this monster']
+            result.code = ResultCode.NO_DATA
+            result.message = 'No hitzone data for '+monster.name
+            return result
         else:
+            result.code = ResultCode.FOUND_DATA
+            result.message = message
+
             # generate hitzone text data for each mode
+            
             for mode in monster.stats.modes:
-                text_data = ''
+                hitzone_content = HitzoneContent()
+                hitzone_content.mode = mode
 
                 mode_id = monster.stats.modes.index(mode)
 
                 hitzone_td = build_hitzone_table_data(monster.stats, mode_id)
                 hitzone_t = build_hitzone_table(hitzone_td)
+                hitzone_content.table = hitzone_t
 
-                text_data += ' Hitzone Data : '+monster.game+' : '+monster.name + ' : ' +mode+'\n'
-                text_data += hitzone_t
+                hitzone_content.header = '['+monster.game.upper()+'] Hitzone Data  :  '+monster.name+' - '+mode.title()
 
+                hitzone_content.footer = 'Rage Defense Multiplier: '+str(monster.stats.rage_multiplier)+'\n'
+
+                hitzone_content.notes = ''
+                
                 if monster.stats.notes.get('all'):
-                    text_data += ' '+monster.stats.notes['all']+'\n'
+                    hitzone_content.footer += ''+monster.stats.notes['all']+'\n'
+                    hitzone_content.notes = ''+monster.stats.notes['all']+'\n'
                 if monster.stats.notes.get(mode):
-                    text_data += ' '+monster.stats.notes[mode]+'\n'
+                    hitzone_content.footer += ''+monster.stats.notes[mode]+'\n'
+                    hitzone_content.notes += ''+monster.stats.notes[mode]+'\n'
 
-                result.append(text_data)
+                result.content.append(hitzone_content)
 
         return result
 
@@ -1164,9 +1222,10 @@ def check_monsters(monsters, items=None):
     return issues
 
 
-def build_hitzone_table_data(stats, monster_mode=0):
+def build_hitzone_table_data(stats, monster_mode=0, padding=0):
     'monster mode refers to normal, rage, etc'
 
+        
     default_value = ''
 
     headers = []
@@ -1219,9 +1278,17 @@ def build_hitzone_table(table_data):
     tbl_d = txtutils.slim_tbl_d
     col_sizes = [8, 0, 4, 4, 4, 0, 3, 3, 3, 3, 3, 0, 5]
     hitzone_table = txtutils.text_table(
-        table_data, column_sizes=col_sizes, table_delimiters=tbl_d)
+        table_data, column_sizes=col_sizes, padding=1, table_delimiters=tbl_d)
     return hitzone_table
 
-def get_hitzone_text(monster):
-    text = monster.name + ' hitzone text'
-    return text
+def get_hitzone_image(hitzone_data: HitzoneContent) -> str:
+
+    root_path = '../.tests/'
+    img_path = root_path+'/img/test.png'
+    fnt_path = root_path+'fonts/UbuntuMono-Bold.ttf'
+    text_data = ''
+    text_data += hitzone_data.header+'\n'
+    text_data += hitzone_data.table
+    # text_data += hitzone_data.footer
+    txtutils.text_to_image(text_data, image_path=img_path, font_path=fnt_path, padding=15)
+    return img_path
