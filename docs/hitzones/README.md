@@ -120,8 +120,8 @@ Setting the value to 0 means the part is not 'staggerable'
 
 # Monster 'modes'<br>
 
-
 Each monster must have at least one mode for each hitzone/part ("normal" is the default one)
+Each part must contain the same amount of modes as others, with matching mode names
 <br>
 "rage" is optional, but modes can be renamed/added if the monster has 
 different, or more of them.
@@ -136,18 +136,18 @@ and each has different hitzone values, they can be represented like this:
 ...
 "hitzone": {
 	"Head": {
-	    "normal": [50, 60, 40, 0, 5, 20, 40, 0],
-	    "rage": [60, 60, 30, 0, 20, 20, 20, 0],
-        "shielded": [5, 10, 5, 0, 10, 10, 10, 0],
-        "burning": [80, 20, 30, 0, 20, 20, 20, 0],
-	    "stagger": 9000
+		"normal": [50, 60, 40, 0, 5, 20, 40, 0],
+		"rage": [60, 60, 30, 0, 20, 20, 20, 0],
+		"shielded": [5, 10, 5, 0, 10, 10, 10, 0],
+		"burning": [80, 20, 30, 0, 20, 20, 20, 0],
+		"stagger": 9000
 	},
 	"Neck": {
-	    "normal": [35, 50, 25, 0, 5, 15, 20, 0],
-	    "rage": [40, 50, 25, 0, 15, 15, 10, 0],
-        "shielded": [10, 5, 5, 0, 5, 10, 5, 0],
-        "burning": [30, 20, 10, 0, 0, 0, 5, 0],
-	    "stagger": 2400
+		"normal": [35, 50, 25, 0, 5, 15, 20, 0],
+		"rage": [40, 50, 25, 0, 15, 15, 10, 0],
+		"shielded": [10, 5, 5, 0, 5, 10, 5, 0],
+		"burning": [30, 20, 10, 0, 0, 0, 5, 0],
+		"stagger": 2400
 	},
 },
 ...
