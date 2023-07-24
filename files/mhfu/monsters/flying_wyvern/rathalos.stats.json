@@ -1,0 +1,37 @@
+{
+    "name": "Rathalos",
+    "game": "MHFU",
+    
+    "hitzone": {
+        "Head": {
+            "normal": [80, 70, 55, 0, 30, 15, 30, 40],
+            "stagger": 180
+        },
+        "Neck": {
+            "normal": [50, 50, 40, 0, 20, 10, 20, 30],
+            "stagger": 100
+        },
+        "Back": {
+            "normal": [25, 30, 40, 15, 20, 15, 20, 30],
+            "stagger": 160
+        },
+        "Stomach": {
+            "normal": [45, 40, 55, 0, 15, 15, 10, 25],
+            "stagger": 160
+        },
+        "Tail": {
+            "normal": [30, 30, 30, 0, 10, 5, 20, 20],
+            "stagger": 150
+        },
+        "Wing": {
+            "normal": [25, 20, 30, 0, 30, 15, 20, 40],
+            "stagger": 100
+        },
+        "Foot": {
+            "normal": [45, 50, 45, 0, 10, 5, 5, 20],
+            "stagger": 160
+        }
+    },
+    "rage_m": 0.9,
+    "notes": ""
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Khezu",
+    "game": "MHFU",
+    
+    "hitzone": {
+        "Head": {
+            "normal": [45, 60, 80, 40, 5, 0, 5, 5],
+            "stagger": 200
+        },
+        "Neck": {
+            "normal": [60, 50, 50, 30, 5, 0, 5, 5],
+            "stagger": 140
+        },
+        "Back": {
+            "normal": [50, 50, 20, 30, 5, 0, 5, 5],
+            "stagger": 200
+        },
+        "Stomach": {
+            "normal": [50, 25, 20, 30, 5, 0, 5, 5],
+            "stagger": 200
+        },
+        "Tail": {
+            "normal": [20, 20, 30, 20, 5, 0, 5, 5],
+            "stagger": 90
+        },
+        "Wing": {
+            "normal": [25, 25, 25, 20, 5, 0, 5, 5],
+            "stagger": 120
+        },
+        "Foot": {
+            "normal": [25, 20, 30, 15, 5, 0, 5, 5],
+            "stagger": 130
+        }
+    },
+    "rage_m": 0.9,
+    "notes": ""
+}

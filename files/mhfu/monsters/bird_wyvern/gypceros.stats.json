@@ -1,0 +1,37 @@
+{
+    "name": "Gypceros",
+    "game": "MHFU",
+    
+    "hitzone": {
+        "Head": {
+            "normal": [30, 80, 70, 50, 20, 0, 10, 20],
+            "stagger": 130
+        },
+        "Neck": {
+            "normal": [50, 25, 40, 30, 10, 0, 10, 10],
+            "stagger": 80
+        },
+        "Back": {
+            "normal": [70, 30, 20, 20, 10, 0, 10, 10],
+            "stagger": 150
+        },
+        "Stomach": {
+            "normal": [80, 30, 20, 30, 10, 0, 10, 10],
+            "stagger": 150
+        },
+        "Tail": {
+            "normal": [90, 40, 80, 30, 10, 0, 0, 15],
+            "stagger": 80
+        },
+        "Wing": {
+            "normal": [50, 30, 30, 30, 20, 0, 10, 20],
+            "stagger": 100
+        },
+        "Foot": {
+            "normal": [20, 20, 30, 10, 10, 0, 10, 10],
+            "stagger": 120
+        }
+    },
+    "rage_m": 1.2,
+    "notes": ""
+}

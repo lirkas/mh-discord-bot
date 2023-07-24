@@ -1,0 +1,37 @@
+{
+    "name": "Black Diablos",
+    "game": "MHFU",
+    
+    "hitzone": {
+        "Head": {
+            "normal": [25, 10, 25, 0, 15, 15, 15, 30],
+            "stagger": 250
+        },
+        "Neck": {
+            "normal": [45, 65, 25, 0, 10, 15, 15, 20],
+            "stagger": 100
+        },
+        "Back": {
+            "normal": [20, 35, 20, 10, 15, 15, 15, 30],
+            "stagger": 220
+        },
+        "Stomach": {
+            "normal": [40, 50, 40, 0, 10, 15, 15, 20],
+            "stagger": 220
+        },
+        "Tail": {
+            "normal": [60, 55, 75, 0, 10, 15, 15, 20],
+            "stagger": 180
+        },
+        "Wing": {
+            "normal": [40, 55, 45, 0, 10, 15, 15, 20],
+            "stagger": 100
+        },
+        "Foot": {
+            "normal": [30, 35, 35, 0, 5, 15, 15, 10],
+            "stagger": 200
+        }
+    },
+    "rage_m": 1.0,
+    "notes": ""
+}
