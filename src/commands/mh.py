@@ -12,12 +12,12 @@ import lib.textutils as txtutils
 #===============================#
 
 class Mh(cmds.Cog):
-    '''defines the class used to create commands'''
-    def __init__(self,bot):
+    '''
+    Contains Monster Hunter related commands\n
+    Some commands require monster data to be setup first
+    '''
+    def __init__(self, bot):
         self.bot = bot
-        self.monsters = {}
-        self.setup()
-        self.setup_monster_data()
 
     cls=bot.Command
     
@@ -230,38 +230,3 @@ class Mh(cmds.Cog):
             await ctx.send('```'+result.message+'```')
         
         return True
-            
-
-    def setup_monster_data(self):
-        '''Initializes monster data used for all commands'''
-
-        # retreive paths from config file
-        mhf1_sm_monster_path = utils.get('MHF1_SM_MONSTER_PATH')
-        mhf1_monster_path = utils.get('MHF1_MONSTER_PATH')
-        mhfu_sm_monster_path = utils.get('MHFU_SM_MONSTER_PATH')
-        mhfu_monster_path = utils.get('MHFU_MONSTER_PATH')
-        mhp3_sm_monster_path = utils.get('MHP3_SM_MONSTER_PATH')
-        mhp3_monster_path = utils.get('MHP3_MONSTER_PATH')
-        mhxx_monster_path = utils.get('MHXX_MONSTER_PATH')
-
-        mhutils.mhf1_monsters = mhutils.files_to_list(mhf1_sm_monster_path)
-        mhutils.mhf1_monsters.update(mhutils.files_to_list(mhf1_monster_path))
-
-        mhutils.mhfu_monsters = mhutils.files_to_list(mhfu_sm_monster_path)
-        mhutils.mhfu_monsters.update(mhutils.files_to_list(mhfu_monster_path))
-        mhutils.mhfu_monsters_names = mhutils.create_monster_list(mhutils.mhfu_monsters)
-
-        mhutils.mhp3_monsters = mhutils.files_to_list(mhp3_sm_monster_path)
-        mhutils.mhp3_monsters.update(mhutils.files_to_list(mhp3_monster_path))
-
-        mhutils.mhxx_monsters = mhutils.files_to_list(mhxx_monster_path)
-
-    def setup(self):
-        '''Initializes various stuffs used in commands'''
-
-        default_font = utils.get('DEFAULT_FONT')
-        image_path = utils.get('IMG_PATH')
-
-        txtutils.default_font = default_font
-        txtutils.default_image_path = image_path
-

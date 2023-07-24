@@ -26,7 +26,7 @@ ui = uinput.UI(client)
 
 async def setupBot(client):
     await client.add_cog(_util.Util(client))
-    await client.add_cog(_admin.Admin(client))
+    await client.add_cog(_admin.Admin(client)) # must be added before Mh cog
     await client.add_cog(_mh.Mh(client))
 
 async def restart():
