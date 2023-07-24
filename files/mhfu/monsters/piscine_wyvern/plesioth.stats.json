@@ -1,0 +1,37 @@
+{
+    "name": "Plesioth",
+    "game": "MHFU",
+    
+    "hitzone": {
+        "Head": {
+            "normal": [30, 30, 40, 25, 0, 25, 5, 5],
+            "stagger": 130
+        },
+        "Neck": {
+            "normal": [60, 50, 60, 30, 0, 30, 5, 5],
+            "stagger": 150
+        },
+        "Back": {
+            "normal": [20, 20, 20, 20, 0, 25, 5, 5],
+            "stagger": 250
+        },
+        "Stomach": {
+            "normal": [100, 80, 50, 35, 0, 35, 5, 5],
+            "stagger": 250
+        },
+        "Tail": {
+            "normal": [50, 40, 35, 30, 0, 30, 5, 5],
+            "stagger": 180
+        },
+        "Wing": {
+            "normal": [25, 25, 30, 20, 0, 20, 5, 5],
+            "stagger": 100
+        },
+        "Foot": {
+            "normal": [50, 40, 30, 10, 0, 10, 5, 5],
+            "stagger": 250
+        }
+    },
+    "rage_m": 1.2,
+    "notes": ""
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Yian_Garuga_(One-Eared)",
+    "game": "MHFU",
+    
+    "hitzone": {
+        "Head": {
+            "normal": [65, 60, 60, 0, 20, 0, 5, 10],
+            "stagger": 200
+        },
+        "Neck": {
+            "normal": [40, 40, 40, 0, 30, 0, 5, 0],
+            "stagger": 100
+        },
+        "Back": {
+            "normal": [10, 10, 10, 5, 70, 5, 15, 15],
+            "stagger": 160
+        },
+        "Stomach": {
+            "normal": [10, 10, 60, 15, 40, 15, 30, 30],
+            "stagger": 160
+        },
+        "Tail": {
+            "normal": [40, 20, 10, 5, 30, 5, 15, 20],
+            "stagger": 150
+        },
+        "Wing": {
+            "normal": [20, 40, 10, 0, 20, 0, 5, 10],
+            "stagger": 150
+        },
+        "Foot": {
+            "normal": [25, 25, 35, 0, 15, 0, 5, 10],
+            "stagger": 180
+        }
+    },
+    "rage_m": 1.0,
+    "notes": ""
+}

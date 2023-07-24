@@ -1,0 +1,37 @@
+{
+    "name": "Cephadrome",
+    "game": "MHFU",
+    
+    "hitzone": {
+        "Head": {
+            "normal": [40, 50, 50, 0, 10, 15, 5, 30],
+            "stagger": 100
+        },
+        "Neck": {
+            "normal": [110, 100, 100, 5, 10, 15, 5, 15],
+            "stagger": 80
+        },
+        "Back": {
+            "normal": [100, 90, 100, 0, 12, 20, 5, 17],
+            "stagger": 130
+        },
+        "Stomach": {
+            "normal": [120, 130, 70, 0, 15, 15, 5, 20],
+            "stagger": 130
+        },
+        "Tail": {
+            "normal": [60, 50, 50, 0, 10, 10, 5, 15],
+            "stagger": 100
+        },
+        "Wing": {
+            "normal": [40, 50, 40, 0, 10, 10, 5, 15],
+            "stagger": 100
+        },
+        "Foot": {
+            "normal": [35, 30, 30, 0, 15, 10, 5, 20],
+            "stagger": 170
+        }
+    },
+    "rage_m": 1.0,
+    "notes": ""
+}

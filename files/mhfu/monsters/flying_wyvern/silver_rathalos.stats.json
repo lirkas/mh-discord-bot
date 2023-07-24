@@ -1,0 +1,37 @@
+{
+    "name": "Silver Rathalos",
+    "game": "MHFU",
+    
+    "hitzone": {
+        "Head": {
+            "normal": [25, 40, 25, 0, 30, 30, 0, 10],
+            "stagger": 180
+        },
+        "Neck": {
+            "normal": [35, 45, 30, 0, 20, 20, 0, 5],
+            "stagger": 100
+        },
+        "Back": {
+            "normal": [20, 25, 20, 5, 20, 20, 0, 5],
+            "stagger": 160
+        },
+        "Stomach": {
+            "normal": [35, 45, 40, 0, 15, 15, 0, 10],
+            "stagger": 160
+        },
+        "Tail": {
+            "normal": [25, 25, 45, 0, 10, 10, 0, 5],
+            "stagger": 150
+        },
+        "Wing": {
+            "normal": [50, 50, 30, 0, 20, 20, 0, 10],
+            "stagger": 100
+        },
+        "Foot": {
+            "normal": [35, 40, 60, 0, 20, 20, 0, 5],
+            "stagger": 160
+        }
+    },
+    "rage_m": 0.9,
+    "notes": ""
+}
