@@ -11,6 +11,7 @@ from discord.ext import commands as cmds
 
 import commands.mh as _mh
 import commands.util as _util
+import commands.admin as _admin
 
 import client.bot as cbot
 import client.uinput as uinput
@@ -25,6 +26,7 @@ ui = uinput.UI(client)
 
 async def setupBot(client):
     await client.add_cog(_util.Util(client))
+    await client.add_cog(_admin.Admin(client)) # must be added before Mh cog
     await client.add_cog(_mh.Mh(client))
 
 async def restart():

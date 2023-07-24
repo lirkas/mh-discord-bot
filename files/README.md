@@ -1,27 +1,38 @@
-## CONTRIBUTORS
-Files used in this application are made from / with the help of
-the following people :
+# CONTRIBUTORS
+Data files used in this application are made by/with the help of
+the following people:
 
-**MHF1 Files**
-* EvelestaMin
-* Ruumi
+### **Monster Carve/capture (.txt)**
+**Freedom / Portable**<br>
 
-**MHFU files**
-* Aino
-* Jely
+> EvelestaMin<br>
+> Ruumi<br>
 
-**MHP3 Files**
-* EvelestaMin
-* Denka
+**Freedom Unite / Portable2G**<br>
+> Aino<br>
+> Jely<br>
 
-**MHXX Files**
-* Rommel
-* NateRN
+**Portable 3**<br>
+> EvelestaMin<br>
+> Denka<br>
 
-----
-## SOURCES FOR MONSTERS DATA
-Sources used to gather infos (unsorted) :
-> -soon-
+**XX**<br>
+> Rommel<br>
+> NateRN<br>
+
+<br>
+
+### **Monster Stats/Hitzones (.stats.json)**
+**Freedom Unite / Portable2G**<br>
+> Argias<br>
+
+<br>
+
+# SOURCES FOR MONSTER DATA
+Sources used to gather infos:
+> -soon
+
+<br>
 
 ----
 *Sorry in advance if some people/sources are not mentioned here*

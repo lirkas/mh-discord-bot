@@ -13,7 +13,6 @@ class Bot(cmds.Bot):
             case_insensitive=True, 
             intents=intents, 
             **options)
-        self.self_bot = False
         self.formatter = HelpFormatter
         self.activity = discord.Activity(type=1, name='Monster Hunter')
         self.owner_id = utils.get('OWNER_ID')
@@ -31,7 +30,7 @@ class Bot(cmds.Bot):
             print(str(i)+' : '+str(exception.args[i]))
 
         if cmd == None:
-            await ctx.send(self.command_not_found)
+            print('Command does not exist')
         else:
             # this is not working - must be fixed asap
             await ctx.invoke(self.get_command('help'), cmd.name)
