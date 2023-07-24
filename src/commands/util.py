@@ -85,6 +85,9 @@ def get_commands(cmdlist, prefix=''):
     msg = ''
     for cmd in cmdlist:
         
+        if cmd.hidden:
+            continue
+        
         txt = prefix+cmd.name
         for alias in cmd.aliases:
             txt += '|'+alias

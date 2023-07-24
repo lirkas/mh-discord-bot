@@ -25,7 +25,8 @@ class Admin(cmds.Cog):
     args=['GAME']
     args_infos=['The game to reload data for (Optional)']
     description='[ADMIN] Reload monster data'
-    @cmds.command(cls=cls, name=name, args=args, args_infos=args_infos, description=description, aliases=aliases)
+    hidden=True
+    @cmds.command(cls=cls, name=name, args=args, args_infos=args_infos, description=description, aliases=aliases, hidden=hidden)
     async def reload_data(self, ctx: cmds.Context):
 
         # only bot owner can do that
