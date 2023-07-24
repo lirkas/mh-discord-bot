@@ -30,7 +30,7 @@ class Bot(cmds.Bot):
             print(str(i)+' : '+str(exception.args[i]))
 
         if cmd == None:
-            await ctx.send(self.command_not_found)
+            print('Command does not exist')
         else:
             # this is not working - must be fixed asap
             await ctx.invoke(self.get_command('help'), cmd.name)
