@@ -589,6 +589,7 @@ def parse_monster_stats(stats_file: str):
                 
                 # add dummy values
                 while len(_values) < 8:
+                    raise Exception('Missing hitzone value for '+part_name+' - '+mode_name)
                     _values.append('ERR')
 
             hitzone_values.cut      = _values[0]
