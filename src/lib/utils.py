@@ -100,7 +100,7 @@ def filetype_exists_for_file(filename: str, other_filenames: list,
     and `other_filenames` list that contain filenames of the type to look for\n
     example :
     using file `filename=rathalos.txt` we can check if there is a 
-    `rathalos.hitzone.json` file available in `other_filenames`
+    `rathalos.stats.json` file available in `other_filenames`
 
     Returns:
         the value of the matching filename if found
