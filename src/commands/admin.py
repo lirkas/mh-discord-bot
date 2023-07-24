@@ -1,3 +1,5 @@
+import os
+
 import discord.ext.commands as cmds
 
 import client.utils as utils
@@ -68,3 +70,7 @@ class Admin(cmds.Cog):
 
         txtutils.default_font = default_font
         txtutils.default_image_path = image_path
+
+        # create the img directory if it doesnt exist yet
+        if not os.path.isdir(image_path):
+            os.makedirs(image_path)
