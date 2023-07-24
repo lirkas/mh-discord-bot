@@ -13,7 +13,6 @@ class Bot(cmds.Bot):
             case_insensitive=True, 
             intents=intents, 
             **options)
-        self.self_bot = False
         self.formatter = HelpFormatter
         self.activity = discord.Activity(type=1, name='Monster Hunter')
         self.owner_id = utils.get('OWNER_ID')
