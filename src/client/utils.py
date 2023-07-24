@@ -41,6 +41,12 @@ def get(id):
     config = ''.join(f.readlines())
     j = json.loads(config)
 
+    # fallback if a key is not found in the user defined config file
+    if id not in j and f.name == '../files/config_.json':
+        f = open('../files/config.json', 'r')
+        config = ''.join(f.readlines())
+        j = json.loads(config)
+
     value = j[id]
 
     f.close()
