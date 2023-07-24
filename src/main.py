@@ -24,7 +24,7 @@ async def restart():
 
 @client.event
 async def on_message(message: discord.Message):
-    
+    print(utils.format_message(message))
     ctx = await client.get_context(message)
     await client.invoke(ctx) 
 

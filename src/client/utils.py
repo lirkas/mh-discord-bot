@@ -57,3 +57,35 @@ def get_icon(name):
 
     f = open('../files/'+name+'.png', 'rb')
     return f.read()
+
+def format_message(message: discord.Message) -> str:
+    '''
+    Formats a message to be displayed as plain text in a file or terminal\n
+    Can display date, time, server, channel, username and message content (if text)
+    '''
+    text_message = ''
+    message_date = message.created_at
+
+    date = '{d}-{m}-{y}'.format(
+        d=str(message_date.day).zfill(2),
+        m=str(message_date.month).zfill(2),
+        y=str(message_date.year))
+    
+    time = '{h}:{m}'.format(
+        h=str(message_date.hour).zfill(2),
+        m=str(message_date.minute).zfill(2))
+    
+    # Add ansi color codes for a nice look
+    text_message += '\033[30m['+date+']['+time+']\033[0m'
+    text_message += '\033[32m['+message.guild.name+']\033[0m'
+    text_message += '\033[33m['+message.channel.name+']\033[0m '
+    text_message += '\033[36m'+message.author.name+'\033[0m : '
+    text_message += message.content
+
+    # replacing code syntax characters with newlines
+    # message content will always be displayed under the message info  
+    text_message = text_message.replace('```\n', '\n')
+    text_message = text_message.replace('\n```', '\n')
+    text_message = text_message.replace('```', '\n')
+
+    return text_message
