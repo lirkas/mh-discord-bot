@@ -3,6 +3,12 @@ import logging as log
 from PIL import Image
 from PIL import Image, ImageFont, ImageDraw
 
+# set it to false if encoding errors arise while printing text tables 
+extended_ascii_support = True
+
+default_font = None
+default_image_path = None
+
 
 class TableSegments:
     'Defines which characters are used for specific segments of the table'
@@ -69,11 +75,7 @@ def text_table(content: list[list], row_height = 1, min_column_size = 0, column_
 
     tbl_d = table_delimiters
     # if the encoding is not supported - use default
-    try:
-        print('test: '+tbl_d.bot_left)
-    except UnicodeEncodeError :
-        log.warning('charset for table delimiter not supported')
-        log.warning('fallback to ascii default charset')
+    if not extended_ascii_support:
         tbl_d = default_tbl_d
 
     table_text = ''
@@ -249,9 +251,6 @@ def text_table(content: list[list], row_height = 1, min_column_size = 0, column_
     log.info('text table created')
     return table_text
 
-default_font = None
-default_image_path = None
-
 def text_to_image(text, image_path: str, font_path: str, 
                   font_size: int = 30, padding: int = 30, 
                   format: str = 'png',
@@ -287,3 +286,23 @@ def text_to_image(text, image_path: str, font_path: str,
     imgdraw = ImageDraw.Draw(img, 'RGB')
     imgdraw.text((padding, padding), text, font=fnt, fill=text_rgb+(255,))
     img.save(image_path, format=format)
+
+def test_ascii_support() -> bool:
+    '''
+    Tests support for extended ASCII characters.\n
+    Returns True if its supported
+    '''
+    has_support = False
+
+    # testing extended ascii compatibiliy for text table output
+    try:
+        print('CP437 charset support test '+slim_tbl_d.horiz, end=' ')
+        print('OK')
+        log.info('CP437 charset support OK')
+        has_support = True
+    except UnicodeEncodeError :
+        print('FAILED')
+        log.warning('CP437 charset not supported')
+        has_support = False
+
+    return has_support

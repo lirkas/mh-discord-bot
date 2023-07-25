@@ -75,3 +75,7 @@ class Admin(cmds.Cog):
         # create the img directory if it doesnt exist yet
         if not os.path.isdir(image_path):
             os.makedirs(image_path)
+
+        # Testing ascii support for text tables
+        if not txtutils.test_ascii_support():
+            txtutils.extended_ascii_support = False
