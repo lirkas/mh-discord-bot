@@ -2,7 +2,7 @@ import os
 
 import discord.ext.commands as cmds
 
-import client.utils as utils
+import client.utils as cutils
 import client.bot as bot
 import lib.mhutils as mhutils
 import lib.textutils as txtutils
@@ -43,13 +43,13 @@ class Admin(cmds.Cog):
         '''Initializes monster data used for all commands'''
 
         # retreive paths from config file
-        mhf1_sm_monster_path = utils.get('MHF1_SM_MONSTER_PATH')
-        mhf1_monster_path = utils.get('MHF1_MONSTER_PATH')
-        mhfu_sm_monster_path = utils.get('MHFU_SM_MONSTER_PATH')
-        mhfu_monster_path = utils.get('MHFU_MONSTER_PATH')
-        mhp3_sm_monster_path = utils.get('MHP3_SM_MONSTER_PATH')
-        mhp3_monster_path = utils.get('MHP3_MONSTER_PATH')
-        mhxx_monster_path = utils.get('MHXX_MONSTER_PATH')
+        mhf1_sm_monster_path = cutils.get('MHF1_SM_MONSTER_PATH')
+        mhf1_monster_path = cutils.get('MHF1_MONSTER_PATH')
+        mhfu_sm_monster_path = cutils.get('MHFU_SM_MONSTER_PATH')
+        mhfu_monster_path = cutils.get('MHFU_MONSTER_PATH')
+        mhp3_sm_monster_path = cutils.get('MHP3_SM_MONSTER_PATH')
+        mhp3_monster_path = cutils.get('MHP3_MONSTER_PATH')
+        mhxx_monster_path = cutils.get('MHXX_MONSTER_PATH')
 
         mhutils.mhf1_monsters = mhutils.files_to_list(mhf1_sm_monster_path)
         mhutils.mhf1_monsters.update(mhutils.files_to_list(mhf1_monster_path))
@@ -66,8 +66,8 @@ class Admin(cmds.Cog):
     def setup(self):
         '''Initializes various stuffs used in commands'''
 
-        default_font = utils.get('DEFAULT_FONT')
-        image_path = utils.get('IMG_PATH')
+        default_font = cutils.get('DEFAULT_FONT')
+        image_path = cutils.get('IMG_PATH')
 
         txtutils.default_font = default_font
         txtutils.default_image_path = image_path

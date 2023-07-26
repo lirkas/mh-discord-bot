@@ -1,7 +1,7 @@
 import discord
 import discord.ext.commands as cmds
 
-import client.utils as utils
+import client.utils as cutils
 
 class Bot(cmds.Bot):
     
@@ -9,13 +9,13 @@ class Bot(cmds.Bot):
         intents = discord.Intents.default()
         intents.message_content = True
         super().__init__(
-            utils.get('PREFIX'), 
+            cutils.get('PREFIX'), 
             case_insensitive=True, 
             intents=intents, 
             **options)
         self.formatter = HelpFormatter
         self.activity = discord.Activity(type=1, name='Monster Hunter')
-        self.owner_id = utils.get('OWNER_ID')
+        self.owner_id = cutils.get('OWNER_ID')
         self.remove_command('help')
         self.command_not_found = 'Command not found\nCheck the available commands with `'+self.command_prefix+'help`'
 

@@ -1,7 +1,7 @@
 import discord
 import discord.ext.commands as cmds
 
-import client.utils as utils
+import client.utils as cutils
 import client.bot as bot
 import lib.mhutils as mhutils
 import lib.textutils as txtutils
