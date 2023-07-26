@@ -8,6 +8,7 @@
 	
 	"DEFAULT_FONT": "../files/common/fonts/UbuntuMono-Bold.ttf",
 	"IMG_PATH": "../files/common/img/",
+	"LOGS_PATH": "../files/.logs/",
 
 	"MHF1_SM_MONSTER_PATH": "../files/mhf1/small_monsters/",
 	"MHF1_MONSTER_PATH": "../files/mhf1/monsters/",

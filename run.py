@@ -11,6 +11,7 @@ sys.path.append(os.getcwd())
 import asyncio
 import platform
 
+import client.utils as cutils
 import lib.logutils as logutils
 import main
 
@@ -18,7 +19,7 @@ import main
 if platform.system()=='Windows':
     # Must be enabled to avoid "event loop already closed" error
     # Can be disabled to improve exiting speed
-    # asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
+    asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
     pass
 
 try:
@@ -28,4 +29,4 @@ except KeyboardInterrupt:
     # the client is already closed when this happen
     print('Forcefully Closed')
 except:
-    logutils.handle_error('../.tests/log', save_last=True)
+    logutils.handle_error(cutils.get('LOGS_PATH'), save_last=True, save=True)

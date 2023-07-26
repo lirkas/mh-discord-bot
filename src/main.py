@@ -13,7 +13,11 @@ import client.bot as cbot
 import client.utils as utils
 
 import lib.logutils as logutils
+import lib.textutils as txtutils
 
+
+logger = logutils.get_logger(__name__)
+logger.setLevel(log.DEBUG)
 
 # initialize bot and add commands
 client = cbot.Bot()
@@ -23,6 +27,7 @@ async def setupBot(client):
     await client.add_cog(_admin.Admin(client)) # must be added before Mh cog
     await client.add_cog(_mh.Mh(client))
 
+# does not work properly
 async def restart():
     os.execv("main.py",[''])
 
@@ -34,12 +39,12 @@ async def on_message(message: discord.Message):
 
 @client.event
 async def on_error(event, *args, **kwargs):
-    logutils.handle_error('../files/.log')
+    logutils.handle_error(cutils.get('LOGS_PATH'))
 
 @client.event
 async def on_ready():
     await setupBot(client)
-    print('Logged in as '+client.user.name+' ['+str(client.user.id)+']')
+    logger.info('Logged in as '+client.user.name+' ['+str(client.user.id)+']')
     print('------------------------------------')
 
 async def main():
