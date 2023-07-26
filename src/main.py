@@ -1,6 +1,8 @@
 import os
 import logging as log
 
+import asyncio
+
 import discord
 
 import commands.mh as _mh
@@ -40,4 +42,27 @@ async def on_ready():
     print('Logged in as '+client.user.name+' ['+str(client.user.id)+']')
     print('------------------------------------')
 
-client.run(utils.get('BOT_TOKEN'))
+async def main():
+    '''
+    Entry point, where the client attemps to authenticate and connect to
+    discord.
+    '''
+    try:
+        logger.info('starting authentication with token')
+        await client.login(utils.get('BOT_TOKEN'))
+    except discord.LoginFailure as e :
+        logger.error('Invalid token')
+        if not client.is_closed():
+            logger.info('Closing client')
+            await client.close()
+            raise e
+        return
+    
+    try:
+        await client.connect()
+    except discord.ConnectionClosed as e:
+        logger.info('Client connection closed: '+str(e.code))
+        logger.info(e.reason)
+
+# easier login
+# client.run(utils.get('BOT_TOKEN'), log_level=log.WARNING)
