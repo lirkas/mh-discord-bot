@@ -364,11 +364,11 @@ def get_date_text(
     ```
     '''
     current_datetime = datetime.datetime.now()
-    date = '{y}-{m}-{d}'.format(
+    date = date_format.format(
         d=str(current_datetime.day).zfill(2),
         m=str(current_datetime.month).zfill(2),
         y=str(current_datetime.year))   
-    time = '{h}-{m}-{s}'.format(
+    time = time_format.format(
         h=str(current_datetime.hour).zfill(2),
         m=str(current_datetime.minute).zfill(2),
         s=str(current_datetime.second).zfill(2))
