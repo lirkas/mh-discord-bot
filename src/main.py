@@ -10,6 +10,8 @@ import commands.admin as _admin
 import client.bot as cbot
 import client.utils as utils
 
+import lib.logutils as logutils
+
 
 # initialize bot and add commands
 client = cbot.Bot()
@@ -28,6 +30,9 @@ async def on_message(message: discord.Message):
     ctx = await client.get_context(message)
     await client.invoke(ctx) 
 
+@client.event
+async def on_error(event, *args, **kwargs):
+    logutils.handle_error('../files/.log')
 
 @client.event
 async def on_ready():
