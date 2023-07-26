@@ -1,4 +1,5 @@
 import logging as log
+import datetime
 
 from PIL import Image
 from PIL import Image, ImageFont, ImageDraw
@@ -30,6 +31,23 @@ class TableSegments:
         self.horiz = horiz
         self.vert = vert
 
+class Color:
+    '''
+    Defines a color using ANSI escape sequences.\n
+    Mostly used for terminals.
+    '''
+    def __init__(self, name: str, code: int):
+        self.name = name
+        self.code = code
+        self.code_start = '\033['+str(code)+'m'
+        self.code_end = '\033[0m'
+        
+    def text(self, text: str) -> str:
+        '''
+        Wraps the text to have that object's color.
+        '''
+        return self.code_start + text.replace('\b', '') + self.code_end
+
 # the default charset 
 # best compatibility
 default_tbl_d = TableSegments (
@@ -53,6 +71,16 @@ thick_tbl_d = TableSegments (
     u'\u255a',u'\u2569',u'\u255d',
     u'\u2550',u'\u2551'
 )
+
+# Basic color definitions
+grey = Color('white', 30)
+red = Color('red', 31)
+green = Color('green', 32)
+yellow = Color('yellow', 33)
+blue = Color('blue', 34)
+purple = Color('purple', 35)
+cyan = Color('cyan', 36)
+white = Color('white', 37)
 
 
 def text_table(content: list[list], row_height = 1, min_column_size = 0, column_sizes: list[int] = None,
@@ -306,3 +334,43 @@ def test_ascii_support() -> bool:
         has_support = False
 
     return has_support
+
+def cprint(color: Color, *values: object, sep=' ', end: str = '\n'):
+    '''
+    Prints text similarly to `print()`, but with a specific color.\n
+    `end` and `sep` are not colored.
+    '''
+    print(color.code_start, sep='', end='')
+    print(*values, sep=sep, end='')
+    print(color.code_end, sep='', end=end)
+
+def get_date_text(
+        date_format='{y}-{m}-{d}', 
+        time_format='{h}-{m}-{s}',
+        separator='_') -> str:
+    '''
+    Return the current date and time in a format that can be
+    used for a file name.\n
+    Accepted variables names:
+    ```
+    date_format:
+        y: year
+        m: month
+        d: day
+    time_format:
+        h: hours
+        m: minutes
+        s: seconds
+    ```
+    '''
+    current_datetime = datetime.datetime.now()
+    date = '{y}-{m}-{d}'.format(
+        d=str(current_datetime.day).zfill(2),
+        m=str(current_datetime.month).zfill(2),
+        y=str(current_datetime.year))   
+    time = '{h}-{m}-{s}'.format(
+        h=str(current_datetime.hour).zfill(2),
+        m=str(current_datetime.minute).zfill(2),
+        s=str(current_datetime.second).zfill(2))
+    
+    return date+separator+time
