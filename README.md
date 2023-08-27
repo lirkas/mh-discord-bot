@@ -49,4 +49,7 @@ tail -f output.log
 
 
 ## Contributions - Monsters Data
-* [HERE](https://github.com/lirkas/mh-discord-bot/blob/master/files/README.md)
+* [Contributors and sources](https://github.com/lirkas/mh-discord-bot/blob/master/files/README.md)
+
+## License
+This project is under the [MIT License](/LICENSE).
