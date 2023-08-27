@@ -1,0 +1,37 @@
+{
+    "name": "Copper Blangonga",
+    "game": "MHFU",
+    
+    "hitzone": {
+        "Head": {
+            "normal": [65, 70, 70, 0, 15, 5, 0, 30],
+            "stagger": 300
+        },
+        "L-Forefoot": {
+            "normal": [45, 40, 40, 0, 15, 5, 0, 15],
+            "stagger": 200
+        },
+        "R-Forefoot": {
+            "normal": [45, 40, 40, 0, 15, 5, 0, 15],
+            "stagger": 200
+        },
+        "L-Hind_Leg": {
+            "normal": [20, 20, 20, 0, 15, 5, 0, 15],
+            "stagger": 200
+        },
+        "R-Hind_Leg": {
+            "normal": [20, 20, 20, 0, 15, 5, 0, 15],
+            "stagger": 200
+        },
+        "Body": {
+            "normal": [30, 30, 30, 0, 15, 5, 0, 20],
+            "stagger": 160
+        },
+        "Tail": {
+            "normal": [50, 40, 30, 0, 15, 5, 0, 15],
+            "stagger": 600
+        }
+    },
+    "rage_m": 1.1,
+    "notes": "Attacking the Left Hind Leg carries to the Left Forefoot and vice versa."
+}

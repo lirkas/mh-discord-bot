@@ -1,0 +1,44 @@
+{
+    "name": "Kushala Daora",
+    "game": "MHFU",
+    
+    "hitzone": {
+        "Head": {
+            "normal": [50, 60, 30, 10, 5, 30, 35, 0],
+			"wind_aura": [45, 55, 30, 15, 5, 35, 40, 0],
+            "stagger": 150
+        },
+        "Stomach": {
+            "normal": [35, 50, 25, 10, 5, 15, 20, 0],
+			"wind_aura": [25, 40, 25, 5, 0, 20, 10, 0],
+            "stagger": 100
+        },
+        "Back": {
+            "normal": [20, 25, 30, 10, 5, 15, 20, 0],
+			"wind_aura": [20, 25, 20, 5, 0, 20, 10, 0],
+            "stagger": 200
+        },
+        "Wing": {
+            "normal": [20, 15, 20, 10, 5, 15, 20, 0],
+			"wind_aura": [20, 15, 20, 5, 0, 20, 10, 0],
+            "stagger": 90
+        },
+        "Forefoot": {
+            "normal": [30, 25, 20, 10, 5, 20, 20, 0],
+			"wind_aura": [25, 25, 20, 5, 0, 25, 10, 0],
+            "stagger": 180
+        },
+        "Hind_Leg": {
+            "normal": [30, 35, 25, 10, 5, 20, 30, 0],
+			"wind_aura": [30, 35, 25, 5, 0, 25, 10, 0],
+            "stagger": 180
+        },
+        "Tail": {
+            "normal": [35, 30, 40, 10, 5, 30, 30, 0],
+			"wind_aura": [35, 30, 40, 5, 0, 30, 40, 0],
+            "stagger": 180
+        }
+    },
+    "rage_m": 0.9,
+    "notes": "Attacking the Left Hind Leg carries to the Left Forefoot and vice versa."
+}

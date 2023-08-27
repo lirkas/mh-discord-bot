@@ -1,0 +1,37 @@
+{
+    "name": "Rajang",
+    "game": "MHFU",
+    
+    "hitzone": {
+        "Head": {
+            "normal": [60, 60, 60, 5, 5, 0, 0, 30],
+            "stagger": 500
+        },
+        "L-Forefoot": {
+            "normal": [45, 40, 40, 0, 5, 0, 0, 15],
+            "stagger": 350
+        },
+        "R-Forefoot": {
+            "normal": [45, 40, 40, 0, 5, 0, 0, 15],
+            "stagger": 350
+        },
+        "L-Hind_Leg": {
+            "normal": [45, 40, 40, 0, 5, 0, 0, 15],
+            "stagger": 350
+        },
+        "R-Hind_Leg": {
+            "normal": [45, 40, 40, 0, 5, 0, 0, 15],
+            "stagger": 350
+        },
+        "Body": {
+            "normal": [45, 50, 45, 0, 5, 0, 0, 15],
+            "stagger": 300
+        },
+        "Tail": {
+            "normal": [50, 40, 30, 0, 5, 0, 0, 20],
+            "stagger": 1000
+        }
+    },
+    "rage_m": 0.8,
+    "notes": "Attacking the Left Hind Leg carries to the Left Forefoot and vice versa."
+}
