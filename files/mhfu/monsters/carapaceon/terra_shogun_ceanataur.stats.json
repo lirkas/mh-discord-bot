@@ -1,0 +1,49 @@
+{
+    "name": "Terra Shogun Ceanataur",
+    "game": "MHFU",
+    
+    "hitzone": {
+        "Head": {
+            "normal": [45, 55, 35, 10, 10, 35, 0, 20],
+			"no_shell": [50, 60, 40, 10, 10, 35, 0, 20],
+            "stagger": 150
+        },
+        "Body": {
+            "normal": [35, 40, 25, 5, 5, 20, 0, 10],
+			"no_shell": [60, 50, 25, 5, 5, 20, 0, 10],
+            "stagger": 150
+        },
+        "Shell": {
+            "normal": [20, 25, 25, 0, 40, 5, 0, 0],
+			"no_shell": [0, 0, 0, 0, 0, 0, 0, 0],
+            "stagger": 200
+        },
+        "L-Pincer": {
+            "normal": [25, 30, 20, 5, 5, 20, 0, 10],
+			"no_shell": [25, 35, 20, 5, 5, 20, 0, 10],
+            "stagger": 150
+        },
+        "R-Pincer": {
+            "normal": [25, 30, 20, 5, 5, 20, 0, 10],
+			"no_shell": [25, 35, 20, 5, 5, 20, 0, 10],
+            "stagger": 100
+        },
+        "Arm": {
+            "normal": [25, 35, 25, 5, 5, 15, 0, 10],
+			"no_shell": [30, 35, 25, 5, 5, 15, 0, 10],
+            "stagger": 100
+        },
+        "L-Leg": {
+            "normal": [25, 25, 30, 5, 5, 15, 0, 10],
+			"no_shell": [35, 35, 30, 5, 5, 20, 0, 10],
+            "stagger": 200
+        },
+        "R-Leg": {
+            "normal": [25, 25, 30, 5, 5, 15, 0, 10],
+			"no_shell": [35, 35, 30, 5, 5, 20, 0, 10],
+            "stagger": 180
+        }
+    },
+    "rage_m": 1.0,
+    "notes": "While it is shell-less the damage goes on the body if you hit it behind."
+}

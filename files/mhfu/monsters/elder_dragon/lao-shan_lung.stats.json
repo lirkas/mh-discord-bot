@@ -1,0 +1,49 @@
+{
+    "name": "Lao-Shan Lung",
+    "game": "MHFU",
+    
+    "hitzone": {
+        "Head": {
+            "normal": [28, 20, 30, 20, 5, 15, 20, 5],
+            "stagger": 400
+        },
+        "Neck": {
+            "normal": [20, 20, 20, 20, 5, 15, 20, 5],
+            "stagger": 1200
+        },
+        "Belly": {
+            "normal": [55, 50, 40, 20, 5, 15, 30, 5],
+            "stagger": 1200
+        },
+        "Ridge": {
+            "normal": [10, 20, 20, 20, 5, 15, 20, 5],
+            "stagger": 300
+        },
+        "Back": {
+            "normal": [10, 20, 20, 20, 5, 15, 20, 5],
+            "stagger": 880
+        },
+        "Weak_Spot": {
+            "normal": [80, 90, 80, 50, 5, 15, 100, 5],
+            "stagger": 450
+        },
+        "Shoulder": {
+            "normal": [10, 20, 20, 20, 5, 15, 20, 5],
+            "stagger": 600
+        },
+        "Front_Leg": {
+            "normal": [32, 37, 25, 20, 5, 15, 20, 5],
+            "stagger": 600
+        },
+        "Hind_Leg": {
+            "normal": [32, 37, 25, 20, 5, 15, 20, 5],
+            "stagger": 880
+        },
+        "Tail": {
+            "normal": [10, 20, 20, 20, 5, 15, 20, 5],
+            "stagger": 880
+        }
+    },
+    "rage_m": 0.8,
+    "notes": "Attacking the Neck carries to the Belly and vice versa."
+}

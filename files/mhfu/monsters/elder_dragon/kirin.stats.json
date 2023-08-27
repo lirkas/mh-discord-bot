@@ -1,0 +1,21 @@
+{
+    "name": "Kirin",
+    "game": "MHFU",
+    
+    "hitzone": {
+        "Horn": {
+            "normal": [90, 100, 65, 5, 5, 0, 5, 5],
+            "stagger": 200
+        },
+        "Head": {
+            "normal": [45, 40, 70, 15, 15, 0, 5, 10],
+            "stagger": 200
+        },
+        "Body": {
+            "normal": [20, 25, 20, 10, 10, 0, 5, 10],
+            "stagger": 200
+        }
+    },
+    "rage_m": 1.0,
+    "notes": ""
+}

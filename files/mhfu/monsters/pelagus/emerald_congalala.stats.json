@@ -1,0 +1,44 @@
+{
+    "name": "Emerald Congalala",
+    "game": "MHFU",
+    
+    "hitzone": {
+        "Head": {
+            "normal": [30, 50, 60, 5, 10, 10, 0, 15],
+			"stomach_out": [30, 50, 60, 5, 10, 10, 0, 15],
+            "stagger": 200
+        },
+        "L-Forefoot": {
+            "normal": [30, 25, 20, 5, 10, 10, 0, 15],
+			"stomach_out": [30, 25, 15, 5, 10, 10, 0, 15],
+            "stagger": 150
+        },
+        "R-Forefoot": {
+            "normal": [30, 25, 20, 5, 10, 10, 0, 15],
+			"stomach_out": [30, 25, 15, 5, 10, 10, 0, 15],
+            "stagger": 180
+        },
+        "L-Hind_Leg": {
+            "normal": [30, 25, 20, 5, 10, 10, 0, 15],
+			"stomach_out": [30, 25, 15, 5, 10, 10, 0, 15],
+            "stagger": 150
+        },
+        "R-Hind_Leg": {
+            "normal": [30, 25, 20, 5, 10, 10, 0, 15],
+			"stomach_out": [30, 25, 15, 5, 10, 10, 0, 15],
+            "stagger": 180
+        },
+        "Body": {
+            "normal": [40, 40, 40, 5, 10, 10, 0, 18],
+			"stomach_out": [5, 5, 5, 0, 10, 0, 0, 18],
+            "stagger": 150
+        },
+        "Tail": {
+            "normal": [50, 30, 35, 5, 10, 10, 0, 40],
+			"stomach_out": [50, 30, 25, 5, 10, 10, 0, 40],
+            "stagger": 140
+        }
+    },
+    "rage_m": 0.9,
+    "notes": "Attacking the Left Hind Leg carries to the Left Forefoot and vice versa."
+}

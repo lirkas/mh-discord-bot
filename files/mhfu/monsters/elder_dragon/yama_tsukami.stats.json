@@ -1,0 +1,37 @@
+{
+    "name": "Yama Tsukami",
+    "game": "MHFU",
+    
+    "hitzone": {
+        "Head": {
+            "normal": [55, 60, 35, 0, 0, 0, 30, 35],
+            "stagger": 400
+        },
+        "Eye": {
+            "normal": [90, 90, 60, 5, 0, 0, 20, 25],
+            "stagger": 500
+        },
+        "Mouth": {
+            "normal": [80, 70, 90, 0, 10, 0, 50, 40],
+            "stagger": 400
+        },
+        "Back": {
+            "normal": [50, 60, 40, 0, 0, 0, 25, 20],
+            "stagger": 700
+        },
+        "Belly": {
+            "normal": [65, 60, 30, 0, 0, 0, 30, 25],
+            "stagger": 800
+        },
+        "Feeler": {
+            "normal": [55, 50, 25, 0, 0, 0, 20, 30],
+            "stagger": 400
+        },
+        "Tentacle": {
+            "normal": [50, 50, 30, 0, 0, 0, 30, 30],
+            "stagger": 1000
+        }
+    },
+    "rage_m": 0.8,
+    "notes": ""
+}

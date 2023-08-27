@@ -1,0 +1,44 @@
+{
+    "name": "Akantor",
+    "game": "MHFU",
+    
+    "hitzone": {
+        "Head": {
+            "normal": [50, 60, 40, 0, 5, 20, 40, 0],
+			"broken_stomach": [50, 60, 30, 0, 20, 20, 20, 0],
+            "stagger": 600
+        },
+        "Neck": {
+            "normal": [35, 50, 25, 0, 5, 15, 20, 0],
+			"broken_stomach": [35, 50, 25, 0, 15, 15, 10, 0],
+            "stagger": 240
+        },
+        "Back": {
+            "normal": [20, 25, 30, 10, 5, 15, 20, 0],
+			"broken_stomach": [30, 30, 40, 0, 15, 15, 10, 0],
+            "stagger": 240
+        },
+        "Stomach": {
+            "normal": [35, 50, 30, 0, 5, 15, 20, 0],
+			"broken_stomach": [50, 60, 25, 15, 25, 40, 10, 0],
+            "stagger": 600
+        },
+        "Tail": {
+            "normal": [30, 35, 40, 0, 5, 30, 40, 0],
+			"broken_stomach": [30, 30, 20, 0, 10, 30, 10, 0],
+            "stagger": 400
+        },
+        "Forefoot": {
+            "normal": [30, 35, 20, 0, 5, 15, 20, 0],
+			"broken_stomach": [30, 35, 25, 0, 10, 15, 15, 0],
+            "stagger": 300
+        },
+        "Hind_Leg": {
+            "normal": [30, 30, 25, 0, 5, 15, 30, 0],
+			"broken_stomach": [20, 15, 20, 0, 10, 15, 10, 0],
+            "stagger": 250
+        }
+    },
+    "rage_m": 0.8,
+    "notes": "Attacking the Neck carries to the Back and vice versa."
+}

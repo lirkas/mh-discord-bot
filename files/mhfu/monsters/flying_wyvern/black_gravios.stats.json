@@ -1,0 +1,44 @@
+{
+    "name": "Black Gravios",
+    "game": "MHFU",
+    
+    "hitzone": {
+        "Head": {
+            "normal": [20, 30, 20, 0, 15, 5, 0, 0],
+			"broken_stomach": [20, 30, 20, 0, 15, 5, 0, 0],
+            "stagger": 120
+        },
+        "Neck": {
+            "normal": [30, 30, 20, 0, 30, 5, 0, 0],
+			"broken_stomach": [30, 30, 20, 0, 30, 5, 0, 0],
+            "stagger": 120
+        },
+        "Back": {
+            "normal": [20, 30, 20, 0, 25, 5, 0, 0],
+			"broken_stomach": [20, 30, 20, 0, 25, 5, 0, 0],
+            "stagger": 240
+        },
+        "Stomach": {
+            "normal": [20, 25, 20, 0, 40, 5, 0, 0],
+			"broken_stomach": [80, 80, 75, 10, 90, 5, 30, 0],
+            "stagger": 240
+        },
+        "Tail": {
+            "normal": [25, 30, 20, 0, 30, 5, 0, 0],
+			"broken_stomach": [25, 30, 20, 0, 30, 5, 0, 0],
+            "stagger": 200
+        },
+        "Wing": {
+            "normal": [20, 20, 20, 0, 20, 5, 0, 0],
+			"broken_stomach": [20, 20, 20, 0, 20, 5, 0, 0],
+            "stagger": 120
+        },
+        "Foot": {
+            "normal": [15, 25, 20, 0, 30, 5, 0, 0],
+			"broken_stomach": [15, 25, 20, 0, 30, 5, 0, 0],
+            "stagger": 160
+        }
+    },
+    "rage_m": 0.8,
+    "notes": ""
+}

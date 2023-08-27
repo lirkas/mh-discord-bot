@@ -1,0 +1,44 @@
+{
+    "name": "Chameleos",
+    "game": "MHFU",
+    
+    "hitzone": {
+        "Head": {
+            "normal": [50, 45, 40, 35, 0, 20, 35, 0],
+			"invisible": [50, 50, 50, 35, 0, 20, 35, 0],
+            "stagger": 150
+        },
+        "Stomach": {
+            "normal": [35, 25, 15, 35, 0, 15, 20, 5],
+			"invisible": [30, 25, 15, 25, 0, 15, 20, 5],
+            "stagger": 200
+        },
+        "Back": {
+            "normal": [25, 15, 15, 25, 0, 15, 25, 0],
+			"invisible": [20, 15, 10, 15, 0, 15, 25, 0],
+            "stagger": 200
+        },
+        "Wing": {
+            "normal": [20, 10, 15, 10, 0, 15, 15, 0],
+			"invisible": [10, 10, 15, 10, 0, 5, 15, 0],
+            "stagger": 90
+        },
+        "Forefoot": {
+            "normal": [20, 20, 15, 15, 0, 20, 10, 0],
+			"invisible": [10, 10, 15, 10, 0, 10, 10, 0],
+            "stagger": 180
+        },
+        "Hind_Leg": {
+            "normal": [30, 25, 25, 0, 25, 5, 30, 0],
+			"invisible": [25, 20, 15, 15, 0, 15, 25, 0],
+            "stagger": 180
+        },
+        "Tail": {
+            "normal": [20, 15, 15, 10, 0, 10, 5, 0],
+			"invisible": [15, 15, 15, 10, 0, 10, 5, 0],
+            "stagger": 200
+        }
+    },
+    "rage_m": 1.0,
+    "notes": "Attacking the Left Hind Leg carries to the Left Forefoot and vice versa."
+}
