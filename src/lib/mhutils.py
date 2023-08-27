@@ -1239,8 +1239,8 @@ def build_hitzone_table_data(stats, monster_mode=0, padding=0):
     headers.append(dmg_type_fire)
     headers.append(dmg_type_water)
     headers.append(dmg_type_thunder)
-    headers.append(dmg_type_ice)
     headers.append(dmg_type_dragon)
+    headers.append(dmg_type_ice)
     headers.append('')
     headers.append(dmg_stagger)
 
