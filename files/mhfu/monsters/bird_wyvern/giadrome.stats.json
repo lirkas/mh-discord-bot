@@ -1,0 +1,13 @@
+{
+    "name": "Giadrome",
+    "game": "MHFU",
+    
+    "hitzone": {
+        "Body": {
+            "normal": [100, 100, 100, 60, 30, 30, 10, 10],
+            "stagger": 80
+        }
+    },
+    "rage_m": 1.0,
+    "notes": ""
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Crimson Fatalis",
+    "game": "MHFU",
+    
+    "hitzone": {
+        "Head": {
+            "normal": [50, 45, 45, 15, 5, 5, 80, 5],
+			"armor": [10, 10, 10, 10, 5, 5, 10, 5],
+            "stagger": 500
+        },
+        "Neck": {
+            "normal": [30, 25, 30, 15, 5, 5, 50, 5],
+			"armor": [10, 10, 10, 10, 5, 5, 10, 5],
+            "stagger": 250
+        },
+        "Tail": {
+            "normal": [10, 20, 20, 15, 5, 5, 10, 5],
+			"armor": [10, 10, 10, 10, 5, 5, 10, 5],
+            "stagger": 180
+        },
+        "Body": {
+            "normal": [30, 25, 25, 15, 5, 5, 30, 5],
+			"armor": [10, 10, 10, 10, 5, 5, 10, 5],
+            "stagger": 180
+        },
+        "Chest": {
+            "normal": [30, 15, 20, 15, 5, 5, 10, 5],
+			"armor": [10, 10, 10, 10, 5, 5, 10, 5],
+            "stagger": 300
+        },
+        "Wing": {
+            "normal": [30, 25, 20, 15, 5, 5, 10, 5],
+			"armor": [10, 10, 10, 10, 5, 5, 10, 5],
+            "stagger": 240
+        },
+        "Left_Arm": {
+            "normal": [20, 20, 20, 15, 5, 5, 20, 5],
+			"armor": [10, 10, 10, 10, 5, 5, 10, 5],
+            "stagger": 200
+        },
+        "Right_Arm": {
+            "normal": [20, 20, 20, 15, 5, 5, 20, 5],
+			"armor": [10, 10, 10, 10, 5, 5, 10, 5],
+            "stagger": 200
+        },
+        "Left_Leg": {
+            "normal": [20, 20, 20, 15, 5, 5, 20, 5],
+			"armor": [10, 10, 10, 10, 5, 5, 10, 5],
+            "stagger": 200
+        },
+        "Right_Leg": {
+            "normal": [20, 20, 20, 15, 5, 5, 20, 5],
+			"armor": [10, 10, 10, 10, 5, 5, 10, 5],
+            "stagger": 200
+        }
+    },
+    "rage_m": 0.8,
+    "notes": "Attacking the Left_Arm carries to the Left_Leg and vice versa. Enters armor mode when enraged."
+}

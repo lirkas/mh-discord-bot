@@ -1,0 +1,49 @@
+{
+    "name": "Fatalis",
+    "game": "MHFU",
+    
+    "hitzone": {
+        "Head": {
+            "normal": [80, 75, 45, 15, 5, 5, 80, 10],
+            "stagger": 500
+        },
+        "Neck": {
+            "normal": [50, 55, 30, 15, 5, 5, 50, 10],
+            "stagger": 250
+        },
+        "Tail": {
+            "normal": [10, 20, 20, 15, 5, 5, 10, 10],
+            "stagger": 180
+        },
+        "Body": {
+            "normal": [30, 25, 25, 15, 5, 5, 30, 10],
+            "stagger": 180
+        },
+        "Chest": {
+            "normal": [30, 15, 20, 15, 5, 5, 10, 10],
+            "stagger": 300
+        },
+        "Wing": {
+            "normal": [30, 25, 20, 15, 5, 5, 10, 10],
+            "stagger": 240
+        },
+        "Left_Arm": {
+            "normal": [20, 20, 20, 15, 5, 5, 20, 10],
+            "stagger": 200
+        },
+        "Right_Arm": {
+            "normal": [20, 20, 20, 15, 5, 5, 20, 10],
+            "stagger": 200
+        },
+        "Left_Leg": {
+            "normal": [20, 20, 20, 15, 5, 5, 20, 10],
+            "stagger": 200
+        },
+        "Right_Leg": {
+            "normal": [20, 20, 20, 15, 5, 5, 20, 10],
+            "stagger": 200
+        }
+    },
+    "rage_m": 0.7,
+    "notes": "Attacking the Left_Arm carries to the Left_Leg and vice versa."
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Gendrome",
+    "game": "MHFU",
+    
+    "hitzone": {
+        "Body": {
+            "normal": [90, 90, 100, 35, 10, 40, 10, 50],
+            "stagger": 180
+        }
+    },
+    "rage_m": 1.0,
+    "notes": ""
+}

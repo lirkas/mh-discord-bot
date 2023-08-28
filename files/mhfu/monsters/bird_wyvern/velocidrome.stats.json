@@ -1,0 +1,13 @@
+{
+    "name": "Velocidrome",
+    "game": "MHFU",
+    
+    "hitzone": {
+        "Body": {
+            "normal": [100, 100, 100, 50, 50, 50, 10, 60],
+            "stagger": 110
+        }
+    },
+    "rage_m": 1.0,
+    "notes": ""
+}

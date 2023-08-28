@@ -1,0 +1,13 @@
+{
+    "name": "King Shakalaka",
+    "game": "MHFU",
+    
+    "hitzone": {
+        "Body": {
+            "normal": [40, 40, 35, 5, 10, 10, 10, 20],
+            "stagger": 240
+        }
+    },
+    "rage_m": 1.0,
+    "notes": ""
+}
