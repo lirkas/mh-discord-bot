@@ -1,0 +1,13 @@
+{
+    "name": "Vespoid Queen",
+    "game": "MHFU",
+    
+    "hitzone": {
+        "Body": {
+            "normal": [100, 100, 100, 60, 40, 10, 0, 40],
+            "stagger": 400
+        }
+    },
+    "rage_m": 0.8,
+    "notes": ""
+}

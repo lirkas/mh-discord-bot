@@ -1,0 +1,37 @@
+{
+    "name": "Shen Gaoren",
+    "game": "MHFU",
+    
+    "hitzone": {
+        "Head": {
+            "normal": [38, 40, 40, 20, 5, 20, 20, 5],
+            "stagger": 400
+        },
+        "Body": {
+            "normal": [40, 45, 30, 15, 5, 15, 30, 5],
+            "stagger": 800
+        },
+        "Shell": {
+            "normal": [10, 20, 20, 20, 5, 15, 20, 5],
+            "stagger": 1000
+        },
+        "Leg": {
+            "normal": [32, 37, 25, 20, 5, 15, 20, 5],
+            "stagger": 500
+        },
+        "Claw": {
+            "normal": [10, 20, 20, 20, 5, 15, 20, 5],
+            "stagger": 880
+        },
+        "Arm": {
+            "normal": [20, 20, 20, 20, 5, 15, 20, 5],
+            "stagger": 880
+        },
+        "Weak_Spot": {
+            "normal": [80, 90, 80, 20, 5, 15, 70, 5],
+            "stagger": 800
+        }
+    },
+    "rage_m": 0.8,
+    "notes": "Attacking the Weak Spot carries to the Body and vice versa. Attacking the Claw carries to the Arm and vice versa. The weak spot is located between his body and shell"
+}

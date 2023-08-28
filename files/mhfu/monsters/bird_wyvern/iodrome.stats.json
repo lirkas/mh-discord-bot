@@ -1,0 +1,13 @@
+{
+    "name": "Iodrome",
+    "game": "MHFU",
+    
+    "hitzone": {
+        "Body": {
+            "normal": [80, 80, 90, 20, 30, 30, 10, 10],
+            "stagger": 220
+        }
+    },
+    "rage_m": 1.0,
+    "notes": ""
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Bulldrome",
+    "game": "MHFU",
+    
+    "hitzone": {
+        "Body": {
+            "normal": [80, 70, 80, 50, 50, 120, 10, 40],
+            "stagger": 120
+        }
+    },
+    "rage_m": 1.0,
+    "notes": ""
+}
