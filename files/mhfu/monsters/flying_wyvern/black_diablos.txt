@@ -29,28 +29,32 @@
 ☆ Black Diablos - MHFU High-Rank
  
 1. Body Carves (x3)
--  Black Blos Shell (63%)
--  Blos Fang (30%)
--  Black Blos Spine (7%)
+-  Black Blos Cpc (56%)
+-  Blos Fang (20%)
+-  Black Blos Shell (10%)
+-  Blk Blos Thracic (7%)
+-  Wyvern Stone (7%)
 
 2. Tail Carves (x1)
--  Black Blos Tail (60%)
--  Black Blos Shell (40%)
+-  Black Blos Tail (64%)
+-  Black Blos Cpc (30%)
+-  Wyvern Stone (6%)
  
 3. Capture Rewards
--  Black Blos Shell x1 (40%)
--  Blos Fang x3 (39%)
--  Black Blos Spine x1 (11%)
--  Black Blos Tail x1 (10%)
+-  Black Blos Cpc x1 (57%)
+-  Blos Fang x3 (27%)
+-  Blk Blos Thracic x1 (11%)
+-  Black Blos Tail x1 (5%)
 
 4. Shiny Drops
--  Wyvern Tears (95%)
--  Black Blos Spine (5%)
+-  Wyvern Tears (48%)
+-  Wyvern Sobs (47%)
+-  Blk Blos Thracic (5%)
 
 5. Break Horns
--  TwstBlkBlosHrn x1 (69%)
--  Twisted Horn x2 (16%)
--  Majestic Horn x1 (15%)
+-  TwstBlkBlosHrn x1 (50%)
+-  Majestic Horn x2 (32%)
+-  Majestic Horn x1 (18%)
 
 
 
